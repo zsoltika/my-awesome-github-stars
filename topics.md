@@ -514,6 +514,7 @@
 
 ## css 
 
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
@@ -625,6 +626,7 @@
 
 ## documentation 
 
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
@@ -953,6 +955,7 @@
 
 ## html 
 
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -972,6 +975,7 @@
 
 ## http 
 
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [jstrieb/quickserv](https://github.com/jstrieb/quickserv) - Dangerously user-friendly web server for quick prototyping and hackathons
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code. :zap:
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
@@ -983,6 +987,7 @@
 
 ## image-processing 
 
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [LeviBorodenko/primify](https://github.com/LeviBorodenko/primify) - Embed any image into a prime number.
 - [ern0/shrinkshot](https://github.com/ern0/shrinkshot) - ✂ CLI tool for shrink images by removing empty regions (best use case: screenshot)
 
@@ -1003,6 +1008,7 @@
 
 ## javascript 
 
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
 - [JohannesNE/literature-clock](https://github.com/JohannesNE/literature-clock) - Clock using time quotes from the literature, based on the work of Jaap Meijers
@@ -1089,6 +1095,7 @@
 
 ## learning 
 
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
 - [alexmojaki/futurecoder](https://github.com/alexmojaki/futurecoder) - 100% free and interactive Python course for beginners
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
@@ -1344,6 +1351,8 @@
 
 ## others 
 
+- [Frostforus/solaris](https://github.com/Frostforus/solaris) - 
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [guidoism/wildwood](https://github.com/guidoism/wildwood) - Layout of an existing house using measurements and math (and Metapost)
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [bigskysoftware/grugbrain.dev](https://github.com/bigskysoftware/grugbrain.dev) - The Grug Brained Developer
@@ -2115,6 +2124,7 @@
 
 ## python 
 
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [mastotron/mastotron](https://github.com/mastotron/mastotron) - A different interface to mastodon, and other experiments in social media
 - [cunnane/xloil](https://github.com/cunnane/xloil) - xlOil provides framework for interacting with Excel in different programming languages (python & C++ currently)
 - [kuzmoyev/google-calendar-simple-api](https://github.com/kuzmoyev/google-calendar-simple-api) - Pythonic wrapper for the Google Calendar API
