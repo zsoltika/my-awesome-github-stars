@@ -1860,7 +1860,7 @@
 - [scrapinghub/portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy
 - [tinypigdotcom/stabby](https://github.com/tinypigdotcom/stabby) - stabby is an alternative to alt tab madness
 - [themattrix/sed2048](https://github.com/themattrix/sed2048) - The 2048 game implemented in sed
-- [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024)
+- [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://web.archive.org/web/20140328011720/https://play.google.com/store/apps/details?id=com.veewo.a1024)
 - [gcmt/wildfire.vim](https://github.com/gcmt/wildfire.vim) - Smart selection of the closest text object
 - [prasmussen/chrome-cli](https://github.com/prasmussen/chrome-cli) - Control Google Chrome from the command line
 - [mbbill/undotree](https://github.com/mbbill/undotree) - The undo history visualizer for VIM
