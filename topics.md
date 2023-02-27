@@ -1886,7 +1886,7 @@
 - [vim-scripts/vim-pipe](https://github.com/vim-scripts/vim-pipe) - Send a buffer to a shell command & quickly see the result.
 - [edwtjo/evil-org-mode](https://github.com/edwtjo/evil-org-mode) - Supplemental evil-mode keybindings to emacs org-mode
 - [krisajenkins/EvilBegins](https://github.com/krisajenkins/EvilBegins) - Vim user? Emacs curious? Try this...
-- [worlduniting/bookshop](https://github.com/worlduniting/bookshop) - bookShop is a publishing framework for html-to-pdf/(e)book toolchain happiness and sustainable productivity.
+- [worlduniting/old-bookshop](https://github.com/worlduniting/old-bookshop) - bookShop is a publishing framework for html-to-pdf/(e)book toolchain happiness and sustainable productivity.
 - [ivyl/vim-bling](https://github.com/ivyl/vim-bling) - blink current search match
 - [vim-scripts/fountain.vim](https://github.com/vim-scripts/fountain.vim) - Syntax for Fountain screenplay files
 - [apenwarr/redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make.  An implementation of djb's redo.
