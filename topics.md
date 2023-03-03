@@ -164,6 +164,7 @@
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [wagtail](#wagtail)
 - [web](#web)
 - [webapp](#webapp)
@@ -2034,6 +2035,7 @@
 - [zsoltika/modern_perl_book](https://github.com/zsoltika/modern_perl_book) - Modern Perl: the book
 - [hsitz/VimOrganizer](https://github.com/hsitz/VimOrganizer) - VimOrganizer is partly a clone of Emacs' Org-mode, and partly a front end to Org-mode itself.  Do Org in Vim.
 - [functional-koans/clojure-koans](https://github.com/functional-koans/clojure-koans) - A set of exercises for learning Clojure
+- [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 - [cagatay/Evolution-9](https://github.com/cagatay/Evolution-9) - Music composing using genetic programming and neural networks
 - [mhl/guardian-for-kindle](https://github.com/mhl/guardian-for-kindle) - A script to generate an edition of the Guardian for reading on the Amazon Kindle using the Guardian Open Platform
 - [bitly/data_hacks](https://github.com/bitly/data_hacks) - Command line utilities for data analysis
@@ -2685,6 +2687,10 @@
 
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
+
+## vuejs 
+
+- [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 
 ## wagtail 
 
