@@ -873,6 +873,7 @@
 
 ## Python 
 
+- [hodgesmr/mastodon_digest](https://github.com/hodgesmr/mastodon_digest) - A Python script that aggregates recent popular posts from your Mastodon timeline
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [kuzmoyev/google-calendar-simple-api](https://github.com/kuzmoyev/google-calendar-simple-api) - Pythonic wrapper for the Google Calendar API
 - [nteract/papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
@@ -1181,7 +1182,7 @@
 - [matestack/matestack-ui-core](https://github.com/matestack/matestack-ui-core) - Component based web UIs in pure Ruby for Rails. Boost your productivity & easily create component based web UIs in pure Ruby.
 - [zombocom/rundoc](https://github.com/zombocom/rundoc) - RunDOC generates documentation by running scripts and embedding their results in the doc
 - [shoes/shoes4](https://github.com/shoes/shoes4) - Shoes 4 : the next version of Shoes
-- [FreedomBen/awk-hack-the-planet](https://github.com/FreedomBen/awk-hack-the-planet) - Source code repo for Ben Porter (FreedomBen)'s talk at Linux Fest Northwest 2019 and 2020
+- [FreedomBen/awk-hack-the-planet](https://github.com/FreedomBen/awk-hack-the-planet) - Source code repo for Ben Porter (FreedomBen)'s free course on Awk (originally a talk at Linux Fest Northwest 2019 and 2020)
 - [braintree/runbook](https://github.com/braintree/runbook) - A framework for gradual system automation
 - [cbbrowne/tpp](https://github.com/cbbrowne/tpp) - Text Powerpoint
 - [softcover/softcover](https://github.com/softcover/softcover) - CLI for book generation, building, and publishing to softcover.io
