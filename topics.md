@@ -164,7 +164,6 @@
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
-- [vuejs](#vuejs)
 - [wagtail](#wagtail)
 - [web](#web)
 - [webapp](#webapp)
@@ -1358,6 +1357,7 @@
 
 ## others 
 
+- [hodgesmr/mastodon_digest](https://github.com/hodgesmr/mastodon_digest) - A Python script that aggregates recent popular posts from your Mastodon timeline
 - [ldelossa/nvim-ide](https://github.com/ldelossa/nvim-ide) - A full featured IDE layer for Neovim. Heavily inspired by VSCode.
 - [zsviczian/excalibrain](https://github.com/zsviczian/excalibrain) - A graph view to navigate your Obsidian vault
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
@@ -1552,7 +1552,7 @@
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [zyedidia/Literate](https://github.com/zyedidia/Literate) - A literate programming tool for any language
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
-- [FreedomBen/awk-hack-the-planet](https://github.com/FreedomBen/awk-hack-the-planet) - Source code repo for Ben Porter (FreedomBen)'s talk at Linux Fest Northwest 2019 and 2020
+- [FreedomBen/awk-hack-the-planet](https://github.com/FreedomBen/awk-hack-the-planet) - Source code repo for Ben Porter (FreedomBen)'s free course on Awk (originally a talk at Linux Fest Northwest 2019 and 2020)
 - [ColonelBuendia/rgpipe](https://github.com/ColonelBuendia/rgpipe) - lesspipe for ripgrep for common new filetypes using few dependencies
 - [dropbox/pyannotate](https://github.com/dropbox/pyannotate) - Auto-generate PEP-484 annotations
 - [dibsonthis/Keywordify](https://github.com/dibsonthis/Keywordify) - Keywordify is a tool that lets you create keywords and assign them to either text or Python functions.
@@ -2687,10 +2687,6 @@
 
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-
-## vuejs 
-
-- [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 
 ## wagtail 
 
