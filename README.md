@@ -24,6 +24,7 @@
 - [Fennel](#fennel)
 - [GAMS](#gams)
 - [Go](#go)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Java](#java)
@@ -459,6 +460,10 @@
 - [laurent22/massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
 - [mindreframer/golang-stuff](https://github.com/mindreframer/golang-stuff) - interesting go libs
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
+
+## HCL 
+
+- [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers.com Public
 
 ## HTML 
 
