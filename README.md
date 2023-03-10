@@ -463,6 +463,7 @@
 
 ## HCL 
 
+- [codeaprendiz/learn-devops](https://github.com/codeaprendiz/learn-devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
 - [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers.com Public
 
 ## HTML 
@@ -722,6 +723,7 @@
 
 ## Others 
 
+- [Leo-G/devopswiki](https://github.com/Leo-G/devopswiki) - please refer to the datascience wiki
 - [guidoism/wildwood](https://github.com/guidoism/wildwood) - Layout of an existing house using measurements and math (and Metapost)
 - [oroszgy/awesome-hungarian-nlp](https://github.com/oroszgy/awesome-hungarian-nlp) - A curated list of NLP resources for Hungarian
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
