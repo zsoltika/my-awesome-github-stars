@@ -948,7 +948,7 @@
 - [rr-/pq-cli](https://github.com/rr-/pq-cli) - Progress Quest: the CLI edition
 - [k2bd/action-python-poetry](https://github.com/k2bd/action-python-poetry) - Template repo to quickly make a tested and documented GitHub action in Python with Poetry
 - [sanic-org/tracerite](https://github.com/sanic-org/tracerite) - Tracebacks for Humans (in Jupyter notebooks)
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
+- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
 - [beancount/smart_importer](https://github.com/beancount/smart_importer) - Augment Beancount importers with machine learning functionality.
 - [yangman946/WallPaperChanger](https://github.com/yangman946/WallPaperChanger) - Changes your desktop wallpaper based on the weather.
 - [GoogleCloudPlatform/professional-services-data-validator](https://github.com/GoogleCloudPlatform/professional-services-data-validator) - Utility to compare data between homogeneous or heterogeneous environments to ensure source and target tables match
