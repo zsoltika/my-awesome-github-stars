@@ -197,7 +197,6 @@
 - [jez/tufte-pandoc-css](https://github.com/jez/tufte-pandoc-css) - Starter files for using Pandoc Markdown with Tufte CSS
 - [alysbrooks/iris-tufte](https://github.com/alysbrooks/iris-tufte) - My modifications to the Iris theme.
 - [eralpkaraduman/cv](https://github.com/eralpkaraduman/cv) - My CV
-- [frioux/blog](https://github.com/frioux/blog) - My blog
 - [vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
 - [rolfschr/GSWL-book](https://github.com/rolfschr/GSWL-book) - This repository contains the content of the book Getting Started With Ledger.
 - [caiorss/org-wiki](https://github.com/caiorss/org-wiki) - Wiki for Emacs org-mode built on top of Emacs org-mode.
@@ -1471,6 +1470,7 @@
 - [wellle/context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents
 - [arp242/gopher.vim](https://github.com/arp242/gopher.vim) - A Vim plugin for the Go programming language
 - [tpope/vim-fireplace](https://github.com/tpope/vim-fireplace) - fireplace.vim: Clojure REPL support
+- [frioux/blog](https://github.com/frioux/blog) - My blog
 - [jarolrod/vim-python-ide](https://github.com/jarolrod/vim-python-ide) - Python development config
 - [johngrib/vim-game-code-break](https://github.com/johngrib/vim-game-code-break) - Block-breaking game in vim 8.0
 - [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
