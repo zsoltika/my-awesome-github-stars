@@ -611,7 +611,6 @@
 
 ## design 
 
-- [slashformotion/hugo-tufte](https://github.com/slashformotion/hugo-tufte) - Content centric Hugo blogging theme styled with Tufte-Css
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## devops 
@@ -1529,6 +1528,7 @@
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [jesselpalmer/the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist) - Books for people who are or aspire to manage/lead team(s) of software engineers
 - [GoogleCloudPlatform/professional-services-data-validator](https://github.com/GoogleCloudPlatform/professional-services-data-validator) - Utility to compare data between homogeneous or heterogeneous environments to ensure source and target tables match
+- [slashformotion/hugo-tufte](https://github.com/slashformotion/hugo-tufte) - pls use https://github.com/loikein/hugo-tufte
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal
 - [rr-tw5/rr-tw5.github.io](https://github.com/rr-tw5/rr-tw5.github.io) - A Roam Research Styled TiddlyWiki
