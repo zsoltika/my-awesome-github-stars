@@ -157,6 +157,7 @@
 
 ## C++ 
 
+- [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [cunnane/xloil](https://github.com/cunnane/xloil) - xlOil provides framework for interacting with Excel in different programming languages (python & C++ currently)
 - [GollyGang/ready](https://github.com/GollyGang/ready) - A cross-platform implementation of various reaction-diffusion systems.
 - [ice-wm/icewm](https://github.com/ice-wm/icewm) - IceWM releases only, see Wiki
