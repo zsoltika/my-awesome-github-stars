@@ -205,7 +205,7 @@
 - [limist/literate-programming-examples](https://github.com/limist/literate-programming-examples) - A collection of literate programming examples using Emacs Org mode; these examples are directly usable (copy and start hacking), and/or can serve as educational literate programs.  Clojure will be the
 - [thi-ng/org-spec](https://github.com/thi-ng/org-spec) - Org-mode skeleton for technical specifications & HTML theme
 - [emacs-china/EGO](https://github.com/emacs-china/EGO) - EGO is a static site generator that depends on Emacs, Git and Org-mode.
-- [fniessen/org-html-themes](https://github.com/fniessen/org-html-themes) - How to export Org mode files into awesome HTML in 2 minutes
+- [fniessen/org-html-themes](https://github.com/fniessen/org-html-themes) - Transform your Org mode files into stunning HTML documents in minutes with our Org mode HTML theme. Elevate your productivity and impress your readers! #orgmode #html #theme #productivity #design
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [arbelh/HalfStyle](https://github.com/arbelh/HalfStyle) - Style Half of a Character by CSS
 - [caiorss/Emacs-Elisp-Programming](https://github.com/caiorss/Emacs-Elisp-Programming) - Tutorial about programming Elisp and Emacs text editor customization.
@@ -340,7 +340,7 @@
 - [wasamasa/dotemacs](https://github.com/wasamasa/dotemacs) - Literate Emacs configuration
 - [sensorflo/adoc-mode](https://github.com/sensorflo/adoc-mode) - A major-mode for editing AsciiDoc files in Emacs
 - [redguardtoo/evil-matchit](https://github.com/redguardtoo/evil-matchit) - Vim matchit ported into Emacs
-- [fniessen/orgmk](https://github.com/fniessen/orgmk) - Automate export (PDF, HTML, etc.) of Org documents
+- [fniessen/orgmk](https://github.com/fniessen/orgmk) - Streamline your Org document exports to PDF, HTML, DOC, and more with OrgMk. Simplify document compilation and enhance productivity. #orgmode #productivity #automation
 - [vermiculus/sx.el](https://github.com/vermiculus/sx.el) - Stack Exchange for Emacs
 - [kai2nenobu/guide-key](https://github.com/kai2nenobu/guide-key) - Guide following keys to an input key sequence automatically and dynamically in Emacs.
 - [grettke/home](https://github.com/grettke/home) - 
@@ -1306,7 +1306,7 @@
 - [ppeetteerrs/obsidian-zola](https://github.com/ppeetteerrs/obsidian-zola) - A no-brainer solution to turning your Obsidian PKM into a Zola site.
 - [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
 - [slashformotion/hugo-tufte](https://github.com/slashformotion/hugo-tufte) - pls use https://github.com/loikein/hugo-tufte
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN! 创建在线课程，学术简历或初创网站。#OpenScience
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 创建在线课程，学术简历或初创网站。#OpenScience
 - [lumenwrites/nulis](https://github.com/lumenwrites/nulis) - Mind-mapping software that helps writers collect and organize their knowledge, develop their ideas. Built with React, Redux, Node.js, hosted on Digital Ocean.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
