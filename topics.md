@@ -216,7 +216,7 @@
 
 ## artificial-intelligence 
 
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
 
 ## atom 
@@ -522,7 +522,7 @@
 
 ## cryptocurrency 
 
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 
 ## csharp 
 
@@ -735,7 +735,7 @@
 
 ## finance 
 
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 
 ## firebase 
 
@@ -1231,9 +1231,10 @@
 
 - [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
+- [huspacy/huspacy](https://github.com/huspacy/huspacy) - HuSpaCy: industrial-strength Hungarian natural language processing
 - [ml-tooling/opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
 - [ank0409/Ditching-Excel-for-Python](https://github.com/ank0409/Ditching-Excel-for-Python) - Functionalities in Excel translated to Python
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [vijishmadhavan/ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
 - [jbesomi/texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero.
 - [huggingface/knockknock](https://github.com/huggingface/knockknock) - 🚪✊Knock Knock: Get notified when your training ends with only two additional lines of code
@@ -2240,6 +2241,7 @@
 - [what-the-python/wtpython](https://github.com/what-the-python/wtpython) - Automatically find solutions when your Python code encounters an issue.
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 - [alan-turing-institute/ReadabiliPy](https://github.com/alan-turing-institute/ReadabiliPy) - A simple HTML content extractor in Python. Can be run as a wrapper for Mozilla's Readability.js package or in pure-python mode.
+- [huspacy/huspacy](https://github.com/huspacy/huspacy) - HuSpaCy: industrial-strength Hungarian natural language processing
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
 - [afroisalreadyinu/miniboss](https://github.com/afroisalreadyinu/miniboss) - The most versatile way to manage containers locally
 - [datapane/datapane](https://github.com/datapane/datapane) - Build full-stack data apps in 100% Python
@@ -2267,7 +2269,7 @@
 - [ank0409/Ditching-Excel-for-Python](https://github.com/ank0409/Ditching-Excel-for-Python) - Functionalities in Excel translated to Python
 - [ms7m/notify-py](https://github.com/ms7m/notify-py) - :speech_balloon: | A simple Python Module for sending cross-platform desktop notifications on Windows, macOS and Linux
 - [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [gotcha/ipdb](https://github.com/gotcha/ipdb) - Integration of IPython pdb
 - [Shougo/deoplete.nvim](https://github.com/Shougo/deoplete.nvim) - :stars: Dark powered asynchronous completion framework for neovim/Vim8
