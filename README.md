@@ -1114,7 +1114,7 @@
 - [tzbob/python-windows-tiler](https://github.com/tzbob/python-windows-tiler) - Simple tiling window manager written in Python intended for Windows XP/7
 - [jeffkaufman/icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
 - [vim-awesome/vim-awesome](https://github.com/vim-awesome/vim-awesome) - Awesome Vim plugins from across the universe
-- [VitaliyRodnenko/geeknote](https://github.com/VitaliyRodnenko/geeknote) - Console client for Evernote.
+- [vitalyrodnenko/geeknote](https://github.com/vitalyrodnenko/geeknote) - Console client for Evernote.
 - [Antrikshy/reddit2Kindle](https://github.com/Antrikshy/reddit2Kindle) - Compiles text posts from your favorite story-based subreddits for easy reading on Kindle devices and apps
 - [commonmark/commonmark-spec](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
@@ -1464,7 +1464,7 @@
 - [kassio/neoterm](https://github.com/kassio/neoterm) - Wrapper of some vim/neovim's :terminal functions.
 - [jvns/vimconfig](https://github.com/jvns/vimconfig) - 
 - [freitass/todo.txt-vim](https://github.com/freitass/todo.txt-vim) - Vim plugin for Todo.txt
-- [chimay/wheel](https://github.com/chimay/wheel) - Quick navigation for Vim and Neovim : file groups, buffers, find, grep/edit, mru, frecency, persistent session, yank, ...
+- [chimay/wheel](https://github.com/chimay/wheel) - Any line in any file is only a few keys away. Quick navigation for Vim and Neovim : file groups, buffers, find, grep/edit, mru, frecency, persistent session, yank, ...
 - [orlp/vim-quick-replace](https://github.com/orlp/vim-quick-replace) - A quick find/replace plugin for Vim.
 - [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim) - Vim and Neovim plugin to reveal the commit messages under the cursor
 - [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
