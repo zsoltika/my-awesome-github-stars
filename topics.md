@@ -1585,7 +1585,7 @@
 - [martanne/abduco](https://github.com/martanne/abduco) - abduco provides session management i.e. it allows programs to be run independently from its controlling terminal. That is programs can be detached - run in the background - and then later reattached. 
 - [salman-abedin/faint](https://github.com/salman-abedin/faint) - Extensible TUI fuzzy file file explorer
 - [osnr/horrifying-pdf-experiments](https://github.com/osnr/horrifying-pdf-experiments) - :syringe: Stuff which works in Chrome and maybe Acrobat and Foxit.
-- [davidhampgonsalves/life-dashboard](https://github.com/davidhampgonsalves/life-dashboard) - Heads up Display for every day life
+- [davidhampgonsalves/life-dashboard](https://github.com/davidhampgonsalves/life-dashboard) - E-Iink based dashboard for every day life
 - [chr15m/flk](https://github.com/chr15m/flk) - A LISP that runs wherever Bash is
 - [zsims/hunt-and-peck](https://github.com/zsims/hunt-and-peck) - Simple vimium/vimperator style navigation for Windows applications based on the UI Automation framework.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
