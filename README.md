@@ -192,6 +192,7 @@
 
 - [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Personal theme for Obsidian
 - [addy-dclxvi/xfwm4-theme-collections](https://github.com/addy-dclxvi/xfwm4-theme-collections) - My Xfwm/Xfce Theme Collections
+- [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [hrqmonteiro/joplin-theme](https://github.com/hrqmonteiro/joplin-theme) - My Joplin theme files, including userchrome.css and userstyles.css, as well as some markdown templates for my notes.
 - [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
@@ -746,7 +747,6 @@
 - [ept/ddia-references](https://github.com/ept/ddia-references) - Literature references for “Designing Data-Intensive Applications”
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
-- [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [VonHeikemen/nvim-starter](https://github.com/VonHeikemen/nvim-starter) - Neovim example configuration. To help you start in your journey
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
