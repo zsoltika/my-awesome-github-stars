@@ -910,7 +910,7 @@
 - [O365/python-o365](https://github.com/O365/python-o365) - A simple python library to interact with Microsoft Graph and Office 365 API
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
 - [OceanSprint/tesh](https://github.com/OceanSprint/tesh) - TEstable SHell sessions in Markdown
-- [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
+- [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of images.
 - [StephenBarnes/Zendo-inspired](https://github.com/StephenBarnes/Zendo-inspired) - Two inductive logic games - the computer chooses a rule, and you try to infer the rule by testing examples.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
