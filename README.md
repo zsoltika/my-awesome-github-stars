@@ -338,6 +338,7 @@
 - [dash-docs-el/helm-dash](https://github.com/dash-docs-el/helm-dash) - Browse Dash docsets inside emacs
 - [redguardtoo/find-file-in-project](https://github.com/redguardtoo/find-file-in-project) - Quick access to project files in Emacs
 - [bmag/imenu-list](https://github.com/bmag/imenu-list) - Emacs plugin to show the current buffer's imenu entries in a separate buffer
+- [anschwa/emacs.d](https://github.com/anschwa/emacs.d) - My complete Emacs configuration.
 - [jozefg/wiki-summary.el](https://github.com/jozefg/wiki-summary.el) - Get summaries of wikipedia articles in Emacs
 - [wasamasa/dotemacs](https://github.com/wasamasa/dotemacs) - Literate Emacs configuration
 - [sensorflo/adoc-mode](https://github.com/sensorflo/adoc-mode) - A major-mode for editing AsciiDoc files in Emacs
@@ -836,7 +837,6 @@
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
-- [anschwa/emacs.d](https://github.com/anschwa/emacs.d) - My complete Emacs configuration.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [fniessen/refcard-org-babel](https://github.com/fniessen/refcard-org-babel) - Org Babel reference card
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
