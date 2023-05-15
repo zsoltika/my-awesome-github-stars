@@ -898,6 +898,7 @@
 
 ## Python 
 
+- [papajohn/composing-programs-published](https://github.com/papajohn/composing-programs-published) - Published version of composing programs textbook
 - [spyder-ide/spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
 - [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) - Thin wrapper for "pandoc" (MIT)
 - [devidw/obsidian-to-hugo](https://github.com/devidw/obsidian-to-hugo) - Process Obsidian notes to publish them with Hugo. Supports transformation of Obsidian wiki links into Hugo shortcodes for internal linking.
