@@ -1637,7 +1637,7 @@
 - [alfiopuglisi/guietta](https://github.com/alfiopuglisi/guietta) - 
 - [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
 - [treebeardtech/nbmake-action](https://github.com/treebeardtech/nbmake-action) - GitHub Action for testing notebooks
-- [formatc1702/WireViz](https://github.com/formatc1702/WireViz) - Easily document cables and wiring harnesses
+- [wireviz/WireViz](https://github.com/wireviz/WireViz) - Easily document cables and wiring harnesses
 - [ksindi/managers-playbook](https://github.com/ksindi/managers-playbook) - :book: Heuristics for effective management
 - [NinjaTrappeur/ultimate-writer](https://github.com/NinjaTrappeur/ultimate-writer) - Open Digital Typewriter
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
