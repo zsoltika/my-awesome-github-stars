@@ -1262,6 +1262,7 @@
 
 ## Rust 
 
+- [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) - A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [brandonkboswell/obsidian-export](https://github.com/brandonkboswell/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
