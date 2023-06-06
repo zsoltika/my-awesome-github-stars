@@ -931,7 +931,7 @@
 - [synchronizing/bluelink](https://github.com/synchronizing/bluelink) - 🚙 Control your Hyundai car via Python.
 - [mljar/mercury](https://github.com/mljar/mercury) - Build Web Apps in Jupyter Notebook with Python only
 - [JakobGlock/Generative-Art](https://github.com/JakobGlock/Generative-Art) - A selection of generative art scripts written in Python
-- [what-the-python/wtpython](https://github.com/what-the-python/wtpython) - Automatically find solutions when your Python code encounters an issue.
+- [VagishVela/wtpython](https://github.com/VagishVela/wtpython) - Automatically find solutions when your Python code encounters an issue.
 - [tarioch/beancounttools](https://github.com/tarioch/beancounttools) - Beancount Tools
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 - [HoraceAndTheSpider/Amiberry-XML-Builder](https://github.com/HoraceAndTheSpider/Amiberry-XML-Builder) - Python script to scan LHA files for WHDLoad integration in Amiberry
@@ -1363,7 +1363,7 @@
 - [ocochard/graphpath](https://github.com/ocochard/graphpath) - Graphpath generates an ASCII network diagram from the route table of a Unix/Linux
 - [andrewchambers/godothecorrectthing](https://github.com/andrewchambers/godothecorrectthing) - A script to do actions based on the current window and selected text.
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
-- [zagortenay333/conky_themes](https://github.com/zagortenay333/conky_themes) - 
+- [zagortenay333/conky_themes](https://github.com/zagortenay333/conky_themes) - A small collection of conky configs
 - [kaushalmodi/eless](https://github.com/kaushalmodi/eless) - A Better 'less' - A bash script that loads emacs with minimal view-mode config - Created with Org mode
 - [kathamer/DebianKindle](https://github.com/kathamer/DebianKindle) - Scripts to install Debian on your Kindle
 - [jc00ke/move-to-next-monitor](https://github.com/jc00ke/move-to-next-monitor) - Script to move windows from one monitor to the next in Xubuntu
