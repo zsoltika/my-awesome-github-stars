@@ -1749,7 +1749,7 @@
 - [tom-seddon/align_window3](https://github.com/tom-seddon/align_window3) - Quickly create tiled window arrangements
 - [dzhou121/gonvim](https://github.com/dzhou121/gonvim) - 
 - [larkery/emacs-bankruptcy](https://github.com/larkery/emacs-bankruptcy) - emacs cfg on its own
-- [zagortenay333/conky_themes](https://github.com/zagortenay333/conky_themes) - 
+- [zagortenay333/conky_themes](https://github.com/zagortenay333/conky_themes) - A small collection of conky configs
 - [fpczk/conky-simple](https://github.com/fpczk/conky-simple) - Conky setup for a minimalistic desktop.
 - [remyhonig/org-query](https://github.com/remyhonig/org-query) - Create complex but readable skip-functions for org-agenda
 - [notwaldorf/tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - 💖💻 A little dashboard that tries to take care of you when you're using your terminal.
@@ -2271,7 +2271,7 @@
 - [mljar/mercury](https://github.com/mljar/mercury) - Build Web Apps in Jupyter Notebook with Python only
 - [gnudatalanguage/gdl](https://github.com/gnudatalanguage/gdl) - GDL - GNU Data Language
 - [JakobGlock/Generative-Art](https://github.com/JakobGlock/Generative-Art) - A selection of generative art scripts written in Python
-- [what-the-python/wtpython](https://github.com/what-the-python/wtpython) - Automatically find solutions when your Python code encounters an issue.
+- [VagishVela/wtpython](https://github.com/VagishVela/wtpython) - Automatically find solutions when your Python code encounters an issue.
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 - [alan-turing-institute/ReadabiliPy](https://github.com/alan-turing-institute/ReadabiliPy) - A simple HTML content extractor in Python. Can be run as a wrapper for Mozilla's Readability.js package or in pure-python mode.
 - [huspacy/huspacy](https://github.com/huspacy/huspacy) - HuSpaCy: industrial-strength Hungarian natural language processing
@@ -2655,7 +2655,7 @@
 - [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a terminal application that blends beauty of text-art with functionality of clock / timer / pattern-based time manager ⏰
 - [dwmkerr/effective-shell](https://github.com/dwmkerr/effective-shell) - Text, samples and website for my 'Effective Shell' series.
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
-- [what-the-python/wtpython](https://github.com/what-the-python/wtpython) - Automatically find solutions when your Python code encounters an issue.
+- [VagishVela/wtpython](https://github.com/VagishVela/wtpython) - Automatically find solutions when your Python code encounters an issue.
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses.
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
