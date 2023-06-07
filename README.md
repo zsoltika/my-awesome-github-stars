@@ -307,7 +307,7 @@
 - [dakrone/eos](https://github.com/dakrone/eos) - Welcome to the Emacs of Things, aka the Emacs Operating System
 - [kiwanami/emacs-edbi](https://github.com/kiwanami/emacs-edbi) - Database Interface for Emacs Lisp
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
-- [dakrone/ox-tufte](https://github.com/dakrone/ox-tufte) - Emacs' Org-mode export backend for Tufte HTML
+- [ox-tufte/ox-tufte](https://github.com/ox-tufte/ox-tufte) - Emacs' Org-mode export backend for Tufte HTML
 - [Trevoke/sqlup-mode.el](https://github.com/Trevoke/sqlup-mode.el) - An emacs minor mode to upcase SQL keyword and functions
 - [sabof/project-explorer](https://github.com/sabof/project-explorer) - A project explorer sidebar
 - [samisalkosuo/elite-for-emacs](https://github.com/samisalkosuo/elite-for-emacs) - Interpretation of the game Elite using Emacs.
