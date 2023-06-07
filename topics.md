@@ -1782,7 +1782,7 @@
 - [purcell/sqlint](https://github.com/purcell/sqlint) - Simple SQL linter supporting ANSI and PostgreSQL syntaxes
 - [aziz/PlainNotes](https://github.com/aziz/PlainNotes) - Simple and pleasant note taking for SublimeText
 - [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Pretty good call graphs for dynamic languages
-- [dakrone/ox-tufte](https://github.com/dakrone/ox-tufte) - Emacs' Org-mode export backend for Tufte HTML
+- [ox-tufte/ox-tufte](https://github.com/ox-tufte/ox-tufte) - Emacs' Org-mode export backend for Tufte HTML
 - [limist/literate-programming-examples](https://github.com/limist/literate-programming-examples) - A collection of literate programming examples using Emacs Org mode; these examples are directly usable (copy and start hacking), and/or can serve as educational literate programs.  Clojure will be the
 - [clojure/test.check](https://github.com/clojure/test.check) - QuickCheck for Clojure
 - [some-mthfka/Viy](https://github.com/some-mthfka/Viy) - Note taker featuring Neovim, pictures and screenshots
