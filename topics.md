@@ -1247,6 +1247,7 @@
 
 ## machine-learning 
 
+- [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 - [huspacy/huspacy](https://github.com/huspacy/huspacy) - HuSpaCy: industrial-strength Hungarian natural language processing
@@ -2250,7 +2251,7 @@
 - [cunnane/xloil](https://github.com/cunnane/xloil) - xlOil provides framework for interacting with Excel in different programming languages (python & C++ currently)
 - [kuzmoyev/google-calendar-simple-api](https://github.com/kuzmoyev/google-calendar-simple-api) - Pythonic wrapper for the Google Calendar API
 - [nteract/papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [alexmojaki/futurecoder](https://github.com/alexmojaki/futurecoder) - 100% free and interactive Python course for beginners
 - [O365/python-o365](https://github.com/O365/python-o365) - A simple python library to interact with Microsoft Graph and Office 365 API
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
@@ -2390,7 +2391,7 @@
 ## python3 
 
 - [cunnane/xloil](https://github.com/cunnane/xloil) - xlOil provides framework for interacting with Excel in different programming languages (python & C++ currently)
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [JakobGlock/Generative-Art](https://github.com/JakobGlock/Generative-Art) - A selection of generative art scripts written in Python
 - [bczsalba/asztal](https://github.com/bczsalba/asztal) - Minimal Kréta client written in Python.
@@ -2480,7 +2481,7 @@
 ## rust 
 
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
