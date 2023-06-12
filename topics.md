@@ -161,6 +161,7 @@
 - [statistics](#statistics)
 - [sublime-text](#sublime-text)
 - [svelte](#svelte)
+- [symfony](#symfony)
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
@@ -2177,6 +2178,7 @@
 
 ## php 
 
+- [ernestwisniewski/kbin](https://github.com/ernestwisniewski/kbin) - A reddit-like content aggregator and micro-blogging platform for the fediverse.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [valignatev/ddd-dynamic](https://github.com/valignatev/ddd-dynamic) - Domain Driven Design in Python, Ruby and other dynamic languages resources
@@ -2643,6 +2645,10 @@
 ## svelte 
 
 - [gereleth/hexapipes](https://github.com/gereleth/hexapipes) - Hexagonal pipes puzzles
+
+## symfony 
+
+- [ernestwisniewski/kbin](https://github.com/ernestwisniewski/kbin) - A reddit-like content aggregator and micro-blogging platform for the fediverse.
 
 ## terminal 
 
