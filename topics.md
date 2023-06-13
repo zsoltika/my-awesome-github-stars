@@ -1190,7 +1190,7 @@
 - [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
-- [TT-ReBORN/Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN) - A Clean, Full Dynamic Color Reborn foobar2000 Theme
+- [TT-ReBORN/Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN) - A Clean · Full Dynamic Color Reborn · Foobar2000 player
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [letoram/pipeworld](https://github.com/letoram/pipeworld) - Dataflow 'spreadsheet' desktop environment
@@ -1330,7 +1330,7 @@
 
 ## music 
 
-- [TT-ReBORN/Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN) - A Clean, Full Dynamic Color Reborn foobar2000 Theme
+- [TT-ReBORN/Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN) - A Clean · Full Dynamic Color Reborn · Foobar2000 player
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 
 ## mysql 
@@ -1628,7 +1628,7 @@
 - [zombocom/rundoc](https://github.com/zombocom/rundoc) - RunDOC generates documentation by running scripts and embedding their results in the doc
 - [CreativeInquiry/PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Library for Processing
 - [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.12: ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed 
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.12: ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax), compressed file
 - [vim-volt/volt](https://github.com/vim-volt/volt) - A meta-level vim package manager
 - [liljencrantz/crush](https://github.com/liljencrantz/crush) - Crush is a command line shell that is also a powerful modern programming language.
 - [go-jira/jira](https://github.com/go-jira/jira) - simple jira command line client in Go
@@ -2851,7 +2851,7 @@
 - [guilryder/clavier-plus](https://github.com/guilryder/clavier-plus) - Clavier+ keyboard shortcuts manager for Windows
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
-- [TT-ReBORN/Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN) - A Clean, Full Dynamic Color Reborn foobar2000 Theme
+- [TT-ReBORN/Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN) - A Clean · Full Dynamic Color Reborn · Foobar2000 player
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 - [writeas/writeas-cli](https://github.com/writeas/writeas-cli) - Command line client for Write.as / WriteFreely
