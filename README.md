@@ -225,6 +225,7 @@
 
 ## Clojure 
 
+- [nextjournal/clerk](https://github.com/nextjournal/clerk) - ⚡️ Moldable Live Programming for Clojure
 - [quil/quil](https://github.com/quil/quil) - Main repo. Quil source code.
 - [mjul/docjure](https://github.com/mjul/docjure) - Read and write Office documents from Clojure
 - [dundalek/closh](https://github.com/dundalek/closh) - Bash-like shell based on Clojure
