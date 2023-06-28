@@ -504,7 +504,6 @@
 - [worrydream/EarlyHistoryOfSmalltalk](https://github.com/worrydream/EarlyHistoryOfSmalltalk) - Cleaned-up HTML version of Alan Kay's HOPL paper, "The Early History of Smalltalk"
 - [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
 - [gdeer81/marginalia](https://github.com/gdeer81/marginalia) - ultra-lightweight literate programming for clojure inspired by docco
-- [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [propublica/upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS! (Or do more.)
 - [coolwanglu/pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [diveintomark/diveintopython3](https://github.com/diveintomark/diveintopython3) - [Mirror] Dive Into Python 3 online book
@@ -605,6 +604,7 @@
 - [msubra/kelvi](https://github.com/msubra/kelvi) - A stackoverflow questions monitor
 - [FoxUSA/OpenNote](https://github.com/FoxUSA/OpenNote) - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
+- [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [berbaquero/reeddit](https://github.com/berbaquero/reeddit) - Minimal, elastic Reddit reader web-app client
 - [rigoneri/syte](https://github.com/rigoneri/syte) - [Archived] A really simple but powerful packaged personal site that has social integrations like twitter, github, dribbble, instagram, foursquare, tumblr, wordpress, linkedin, spotify/last.fm, and muc
 - [wwwtyro/keyzen](https://github.com/wwwtyro/keyzen) - A touch typing trainer geared towards programmers and others that need to practice with all the symbols on the keyboard.
