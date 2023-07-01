@@ -664,6 +664,7 @@
 
 ## documentation 
 
+- [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
@@ -1460,6 +1461,7 @@
 
 ## others 
 
+- [DaveJarvis/KeenWrite](https://github.com/DaveJarvis/KeenWrite) - Free, open-source, cross-platform desktop Markdown text editor with live preview, string interpolation, and math.
 - [CKolkey/neogit](https://github.com/CKolkey/neogit) - magit for neovim
 - [btw-so/open-source-alternatives](https://github.com/btw-so/open-source-alternatives) - List of open-source alternatives to everyday SaaS products.
 - [papajohn/composing-programs-published](https://github.com/papajohn/composing-programs-published) - Published version of composing programs textbook
