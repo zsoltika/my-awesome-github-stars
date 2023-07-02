@@ -37,6 +37,7 @@
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
+- [dart](#dart)
 - [data](#data)
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
@@ -62,6 +63,7 @@
 - [firebase](#firebase)
 - [firefox](#firefox)
 - [flask](#flask)
+- [flutter](#flutter)
 - [font](#font)
 - [framework](#framework)
 - [frameworks](#frameworks)
@@ -202,6 +204,7 @@
 
 ## android 
 
+- [hjiangsu/thunder](https://github.com/hjiangsu/thunder) - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) - A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - [fabiospampinato/termux-env](https://github.com/fabiospampinato/termux-env) - My super-quick-to-setup Termux environment.
 - [artnc/chronofile](https://github.com/artnc/chronofile) - Personal time tracking app
@@ -558,6 +561,10 @@
 - [nsacyber/WALKOFF](https://github.com/nsacyber/WALKOFF) - A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down. #nsacyber
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 
+## dart 
+
+- [hjiangsu/thunder](https://github.com/hjiangsu/thunder) - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter
+
 ## data 
 
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
@@ -765,6 +772,10 @@
 ## flask 
 
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+
+## flutter 
+
+- [hjiangsu/thunder](https://github.com/hjiangsu/thunder) - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter
 
 ## font 
 
@@ -1065,6 +1076,7 @@
 
 ## ios 
 
+- [hjiangsu/thunder](https://github.com/hjiangsu/thunder) - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter
 - [faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book) - iOS Crash Dump Analysis Book
 
 ## iot 
@@ -1461,6 +1473,7 @@
 
 ## others 
 
+- [kkuchta/tabdb](https://github.com/kkuchta/tabdb) - Using browser tabs as a database like only a maniac would
 - [DaveJarvis/KeenWrite](https://github.com/DaveJarvis/KeenWrite) - Free, open-source, cross-platform desktop Markdown text editor with live preview, string interpolation, and math.
 - [CKolkey/neogit](https://github.com/CKolkey/neogit) - magit for neovim
 - [btw-so/open-source-alternatives](https://github.com/btw-so/open-source-alternatives) - List of open-source alternatives to everyday SaaS products.
