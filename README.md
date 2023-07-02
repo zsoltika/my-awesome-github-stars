@@ -18,6 +18,7 @@
 - [Common Lisp](#common-lisp)
 - [Crystal](#crystal)
 - [D](#d)
+- [Dart](#dart)
 - [Emacs Lisp](#emacs-lisp)
 - [F#](#f#)
 - [Fennel](#fennel)
@@ -265,6 +266,10 @@
 ## D 
 
 - [zyedidia/Literate](https://github.com/zyedidia/Literate) - A literate programming tool for any language
+
+## Dart 
+
+- [hjiangsu/thunder](https://github.com/hjiangsu/thunder) - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter
 
 ## Emacs Lisp 
 
@@ -1435,6 +1440,7 @@
 
 ## TypeScript 
 
+- [kkuchta/tabdb](https://github.com/kkuchta/tabdb) - Using browser tabs as a database like only a maniac would
 - [zsviczian/excalibrain](https://github.com/zsviczian/excalibrain) - A graph view to navigate your Obsidian vault
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
 - [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Integrate consoles, shells, and terminals inside Obsidian.
