@@ -550,7 +550,7 @@
 - [Frostforus/Solaris](https://github.com/Frostforus/Solaris) - Solaris Hungarian Generator
 - [mastotron/mastotron](https://github.com/mastotron/mastotron) - A different interface to mastodon, and other experiments in social media
 - [open-duelyst/duelyst](https://github.com/open-duelyst/duelyst) - Duelyst is a digital collectible card game and turn-based strategy hybrid, developed by Counterplay Games.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop 
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [tanepiper/obsidian-garden](https://github.com/tanepiper/obsidian-garden) - A knowledge management garden for https://obsidian.md, in which to grow your ideas
 - [bramses/bramses-highly-opinionated-vault-2023](https://github.com/bramses/bramses-highly-opinionated-vault-2023) - A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!
 - [t-mart/kill-sticky](https://github.com/t-mart/kill-sticky) - Bookmarklet to remove sticky elements and restore scrolling to web pages!
@@ -691,7 +691,7 @@
 - [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim) - Visual git plugin for Neovim
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) - Interactive real time neovim scratchpad for embedded lua engine - type and watch!
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.7+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.8+.
 - [letoram/pipeworld](https://github.com/letoram/pipeworld) - Dataflow 'spreadsheet' desktop environment
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - magit for neovim
 - [famiu/feline.nvim](https://github.com/famiu/feline.nvim) - A minimal, stylish and customizable statusline for Neovim written in Lua
@@ -886,6 +886,7 @@
 
 ## PHP 
 
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 - [ernestwisniewski/kbin](https://github.com/ernestwisniewski/kbin) - A reddit-like content aggregator and micro-blogging platform for the fediverse.
 - [beyondcode/writeout.ai](https://github.com/beyondcode/writeout.ai) - Transcribe and translate your audio files - for free
 - [xero/figlet-fonts](https://github.com/xero/figlet-fonts) - my collection of figlet / toilet ascii art fonts
