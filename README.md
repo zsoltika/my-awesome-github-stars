@@ -545,6 +545,7 @@
 
 ## JavaScript 
 
+- [psb1558/Elstob-font](https://github.com/psb1558/Elstob-font) - A variable font for medievalists
 - [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [Frostforus/Solaris](https://github.com/Frostforus/Solaris) - Solaris Hungarian Generator
