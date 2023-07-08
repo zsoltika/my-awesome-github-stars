@@ -1479,6 +1479,7 @@
 
 ## others 
 
+- [liftoff-app/liftoff](https://github.com/liftoff-app/liftoff) - 🐒  A mobile client for lemmy
 - [kkuchta/tabdb](https://github.com/kkuchta/tabdb) - Using browser tabs as a database like only a maniac would
 - [DaveJarvis/KeenWrite](https://github.com/DaveJarvis/KeenWrite) - Free, open-source, cross-platform desktop Markdown text editor with live preview, string interpolation, and math.
 - [CKolkey/neogit](https://github.com/CKolkey/neogit) - magit for neovim
