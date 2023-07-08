@@ -269,6 +269,7 @@
 
 ## Dart 
 
+- [liftoff-app/liftoff](https://github.com/liftoff-app/liftoff) - 🐒  A mobile client for lemmy
 - [hjiangsu/thunder](https://github.com/hjiangsu/thunder) - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter
 
 ## Emacs Lisp 
