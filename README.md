@@ -270,7 +270,7 @@
 ## Dart 
 
 - [liftoff-app/liftoff](https://github.com/liftoff-app/liftoff) - 🐒  A mobile client for lemmy
-- [hjiangsu/thunder](https://github.com/hjiangsu/thunder) - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter
+- [thunder-app/thunder](https://github.com/thunder-app/thunder) - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter
 
 ## Emacs Lisp 
 
@@ -919,7 +919,7 @@
 
 ## Python 
 
-- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - OpenSource Enterprise QA
+- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [dora-team/fourkeys](https://github.com/dora-team/fourkeys) - Platform for monitoring the four key software delivery metrics of software delivery
 - [papajohn/composing-programs-published](https://github.com/papajohn/composing-programs-published) - Published version of composing programs textbook
