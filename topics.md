@@ -205,7 +205,7 @@
 
 ## android 
 
-- [hjiangsu/thunder](https://github.com/hjiangsu/thunder) - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter
+- [thunder-app/thunder](https://github.com/thunder-app/thunder) - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) - A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - [fabiospampinato/termux-env](https://github.com/fabiospampinato/termux-env) - My super-quick-to-setup Termux environment.
 - [artnc/chronofile](https://github.com/artnc/chronofile) - Personal time tracking app
@@ -570,7 +570,7 @@
 
 ## dart 
 
-- [hjiangsu/thunder](https://github.com/hjiangsu/thunder) - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter
+- [thunder-app/thunder](https://github.com/thunder-app/thunder) - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter
 
 ## data 
 
@@ -782,7 +782,7 @@
 
 ## flutter 
 
-- [hjiangsu/thunder](https://github.com/hjiangsu/thunder) - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter
+- [thunder-app/thunder](https://github.com/thunder-app/thunder) - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter
 
 ## font 
 
@@ -1084,7 +1084,7 @@
 
 ## ios 
 
-- [hjiangsu/thunder](https://github.com/hjiangsu/thunder) - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter
+- [thunder-app/thunder](https://github.com/thunder-app/thunder) - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter
 - [faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book) - iOS Crash Dump Analysis Book
 
 ## iot 
@@ -1482,7 +1482,7 @@
 
 ## others 
 
-- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - OpenSource Enterprise QA
+- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [liftoff-app/liftoff](https://github.com/liftoff-app/liftoff) - 🐒  A mobile client for lemmy
 - [kkuchta/tabdb](https://github.com/kkuchta/tabdb) - Using browser tabs as a database like only a maniac would
