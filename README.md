@@ -547,6 +547,7 @@
 
 ## JavaScript 
 
+- [underpig1/octos](https://github.com/underpig1/octos) - HTML live wallpaper engine :rocket:
 - [nicbou/timeline](https://github.com/nicbou/timeline) - Collects personal data from different sources, displays it as a daily diary.
 - [psb1558/Elstob-font](https://github.com/psb1558/Elstob-font) - A variable font for medievalists
 - [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
