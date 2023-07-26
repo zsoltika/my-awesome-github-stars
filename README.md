@@ -754,6 +754,7 @@
 
 ## Others 
 
+- [willemlarsen/mobprogrammingrpg](https://github.com/willemlarsen/mobprogrammingrpg) - A game for exploring the development practice of mob programming
 - [bradfitz/issue-tracker-behaviors](https://github.com/bradfitz/issue-tracker-behaviors) - 
 - [btw-so/open-source-alternatives](https://github.com/btw-so/open-source-alternatives) - List of open-source alternatives to everyday SaaS products.
 - [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools
@@ -922,6 +923,7 @@
 
 ## Python 
 
+- [1j01/textual-paint](https://github.com/1j01/textual-paint) - :art: MS Paint... in your terminal.
 - [nicbou/ursus](https://github.com/nicbou/ursus) - Static site generator for All About Berlin
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
