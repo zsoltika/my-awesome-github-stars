@@ -1103,6 +1103,7 @@
 
 ## javascript 
 
+- [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
@@ -1489,6 +1490,7 @@
 
 ## others 
 
+- [heav-4/relocation](https://github.com/heav-4/relocation) - 2d puzzle involving moving groups of tiles around under a certain ruleset.
 - [veltman/clmystery](https://github.com/veltman/clmystery) - A command-line murder mystery
 - [willemlarsen/mobprogrammingrpg](https://github.com/willemlarsen/mobprogrammingrpg) - A game for exploring the development practice of mob programming
 - [nicbou/timeline](https://github.com/nicbou/timeline) - Collects personal data from different sources, displays it as a daily diary.
