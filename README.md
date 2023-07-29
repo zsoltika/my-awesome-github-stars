@@ -666,6 +666,7 @@
 
 ## Lua 
 
+- [heav-4/relocation](https://github.com/heav-4/relocation) - 2d puzzle involving moving groups of tiles around under a certain ruleset.
 - [CKolkey/neogit](https://github.com/CKolkey/neogit) - magit for neovim
 - [nyngwang/suave.lua](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation
 - [princejoogie/dir-telescope.nvim](https://github.com/princejoogie/dir-telescope.nvim) - Perform telescope functions in a selected directory
