@@ -254,6 +254,7 @@
 
 ## awesome 
 
+- [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools
 - [learn-anything/command-line-tools](https://github.com/learn-anything/command-line-tools) - Awesome Command Line Utilities
@@ -303,6 +304,7 @@
 
 ## awesome-list 
 
+- [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -1490,6 +1492,7 @@
 
 ## others 
 
+- [andymatuschak/note-link-janitor](https://github.com/andymatuschak/note-link-janitor) - Maintains backlink structure among interlinked Markdown notes
 - [heav-4/relocation](https://github.com/heav-4/relocation) - 2d puzzle involving moving groups of tiles around under a certain ruleset.
 - [veltman/clmystery](https://github.com/veltman/clmystery) - A command-line murder mystery
 - [willemlarsen/mobprogrammingrpg](https://github.com/willemlarsen/mobprogrammingrpg) - A game for exploring the development practice of mob programming
