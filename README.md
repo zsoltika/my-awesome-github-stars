@@ -186,6 +186,7 @@
 - [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.12: ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax), compressed file
 - [CoatiSoftware/SourcetrailDB](https://github.com/CoatiSoftware/SourcetrailDB) - Library to export Sourcetrail compatible database files for writing custom indexers
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [tom-seddon/align_window3](https://github.com/tom-seddon/align_window3) - Quickly create tiled window arrangements
 - [some-mthfka/Viy](https://github.com/some-mthfka/Viy) - Note taker featuring Neovim, pictures and screenshots
 - [ern0/shrinkshot](https://github.com/ern0/shrinkshot) - ✂ CLI tool for shrink images by removing empty regions (best use case: screenshot)
@@ -926,6 +927,7 @@
 
 ## Python 
 
+- [qtile/qtile-examples](https://github.com/qtile/qtile-examples) - Example configurations and scripts for Qtile
 - [1j01/textual-paint](https://github.com/1j01/textual-paint) - :art: MS Paint in your terminal.
 - [nicbou/ursus](https://github.com/nicbou/ursus) - Static site generator for All About Berlin
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
@@ -1297,6 +1299,7 @@
 
 ## Rust 
 
+- [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) - A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
@@ -1321,7 +1324,7 @@
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [dertuxmalwieder/yaydl](https://github.com/dertuxmalwieder/yaydl) - yet another youtube down loader (Git mirror)
-- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [cody2007/arcane_fortune](https://github.com/cody2007/arcane_fortune) - Arcane Fortune is a game of empire building, diplomacy, conquest, construction, and deconstruction.
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
@@ -1337,7 +1340,6 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 
 ## SCSS 
@@ -1494,6 +1496,7 @@
 
 ## Vim Script 
 
+- [romainl/vim-devdocs](https://github.com/romainl/vim-devdocs) - Look up keyword on https://devdocs.io from Vim
 - [lervag/wiki.vim](https://github.com/lervag/wiki.vim) - A wiki plugin for Vim
 - [braintreeps/vim_dotfiles](https://github.com/braintreeps/vim_dotfiles) - our vim dotfiles
 - [liuchengxu/vista.vim](https://github.com/liuchengxu/vista.vim) - :cactus: Viewer & Finder for LSP symbols and tags
