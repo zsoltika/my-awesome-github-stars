@@ -162,7 +162,7 @@
 
 ## C++ 
 
-- [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch. Comes with an in-game Editor!
+- [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Comes with an in-game Editor!
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
@@ -669,6 +669,7 @@
 
 ## Lua 
 
+- [peterhil/awesome-ultraviolet](https://github.com/peterhil/awesome-ultraviolet) - Awesome WM theme with dark violet colours
 - [heav-4/relocation](https://github.com/heav-4/relocation) - 2d puzzle involving moving groups of tiles around under a certain ruleset.
 - [CKolkey/neogit](https://github.com/CKolkey/neogit) - magit for neovim
 - [nyngwang/suave.lua](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation
