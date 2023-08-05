@@ -183,10 +183,9 @@
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
 - [przemek83/volbx](https://github.com/przemek83/volbx) - Graphical tool for data manipulation written in C++/Qt.
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.12: ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax), compressed file
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.12: ultra fast grep with interactive TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax), co
 - [CoatiSoftware/SourcetrailDB](https://github.com/CoatiSoftware/SourcetrailDB) - Library to export Sourcetrail compatible database files for writing custom indexers
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [tom-seddon/align_window3](https://github.com/tom-seddon/align_window3) - Quickly create tiled window arrangements
 - [some-mthfka/Viy](https://github.com/some-mthfka/Viy) - Note taker featuring Neovim, pictures and screenshots
 - [ern0/shrinkshot](https://github.com/ern0/shrinkshot) - ✂ CLI tool for shrink images by removing empty regions (best use case: screenshot)
@@ -550,6 +549,8 @@
 
 ## JavaScript 
 
+- [DemoninCG/ArrayGame](https://github.com/DemoninCG/ArrayGame) - Expand your array, reach unimaginable numbers!
+- [DemoninCG/DodecaDragons](https://github.com/DemoninCG/DodecaDragons) - Grow your dragon, grow your empire!
 - [underpig1/octos](https://github.com/underpig1/octos) - HTML live wallpaper engine :rocket:
 - [nicbou/timeline](https://github.com/nicbou/timeline) - Collects personal data from different sources, displays it as a daily diary.
 - [psb1558/Elstob-font](https://github.com/psb1558/Elstob-font) - A variable font for medievalists
@@ -1358,6 +1359,7 @@
 
 ## Scala 
 
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [hrj/abandon](https://github.com/hrj/abandon) - :relieved: Simple and Robust Accounting
 
 ## Scheme 
