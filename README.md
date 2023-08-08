@@ -19,6 +19,7 @@
 - [Crystal](#crystal)
 - [D](#d)
 - [Dart](#dart)
+- [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [F#](#f#)
 - [Fennel](#fennel)
@@ -93,6 +94,7 @@
 
 ## C 
 
+- [lucavallin/barco](https://github.com/lucavallin/barco) - Linux containers from scratch in C.
 - [akkartik/teliva](https://github.com/akkartik/teliva) - Fork of Lua 5.1 to encourage end-user programming
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
@@ -272,6 +274,10 @@
 
 - [liftoff-app/liftoff](https://github.com/liftoff-app/liftoff) - 🐒  A mobile client for lemmy
 - [thunder-app/thunder](https://github.com/thunder-app/thunder) - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter
+
+## Elixir 
+
+- [elixir-explorer/explorer](https://github.com/elixir-explorer/explorer) - Series (one-dimensional) and dataframes (two-dimensional) for fast and elegant data exploration in Elixir
 
 ## Emacs Lisp 
 
