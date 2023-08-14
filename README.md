@@ -321,7 +321,6 @@
 - [abo-abo/pamparam](https://github.com/abo-abo/pamparam) - Simple and fast flashcards for Emacs
 - [edkolev/evil-lion](https://github.com/edkolev/evil-lion) - Evil align operator
 - [charlesroelli/org-board](https://github.com/charlesroelli/org-board) - Org mode's web archiver.
-- [vigou3/emacs-modified-windows](https://github.com/vigou3/emacs-modified-windows) - Mirror of the GitLab project Emacs Modified for Windows
 - [vikasrawal/orgpaper](https://github.com/vikasrawal/orgpaper) - Reproducible Research Papers using Org-mode and R: A Guide
 - [ptrv/processing2-emacs](https://github.com/ptrv/processing2-emacs) - Processing 2 major-mode for Emacs
 - [jimeh/birds-of-paradise-plus-theme.el](https://github.com/jimeh/birds-of-paradise-plus-theme.el) - A Emacs port of Joseph Bergantine's light-on-dark theme by the same name.
@@ -739,6 +738,7 @@
 - [Helsinki-NLP/Tatoeba-Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge) - 
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [gromnitsky/hunspell-windows](https://github.com/gromnitsky/hunspell-windows) - Create an x64 hunspell windows binary bundle with all the dicts from the libreoffice repo.
+- [vigou3/emacs-modified-windows](https://github.com/vigou3/emacs-modified-windows) - Mirror of the GitLab project Emacs Modified for Windows
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Markdown 
