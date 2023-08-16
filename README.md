@@ -560,6 +560,7 @@
 
 ## JavaScript 
 
+- [simonw/simonwillisonblog](https://github.com/simonw/simonwillisonblog) - The source code behind my blog
 - [DemoninCG/ArrayGame](https://github.com/DemoninCG/ArrayGame) - Expand your array, reach unimaginable numbers!
 - [DemoninCG/DodecaDragons](https://github.com/DemoninCG/DodecaDragons) - Grow your dragon, grow your empire!
 - [underpig1/octos](https://github.com/underpig1/octos) - HTML live wallpaper engine :rocket:
@@ -772,6 +773,7 @@
 
 ## Others 
 
+- [thoughtbot/til](https://github.com/thoughtbot/til) - Today I Learned
 - [christophercalm/if-im-gone](https://github.com/christophercalm/if-im-gone) - A cheat sheet for if I am somehow incapacitated.
 - [JeffPaine/beautiful_idiomatic_python](https://github.com/JeffPaine/beautiful_idiomatic_python) - Notes from Raymond Hettinger's talk at PyCon US 2013.
 - [veltman/clmystery](https://github.com/veltman/clmystery) - A command-line murder mystery
@@ -931,6 +933,7 @@
 
 ## PowerShell 
 
+- [SjoerdV/ConvertOneNote2MarkDown](https://github.com/SjoerdV/ConvertOneNote2MarkDown) - Ready to make the step to Markdown and saying farewell to your OneNote, EverNote or whatever proprietary note taking tool you are using? Nothing beats clear text, right? Read on!
 - [fresh2dev/AnyBox](https://github.com/fresh2dev/AnyBox) - The easiest way to develop apps for Windows.
 - [vexx32/PSKoans](https://github.com/vexx32/PSKoans) - A simple, fun, and interactive way to learn the PowerShell language through Pester unit testing.
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
@@ -1521,6 +1524,7 @@
 
 ## Vim Script 
 
+- [jwworth/til](https://github.com/jwworth/til) - ⌨️  Technical articles, needless words omitted
 - [romainl/vim-devdocs](https://github.com/romainl/vim-devdocs) - Look up keyword on https://devdocs.io from Vim
 - [lervag/wiki.vim](https://github.com/lervag/wiki.vim) - A wiki plugin for Vim
 - [braintreeps/vim_dotfiles](https://github.com/braintreeps/vim_dotfiles) - our vim dotfiles
