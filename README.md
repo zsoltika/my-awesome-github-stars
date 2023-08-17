@@ -741,7 +741,6 @@
 - [Helsinki-NLP/Tatoeba-Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge) - 
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [gromnitsky/hunspell-windows](https://github.com/gromnitsky/hunspell-windows) - Create an x64 hunspell windows binary bundle with all the dicts from the libreoffice repo.
-- [vigou3/emacs-modified-windows](https://github.com/vigou3/emacs-modified-windows) - Mirror of the GitLab project Emacs Modified for Windows
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Markdown 
