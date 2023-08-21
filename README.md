@@ -200,6 +200,7 @@
 
 ## CSS 
 
+- [FernandoCelmer/mkdocs-simple-blog](https://github.com/FernandoCelmer/mkdocs-simple-blog) - Blog Template for Mkdocs
 - [Darkkal44/Cozytile](https://github.com/Darkkal44/Cozytile) - A Cozy rice ❃
 - [StefanSalewski/NimProgrammingBook](https://github.com/StefanSalewski/NimProgrammingBook) - Computer Programming with the Nim Programming Language -- A gentle Introduction
 - [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Personal theme for Obsidian
@@ -399,6 +400,7 @@
 
 ## Go 
 
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [willmeyers/gptq](https://github.com/willmeyers/gptq) - 
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs g
@@ -493,7 +495,6 @@
 
 ## HTML 
 
-- [FernandoCelmer/mkdocs-simple-blog](https://github.com/FernandoCelmer/mkdocs-simple-blog) - Blog Template for Mkdocs
 - [paulmartins/hugo-digital-garden-theme](https://github.com/paulmartins/hugo-digital-garden-theme) - Hugo Theme for digital gardening projects.
 - [rhettinger/rhettinger.github.io](https://github.com/rhettinger/rhettinger.github.io) - Public web pages from talks
 - [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
@@ -1374,7 +1375,6 @@
 
 ## SCSS 
 
-- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [ppeetteerrs/obsidian-zola](https://github.com/ppeetteerrs/obsidian-zola) - A no-brainer solution to turning your Obsidian PKM into a Zola site.
 - [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
 - [slashformotion/hugo-tufte](https://github.com/slashformotion/hugo-tufte) - pls use https://github.com/loikein/hugo-tufte
@@ -1499,6 +1499,7 @@
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
 - [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Integrate consoles, shells, and terminals inside Obsidian.
 - [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [jamesseanwright/ron-swanson-quotes](https://github.com/jamesseanwright/ron-swanson-quotes) - Node.js server for providing Ron Swanson quotes
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [tsiege/Tech-Interview-Cheat-Sheet](https://github.com/tsiege/Tech-Interview-Cheat-Sheet) - Studying for a tech interview sucks. Here's an open source cheat sheet to help
