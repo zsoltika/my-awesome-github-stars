@@ -1632,7 +1632,7 @@
 - [smmr-software/mabel](https://github.com/smmr-software/mabel) - A fancy BitTorrent client for the terminal
 - [Gavinok/Kickstart.nvim](https://github.com/Gavinok/Kickstart.nvim) - A small, documented, and featureful neovim starter config
 - [xero/figlet-fonts](https://github.com/xero/figlet-fonts) - my collection of figlet / toilet ascii art fonts
-- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [ppeetteerrs/obsidian-zola](https://github.com/ppeetteerrs/obsidian-zola) - A no-brainer solution to turning your Obsidian PKM into a Zola site.
 - [adamgordonbell/csvquote](https://github.com/adamgordonbell/csvquote) - 
 - [jamesseanwright/ron-swanson-quotes](https://github.com/jamesseanwright/ron-swanson-quotes) - Node.js server for providing Ron Swanson quotes
