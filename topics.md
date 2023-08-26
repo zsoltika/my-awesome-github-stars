@@ -1749,7 +1749,7 @@
 - [zombocom/rundoc](https://github.com/zombocom/rundoc) - RunDOC generates documentation by running scripts and embedding their results in the doc
 - [CreativeInquiry/PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Library for Processing
 - [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW version 4.0: ultra fast grep-compatible file searcher with interactive TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps and more: search file systems, source code, text, binary files, ar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW version 4.0: ultra fast grep-compatible file searcher with interactive TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps and more: search file systems, source code, text, binary files, ne
 - [vim-volt/volt](https://github.com/vim-volt/volt) - A meta-level vim package manager
 - [liljencrantz/crush](https://github.com/liljencrantz/crush) - Crush is a command line shell that is also a powerful modern programming language.
 - [go-jira/jira](https://github.com/go-jira/jira) - simple jira command line client in Go
