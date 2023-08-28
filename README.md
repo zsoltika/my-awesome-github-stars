@@ -534,7 +534,6 @@
 - [propublica/upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS! (Or do more.)
 - [coolwanglu/pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [diveintomark/diveintopython3](https://github.com/diveintomark/diveintopython3) - [Mirror] Dive Into Python 3 online book
-- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 
 ## Haskell 
 
@@ -1236,6 +1235,7 @@
 - [jinglemansweep/Kindled](https://github.com/jinglemansweep/Kindled) - Kindle Calibre Delivery Framework
 - [eudicots/Cactus](https://github.com/eudicots/Cactus) - Static site generator for designers. Uses Python and Django templates.
 - [pafcu/vimsplain](https://github.com/pafcu/vimsplain) - Explain Vim command sequences
+- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [cagatay/Evolution-9](https://github.com/cagatay/Evolution-9) - Music composing using genetic programming and neural networks
 - [mhl/guardian-for-kindle](https://github.com/mhl/guardian-for-kindle) - A script to generate an edition of the Guardian for reading on the Amazon Kindle using the Guardian Open Platform
 - [bitly/data_hacks](https://github.com/bitly/data_hacks) - Command line utilities for data analysis
@@ -1492,7 +1492,7 @@
 
 ## TypeScript 
 
-- [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device.
+- [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - [andymatuschak/note-link-janitor](https://github.com/andymatuschak/note-link-janitor) - Maintains backlink structure among interlinked Markdown notes
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [kkuchta/tabdb](https://github.com/kkuchta/tabdb) - Using browser tabs as a database like only a maniac would
