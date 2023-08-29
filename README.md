@@ -8,6 +8,7 @@
 - [AppleScript](#applescript)
 - [Assembly](#assembly)
 - [AutoHotkey](#autohotkey)
+- [Awk](#awk)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -38,6 +39,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [NSIS](#nsis)
+- [Nim](#nim)
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
@@ -86,6 +88,10 @@
 - [fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows
 - [octalmage/mDesktop](https://github.com/octalmage/mDesktop) - mDesktop is a lightweight application that allows the user to utilize multiple virtual desktops.
 - [tinypigdotcom/stabby](https://github.com/tinypigdotcom/stabby) - stabby is an alternative to alt tab madness
+
+## Awk 
+
+- [e36freak/awk-libs](https://github.com/e36freak/awk-libs) - GNU awk libraries
 
 ## Batchfile 
 
@@ -614,7 +620,7 @@
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [alexmojaki/birdseye](https://github.com/alexmojaki/birdseye) - Graphical Python debugger which lets you easily view the values of all evaluated expressions
-- [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books everyone should read!
+- [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
 - [p-e-w/envy](https://github.com/p-e-w/envy) - Text editing supercharger
 - [notwaldorf/tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - 💖💻 A little dashboard that tries to take care of you when you're using your terminal.
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
@@ -754,6 +760,10 @@
 
 - [bmatzelle/gow](https://github.com/bmatzelle/gow) - Unix command line utilities installer for Windows.
 
+## Nim 
+
+- [c-blake/bu](https://github.com/c-blake/bu) - B)asic|But-For U)tility Code/Programs (Usually Nim & With Unix/POSIX/Linux Context)
+
 ## Nix 
 
 - [zachcoyle/neovitality](https://github.com/zachcoyle/neovitality) - 
@@ -774,6 +784,7 @@
 
 ## Others 
 
+- [rayfrankenstein/AITOW](https://github.com/rayfrankenstein/AITOW) - 
 - [thoughtbot/til](https://github.com/thoughtbot/til) - Today I Learned
 - [christophercalm/if-im-gone](https://github.com/christophercalm/if-im-gone) - A cheat sheet for if I am somehow incapacitated.
 - [JeffPaine/beautiful_idiomatic_python](https://github.com/JeffPaine/beautiful_idiomatic_python) - Notes from Raymond Hettinger's talk at PyCon US 2013.
@@ -919,7 +930,7 @@
 ## PHP 
 
 - [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - Hackers Mind Map
-- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [ernestwisniewski/kbin](https://github.com/ernestwisniewski/kbin) - A reddit-like content aggregator and micro-blogging platform for the fediverse.
 - [beyondcode/writeout.ai](https://github.com/beyondcode/writeout.ai) - Transcribe and translate your audio files - for free
 - [xero/figlet-fonts](https://github.com/xero/figlet-fonts) - my collection of figlet / toilet ascii art fonts
@@ -950,6 +961,7 @@
 
 ## Python 
 
+- [learnbyexample/TUI-apps](https://github.com/learnbyexample/TUI-apps) - Terminal User Interface (TUI) apps
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [Serra-Technologies/serra](https://github.com/Serra-Technologies/serra) - Python-based dbt alternative
