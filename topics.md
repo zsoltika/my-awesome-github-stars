@@ -821,6 +821,7 @@
 
 ## font 
 
+- [kaushikgopal/henry-hugo](https://github.com/kaushikgopal/henry-hugo) - Henry: Hugo theme meant for a gorgeous reading experience and packed with features
 - [psb1558/Elstob-font](https://github.com/psb1558/Elstob-font) - A variable font for medievalists
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -955,6 +956,7 @@
 
 ## golang 
 
+- [kaushikgopal/henry-hugo](https://github.com/kaushikgopal/henry-hugo) - Henry: Hugo theme meant for a gorgeous reading experience and packed with features
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [noborus/ov](https://github.com/noborus/ov) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
@@ -1304,6 +1306,7 @@
 
 ## lua 
 
+- [chomosuke/term-edit.nvim](https://github.com/chomosuke/term-edit.nvim) - Allowing you to edit your command in the terminal just like any other buffers.
 - [akkartik/teliva](https://github.com/akkartik/teliva) - Fork of Lua 5.1 to encourage end-user programming
 - [nyngwang/suave.lua](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation
 - [princejoogie/dir-telescope.nvim](https://github.com/princejoogie/dir-telescope.nvim) - Perform telescope functions in a selected directory
@@ -1371,6 +1374,7 @@
 ## markdown 
 
 - [FernandoCelmer/mkdocs-simple-blog](https://github.com/FernandoCelmer/mkdocs-simple-blog) - Blog Template for Mkdocs
+- [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) - Thin wrapper for "pandoc" (MIT)
 - [jez/pandoc-sidenote](https://github.com/jez/pandoc-sidenote) - Convert Pandoc Markdown-style footnotes into sidenotes
 - [jez/pandoc-starter](https://github.com/jez/pandoc-starter) - 📄 My pandoc markdown templates and makefiles
@@ -1401,6 +1405,7 @@
 
 ## mastodon 
 
+- [ckolderup/postmarks](https://github.com/ckolderup/postmarks) - a single-user bookmarking website designed to live on the Fediverse
 - [mastotron/mastotron](https://github.com/mastotron/mastotron) - A different interface to mastodon, and other experiments in social media
 - [mooseyboots/mastodon.el](https://github.com/mooseyboots/mastodon.el) - Emacs client for Mastodon. moved to:
 - [mattn/go-mastodon](https://github.com/mattn/go-mastodon) - mastodon client for golang
@@ -1431,6 +1436,7 @@
 
 ## neovim 
 
+- [chomosuke/term-edit.nvim](https://github.com/chomosuke/term-edit.nvim) - Allowing you to edit your command in the terminal just like any other buffers.
 - [martineausimon/nvim-bard](https://github.com/martineausimon/nvim-bard) - A minimal plugin to interact with Google Bard in Neovim
 - [nyngwang/suave.lua](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation
 - [princejoogie/dir-telescope.nvim](https://github.com/princejoogie/dir-telescope.nvim) - Perform telescope functions in a selected directory
@@ -1541,7 +1547,7 @@
 - [thoughtbot/til](https://github.com/thoughtbot/til) - Today I Learned
 - [jwworth/til](https://github.com/jwworth/til) - ⌨️  Technical articles, needless words omitted
 - [paulmartins/hugo-digital-garden-theme](https://github.com/paulmartins/hugo-digital-garden-theme) - Hugo Theme for digital gardening projects.
-- [Serra-Technologies/serra](https://github.com/Serra-Technologies/serra) - Python-based dbt alternative
+- [Serra-Technologies/serra](https://github.com/Serra-Technologies/serra) - Build elegant data pipelines in Spark
 - [Barbaross93/Nebula](https://github.com/Barbaross93/Nebula) - Desktop setup
 - [christophercalm/if-im-gone](https://github.com/christophercalm/if-im-gone) - A cheat sheet for if I am somehow incapacitated.
 - [willmeyers/gptq](https://github.com/willmeyers/gptq) - 
