@@ -1579,7 +1579,7 @@
 - [frioux/blog](https://github.com/frioux/blog) - My blog
 - [jarolrod/vim-python-ide](https://github.com/jarolrod/vim-python-ide) - Python development config
 - [johngrib/vim-game-code-break](https://github.com/johngrib/vim-game-code-break) - Block-breaking game in vim 8.0
-- [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
+- [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [ctjhoa/spacevim](https://github.com/ctjhoa/spacevim) - Spacemacs for vim
 - [rbong/vim-vertical](https://github.com/rbong/vim-vertical) - Vertical w and e motions for vim.
