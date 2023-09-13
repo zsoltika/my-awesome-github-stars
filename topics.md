@@ -2951,7 +2951,7 @@
 - [flipcoder/textbeat](https://github.com/flipcoder/textbeat) - 🎹 plaintext music sequencer and midi shell, with vim playback and the powers of music theory  🥁
 - [p-e-w/envy](https://github.com/p-e-w/envy) - Text editing supercharger
 - [WuTheFWasThat/vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
-- [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
+- [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [ctjhoa/spacevim](https://github.com/ctjhoa/spacevim) - Spacemacs for vim
