@@ -1354,6 +1354,7 @@
 
 ## Rust 
 
+- [dzfrias/projectable](https://github.com/dzfrias/projectable) - :dizzy: A TUI file manager built for projects
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
