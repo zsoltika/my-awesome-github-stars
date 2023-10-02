@@ -19,6 +19,7 @@
 - [awesome-list](#awesome-list)
 - [aws](#aws)
 - [azure](#azure)
+- [backend](#backend)
 - [bash](#bash)
 - [bioinformatics](#bioinformatics)
 - [bootstrap](#bootstrap)
@@ -381,6 +382,11 @@
 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
+
+## backend 
+
+- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 
 ## bash 
 
@@ -1590,8 +1596,6 @@
 - [rhettinger/modernpython](https://github.com/rhettinger/modernpython) - Sample code for the video course: Modern Python: Big Ideas, Little Code
 - [JeffPaine/beautiful_idiomatic_python](https://github.com/JeffPaine/beautiful_idiomatic_python) - Notes from Raymond Hettinger's talk at PyCon US 2013.
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
-- [DemoninCG/ArrayGame](https://github.com/DemoninCG/ArrayGame) - Expand your array, reach unimaginable numbers!
-- [DemoninCG/DodecaDragons](https://github.com/DemoninCG/DodecaDragons) - Grow your dragon, grow your empire!
 - [peterhil/awesome-ultraviolet](https://github.com/peterhil/awesome-ultraviolet) - Awesome WM theme with dark violet colours
 - [StefanSalewski/NimProgrammingBook](https://github.com/StefanSalewski/NimProgrammingBook) - Computer Programming with the Nim Programming Language -- A gentle Introduction
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
