@@ -971,6 +971,7 @@
 
 ## Python 
 
+- [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [Deepali-Srivastava/data-structures-and-algorithms-in-python](https://github.com/Deepali-Srivastava/data-structures-and-algorithms-in-python) - Data Structures and Algorithms in Python ( DSA )
@@ -1572,7 +1573,7 @@
 - [kassio/neoterm](https://github.com/kassio/neoterm) - Wrapper of some vim/neovim's :terminal functions.
 - [jvns/vimconfig](https://github.com/jvns/vimconfig) - 
 - [freitass/todo.txt-vim](https://github.com/freitass/todo.txt-vim) - Vim plugin for Todo.txt
-- [chimay/wheel](https://github.com/chimay/wheel) - Any line in any file is only a few keys away. Quick navigation for Vim and Neovim : file groups, buffers, find, grep/edit, mru, frecency, persistent session, yank, ...
+- [chimay/wheel](https://github.com/chimay/wheel) - Any line in any file is only a few keys away. Quick navigation for Vim and Neovim : file groups, buffers, find, grep/edit, mru, frecency, sessions, yank, ...
 - [orlp/vim-quick-replace](https://github.com/orlp/vim-quick-replace) - A quick find/replace plugin for Vim.
 - [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim) - Vim and Neovim plugin to reveal the commit messages under the cursor
 - [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
