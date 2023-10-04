@@ -60,7 +60,6 @@
 - [electron](#electron)
 - [elixir](#elixir)
 - [emacs](#emacs)
-- [ember](#ember)
 - [emoji](#emoji)
 - [finance](#finance)
 - [firebase](#firebase)
@@ -263,7 +262,7 @@
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [braintree/runbook](https://github.com/braintree/runbook) - A framework for gradual system automation
 - [repeats/Repeat](https://github.com/repeats/Repeat) - Cross-platform mouse/keyboard record/replay and automation hotkeys/macros creation, and more advanced automation features.
-- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
+- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 
 ## awesome 
@@ -447,7 +446,7 @@
 - [ThakeeNathees/pocketlang](https://github.com/ThakeeNathees/pocketlang) - A lightweight, fast embeddable scripting language.
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [Keruspe/GPaste](https://github.com/Keruspe/GPaste) - Clipboard management system
-- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
+- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar
 - [HarveyHunt/howm](https://github.com/HarveyHunt/howm) - A lightweight, X11 tiling window manager that behaves like vim
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
@@ -811,10 +810,6 @@
 - [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
 - [novoid/Memacs](https://github.com/novoid/Memacs) - What did I do on February 14th 2007? Visualize your (digital) life in Org-mode
 
-## ember 
-
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
-
 ## emoji 
 
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -967,7 +962,7 @@
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [eliukblau/pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
 - [browserpass/browserpass-legacy](https://github.com/browserpass/browserpass-legacy) - Legacy Browserpass repo, development is now happening at:
-- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
+- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
 - [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
@@ -1011,7 +1006,7 @@
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [curiouslychase/goorgeous](https://github.com/curiouslychase/goorgeous) - [DEPRECATED] A go org syntax parser to html
 - [eliukblau/pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
-- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
+- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [itchyny/rexdep](https://github.com/itchyny/rexdep) - Roughly extract dependency relation from source code
@@ -1569,7 +1564,7 @@
 
 ## opencv 
 
-- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
+- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar
 
 ## opengl 
 
@@ -1577,6 +1572,7 @@
 
 ## others 
 
+- [ttscoff/journal-cli](https://github.com/ttscoff/journal-cli) - 
 - [jhvanderschee/hugobricks](https://github.com/jhvanderschee/hugobricks) - 
 - [rwx-research/captain](https://github.com/rwx-research/captain) - The Captain CLI can detect and quarantine flaky tests, automatically retry failed tests, partition files for parallel execution, produce markdown failure summaries, and more. It's compatible with 15 t
 - [badlogic/heissepreise](https://github.com/badlogic/heissepreise) - Jo eh.
