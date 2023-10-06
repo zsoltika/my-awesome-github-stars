@@ -972,6 +972,7 @@
 
 ## Python 
 
+- [MajorcaDevs/dvd](https://github.com/MajorcaDevs/dvd) - Small utility to generate dvd screensaver videos or live streamings
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
