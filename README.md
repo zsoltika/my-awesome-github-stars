@@ -450,7 +450,7 @@
 - [writeas/writeas-cli](https://github.com/writeas/writeas-cli) - Command line client for Write.as / WriteFreely
 - [blampe/goat](https://github.com/blampe/goat) - Render ASCII art as SVG diagrams
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
-- [davidhampgonsalves/life-dashboard](https://github.com/davidhampgonsalves/life-dashboard) - E-Iink based dashboard for every day life
+- [davidhampgonsalves/life-dashboard](https://github.com/davidhampgonsalves/life-dashboard) - E-Iink daily calendar/dashboard
 - [trashhalo/readcli](https://github.com/trashhalo/readcli) - Tool that lets you read website content on the command line
 - [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
 - [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
@@ -667,6 +667,7 @@
 
 ## Jupyter Notebook 
 
+- [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
 - [fastai/nbdev](https://github.com/fastai/nbdev) - Create delightful software with Jupyter Notebooks
 - [blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series:
 - [python-frederick/talks](https://github.com/python-frederick/talks) - A collection of talks presented at Python Frederick
@@ -972,6 +973,9 @@
 
 ## Python 
 
+- [techiescamp/python-for-devops](https://github.com/techiescamp/python-for-devops) - Python for DevOps repo with useful python scripts to learn and implement in your day-to-day devops automation tasks.
+- [Py-Contributors/awesomeScripts](https://github.com/Py-Contributors/awesomeScripts) - A Collection of Awesome Scripts in Python to Ease Daily-Life. Create an issue If you have some great ideas for the new script. Leave a :star:
+- [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts) - Scripts that will make you go WOW!
 - [MajorcaDevs/dvd](https://github.com/MajorcaDevs/dvd) - Small utility to generate dvd screensaver videos or live streamings
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
