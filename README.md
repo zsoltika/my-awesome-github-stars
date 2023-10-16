@@ -507,6 +507,7 @@
 
 ## HTML 
 
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [jhvanderschee/hugobricks](https://github.com/jhvanderschee/hugobricks) - 
 - [paulmartins/hugo-digital-garden-theme](https://github.com/paulmartins/hugo-digital-garden-theme) - Hugo Theme for digital gardening projects.
 - [rhettinger/rhettinger.github.io](https://github.com/rhettinger/rhettinger.github.io) - Public web pages from talks
@@ -648,7 +649,7 @@
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [msubra/kelvi](https://github.com/msubra/kelvi) - A stackoverflow questions monitor
 - [FoxUSA/OpenNote](https://github.com/FoxUSA/OpenNote) - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote.
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [berbaquero/reeddit](https://github.com/berbaquero/reeddit) - Minimal, elastic Reddit reader web-app client
 - [rigoneri/syte](https://github.com/rigoneri/syte) - [Archived] A really simple but powerful packaged personal site that has social integrations like twitter, github, dribbble, instagram, foursquare, tumblr, wordpress, linkedin, spotify/last.fm, and muc
@@ -972,6 +973,7 @@
 
 ## Python 
 
+- [getnikola/blog-template](https://github.com/getnikola/blog-template) - A template for a Nikola-based blog (with Netlify support)
 - [gvwilson/sdxpy](https://github.com/gvwilson/sdxpy) - Software Design by Example: a tool-based introduction with Python
 - [techiescamp/python-for-devops](https://github.com/techiescamp/python-for-devops) - Python for DevOps repo with useful python scripts to learn and implement in your day-to-day devops automation tasks.
 - [Py-Contributors/awesomeScripts](https://github.com/Py-Contributors/awesomeScripts) - A Collection of Awesome Scripts in Python to Ease Daily-Life. Create an issue If you have some great ideas for the new script. Leave a :star:
@@ -1525,6 +1527,7 @@
 
 ## TypeScript 
 
+- [agrmohit/omnivore-epub](https://github.com/agrmohit/omnivore-epub) - A program to generate epub files from your unarchived Omnivore articles
 - [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - [andymatuschak/note-link-janitor](https://github.com/andymatuschak/note-link-janitor) - Maintains backlink structure among interlinked Markdown notes
