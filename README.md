@@ -451,7 +451,7 @@
 - [writeas/writeas-cli](https://github.com/writeas/writeas-cli) - Command line client for Write.as / WriteFreely
 - [blampe/goat](https://github.com/blampe/goat) - Render ASCII art as SVG diagrams
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
-- [davidhampgonsalves/Life-Dashboard](https://github.com/davidhampgonsalves/Life-Dashboard) - E-Iink daily calendar/dashboard
+- [davidhampgonsalves/Life-Dashboard](https://github.com/davidhampgonsalves/Life-Dashboard) - Low power, E-Ink dashboard for every day life running on a hacked Kindle.
 - [trashhalo/readcli](https://github.com/trashhalo/readcli) - Tool that lets you read website content on the command line
 - [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
 - [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
@@ -553,6 +553,7 @@
 
 ## Haskell 
 
+- [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [jez/pandoc-sidenote](https://github.com/jez/pandoc-sidenote) - Convert Pandoc Markdown-style footnotes into sidenotes
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
