@@ -194,7 +194,7 @@
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
 - [przemek83/volbx](https://github.com/przemek83/volbx) - Graphical tool for data manipulation written in C++/Qt.
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep 4.3: an ultra-fast, user-friendly grep replacement. Ugrep combines the best features of other grep, adds new things, and surpasses their search speeds. Includes a TUI, boolean queries (AND/
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep 4.3: ultra-fast, user-friendly grep replacement. Ugrep combines the best features of other grep, adds new features, and surpasses their search speeds. Includes a TUI, boolean queries (AND/O
 - [CoatiSoftware/SourcetrailDB](https://github.com/CoatiSoftware/SourcetrailDB) - Library to export Sourcetrail compatible database files for writing custom indexers
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [tom-seddon/align_window3](https://github.com/tom-seddon/align_window3) - Quickly create tiled window arrangements
@@ -698,6 +698,7 @@
 
 - [artnc/chronofile](https://github.com/artnc/chronofile) - Personal time tracking app
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application
 
 ## Lua 
@@ -1430,7 +1431,6 @@
 
 ## Scala 
 
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [hrj/abandon](https://github.com/hrj/abandon) - :relieved: Simple and Robust Accounting
 
 ## Scheme 
@@ -1698,7 +1698,6 @@
 ## XSLT 
 
 - [captn3m0/boardgame-research](https://github.com/captn3m0/boardgame-research) - List of research around modern boardgames.
-- [jd/asciidoc-book-toolchain](https://github.com/jd/asciidoc-book-toolchain) - Book publishing toolchain based on AsciiDoc
 - [oreillymedia/HTMLBook](https://github.com/oreillymedia/HTMLBook) - Let's write books in HTML!
 - [ianw/bottomupcs](https://github.com/ianw/bottomupcs) - Bottom Up Computer Science
 - [schacon/git-scribe](https://github.com/schacon/git-scribe) - basically the best way to write an ebook
