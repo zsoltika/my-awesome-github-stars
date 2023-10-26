@@ -1077,6 +1077,7 @@
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [timvisee/send-instances](https://github.com/timvisee/send-instances) - 🌍 A list of public Send instances. Mirror.
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [alenros/fake-artist](https://github.com/alenros/fake-artist) - A player aid for A Fake Artist Goes to New York that eliminates the need for a Question master and lets everyone participate.
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -1096,7 +1097,7 @@
 - [flamableconcrete/awesome-online-board-games](https://github.com/flamableconcrete/awesome-online-board-games) - Play board games online with friends!
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [plottertools/hatched](https://github.com/plottertools/hatched) - Convert images to plotter-friendly hatched patterns
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
@@ -1715,7 +1716,6 @@
 - [smmr-software/mabel](https://github.com/smmr-software/mabel) - A fancy BitTorrent client for the terminal
 - [Gavinok/Kickstart.nvim](https://github.com/Gavinok/Kickstart.nvim) - A small, documented, and featureful neovim starter config
 - [xero/figlet-fonts](https://github.com/xero/figlet-fonts) - my collection of figlet / toilet ascii art fonts
-- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [ppeetteerrs/obsidian-zola](https://github.com/ppeetteerrs/obsidian-zola) - A no-brainer solution to turning your Obsidian PKM into a Zola site.
 - [adamgordonbell/csvquote](https://github.com/adamgordonbell/csvquote) - 
 - [jamesseanwright/ron-swanson-quotes](https://github.com/jamesseanwright/ron-swanson-quotes) - Node.js server for providing Ron Swanson quotes
@@ -2742,7 +2742,7 @@
 - [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
 - [void-rs/void](https://github.com/void-rs/void) - terminal-based personal organizer
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
@@ -3091,7 +3091,7 @@
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [jstrieb/quickserv](https://github.com/jstrieb/quickserv) - Dangerously user-friendly web server for quick prototyping and hackathons
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [flexxui/flexx](https://github.com/flexxui/flexx) - Write desktop and web apps in pure Python
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
