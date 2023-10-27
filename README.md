@@ -415,7 +415,7 @@
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [willmeyers/gptq](https://github.com/willmeyers/gptq) - 
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [technosophos/dashing](https://github.com/technosophos/dashing) - A Dash Generator Script for Any HTML
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [noborus/ov](https://github.com/noborus/ov) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
@@ -807,6 +807,7 @@
 
 ## Others 
 
+- [pysan3/Norg-Tutorial](https://github.com/pysan3/Norg-Tutorial) - Norg tutorial with kickstart configuration.
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [rayfrankenstein/AITOW](https://github.com/rayfrankenstein/AITOW) - 
 - [thoughtbot/til](https://github.com/thoughtbot/til) - Today I Learned
@@ -1027,7 +1028,7 @@
 - [StephenBarnes/Zendo-inspired](https://github.com/StephenBarnes/Zendo-inspired) - Two inductive logic games - the computer chooses a rule, and you try to infer the rule by testing examples.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
-- [SamirPaul1/DSAlgo](https://github.com/SamirPaul1/DSAlgo) - 📚A repository that contains all the Data Structures and Algorithms concepts and solutions to various problems in Python3 stored in a structured manner.👨‍💻🎯
+- [SamirPaulb/DSAlgo](https://github.com/SamirPaulb/DSAlgo) - 📚A repository that contains all the Data Structures and Algorithms concepts and solutions to various problems in Python3 stored in a structured manner.👨‍💻🎯
 - [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
 - [marph91/joppy](https://github.com/marph91/joppy) - Python interface for the Joplin data API
 - [Ben-Gillman/onenote_to_markdown](https://github.com/Ben-Gillman/onenote_to_markdown) - Script to convert MS Onenote notebooks to Joplin
