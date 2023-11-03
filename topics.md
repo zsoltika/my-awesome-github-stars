@@ -1307,6 +1307,7 @@
 
 ## learning 
 
+- [jackdoe/programming-for-kids](https://github.com/jackdoe/programming-for-kids) - book for parents and kids.
 - [learn-anything/command-line-tools](https://github.com/learn-anything/command-line-tools) - Awesome Command Line Utilities
 - [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
@@ -2191,7 +2192,7 @@
 - [worrydream/EarlyHistoryOfSmalltalk](https://github.com/worrydream/EarlyHistoryOfSmalltalk) - Cleaned-up HTML version of Alan Kay's HOPL paper, "The Early History of Smalltalk"
 - [smysnk/sikuli-framework](https://github.com/smysnk/sikuli-framework) - SikuliFramework provides an object-oriented abstraction on top of Sikuli to assist with interacting GUI elements, such as sets of buttons, checkboxes, radio buttons, windows and dialogue hierarchies f
 - [dahu/LearnVim](https://github.com/dahu/LearnVim) - A Suggested Path for Learning Vim
-- [gdeer81/marginalia](https://github.com/gdeer81/marginalia) - ultra-lightweight literate programming for clojure inspired by docco
+- [clj-commons/marginalia](https://github.com/clj-commons/marginalia) - ultra-lightweight literate programming for clojure inspired by docco
 - [jdberry/tag](https://github.com/jdberry/tag) - A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags.
 - [osyo-manga/vim-over](https://github.com/osyo-manga/vim-over) - :substitute preview
 - [sublimehq/anim_encoder](https://github.com/sublimehq/anim_encoder) - 
