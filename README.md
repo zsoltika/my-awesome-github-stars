@@ -194,7 +194,7 @@
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
 - [przemek83/volbx](https://github.com/przemek83/volbx) - Graphical tool for data manipulation written in C++/Qt.
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep 4.3: ultra-fast, user-friendly grep replacement. Ugrep combines the best features of other grep, adds new features, and surpasses their search speeds. Includes a TUI, boolean queries (AND/O
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 4.3: ultra-fast, user-friendly grep replacement. Ugrep combines the best features of other grep, adds new features, and surpasses their search speeds. Includes a TUI, boolean queries (AND/OR/N
 - [CoatiSoftware/SourcetrailDB](https://github.com/CoatiSoftware/SourcetrailDB) - Library to export Sourcetrail compatible database files for writing custom indexers
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [tom-seddon/align_window3](https://github.com/tom-seddon/align_window3) - Quickly create tiled window arrangements
@@ -510,6 +510,7 @@
 
 ## HTML 
 
+- [kubero-dev/ladder](https://github.com/kubero-dev/ladder) - Alternative to 12ft.io. Bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [ejmg/zerm](https://github.com/ejmg/zerm) - a minimalist and dark theme for Zola
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [jhvanderschee/hugobricks](https://github.com/jhvanderschee/hugobricks) - 
@@ -549,7 +550,7 @@
 - [mixu/markdown-styles](https://github.com/mixu/markdown-styles) - Markdown to static HTML generator and multiple CSS themes for Markdown
 - [worrydream/EarlyHistoryOfSmalltalk](https://github.com/worrydream/EarlyHistoryOfSmalltalk) - Cleaned-up HTML version of Alan Kay's HOPL paper, "The Early History of Smalltalk"
 - [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
-- [clj-commons/marginalia](https://github.com/clj-commons/marginalia) - ultra-lightweight literate programming for clojure inspired by docco
+- [clj-commons/marginalia](https://github.com/clj-commons/marginalia) - Ultra-lightweight literate programming for clojure inspired by docco
 - [propublica/upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS! (Or do more.)
 - [coolwanglu/pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [diveintomark/diveintopython3](https://github.com/diveintomark/diveintopython3) - [Mirror] Dive Into Python 3 online book
@@ -1378,6 +1379,7 @@
 
 ## Rust 
 
+- [KnorrFG/dotree](https://github.com/KnorrFG/dotree) - A small, interactive command runner
 - [dzfrias/projectable](https://github.com/dzfrias/projectable) - :dizzy: A TUI file manager built for projects
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
