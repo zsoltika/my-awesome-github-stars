@@ -1622,7 +1622,7 @@
 
 ## others 
 
-- [kubero-dev/ladder](https://github.com/kubero-dev/ladder) - Alternative to 12ft.io. Bypass paywalls with a proxy ladder and remove CORS headers from any URL
+- [kubero-dev/ladder](https://github.com/kubero-dev/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io Bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [KnorrFG/dotree](https://github.com/KnorrFG/dotree) - A small, interactive command runner
 - [soimort/translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 - [pawroman/zola-theme-terminimal](https://github.com/pawroman/zola-theme-terminimal) - A simple, minimal retro theme for Zola
