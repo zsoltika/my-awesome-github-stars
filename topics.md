@@ -171,6 +171,7 @@
 - [spacevim](#spacevim)
 - [sql](#sql)
 - [sql-server](#sql-server)
+- [sqlite](#sqlite)
 - [statistics](#statistics)
 - [sublime-text](#sublime-text)
 - [svelte](#svelte)
@@ -1684,7 +1685,6 @@
 - [beyondcode/writeout.ai](https://github.com/beyondcode/writeout.ai) - Transcribe and translate your audio files - for free
 - [Leo-G/devopswiki](https://github.com/Leo-G/devopswiki) - please refer to the datascience wiki
 - [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers.com Public
-- [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [hodgesmr/mastodon_digest](https://github.com/hodgesmr/mastodon_digest) - A Python script that aggregates recent popular posts from your Mastodon timeline
 - [ldelossa/nvim-ide](https://github.com/ldelossa/nvim-ide) - A full featured IDE layer for Neovim. Heavily inspired by VSCode.
 - [zsviczian/excalibrain](https://github.com/zsviczian/excalibrain) - A graph view to navigate your Obsidian vault
@@ -2908,6 +2908,13 @@
 ## sql-server 
 
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
+
+## sqlite 
+
+- [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
+- [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
+- [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 
 ## statistics 
 
