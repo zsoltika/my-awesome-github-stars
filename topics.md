@@ -1629,6 +1629,7 @@
 
 ## others 
 
+- [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
 - [chenxwh/insanely-fast-whisper](https://github.com/chenxwh/insanely-fast-whisper) - Incredibly fast Whisper-large-v3
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [KnorrFG/dotree](https://github.com/KnorrFG/dotree) - A small, interactive command runner
