@@ -988,6 +988,7 @@
 
 ## Python 
 
+- [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
 - [jackdoe/programming-for-kids](https://github.com/jackdoe/programming-for-kids) - book for parents and kids.
 - [getnikola/blog-template](https://github.com/getnikola/blog-template) - A template for a Nikola-based blog (with Netlify support)
 - [gvwilson/sdxpy](https://github.com/gvwilson/sdxpy) - Software Design by Example: a tool-based introduction with Python
