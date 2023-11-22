@@ -1415,7 +1415,6 @@
 - [cody2007/arcane_fortune](https://github.com/cody2007/arcane_fortune) - Arcane Fortune is a game of empire building, diplomacy, conquest, construction, and deconstruction.
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [overclockworked64/hstr-rs](https://github.com/overclockworked64/hstr-rs) - hstr, but with paging, Unicode, and fuzzy matching
 - [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
 - [void-rs/void](https://github.com/void-rs/void) - terminal-based personal organizer
