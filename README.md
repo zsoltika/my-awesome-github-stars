@@ -783,7 +783,7 @@
 
 ## Nim 
 
-- [c-blake/bu](https://github.com/c-blake/bu) - B)asic|But-For U)tility Code/Programs (Usually Nim & With Unix/POSIX/Linux Context)
+- [c-blake/bu](https://github.com/c-blake/bu) - B)asic|But-For U)tility Code/Programs (in Nim & Often Unix/POSIX/Linux Context)
 
 ## Nix 
 
