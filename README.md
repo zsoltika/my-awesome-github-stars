@@ -410,6 +410,7 @@
 
 ## Go 
 
+- [benhoyt/zztgo](https://github.com/benhoyt/zztgo) - Port of ZZT to Go (using a Pascal-to-Go converter)
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [Jacalz/rymdport](https://github.com/Jacalz/rymdport) - Cross-platform application for easy encrypted file, folder, and text sharing between devices.
 - [psanford/wormhole-william](https://github.com/psanford/wormhole-william) - End-to-end encrypted file transfer. A magic wormhole CLI and API in Go (golang).
