@@ -176,6 +176,7 @@
 - [sublime-text](#sublime-text)
 - [svelte](#svelte)
 - [symfony](#symfony)
+- [telegram](#telegram)
 - [terminal](#terminal)
 - [termux](#termux)
 - [terraform](#terraform)
@@ -479,6 +480,7 @@
 
 ## cli 
 
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [quambene/bogrep](https://github.com/quambene/bogrep) - Grep your bookmarks
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [Py-Contributors/awesomeScripts](https://github.com/Py-Contributors/awesomeScripts) - A Collection of Awesome Scripts in Python to Ease Daily-Life. Create an issue If you have some great ideas for the new script. Leave a :star:
@@ -1192,6 +1194,7 @@
 
 ## image-processing 
 
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [LeviBorodenko/primify](https://github.com/LeviBorodenko/primify) - Embed any image into a prime number.
 - [ern0/shrinkshot](https://github.com/ern0/shrinkshot) - ✂ CLI tool for shrink images by removing empty regions (best use case: screenshot)
@@ -1863,7 +1866,7 @@
 - [zombocom/rundoc](https://github.com/zombocom/rundoc) - RunDOC generates documentation by running scripts and embedding their results in the doc
 - [CreativeInquiry/PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Library for Processing
 - [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - Ugrep 4.3: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI, Google-like search with AND/OR/NOT, fuzz
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - Ugrep 4.3: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy search
 - [vim-volt/volt](https://github.com/vim-volt/volt) - A meta-level vim package manager
 - [liljencrantz/crush](https://github.com/liljencrantz/crush) - Crush is a command line shell that is also a powerful modern programming language.
 - [go-jira/jira](https://github.com/go-jira/jira) - simple jira command line client in Go
@@ -2434,6 +2437,7 @@
 
 ## powershell 
 
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [fresh2dev/AnyBox](https://github.com/fresh2dev/AnyBox) - The easiest way to develop apps for Windows.
 - [vexx32/PSKoans](https://github.com/vexx32/PSKoans) - A simple, fun, and interactive way to learn the PowerShell language through Pester unit testing.
@@ -2940,8 +2944,13 @@
 
 - [ernestwisniewski/kbin](https://github.com/ernestwisniewski/kbin) - A reddit-like content aggregator and micro-blogging platform for the fediverse.
 
+## telegram 
+
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
+
 ## terminal 
 
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [joelibaceta/webcam-fixed-terminal](https://github.com/joelibaceta/webcam-fixed-terminal) - Multi terminal experience
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
@@ -3023,6 +3032,7 @@
 
 ## twitter 
 
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
 
 ## typescript 
