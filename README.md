@@ -725,7 +725,7 @@
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [mattmight/advent-of-code-2022](https://github.com/mattmight/advent-of-code-2022) - 
 - [nullchilly/fsread.nvim](https://github.com/nullchilly/fsread.nvim) - Flow state reading in neovim
-- [sile-typesetter/sile](https://github.com/sile-typesetter/sile) - Simon’s Improved Layout Engine
+- [sile-typesetter/sile](https://github.com/sile-typesetter/sile) - The SILE Typesetter — Simon’s Improved Layout Engine
 - [ElPiloto/telescope-vimwiki.nvim](https://github.com/ElPiloto/telescope-vimwiki.nvim) - look through your vimwiki with your telescope
 - [mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim) - Neovim extension for zk
 - [fabiospampinato/termux-env](https://github.com/fabiospampinato/termux-env) - My super-quick-to-setup Termux environment.
@@ -747,7 +747,7 @@
 - [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) - Interactive real time neovim scratchpad for embedded lua engine - type and watch!
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.9+.
 - [letoram/pipeworld](https://github.com/letoram/pipeworld) - Dataflow 'spreadsheet' desktop environment
-- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - magit for neovim
+- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [famiu/feline.nvim](https://github.com/famiu/feline.nvim) - A minimal, stylish and customizable statusline for Neovim written in Lua
 - [dobrovolsky/kb-notes.nvim](https://github.com/dobrovolsky/kb-notes.nvim) - Note-taking plugin builtt on to of nvim
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
@@ -1592,7 +1592,7 @@
 
 ## Vim Script 
 
-- [jwworth/til](https://github.com/jwworth/til) - ⌨️  Technical articles, needless words omitted
+- [jwworth/til](https://github.com/jwworth/til) - ⌨️  Technical articles; needless words omitted
 - [romainl/vim-devdocs](https://github.com/romainl/vim-devdocs) - Look up keyword on https://devdocs.io from Vim
 - [lervag/wiki.vim](https://github.com/lervag/wiki.vim) - A wiki plugin for Vim
 - [braintreeps/vim_dotfiles](https://github.com/braintreeps/vim_dotfiles) - our vim dotfiles
