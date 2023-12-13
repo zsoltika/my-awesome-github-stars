@@ -1404,7 +1404,7 @@
 - [akkartik/teliva](https://github.com/akkartik/teliva) - Fork of Lua 5.1 to encourage end-user programming
 - [nyngwang/suave.lua](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation
 - [princejoogie/dir-telescope.nvim](https://github.com/princejoogie/dir-telescope.nvim) - Perform telescope functions in a selected directory
-- [sile-typesetter/sile](https://github.com/sile-typesetter/sile) - Simon’s Improved Layout Engine
+- [sile-typesetter/sile](https://github.com/sile-typesetter/sile) - The SILE Typesetter — Simon’s Improved Layout Engine
 - [VonHeikemen/nvim-starter](https://github.com/VonHeikemen/nvim-starter) - Neovim example configuration. To help you start in your journey
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [anuvyklack/hydra.nvim](https://github.com/anuvyklack/hydra.nvim) - Create custom submodes and menus
@@ -1664,7 +1664,7 @@
 - [xxuejie/micro-acme](https://github.com/xxuejie/micro-acme) - Acme style editing plugin for micro editor
 - [SjoerdV/ConvertOneNote2MarkDown](https://github.com/SjoerdV/ConvertOneNote2MarkDown) - Ready to make the step to Markdown and saying farewell to your OneNote, EverNote or whatever proprietary note taking tool you are using? Nothing beats clear text, right? Read on!
 - [thoughtbot/til](https://github.com/thoughtbot/til) - Today I Learned
-- [jwworth/til](https://github.com/jwworth/til) - ⌨️  Technical articles, needless words omitted
+- [jwworth/til](https://github.com/jwworth/til) - ⌨️  Technical articles; needless words omitted
 - [paulmartins/hugo-digital-garden-theme](https://github.com/paulmartins/hugo-digital-garden-theme) - Hugo Theme for digital gardening projects.
 - [Serra-Technologies/serra](https://github.com/Serra-Technologies/serra) - Build elegant data pipelines in Spark
 - [Barbaross93/Nebula](https://github.com/Barbaross93/Nebula) - Desktop setup
@@ -1820,7 +1820,7 @@
 - [tomerfiliba/plumbum](https://github.com/tomerfiliba/plumbum) - Plumbum: Shell Combinators
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies
 - [mkhorasani/excel_word_automation](https://github.com/mkhorasani/excel_word_automation) - Integrate Excel with Word to generate automated reports seamlessly
-- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - magit for neovim
+- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [jvns/vimconfig](https://github.com/jvns/vimconfig) - 
 - [jvns/twine-stories](https://github.com/jvns/twine-stories) - twine
 - [honza/vim-snippets](https://github.com/honza/vim-snippets) - vim-snipmate default snippets (Previously snipmate-snippets)
@@ -2497,7 +2497,7 @@
 ## publishing 
 
 - [nteract/papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
-- [sile-typesetter/sile](https://github.com/sile-typesetter/sile) - Simon’s Improved Layout Engine
+- [sile-typesetter/sile](https://github.com/sile-typesetter/sile) - The SILE Typesetter — Simon’s Improved Layout Engine
 - [jd/asciidoc-book-toolchain](https://github.com/jd/asciidoc-book-toolchain) - Book publishing toolchain based on AsciiDoc
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [davejacobs/mint](https://github.com/davejacobs/mint) - Word processing for people who love the commandline
