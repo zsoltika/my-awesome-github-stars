@@ -1664,6 +1664,7 @@
 
 ## others 
 
+- [tkellogg/fossil](https://github.com/tkellogg/fossil) - A quick & dirty mastodon client that groups toots by topic
 - [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK3
 - [nubank/morse](https://github.com/nubank/morse) - A graphical, interactive tool for browsing Clojure data
 - [kelly-lin/ranger.nvim](https://github.com/kelly-lin/ranger.nvim) - Ranger plugin for neovim
