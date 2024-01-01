@@ -961,6 +961,7 @@
 
 ## git 
 
+- [p-ranav/hypergrep](https://github.com/p-ranav/hypergrep) - Recursively search directories for a regex pattern
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [codeaprendiz/learn-devops](https://github.com/codeaprendiz/learn-devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
 - [keis/git-fixup](https://github.com/keis/git-fixup) - Fighting the copy-paste element of your rebase workflow.
