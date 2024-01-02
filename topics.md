@@ -1670,6 +1670,7 @@
 
 ## others 
 
+- [symbolicsoft/enclave](https://github.com/symbolicsoft/enclave) - Command-line secure encrypted deniable cloud-synchronized notebook
 - [atiumcache/pure-recipe](https://github.com/atiumcache/pure-recipe) - Input a recipe URL and receive well-formatted, ad-free recipes to your terminal, or save the output to a markdown file.
 - [tkellogg/fossil](https://github.com/tkellogg/fossil) - A quick & dirty mastodon client that groups toots by topic
 - [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK3
