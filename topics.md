@@ -1911,7 +1911,7 @@
 - [zombocom/rundoc](https://github.com/zombocom/rundoc) - RunDOC generates documentation by running scripts and embedding their results in the doc
 - [CreativeInquiry/PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Library for Processing
 - [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - Ugrep 4.4: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy search
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - Ugrep 4.5: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy search
 - [vim-volt/volt](https://github.com/vim-volt/volt) - A meta-level vim package manager
 - [liljencrantz/crush](https://github.com/liljencrantz/crush) - Crush is a command line shell that is also a powerful modern programming language.
 - [go-jira/jira](https://github.com/go-jira/jira) - simple jira command line client in Go
@@ -2547,6 +2547,7 @@
 
 ## python 
 
+- [aerkalov/ebooklib](https://github.com/aerkalov/ebooklib) - Python E-book library for handling books in EPUB2/EPUB3  format -
 - [yazdipour/OmnivoreQL](https://github.com/yazdipour/OmnivoreQL) - Omnivore API client for Python
 - [aceinnolab/Inkycal](https://github.com/aceinnolab/Inkycal) - Create awesome e-paper dashboards within minutes! Modularity? Check! Python3? Check? Works on Raspberry Pi Zero W? Check! Support for own modules? Check!
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
