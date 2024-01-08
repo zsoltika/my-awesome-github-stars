@@ -1010,6 +1010,7 @@
 
 ## Python 
 
+- [liiight/notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [aerkalov/ebooklib](https://github.com/aerkalov/ebooklib) - Python E-book library for handling books in EPUB2/EPUB3  format -
 - [eschluntz/compress](https://github.com/eschluntz/compress) - Text compression for generating keyboard expansions
 - [yazdipour/OmnivoreQL](https://github.com/yazdipour/OmnivoreQL) - Omnivore API client for Python
