@@ -262,7 +262,6 @@
 - [mjul/docjure](https://github.com/mjul/docjure) - Read and write Office documents from Clojure
 - [dundalek/closh](https://github.com/dundalek/closh) - Bash-like shell based on Clojure
 - [google/clojure-turtle](https://github.com/google/clojure-turtle) - A Clojure library that implements the Logo programming language in a Clojure context
-- [tomscii/banks2ledger](https://github.com/tomscii/banks2ledger) - Convert bank account CSV to ledger with probabilistic payment matching
 - [clojure/test.check](https://github.com/clojure/test.check) - QuickCheck for Clojure
 - [day8/re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building user interfaces, leveraging React
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
@@ -930,6 +929,7 @@
 - [mattharrison/Tiny-Python-3.6-Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - This repository contains the text for the Tiny Python 3.6 Notebook.
 - [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
 - [noctuid/evil-guide](https://github.com/noctuid/evil-guide) - Draft of a guide for using emacs with evil
+- [tomscii/banks2ledger](https://github.com/tomscii/banks2ledger) - Convert bank account CSV to ledger with probabilistic payment matching
 - [Olshansk/interview](https://github.com/Olshansk/interview) - Everything you need to prepare for your technical interview
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -1581,6 +1581,7 @@
 
 ## TypeScript 
 
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
 - [omnivore-app/obsidian-omnivore](https://github.com/omnivore-app/obsidian-omnivore) - Obsidian plugin to fetch articles and highlights from Omnivore
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [agrmohit/omnivore-epub](https://github.com/agrmohit/omnivore-epub) - A program to generate epub files from your unarchived Omnivore articles
