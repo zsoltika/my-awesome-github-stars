@@ -640,6 +640,7 @@
 
 ## css 
 
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
 - [Jieiku/abridge](https://github.com/Jieiku/abridge) - Fast & Lightweight Zola Theme
 - [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
 - [underpig1/octos](https://github.com/underpig1/octos) - HTML live wallpaper engine :rocket:
@@ -1105,6 +1106,7 @@
 
 ## hacktoberfest 
 
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [PataphysicalSociety/soupault](https://github.com/PataphysicalSociety/soupault) - Static website generator based on HTML element tree rewriting
 - [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts) - Scripts that will make you go WOW!
@@ -1186,6 +1188,7 @@
 
 ## html 
 
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
 - [Jieiku/abridge](https://github.com/Jieiku/abridge) - Fast & Lightweight Zola Theme
 - [underpig1/octos](https://github.com/underpig1/octos) - HTML live wallpaper engine :rocket:
 - [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) - Thin wrapper for "pandoc" (MIT)
@@ -1246,6 +1249,7 @@
 
 ## javascript 
 
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
 - [adamritter/fastgron](https://github.com/adamritter/fastgron) - High-performance JSON to GRON (greppable, flattened JSON) converter
 - [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts) - Scripts that will make you go WOW!
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
@@ -1670,6 +1674,10 @@
 
 ## others 
 
+- [callummcdougall/computational-thread-art](https://github.com/callummcdougall/computational-thread-art) - Code that renders an image as a series of lines connecting pins around a circular frame (for more detail, see my Medium page).
+- [ctuncan/bga_bgstats](https://github.com/ctuncan/bga_bgstats) - Create a bgsplay file containing games played on Board Game Arena to import to BG Stats
+- [fenglisch/bgg-bulk-upload](https://github.com/fenglisch/bgg-bulk-upload) - 
+- [fenglisch/bgg-names-to-ids](https://github.com/fenglisch/bgg-names-to-ids) - 
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [caraya/epub-zen](https://github.com/caraya/epub-zen) - Epub Zen Garden Content
 - [omnivore-app/obsidian-omnivore](https://github.com/omnivore-app/obsidian-omnivore) - Obsidian plugin to fetch articles and highlights from Omnivore
@@ -1968,7 +1976,6 @@
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [jschaf/esup](https://github.com/jschaf/esup) - ESUP - Emacs Start Up Profiler
 - [larstvei/Focus](https://github.com/larstvei/Focus) - Dim the font color of text in surrounding paragraphs
-- [pearsonkyle/Neural-Nebula](https://github.com/pearsonkyle/Neural-Nebula) - A deep conv. generative adversarial network trained on nebula and images of space
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 - [unqueued/sublime-notelink](https://github.com/unqueued/sublime-notelink) - Sublime Text 3 plugin to add wiki-style links between notes
 - [na-ka-na/ExcelCompare](https://github.com/na-ka-na/ExcelCompare) - Command line tool (and API) for diffing Excel Workbooks
