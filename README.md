@@ -525,6 +525,8 @@
 
 ## HTML 
 
+- [callummcdougall/computational-thread-art](https://github.com/callummcdougall/computational-thread-art) - Code that renders an image as a series of lines connecting pins around a circular frame (for more detail, see my Medium page).
+- [fenglisch/bgg-names-to-ids](https://github.com/fenglisch/bgg-names-to-ids) - 
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [pawroman/zola-theme-terminimal](https://github.com/pawroman/zola-theme-terminimal) - A simple, minimal retro theme for Zola
 - [ejmg/zerm](https://github.com/ejmg/zerm) - a minimalist and dark theme for Zola
@@ -601,6 +603,7 @@
 
 ## JavaScript 
 
+- [fenglisch/bgg-bulk-upload](https://github.com/fenglisch/bgg-bulk-upload) - 
 - [nubank/morse](https://github.com/nubank/morse) - A graphical, interactive tool for browsing Clojure data
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [Jieiku/abridge](https://github.com/Jieiku/abridge) - Fast & Lightweight Zola Theme
@@ -1012,6 +1015,7 @@
 
 ## Python 
 
+- [ctuncan/bga_bgstats](https://github.com/ctuncan/bga_bgstats) - Create a bgsplay file containing games played on Board Game Arena to import to BG Stats
 - [liiight/notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [aerkalov/ebooklib](https://github.com/aerkalov/ebooklib) - Python E-book library for handling books in EPUB2/EPUB3  format -
 - [eschluntz/compress](https://github.com/eschluntz/compress) - Text compression for generating keyboard expansions
@@ -1173,7 +1177,6 @@
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [jithurjacob/Windows-10-Toast-Notifications](https://github.com/jithurjacob/Windows-10-Toast-Notifications) - Python library to display Windows 10 Toast Notifications
-- [pearsonkyle/Neural-Nebula](https://github.com/pearsonkyle/Neural-Nebula) - A deep conv. generative adversarial network trained on nebula and images of space
 - [unqueued/sublime-notelink](https://github.com/unqueued/sublime-notelink) - Sublime Text 3 plugin to add wiki-style links between notes
 - [renerocksai/sublime_zk](https://github.com/renerocksai/sublime_zk) - A SublimeText3 package featuring ID based wiki style links, and #tags, intended for zettelkasten method users. Loaded with tons of features like inline image display, sophisticated tag search, note tr
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
