@@ -1180,6 +1180,7 @@
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [jithurjacob/Windows-10-Toast-Notifications](https://github.com/jithurjacob/Windows-10-Toast-Notifications) - Python library to display Windows 10 Toast Notifications
+- [pearsonkyle/Neural-Nebula](https://github.com/pearsonkyle/Neural-Nebula) - A deep conv. generative adversarial network trained on nebula and images of space
 - [unqueued/sublime-notelink](https://github.com/unqueued/sublime-notelink) - Sublime Text 3 plugin to add wiki-style links between notes
 - [renerocksai/sublime_zk](https://github.com/renerocksai/sublime_zk) - A SublimeText3 package featuring ID based wiki style links, and #tags, intended for zettelkasten method users. Loaded with tons of features like inline image display, sophisticated tag search, note tr
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
