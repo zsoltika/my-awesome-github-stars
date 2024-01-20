@@ -479,7 +479,7 @@
 - [sgreben/yeetgif](https://github.com/sgreben/yeetgif) - gif effects CLI. single binary, no dependencies. linux, osx, windows. #1 workplace productivity booster. #yeetgif #eggplant #golang
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
-- [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
+- [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
 - [andrewchambers/sftpplease](https://github.com/andrewchambers/sftpplease) - SFTP &lt;-&gt; Cloud service bridge.
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
