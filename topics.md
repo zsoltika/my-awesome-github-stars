@@ -64,6 +64,7 @@
 - [elixir](#elixir)
 - [emacs](#emacs)
 - [emoji](#emoji)
+- [english](#english)
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -879,6 +880,10 @@
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [sgreben/yeetgif](https://github.com/sgreben/yeetgif) - gif effects CLI. single binary, no dependencies. linux, osx, windows. #1 workplace productivity booster. #yeetgif #eggplant #golang
 
+## english 
+
+- [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
+
 ## finance 
 
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
@@ -1256,6 +1261,7 @@
 ## javascript 
 
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
+- [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [adamritter/fastgron](https://github.com/adamritter/fastgron) - High-performance JSON to GRON (greppable, flattened JSON) converter
 - [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts) - Scripts that will make you go WOW!
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
@@ -1693,7 +1699,6 @@
 - [ctuncan/bga_bgstats](https://github.com/ctuncan/bga_bgstats) - Create a bgsplay file containing games played on Board Game Arena to import to BG Stats
 - [fenglisch/bgg-bulk-upload](https://github.com/fenglisch/bgg-bulk-upload) - 
 - [fenglisch/bgg-names-to-ids](https://github.com/fenglisch/bgg-names-to-ids) - 
-- [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [caraya/epub-zen](https://github.com/caraya/epub-zen) - Epub Zen Garden Content
 - [omnivore-app/obsidian-omnivore](https://github.com/omnivore-app/obsidian-omnivore) - Obsidian plugin to fetch articles and highlights from Omnivore
 - [eschluntz/compress](https://github.com/eschluntz/compress) - Text compression for generating keyboard expansions
