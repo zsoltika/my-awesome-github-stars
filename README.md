@@ -605,6 +605,7 @@
 
 ## JavaScript 
 
+- [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [fenglisch/bgg-bulk-upload](https://github.com/fenglisch/bgg-bulk-upload) - 
 - [nubank/morse](https://github.com/nubank/morse) - A graphical, interactive tool for browsing Clojure data
