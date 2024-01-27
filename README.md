@@ -1019,6 +1019,7 @@
 
 ## Python 
 
+- [anqxyr/mkepub](https://github.com/anqxyr/mkepub) - Simple minimalistic library for creating EPUB3 files
 - [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal news aggregator and Mastodon client
 - [ctuncan/bga_bgstats](https://github.com/ctuncan/bga_bgstats) - Create a bgsplay file containing games played on Board Game Arena to import to BG Stats
 - [liiight/notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
