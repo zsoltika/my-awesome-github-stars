@@ -605,6 +605,7 @@
 
 ## JavaScript 
 
+- [libreom/predirect](https://github.com/libreom/predirect) - A manifest v3 web extension with minimal permissions that automatically redirects popular sites to privacy friendly frontends
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [fenglisch/bgg-bulk-upload](https://github.com/fenglisch/bgg-bulk-upload) - 
@@ -1019,6 +1020,7 @@
 
 ## Python 
 
+- [railsware/mailtrap-python](https://github.com/railsware/mailtrap-python) - Official mailtrap.io Python client
 - [anqxyr/mkepub](https://github.com/anqxyr/mkepub) - Simple minimalistic library for creating EPUB3 files
 - [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal news aggregator and Mastodon client
 - [ctuncan/bga_bgstats](https://github.com/ctuncan/bga_bgstats) - Create a bgsplay file containing games played on Board Game Arena to import to BG Stats
