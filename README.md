@@ -731,6 +731,7 @@
 
 ## Kotlin 
 
+- [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose
 - [artnc/chronofile](https://github.com/artnc/chronofile) - Personal time tracking app
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 - [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application
