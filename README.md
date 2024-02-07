@@ -1020,6 +1020,10 @@
 
 ## Python 
 
+- [imgurbot12/pypub](https://github.com/imgurbot12/pypub) - Python library to programatically create epub files
+- [SteveJob/ebooklib](https://github.com/SteveJob/ebooklib) - Python E-book library for handling books in EPUB2/EPUB3  format -
+- [ChenyangGao/python-epub3](https://github.com/ChenyangGao/python-epub3) - An awsome epub3 library.
+- [gutenbergtools/ebookmaker](https://github.com/gutenbergtools/ebookmaker) - The Project Gutenberg tool to generate EPUBs and other ebook formats.
 - [beejjorgensen/bgnet0](https://github.com/beejjorgensen/bgnet0) - Beej's Guide to Network Concepts source
 - [railsware/mailtrap-python](https://github.com/railsware/mailtrap-python) - Official mailtrap.io Python client
 - [anqxyr/mkepub](https://github.com/anqxyr/mkepub) - Simple minimalistic library for creating EPUB3 files
