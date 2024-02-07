@@ -1389,6 +1389,7 @@
 
 ## library 
 
+- [imgurbot12/pypub](https://github.com/imgurbot12/pypub) - Python library to programatically create epub files
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 
 ## linux 
@@ -1698,6 +1699,9 @@
 
 ## others 
 
+- [SteveJob/ebooklib](https://github.com/SteveJob/ebooklib) - Python E-book library for handling books in EPUB2/EPUB3  format -
+- [ChenyangGao/python-epub3](https://github.com/ChenyangGao/python-epub3) - An awsome epub3 library.
+- [gutenbergtools/ebookmaker](https://github.com/gutenbergtools/ebookmaker) - The Project Gutenberg tool to generate EPUBs and other ebook formats.
 - [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose
 - [beejjorgensen/bgnet0](https://github.com/beejjorgensen/bgnet0) - Beej's Guide to Network Concepts source
 - [railsware/mailtrap-python](https://github.com/railsware/mailtrap-python) - Official mailtrap.io Python client
@@ -2588,6 +2592,7 @@
 
 ## python 
 
+- [imgurbot12/pypub](https://github.com/imgurbot12/pypub) - Python library to programatically create epub files
 - [liiight/notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [aerkalov/ebooklib](https://github.com/aerkalov/ebooklib) - Python E-book library for handling books in EPUB2/EPUB3  format -
 - [yazdipour/OmnivoreQL](https://github.com/yazdipour/OmnivoreQL) - Omnivore API client for Python
