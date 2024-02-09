@@ -1020,6 +1020,7 @@
 
 ## Python 
 
+- [ayushgun/easygmail](https://github.com/ayushgun/easygmail) - A lightweight, minimalistic, and synchronous Python package for quickly sending emails via Gmail.
 - [imgurbot12/pypub](https://github.com/imgurbot12/pypub) - Python library to programatically create epub files
 - [SteveJob/ebooklib](https://github.com/SteveJob/ebooklib) - Python E-book library for handling books in EPUB2/EPUB3  format -
 - [ChenyangGao/python-epub3](https://github.com/ChenyangGao/python-epub3) - An awsome epub3 library.
@@ -1153,7 +1154,7 @@
 - [gotcha/ipdb](https://github.com/gotcha/ipdb) - Integration of IPython pdb
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [Shougo/deoplete.nvim](https://github.com/Shougo/deoplete.nvim) - :stars: Dark powered asynchronous completion framework for neovim/Vim8
-- [GGLucas/PyleWM](https://github.com/GGLucas/PyleWM) - A utility for tiling window management keybindings on Microsoft Windows, inspired by use of i3/awesome.
+- [Lucas7211/PyleWM](https://github.com/Lucas7211/PyleWM) - A utility for tiling window management keybindings on Microsoft Windows, inspired by use of i3/awesome.
 - [inducer/pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
 - [laike9m/Cyberbrain](https://github.com/laike9m/Cyberbrain) - Python debugging, redefined.
 - [clobrano/pynicom](https://github.com/clobrano/pynicom) - A Minicom like Serial Communication program in Python that adds standard shell features like autocompletion, command history, inline help
