@@ -1705,6 +1705,7 @@
 
 ## others 
 
+- [djanderson/aho](https://github.com/djanderson/aho) - A git implementation in awk
 - [ayushgun/easygmail](https://github.com/ayushgun/easygmail) - A lightweight, minimalistic, and synchronous Python package for quickly sending emails via Gmail.
 - [SteveJob/ebooklib](https://github.com/SteveJob/ebooklib) - Python E-book library for handling books in EPUB2/EPUB3  format -
 - [ChenyangGao/python-epub3](https://github.com/ChenyangGao/python-epub3) - An awsome epub3 library.
