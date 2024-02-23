@@ -1754,7 +1754,7 @@
 - [thoughtbot/til](https://github.com/thoughtbot/til) - Today I Learned
 - [jwworth/til](https://github.com/jwworth/til) - ⌨️  Technical articles; needless words omitted
 - [paulmartins/hugo-digital-garden-theme](https://github.com/paulmartins/hugo-digital-garden-theme) - Hugo Theme for digital gardening projects.
-- [Serra-Technologies/serra](https://github.com/Serra-Technologies/serra) - Build elegant data pipelines in Spark
+- [Serra-Technologies/serra](https://github.com/Serra-Technologies/serra) - Build elegant data pipelines
 - [Barbaross93/Nebula](https://github.com/Barbaross93/Nebula) - Desktop setup
 - [christophercalm/if-im-gone](https://github.com/christophercalm/if-im-gone) - A cheat sheet for if I am somehow incapacitated.
 - [willmeyers/gptq](https://github.com/willmeyers/gptq) - 
