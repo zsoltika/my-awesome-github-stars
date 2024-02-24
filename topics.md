@@ -1810,7 +1810,7 @@
 - [biox/pa](https://github.com/biox/pa) - a simple password manager. encryption via age, written in portable posix shell
 - [colindean/plaintextaccounting_workshop](https://github.com/colindean/plaintextaccounting_workshop) - An Introduction and Then Some to Plain Text Accounting with Ledger
 - [bramses/bramses-highly-opinionated-vault-2023](https://github.com/bramses/bramses-highly-opinionated-vault-2023) - A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!
-- [GollyGang/ready](https://github.com/GollyGang/ready) - A cross-platform implementation of various reaction-diffusion systems.
+- [GollyGang/ready](https://github.com/GollyGang/ready) - A cross-platform implementation of various reaction-diffusion systems and PDEs.
 - [nullchilly/fsread.nvim](https://github.com/nullchilly/fsread.nvim) - Flow state reading in neovim
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - Pythonic AI generation of images and videos
 - [samsquire/ideas4](https://github.com/samsquire/ideas4) - An Additional 100 Ideas for Computing https://samsquire.github.io/ideas4/
