@@ -11,6 +11,7 @@
 - [android](#android)
 - [ansible](#ansible)
 - [api](#api)
+- [archlinux](#archlinux)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [atom](#atom)
@@ -253,6 +254,14 @@
 - [mudroljub/programming-quotes-api](https://github.com/mudroljub/programming-quotes-api) - Programming Quotes API for open source projects.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+
+## archlinux 
+
+- [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
+- [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.
+- [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
+- [alwsl/alwsl](https://github.com/alwsl/alwsl) - Install archlinux as the WSL (Windows Subsystem for Linux) host.
 
 ## arduino 
 
@@ -2033,7 +2042,6 @@
 - [crclark96/ginh](https://github.com/crclark96/ginh) - ginh is not a histogram: visually evaluate your shell usage patterns
 - [isteves/ds-puzzles](https://github.com/isteves/ds-puzzles) - https://docs.google.com/presentation/d/163hWgBF299KWb24f_lNRZFn1vX4XPTZTflMc4VWL8EI/edit?usp=sharing
 - [allegro/tipboard](https://github.com/allegro/tipboard) - Tipboard - in-house, tasty, local dashboarding system
-- [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [Kungsgeten/yankpad](https://github.com/Kungsgeten/yankpad) - Paste snippets from an org-mode file
 - [yihui/hugo-xmin](https://github.com/yihui/hugo-xmin) - eXtremely Minimal Hugo theme: about 140 lines of code in total, including HTML and CSS (with no dependencies)
 - [swillner/org-gantt](https://github.com/swillner/org-gantt) - Gantt chart for emacs org-mode
