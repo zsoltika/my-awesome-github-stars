@@ -641,6 +641,7 @@
 - [alenros/fake-artist](https://github.com/alenros/fake-artist) - A player aid for A Fake Artist Goes to New York that eliminates the need for a Question master and lets everyone participate.
 - [movsim/traffic-simulation-de](https://github.com/movsim/traffic-simulation-de) - Source code for javascript simulation of website
 - [ywalia01/dune-api](https://github.com/ywalia01/dune-api) - A simple API which provides you with book, character, movie and quotes JSON data
+- [kulcsarrudolf/podcast](https://github.com/kulcsarrudolf/podcast) - List with podcasts related to software development.
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
 - [tatatap-com/sowhat](https://github.com/tatatap-com/sowhat) - 
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
@@ -889,7 +890,6 @@
 - [samsquire/ideas2](https://github.com/samsquire/ideas2) - Another 85+ Ideas for Computing https://samsquire.github.io/ideas2/
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
-- [kulcsarrudolf/podcast](https://github.com/kulcsarrudolf/podcast) - List with podcasts related to software development.
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 - [paladin-t/fantasy](https://github.com/paladin-t/fantasy) - A curated list of available fantasy consoles/computers.
 - [seiyria/awesome-boardgame-development](https://github.com/seiyria/awesome-boardgame-development) - An awesome list of board game development resources.
