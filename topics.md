@@ -11,7 +11,6 @@
 - [android](#android)
 - [ansible](#ansible)
 - [api](#api)
-- [archlinux](#archlinux)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [atom](#atom)
@@ -255,14 +254,6 @@
 - [mudroljub/programming-quotes-api](https://github.com/mudroljub/programming-quotes-api) - Programming Quotes API for open source projects.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-
-## archlinux 
-
-- [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
-- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
-- [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.
-- [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
-- [alwsl/alwsl](https://github.com/alwsl/alwsl) - Install archlinux as the WSL (Windows Subsystem for Linux) host.
 
 ## arduino 
 
@@ -1245,6 +1236,7 @@
 
 ## http 
 
+- [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [jstrieb/quickserv](https://github.com/jstrieb/quickserv) - Dangerously user-friendly web server for quick prototyping and hackathons
@@ -1729,6 +1721,7 @@
 
 ## others 
 
+- [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
 - [samhocevar/wincompose](https://github.com/samhocevar/wincompose) - 🔣 Compose Key for Windows
 - [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md
 - [mathisgauthey/obsidian-workflow-template](https://github.com/mathisgauthey/obsidian-workflow-template) - This is an Obsidian vault template from my Workflow with Tasks and Project Management, Journaling, Media Tracking, Offline Read-it-later and Bookmark Management, Note-taking and Note-sharing on Your O
@@ -2055,6 +2048,7 @@
 - [crclark96/ginh](https://github.com/crclark96/ginh) - ginh is not a histogram: visually evaluate your shell usage patterns
 - [isteves/ds-puzzles](https://github.com/isteves/ds-puzzles) - https://docs.google.com/presentation/d/163hWgBF299KWb24f_lNRZFn1vX4XPTZTflMc4VWL8EI/edit?usp=sharing
 - [allegro/tipboard](https://github.com/allegro/tipboard) - Tipboard - in-house, tasty, local dashboarding system
+- [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [Kungsgeten/yankpad](https://github.com/Kungsgeten/yankpad) - Paste snippets from an org-mode file
 - [yihui/hugo-xmin](https://github.com/yihui/hugo-xmin) - eXtremely Minimal Hugo theme: about 140 lines of code in total, including HTML and CSS (with no dependencies)
 - [swillner/org-gantt](https://github.com/swillner/org-gantt) - Gantt chart for emacs org-mode
@@ -2904,6 +2898,7 @@
 
 ## rust 
 
+- [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Obsidian Language Server: Markdown language server with advanced linking and syntax features to support any PKM system. It's completely compatible Obsidian markdown syntax and aims to replace and exte
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [ratatui-org/awesome-ratatui](https://github.com/ratatui-org/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
