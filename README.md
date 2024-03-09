@@ -805,6 +805,7 @@
 
 ## Makefile 
 
+- [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
 - [colindean/plaintextaccounting_workshop](https://github.com/colindean/plaintextaccounting_workshop) - An Introduction and Then Some to Plain Text Accounting with Ledger
 - [Helsinki-NLP/Tatoeba-Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge) - 
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
@@ -1444,6 +1445,7 @@
 
 ## Rust 
 
+- [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Obsidian Language Server: Markdown language server with advanced linking and syntax features to support any PKM system. It's completely compatible Obsidian markdown syntax and aims to replace and exte
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
