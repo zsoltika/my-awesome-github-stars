@@ -759,7 +759,7 @@
 
 ## deno 
 
-- [agrmohit/omnivore-epub](https://github.com/agrmohit/omnivore-epub) - A program to generate epub files from your unarchived Omnivore articles and send them to eReaders like Kindle or Pocketbook
+- [agrmohit/omnivore-epub](https://github.com/agrmohit/omnivore-epub) - A program to generate epub files from your Omnivore articles and send them to eReaders like Kindle or Pocketbook
 
 ## deployment 
 
