@@ -611,7 +611,7 @@
 ## JavaScript 
 
 - [mathisgauthey/obsidian-workflow-template](https://github.com/mathisgauthey/obsidian-workflow-template) - This is an Obsidian vault template from my Workflow with Tasks and Project Management, Journaling, Media Tracking, Offline Read-it-later and Bookmark Management, Note-taking and Note-sharing on Your O
-- [libreom/predirect](https://github.com/libreom/predirect) - A manifest v3 web extension with minimal permissions that automatically redirects popular sites to privacy friendly frontends
+- [libreom/predirect](https://github.com/libreom/predirect) - A manifest v3 web extension with minimal permissions to automatically redirect to privacy friendly frontends. ⭐️ Star to support our work!
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [fenglisch/bgg-bulk-upload](https://github.com/fenglisch/bgg-bulk-upload) - 
