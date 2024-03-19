@@ -909,7 +909,6 @@
 - [chubin/Best-websites-a-programmer-should-visit](https://github.com/chubin/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [mateusz-brainhub/awesome-cto-resources](https://github.com/mateusz-brainhub/awesome-cto-resources) - :bulb: A community-curated list of awesome resources to help you grow as a CTO
 - [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [itamarst/pandoc-book-template](https://github.com/itamarst/pandoc-book-template) - LaTeX setup for Pandoc to produce reasonable-looking book PDFs
 - [cerebroapp/awesome-cerebro](https://github.com/cerebroapp/awesome-cerebro) - Curated list of Cerebro plugins and resources
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
@@ -1541,6 +1540,7 @@
 - [muhmud/qsh](https://github.com/muhmud/qsh) - shell-based query tool
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [pascalw/kindle-dash](https://github.com/pascalw/kindle-dash) - Power efficient dashboard for Kindle 4 NT devices
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [salman-abedin/faint](https://github.com/salman-abedin/faint) - Extensible TUI fuzzy file file explorer
 - [chr15m/flk](https://github.com/chr15m/flk) - A LISP that runs wherever Bash is
 - [numcommand/num](https://github.com/numcommand/num) - Num: number utilities for mathematics
