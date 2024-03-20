@@ -130,6 +130,7 @@
 - [mysql](#mysql)
 - [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
+- [nextjs](#nextjs)
 - [nlp](#nlp)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
@@ -496,6 +497,7 @@
 
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
+- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 
 ## chrome 
 
@@ -1550,7 +1552,7 @@
 ## markdown 
 
 - [kepano/kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
-- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Obsidian Language Server: Markdown language server with advanced linking and syntax features to support any PKM system. It's completely compatible Obsidian markdown syntax and aims to replace and exte
+- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Let's record your consciousness! Bring your own text editor! Markdown-Oxide is Obsidian-Inspired, Modal PKM software for tech enthusiasts.
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [Jieiku/abridge](https://github.com/Jieiku/abridge) - Fast & Lightweight Zola Theme
 - [cnshsliu/smp.nvim](https://github.com/cnshsliu/smp.nvim) - NeoVim Markdown Previewer, Outliner, Incremental Searcher and more
@@ -1624,7 +1626,6 @@
 
 ## natural-language-processing 
 
-- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
 - [oroszgy/awesome-hungarian-nlp](https://github.com/oroszgy/awesome-hungarian-nlp) - A curated list of NLP resources for Hungarian
 - [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [huspacy/huspacy](https://github.com/huspacy/huspacy) - HuSpaCy: industrial-strength Hungarian natural language processing
@@ -1685,6 +1686,10 @@
 - [justinmk/vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim :athletic_shoe:
 - [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim.
 - [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
+
+## nextjs 
+
+- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 
 ## nlp 
 
@@ -2661,6 +2666,7 @@
 - [simonw/simonwillisonblog](https://github.com/simonw/simonwillisonblog) - The source code behind my blog
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [spyder-ide/spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
 - [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) - Thin wrapper for "pandoc" (MIT)
 - [fastai/nbdev](https://github.com/fastai/nbdev) - Create delightful software with Jupyter Notebooks
@@ -2915,7 +2921,7 @@
 
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
-- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Obsidian Language Server: Markdown language server with advanced linking and syntax features to support any PKM system. It's completely compatible Obsidian markdown syntax and aims to replace and exte
+- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Let's record your consciousness! Bring your own text editor! Markdown-Oxide is Obsidian-Inspired, Modal PKM software for tech enthusiasts.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [ratatui-org/awesome-ratatui](https://github.com/ratatui-org/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
