@@ -983,7 +983,7 @@
 ## game-engine 
 
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
-- [salt-die/terminal_dungeon](https://github.com/salt-die/terminal_dungeon) - Doom-like raycasting engine that renders to ascii for playing in terminal
+- [salt-die/terminal_dungeon](https://github.com/salt-die/terminal_dungeon) - A raycasting library for your terminal!
 
 ## gamedev 
 
