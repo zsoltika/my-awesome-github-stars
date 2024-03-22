@@ -551,7 +551,6 @@
 - [alan-turing-institute/ReadabiliPy](https://github.com/alan-turing-institute/ReadabiliPy) - A simple HTML content extractor in Python. Can be run as a wrapper for Mozilla's Readability.js package or in pure-python mode.
 - [kgrgreer/foam3](https://github.com/kgrgreer/foam3) - FOAM: Feature-Oriented Active Modeller, Version 3 (unstable)
 - [ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [ehmatthes/pcc_2e](https://github.com/ehmatthes/pcc_2e) - Online resources for Python Crash Course (Second Edition), from No Starch Press
 - [rr-tw5/rr-tw5.github.io](https://github.com/rr-tw5/rr-tw5.github.io) - A Roam Research Styled TiddlyWiki
 - [learnbyexample/learnbyexample.github.io](https://github.com/learnbyexample/learnbyexample.github.io) - My super duper awesome programming blog
@@ -645,6 +644,7 @@
 - [kulcsarrudolf/podcast](https://github.com/kulcsarrudolf/podcast) - List with podcasts related to software development.
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
 - [tatatap-com/sowhat](https://github.com/tatatap-com/sowhat) - 
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [TT-ReBORN/Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN) - A Clean · Full Dynamic Color Reborn · Foobar2000 player
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
@@ -1189,7 +1189,7 @@
 - [plottertools/hatched](https://github.com/plottertools/hatched) - Convert images to plotter-friendly hatched patterns
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [karlicoss/orger](https://github.com/karlicoss/orger) - Tool to convert data into searchable and interactive org-mode views
-- [salt-die/terminal_dungeon](https://github.com/salt-die/terminal_dungeon) - Doom-like raycasting engine that renders to ascii for playing in terminal
+- [salt-die/terminal_dungeon](https://github.com/salt-die/terminal_dungeon) - A raycasting library for your terminal!
 - [purcellconsult/Cracking-Python-Bootcamp](https://github.com/purcellconsult/Cracking-Python-Bootcamp) - A course that helps newbies master the core principles of one of the world's most popular programming languages, python.
 - [lemariva/ePaperWidgets](https://github.com/lemariva/ePaperWidgets) - Widgets on E-INK display using a Raspberry Pi
 - [rougier/matplotlib-tutorial](https://github.com/rougier/matplotlib-tutorial) - Matplotlib tutorial for beginner
