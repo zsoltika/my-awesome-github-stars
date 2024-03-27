@@ -528,7 +528,7 @@
 ## HCL 
 
 - [chadgeary/cloudblock](https://github.com/chadgeary/cloudblock) - Cloudblock deploys secure ad-blocking and VPN for all devices. Text and video guides included! 6 supported cloud providers, plus Ubuntu and Raspberry Pi. Cloudblock deploys Wireguard VPN, Pi-Hole DNS 
-- [codeaprendiz/learn-devops](https://github.com/codeaprendiz/learn-devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
+- [codeaprendiz/learn_devops](https://github.com/codeaprendiz/learn_devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
 - [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers.com Public
 
 ## HTML 
@@ -1413,7 +1413,7 @@
 - [nelstrom/vimprint](https://github.com/nelstrom/vimprint) - VimPrint parses Vim keystrokes and prints them prettily.
 - [AndrewRadev/switch.vim](https://github.com/AndrewRadev/switch.vim) - A simple Vim plugin to switch segments of text with predefined replacements
 - [rubocop/rubocop](https://github.com/rubocop/rubocop) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [ryanb/ruby-warrior](https://github.com/ryanb/ruby-warrior) - Game written in Ruby for learning Ruby and artificial intelligence.
+- [ryanb/ruby-warrior](https://github.com/ryanb/ruby-warrior) - Game written in Ruby for learning Ruby.
 - [markolson/storyboard](https://github.com/markolson/storyboard) - Generate PDFs, ePUB and Mobi files from videos
 - [paulmars/realiaser](https://github.com/paulmars/realiaser) - Realiaser is a game which helps you memorize your shell aliases.
 - [glucero/fusuma](https://github.com/glucero/fusuma) - window management for OSX
@@ -1443,6 +1443,7 @@
 
 ## Rust 
 
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
