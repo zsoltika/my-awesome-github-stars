@@ -781,6 +781,7 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
+- [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
 - [eon01/kubernetes-workshop](https://github.com/eon01/kubernetes-workshop) - ⚙️ A Gentle introduction to Kubernetes with more than just the basics. 🌟 Give it a star if you like it.
 - [dwmkerr/effective-shell](https://github.com/dwmkerr/effective-shell) - Text, samples and website for my 'Effective Shell' series.
@@ -1433,6 +1434,7 @@
 - [akkartik/mu](https://github.com/akkartik/mu) - Soul of a tiny new machine. More thorough tests → More comprehensible and rewrite-friendly software → More resilient society.
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) - A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - [codeaprendiz/learn_devops](https://github.com/codeaprendiz/learn_devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
+- [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
 - [k247tEK/archVM-Hyper-V](https://github.com/k247tEK/archVM-Hyper-V) - Arch Linux virtual machine on Windows10 Hyper-V with Enhanced Session Mode
 - [EvotecIT/PSTeams](https://github.com/EvotecIT/PSTeams) - PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. I
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
@@ -1832,7 +1834,6 @@
 - [technosophos/dashing](https://github.com/technosophos/dashing) - A Dash Generator Script for Any HTML
 - [lyz-code/best-of-digital-gardens](https://github.com/lyz-code/best-of-digital-gardens) - Ranked list of awesome digital gardens / second brains
 - [beyondcode/writeout.ai](https://github.com/beyondcode/writeout.ai) - Transcribe and translate your audio files - for free
-- [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers.com Public
 - [hodgesmr/mastodon_digest](https://github.com/hodgesmr/mastodon_digest) - A Python script that aggregates recent popular posts from your Mastodon timeline
 - [ldelossa/nvim-ide](https://github.com/ldelossa/nvim-ide) - A full featured IDE layer for Neovim. Heavily inspired by VSCode.
 - [zsviczian/excalibrain](https://github.com/zsviczian/excalibrain) - A graph view to navigate your Obsidian vault
