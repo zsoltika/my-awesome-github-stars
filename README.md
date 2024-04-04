@@ -425,6 +425,7 @@
 
 ## Go 
 
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
 - [ttybitnik/diego](https://github.com/ttybitnik/diego) - A CLI tool for importing and utilizing exported social media data from popular services on Hugo websites.
 - [jovandeginste/workout-tracker](https://github.com/jovandeginste/workout-tracker) - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
 - [symbolicsoft/enclave](https://github.com/symbolicsoft/enclave) - Command-line secure encrypted deniable cloud-synchronized notebook
@@ -851,6 +852,7 @@
 
 ## Others 
 
+- [dabeaz/blog](https://github.com/dabeaz/blog) - David Beazley's blog.
 - [kepano/kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
 - [jobindjohn/obsidian-publish-mkdocs](https://github.com/jobindjohn/obsidian-publish-mkdocs) - A Template to Publish Obsidian/Foam Notes on Github Pages (uses MkDocs)
 - [ratatui-org/awesome-ratatui](https://github.com/ratatui-org/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
@@ -1030,6 +1032,9 @@
 
 ## Python 
 
+- [iktakahiro/dddpy](https://github.com/iktakahiro/dddpy) - Python DDD Example and Techniques
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [zotroneneis/magical_universe](https://github.com/zotroneneis/magical_universe) - Awesome Python features explained using the world of magic
 - [tedivm/robs_awesome_python_template](https://github.com/tedivm/robs_awesome_python_template) - A Highly Configurable Python Project Template for Modern Python Projects
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [ayushgun/easygmail](https://github.com/ayushgun/easygmail) - A lightweight, minimalistic, and synchronous Python package for quickly sending emails via Gmail.
@@ -1521,6 +1526,7 @@
 
 ## Shell 
 
+- [asdf-vm/asdf-plugins](https://github.com/asdf-vm/asdf-plugins) - Convenience shortname repository for asdf community plugins
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [Barbaross93/Nebula](https://github.com/Barbaross93/Nebula) - Desktop setup
@@ -1626,7 +1632,7 @@
 - [omnivore-app/obsidian-omnivore](https://github.com/omnivore-app/obsidian-omnivore) - Obsidian plugin to fetch articles and highlights from Omnivore
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
-- [agrmohit/omnivore-epub](https://github.com/agrmohit/omnivore-epub) - A program to generate epub files from your Omnivore articles and send them to eReaders like Kindle or Pocketbook
+- [agrmohit/omnivore-epub](https://github.com/agrmohit/omnivore-epub) - A program to generate epub file from articles saved in your Omnivore library and optionally send it to your eReader using email
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
