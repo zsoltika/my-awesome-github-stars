@@ -840,7 +840,7 @@
 - [dash-docs-el/helm-dash](https://github.com/dash-docs-el/helm-dash) - Browse Dash docsets inside emacs
 - [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
-- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
 
 ## dotnet 
 
@@ -1597,7 +1597,7 @@
 - [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [instant-markdown/vim-instant-markdown](https://github.com/instant-markdown/vim-instant-markdown) - Instant Markdown previews from Vim
-- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
 
 ## mastodon 
 
@@ -2947,7 +2947,7 @@
 - [rubocop/ruby-style-guide](https://github.com/rubocop/ruby-style-guide) - A community-driven Ruby coding style guide
 - [rubocop/rubocop](https://github.com/rubocop/rubocop) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 - [davejacobs/mint](https://github.com/davejacobs/mint) - Word processing for people who love the commandline
-- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
 - [troessner/reek](https://github.com/troessner/reek) - Code smell detector for Ruby
 
 ## rust 
