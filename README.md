@@ -115,6 +115,7 @@
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
 - [AngelJumbo/sssnake](https://github.com/AngelJumbo/sssnake) - cli snake game that plays itself
+- [LinArcX/wmenu](https://github.com/LinArcX/wmenu) - A dmenu clone for windows operating system written with pure win32 API.
 - [taviso/wpunix](https://github.com/taviso/wpunix) - WordPerfect for UNIX Character Terminals
 - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses.
 - [peterfajdiga/EndlessWM](https://github.com/peterfajdiga/EndlessWM) - A proof of concept of a scrolling window manager.
@@ -193,7 +194,6 @@
 - [GollyGang/ready](https://github.com/GollyGang/ready) - A cross-platform implementation of various reaction-diffusion systems and PDEs.
 - [ice-wm/icewm](https://github.com/ice-wm/icewm) - IceWM releases only, see Wiki
 - [guilryder/clavier-plus](https://github.com/guilryder/clavier-plus) - Clavier+ keyboard shortcuts manager for Windows
-- [LinArcX/wmenu](https://github.com/LinArcX/wmenu) - A dmenu clone for windows operating system written with pure win32 API.
 - [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
 - [gnudatalanguage/gdl](https://github.com/gnudatalanguage/gdl) - GDL - GNU Data Language
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
@@ -1445,7 +1445,7 @@
 - [jamis/theseus](https://github.com/jamis/theseus) - A very flexible random maze generator, solver, and renderer for Ruby
 - [michaeledgar/laser](https://github.com/michaeledgar/laser) - Static analysis and style linter for Ruby code.
 - [davejacobs/mint](https://github.com/davejacobs/mint) - Word processing for people who love the commandline
-- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
 - [cantino/ruby-readability](https://github.com/cantino/ruby-readability) - Port of arc90's readability project to Ruby
 - [imathis/octopress](https://github.com/imathis/octopress) - Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?
 - [koraktor/rubikon](https://github.com/koraktor/rubikon) - A simple to use, yet powerful Ruby framework for building console-based applications.
