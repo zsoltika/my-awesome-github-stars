@@ -2667,7 +2667,7 @@
 
 ## python 
 
-- [amirkarimi/browser-hub](https://github.com/amirkarimi/browser-hub) - A Browser wrapper that allows you manage multiple browser instances hassle-free
+- [amirkarimi/browser-hub](https://github.com/amirkarimi/browser-hub) - A Browser wrapper that allows you run multiple browser instances hassle-free
 - [target/make-python-devex](https://github.com/target/make-python-devex) - An example Python project using Make, Homebrew, pyenv, poetry, and other great tools
 - [booktype/Booktype](https://github.com/booktype/Booktype) - Booktype is a free, open source platform that produces beautiful, engaging books formatted for print, Amazon, iBooks and almost any ereader within minutes.
 - [iktakahiro/dddpy](https://github.com/iktakahiro/dddpy) - Python DDD Example and Techniques
