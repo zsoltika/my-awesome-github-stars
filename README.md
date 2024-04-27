@@ -435,7 +435,7 @@
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [Jacalz/rymdport](https://github.com/Jacalz/rymdport) - Cross-platform application for easy encrypted file, folder, and text sharing between devices.
 - [psanford/wormhole-william](https://github.com/psanford/wormhole-william) - End-to-end encrypted file transfer. A magic wormhole CLI and API in Go (golang).
-- [rwx-research/captain](https://github.com/rwx-research/captain) - The Captain CLI can detect and quarantine flaky tests, automatically retry failed tests, partition files for parallel execution, produce markdown failure summaries, and more. It's compatible with 15 t
+- [rwx-research/captain](https://github.com/rwx-research/captain) - The Captain CLI can detect and quarantine flaky tests, automatically retry failed tests, partition files for parallel execution, produce markdown failure summaries, and more. It's compatible with 16 t
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [willmeyers/gptq](https://github.com/willmeyers/gptq) - 
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
