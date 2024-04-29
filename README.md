@@ -299,6 +299,7 @@
 
 ## Dart 
 
+- [munificent/hauberk](https://github.com/munificent/hauberk) - A web-based roguelike written in Dart.
 - [liftoff-app/liftoff](https://github.com/liftoff-app/liftoff) - 🐒  A mobile client for lemmy
 - [thunder-app/thunder](https://github.com/thunder-app/thunder) - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter
 
@@ -534,6 +535,7 @@
 
 ## HTML 
 
+- [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns) - Source repo for the book
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [yihui/hugo-prose](https://github.com/yihui/hugo-prose) - A Hugo theme derived from the XMin theme, and inspired by Wowchemy, Distill, and tufte.css
 - [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
@@ -1459,6 +1461,8 @@
 
 ## Rust 
 
+- [say4n/jf](https://github.com/say4n/jf) - flatten them json
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
