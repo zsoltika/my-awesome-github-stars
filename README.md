@@ -1705,7 +1705,7 @@
 - [lervag/wiki.vim](https://github.com/lervag/wiki.vim) - A wiki plugin for Vim
 - [braintreeps/vim_dotfiles](https://github.com/braintreeps/vim_dotfiles) - our vim dotfiles
 - [liuchengxu/vista.vim](https://github.com/liuchengxu/vista.vim) - :cactus: Viewer & Finder for LSP symbols and tags
-- [lambdalisue/gina.vim](https://github.com/lambdalisue/gina.vim) - 👣  Asynchronously control git repositories in Neovim/Vim 8
+- [lambdalisue/vim-gina](https://github.com/lambdalisue/vim-gina) - 👣  Asynchronously control git repositories in Neovim/Vim 8
 - [rafi/vim-venom](https://github.com/rafi/vim-venom) - Select Python runtimes or activate virtual-environments while working in Neo/Vim.
 - [vuciv/vim-bujo](https://github.com/vuciv/vim-bujo) - A minimalist task manager for vim.
 - [LexSong/nvim-old](https://github.com/LexSong/nvim-old) - My Neovim configs
