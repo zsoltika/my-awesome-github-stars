@@ -116,6 +116,7 @@
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [low-code](#low-code)
 - [lua](#lua)
 - [mac](#mac)
@@ -1015,7 +1016,7 @@
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
-- [lambdalisue/gina.vim](https://github.com/lambdalisue/gina.vim) - 👣  Asynchronously control git repositories in Neovim/Vim 8
+- [lambdalisue/vim-gina](https://github.com/lambdalisue/vim-gina) - 👣  Asynchronously control git repositories in Neovim/Vim 8
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim) - Visual git plugin for Neovim
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
@@ -1486,6 +1487,12 @@
 - [HarveyHunt/howm](https://github.com/HarveyHunt/howm) - A lightweight, X11 tiling window manager that behaves like vim
 - [laurent22/massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
 
+## llm 
+
+- [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
+- [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
+
 ## low-code 
 
 - [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters.
@@ -1673,7 +1680,7 @@
 - [pocco81/true-zen.nvim](https://github.com/pocco81/true-zen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
 - [liuchengxu/vista.vim](https://github.com/liuchengxu/vista.vim) - :cactus: Viewer & Finder for LSP symbols and tags
 - [brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua) - Neovim KISS configuration with Lua
-- [lambdalisue/gina.vim](https://github.com/lambdalisue/gina.vim) - 👣  Asynchronously control git repositories in Neovim/Vim 8
+- [lambdalisue/vim-gina](https://github.com/lambdalisue/vim-gina) - 👣  Asynchronously control git repositories in Neovim/Vim 8
 - [rafi/vim-venom](https://github.com/rafi/vim-venom) - Select Python runtimes or activate virtual-environments while working in Neo/Vim.
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
@@ -1769,6 +1776,7 @@
 
 ## others 
 
+- [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 - [aengusmcmillin/gatsby-theme-brain](https://github.com/aengusmcmillin/gatsby-theme-brain) - 
 - [endrl/jellyfin-plugin-media-analyzer](https://github.com/endrl/jellyfin-plugin-media-analyzer) - Fingerprint audio to automatically detect intro and outro segments in Jellyfin
 - [endrl/jellyfin-plugin-edl](https://github.com/endrl/jellyfin-plugin-edl) - Jellyfin .edl file creation plugin
@@ -3310,7 +3318,7 @@
 - [princejoogie/dir-telescope.nvim](https://github.com/princejoogie/dir-telescope.nvim) - Perform telescope functions in a selected directory
 - [liuchengxu/vista.vim](https://github.com/liuchengxu/vista.vim) - :cactus: Viewer & Finder for LSP symbols and tags
 - [brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua) - Neovim KISS configuration with Lua
-- [lambdalisue/gina.vim](https://github.com/lambdalisue/gina.vim) - 👣  Asynchronously control git repositories in Neovim/Vim 8
+- [lambdalisue/vim-gina](https://github.com/lambdalisue/vim-gina) - 👣  Asynchronously control git repositories in Neovim/Vim 8
 - [rafi/vim-venom](https://github.com/rafi/vim-venom) - Select Python runtimes or activate virtual-environments while working in Neo/Vim.
 - [vuciv/vim-bujo](https://github.com/vuciv/vim-bujo) - A minimalist task manager for vim.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
