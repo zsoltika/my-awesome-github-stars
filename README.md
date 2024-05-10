@@ -1470,6 +1470,7 @@
 
 ## Rust 
 
+- [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 - [say4n/jf](https://github.com/say4n/jf) - flatten them json
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
