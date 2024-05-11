@@ -104,6 +104,7 @@
 
 ## C 
 
+- [getreuer/qmk-keymap](https://github.com/getreuer/qmk-keymap) - My keymap & reusable QMK gems
 - [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
 - [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK3
 - [aceinnolab/Inkycal](https://github.com/aceinnolab/Inkycal) - Create awesome e-paper dashboards within minutes! Modularity? Check! Python3? Check? Works on Raspberry Pi Zero W? Check! Support for own modules? Check!
@@ -427,6 +428,8 @@
 
 ## Go 
 
+- [MHNightCat/superfile](https://github.com/MHNightCat/superfile) - Pretty fancy and modern terminal file manager
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [dimkr/tootik](https://github.com/dimkr/tootik) - A federated nanoblogging service with a Gemini frontend.
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
@@ -1650,6 +1653,7 @@
 
 ## TypeScript 
 
+- [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) - A plugin that can query multiple APIs for movies, series, anime, games, music and wiki articles, and import them into your vault.
 - [datopian/flowershow](https://github.com/datopian/flowershow) - 💐 Publish your obsidian digital garden or any markdown site easily and elegantly.
 - [endrl/segment-editor](https://github.com/endrl/segment-editor) - Segment Editor for Jellyfin Segment API
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
