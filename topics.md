@@ -59,6 +59,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [education](#education)
 - [electron](#electron)
@@ -845,6 +846,18 @@
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
 
+## dotfiles 
+
+- [Barbaross93/Nebula](https://github.com/Barbaross93/Nebula) - Desktop setup
+- [brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua) - Neovim KISS configuration with Lua
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+- [ianthehenry/dotfiles](https://github.com/ianthehenry/dotfiles) - My dotfiles. For easy clonin'.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [Xyene/wsl-dotfiles](https://github.com/Xyene/wsl-dotfiles) - My dotfiles for running an i3-based environment within the Windows Subsystem for Linux (WSL).
+- [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
+
 ## dotnet 
 
 - [wesdoyle/design-patterns-explained-with-food](https://github.com/wesdoyle/design-patterns-explained-with-food) - GoF Design Patterns with "Real-World" examples involving Food-Related Businesses and mock dependencies
@@ -968,6 +981,7 @@
 
 ## game 
 
+- [halfburnttoast/Dungeon-Cross](https://github.com/halfburnttoast/Dungeon-Cross) - A Python-based reimplementation of Zachtronic's Dungeons and Diagrams
 - [finol-digital/Card-Game-Simulator](https://github.com/finol-digital/Card-Game-Simulator) - Create, Share, and Play
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [learnbyexample/TUI-apps](https://github.com/learnbyexample/TUI-apps) - Terminal User Interface (TUI) apps
@@ -998,6 +1012,7 @@
 
 ## gamedev 
 
+- [halfburnttoast/Dungeon-Cross](https://github.com/halfburnttoast/Dungeon-Cross) - A Python-based reimplementation of Zachtronic's Dungeons and Diagrams
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Comes with an in-game Editor!
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
@@ -1501,6 +1516,7 @@
 
 ## lua 
 
+- [jakobkhansen/journal.nvim](https://github.com/jakobkhansen/journal.nvim) - 🖋️ Highly extensible journaling system for Neovim
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
 - [PataphysicalSociety/soupault](https://github.com/PataphysicalSociety/soupault) - Static website generator based on HTML element tree rewriting
 - [chomosuke/term-edit.nvim](https://github.com/chomosuke/term-edit.nvim) - Vim Keybindings in Neovim's Built-in Terminal
@@ -1661,6 +1677,7 @@
 
 ## neovim 
 
+- [jakobkhansen/journal.nvim](https://github.com/jakobkhansen/journal.nvim) - 🖋️ Highly extensible journaling system for Neovim
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
 - [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim
 - [plentiform/go-ide](https://github.com/plentiform/go-ide) - Neovim config for golang development
@@ -1778,6 +1795,8 @@
 
 ## others 
 
+- [maolonglong/hugo-simple](https://github.com/maolonglong/hugo-simple) - A Hugo-theme based on Simple.css and Bear Blog
+- [tomfran/typo](https://github.com/tomfran/typo) - A simple Hugo theme
 - [getreuer/qmk-keymap](https://github.com/getreuer/qmk-keymap) - My keymap & reusable QMK gems
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 - [aengusmcmillin/gatsby-theme-brain](https://github.com/aengusmcmillin/gatsby-theme-brain) - 
@@ -1858,7 +1877,6 @@
 - [jwworth/til](https://github.com/jwworth/til) - ⌨️  Technical articles; needless words omitted
 - [paulmartins/hugo-digital-garden-theme](https://github.com/paulmartins/hugo-digital-garden-theme) - Hugo Theme for digital gardening projects.
 - [Serra-Technologies/serra](https://github.com/Serra-Technologies/serra) - Build elegant data pipelines
-- [Barbaross93/Nebula](https://github.com/Barbaross93/Nebula) - Desktop setup
 - [christophercalm/if-im-gone](https://github.com/christophercalm/if-im-gone) - A cheat sheet for if I am somehow incapacitated.
 - [willmeyers/gptq](https://github.com/willmeyers/gptq) - 
 - [rhettinger/rhettinger.github.io](https://github.com/rhettinger/rhettinger.github.io) - Public web pages from talks
@@ -2026,7 +2044,6 @@
 - [chubin/pyphoon](https://github.com/chubin/pyphoon) - :waning_gibbous_moon:  ASCII Art Phase of the Moon (Python version)
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [mszep/pandoc_resume](https://github.com/mszep/pandoc_resume) - The Markdown Resume
-- [ianthehenry/dotfiles](https://github.com/ianthehenry/dotfiles) - My dotfiles. For easy clonin'.
 - [crisrojas/Zettels](https://github.com/crisrojas/Zettels) - Zettels Hugo Theme
 - [quantopian/qgrid](https://github.com/quantopian/qgrid) - An interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
@@ -2878,6 +2895,7 @@
 
 ## python3 
 
+- [halfburnttoast/Dungeon-Cross](https://github.com/halfburnttoast/Dungeon-Cross) - A Python-based reimplementation of Zachtronic's Dungeons and Diagrams
 - [liiight/notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [joelibaceta/webcam-fixed-terminal](https://github.com/joelibaceta/webcam-fixed-terminal) - Multi terminal experience
 - [techiescamp/python-for-devops](https://github.com/techiescamp/python-for-devops) - Python for DevOps repo with useful python scripts to learn and implement in your day-to-day devops automation tasks.
@@ -3315,6 +3333,7 @@
 
 ## vim 
 
+- [jakobkhansen/journal.nvim](https://github.com/jakobkhansen/journal.nvim) - 🖋️ Highly extensible journaling system for Neovim
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [cnshsliu/smp.nvim](https://github.com/cnshsliu/smp.nvim) - NeoVim Markdown Previewer, Outliner, Incremental Searcher and more
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
