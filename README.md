@@ -104,6 +104,7 @@
 
 ## C 
 
+- [samyeyo/LuaRT](https://github.com/samyeyo/LuaRT) - Open source Windows programming framework for Lua
 - [getreuer/qmk-keymap](https://github.com/getreuer/qmk-keymap) - My keymap & reusable QMK gems
 - [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
 - [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK3
@@ -422,6 +423,7 @@
 
 ## Fennel 
 
+- [rktjmp/playtime.nvim](https://github.com/rktjmp/playtime.nvim) - 🃏 At last! A way to play card games on your computer!
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 
 ## GAMS 
@@ -762,7 +764,7 @@
 ## Lua 
 
 - [jakobkhansen/journal.nvim](https://github.com/jakobkhansen/journal.nvim) - 🖋️ Highly extensible journaling system for Neovim
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
 - [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim
 - [Abstract-IDE/abstract-autocmds](https://github.com/Abstract-IDE/abstract-autocmds) - Useful autocmds for Neovim.
 - [dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim) - CodeGPT is a plugin for neovim that provides commands to interact with ChatGPT.
@@ -872,6 +874,7 @@
 
 ## Others 
 
+- [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
 - [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 - [MobiusSync/MobiusSync](https://github.com/MobiusSync/MobiusSync) - Syncthing for iOS
 - [larryboyko/dimityjones](https://github.com/larryboyko/dimityjones) - electronic escape novel requiring readers to solve puzzles before reading the next chapter
