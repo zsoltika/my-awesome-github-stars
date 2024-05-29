@@ -65,6 +65,7 @@
 - [Tcl](#tcl)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Typst](#typst)
 - [V](#v)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
@@ -1702,6 +1703,12 @@
 - [nteract/hydrogen](https://github.com/nteract/hydrogen) - :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.
 - [jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - Interactive Widgets for the Jupyter Notebook
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
+
+## Typst 
+
+- [mintyfrankie/brilliant-CV](https://github.com/mintyfrankie/brilliant-CV) - 💼 another CV template for your job application, yet powered by Typst and more
+- [jskherman/cv.typ](https://github.com/jskherman/cv.typ) - A no-frills curriculum vitae (CV) template using Typst and YAML to version control CV data.
+- [caffeinatedgaze/bare-bones-cv](https://github.com/caffeinatedgaze/bare-bones-cv) - A minimalistic CV comprising essentials only
 
 ## V 
 
