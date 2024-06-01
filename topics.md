@@ -961,6 +961,7 @@
 
 ## font 
 
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - [testing V7] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 - [kaushikgopal/henry-hugo](https://github.com/kaushikgopal/henry-hugo) - Henry: Hugo theme meant for a gorgeous reading experience and packed with features
 - [psb1558/Elstob-font](https://github.com/psb1558/Elstob-font) - A variable font for medievalists
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
@@ -1319,6 +1320,7 @@
 
 ## java 
 
+- [mordechaim/Mosaic](https://github.com/mordechaim/Mosaic) - Play and solve Fill-A-Pix puzzles (called "Mosaic" here).
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [tlaplus/tlaplus](https://github.com/tlaplus/tlaplus) - TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
