@@ -277,6 +277,7 @@
 - [day8/re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building user interfaces, leveraging React
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [dvcrn/markright](https://github.com/dvcrn/markright) - ➡ Electron powered markdown editor with live preview
+- [clj-commons/marginalia](https://github.com/clj-commons/marginalia) - Ultra-lightweight literate programming for clojure inspired by docco
 - [yogthos/markdown-clj](https://github.com/yogthos/markdown-clj) - Markdown parser in Clojure
 - [noprompt/frak](https://github.com/noprompt/frak) - Transform collections of strings into regular expressions.
 - [Factual/drake](https://github.com/Factual/drake) - Data workflow tool, like a "Make for data"
@@ -592,7 +593,6 @@
 - [mixu/markdown-styles](https://github.com/mixu/markdown-styles) - Markdown to static HTML generator and multiple CSS themes for Markdown
 - [worrydream/EarlyHistoryOfSmalltalk](https://github.com/worrydream/EarlyHistoryOfSmalltalk) - Cleaned-up HTML version of Alan Kay's HOPL paper, "The Early History of Smalltalk"
 - [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
-- [clj-commons/marginalia](https://github.com/clj-commons/marginalia) - Ultra-lightweight literate programming for clojure inspired by docco
 - [propublica/upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS! (Or do more.)
 - [coolwanglu/pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [diveintomark/diveintopython3](https://github.com/diveintomark/diveintopython3) - [Mirror] Dive Into Python 3 online book
