@@ -86,6 +86,9 @@
 
 ## AutoHotkey 
 
+- [GorvGoyl/Autohotkey-Scripts-Windows](https://github.com/GorvGoyl/Autohotkey-Scripts-Windows) - Autohotkey scripts to make you more productive when using Windows.
+- [JaredCH/KeyChain](https://github.com/JaredCH/KeyChain) - AHK tool to manage macros and external scripts
+- [henrystern/hotstring_hints](https://github.com/henrystern/hotstring_hints) - An autocompletion menu that reminds you of your hotstrings
 - [KroniK907/WindowSaver](https://github.com/KroniK907/WindowSaver) - An AutoHotkey script that will save your window positions and then restore them to the saved position
 - [lonepie/mintty-quake-console](https://github.com/lonepie/mintty-quake-console) - AHK script to implement dropdown hotkey for mintty
 - [sdias/win-10-virtual-desktop-enhancer](https://github.com/sdias/win-10-virtual-desktop-enhancer) - An application that enhances the Windows 10 multiple desktops feature by adding additional keyboard shortcuts and support for multiple wallpapers.
@@ -548,6 +551,7 @@
 
 ## HTML 
 
+- [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
 - [tomfran/typo](https://github.com/tomfran/typo) - A simple Hugo theme
 - [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns) - Source repo for the book
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
