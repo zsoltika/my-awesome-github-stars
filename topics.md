@@ -1821,6 +1821,10 @@
 
 ## others 
 
+- [GorvGoyl/Autohotkey-Scripts-Windows](https://github.com/GorvGoyl/Autohotkey-Scripts-Windows) - Autohotkey scripts to make you more productive when using Windows.
+- [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
+- [JaredCH/KeyChain](https://github.com/JaredCH/KeyChain) - AHK tool to manage macros and external scripts
+- [henrystern/hotstring_hints](https://github.com/henrystern/hotstring_hints) - An autocompletion menu that reminds you of your hotstrings
 - [Textualize/textual-serve](https://github.com/Textualize/textual-serve) - Serve Textual apps locally
 - [colindean/problem-diagnosis-remedy-proposal](https://github.com/colindean/problem-diagnosis-remedy-proposal) - A clear, generally concise proposal format to win hearts and minds
 - [Tenzer/alga](https://github.com/Tenzer/alga) - CLI for remote controlling LG webOS TVs
