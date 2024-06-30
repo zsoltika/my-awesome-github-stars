@@ -239,6 +239,7 @@
 
 ## android 
 
+- [philips/inkpalm-5-adb-english](https://github.com/philips/inkpalm-5-adb-english) - Instructions to setup an Xioami Inkpalm 5 with English and other apps
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [thunder-app/thunder](https://github.com/thunder-app/thunder) - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter
@@ -1045,6 +1046,7 @@
 
 ## git 
 
+- [juansalvatore/git-dashboard-nvim](https://github.com/juansalvatore/git-dashboard-nvim) - Your git contributions heatmap chart inside your favorite nvim dashboards.
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [p-ranav/hypergrep](https://github.com/p-ranav/hypergrep) - Recursively search directories for a regex pattern
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -1700,6 +1702,7 @@
 
 ## neovim 
 
+- [juansalvatore/git-dashboard-nvim](https://github.com/juansalvatore/git-dashboard-nvim) - Your git contributions heatmap chart inside your favorite nvim dashboards.
 - [2KAbhishek/nvim2k](https://github.com/2KAbhishek/nvim2k) - Your Personalized Dev Env ❤️👨‍💻
 - [2KAbhishek/win2k](https://github.com/2KAbhishek/win2k) - Ultimate Dev Setup for Windows 🪟🪄
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
@@ -1821,6 +1824,7 @@
 
 ## others 
 
+- [zellyn/genart](https://github.com/zellyn/genart) - Genart experiments
 - [Instawork/hyperview](https://github.com/Instawork/hyperview) - Server-driven mobile apps with React Native
 - [GorvGoyl/Autohotkey-Scripts-Windows](https://github.com/GorvGoyl/Autohotkey-Scripts-Windows) - Autohotkey scripts to make you more productive when using Windows.
 - [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
@@ -3386,6 +3390,7 @@
 
 ## vim 
 
+- [juansalvatore/git-dashboard-nvim](https://github.com/juansalvatore/git-dashboard-nvim) - Your git contributions heatmap chart inside your favorite nvim dashboards.
 - [2KAbhishek/nvim2k](https://github.com/2KAbhishek/nvim2k) - Your Personalized Dev Env ❤️👨‍💻
 - [2KAbhishek/win2k](https://github.com/2KAbhishek/win2k) - Ultimate Dev Setup for Windows 🪟🪄
 - [jakobkhansen/journal.nvim](https://github.com/jakobkhansen/journal.nvim) - 🖋️ Highly extensible journaling system for Neovim
