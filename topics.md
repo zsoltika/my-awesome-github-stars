@@ -1824,6 +1824,8 @@
 
 ## others 
 
+- [google/starlark-go](https://github.com/google/starlark-go) - Starlark in Go: the Starlark configuration language, implemented in Go
+- [jdriselvato/FFmpeg-For-Beginners-Ebook](https://github.com/jdriselvato/FFmpeg-For-Beginners-Ebook) - Open source release of FFmpeg For Beginners - Edit Audio & Video Like a Pro for Youtube and Social Media
 - [zellyn/genart](https://github.com/zellyn/genart) - Genart experiments
 - [Instawork/hyperview](https://github.com/Instawork/hyperview) - Server-driven mobile apps with React Native
 - [GorvGoyl/Autohotkey-Scripts-Windows](https://github.com/GorvGoyl/Autohotkey-Scripts-Windows) - Autohotkey scripts to make you more productive when using Windows.
