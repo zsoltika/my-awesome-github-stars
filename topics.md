@@ -1979,7 +1979,6 @@
 - [GollyGang/ready](https://github.com/GollyGang/ready) - A cross-platform implementation of various reaction-diffusion systems and PDEs.
 - [nullchilly/fsread.nvim](https://github.com/nullchilly/fsread.nvim) - Flow state reading in neovim
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - Pythonic AI generation of images and videos
-- [samsquire/ideas4](https://github.com/samsquire/ideas4) - An Additional 100 Ideas for Computing https://samsquire.github.io/ideas4/
 - [StephenBarnes/Zendo-inspired](https://github.com/StephenBarnes/Zendo-inspired) - Two inductive logic games - the computer chooses a rule, and you try to infer the rule by testing examples.
 - [ept/ddia-references](https://github.com/ept/ddia-references) - Literature references for “Designing Data-Intensive Applications”
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
@@ -2017,8 +2016,6 @@
 - [jamesseanwright/ron-swanson-quotes](https://github.com/jamesseanwright/ron-swanson-quotes) - Node.js server for providing Ron Swanson quotes
 - [KrauseFx/FxLifeSheet](https://github.com/KrauseFx/FxLifeSheet) - Tracking the key metrics of my life
 - [sisl/tufte_algorithms_book](https://github.com/sisl/tufte_algorithms_book) - A template for textbooks in the same style as Algorithms for Optimization
-- [samsquire/ideas3](https://github.com/samsquire/ideas3) - An Extra 100 Ideas For Computing - https://samsquire.github.io/ideas3/
-- [samsquire/ideas2](https://github.com/samsquire/ideas2) - Another 85+ Ideas for Computing https://samsquire.github.io/ideas2/
 - [tarioch/beancounttools](https://github.com/tarioch/beancounttools) - Beancount Tools
 - [python-frederick/talks](https://github.com/python-frederick/talks) - A collection of talks presented at Python Frederick
 - [HoraceAndTheSpider/Amiberry-XML-Builder](https://github.com/HoraceAndTheSpider/Amiberry-XML-Builder) - Python script to scan LHA files for WHDLoad integration in Amiberry
@@ -2508,7 +2505,6 @@
 - [Shougo/unite.vim](https://github.com/Shougo/unite.vim) - :dragon: Unite and create user interfaces
 - [Shougo/neobundle.vim](https://github.com/Shougo/neobundle.vim) - Next generation Vim package manager
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
-- [samsquire/ideas](https://github.com/samsquire/ideas) - a hundred ideas for computing - a record of ideas - https://samsquire.github.io/ideas/
 - [p-e-w/finalterm](https://github.com/p-e-w/finalterm) - At last – a modern terminal emulator (NO LONGER MAINTAINED)
 - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
 - [sjl/badwolf](https://github.com/sjl/badwolf) - A Vim color scheme.
