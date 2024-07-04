@@ -925,7 +925,6 @@
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
 - [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
-- [samsquire/ideas4](https://github.com/samsquire/ideas4) - An Additional 100 Ideas for Computing https://samsquire.github.io/ideas4/
 - [ept/ddia-references](https://github.com/ept/ddia-references) - Literature references for “Designing Data-Intensive Applications”
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
@@ -938,8 +937,6 @@
 - [brave/goggles-quickstart](https://github.com/brave/goggles-quickstart) - Educational material to learn about Goggles and how to create your own.
 - [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
-- [samsquire/ideas3](https://github.com/samsquire/ideas3) - An Extra 100 Ideas For Computing - https://samsquire.github.io/ideas3/
-- [samsquire/ideas2](https://github.com/samsquire/ideas2) - Another 85+ Ideas for Computing https://samsquire.github.io/ideas2/
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
@@ -1032,7 +1029,6 @@
 - [limetext/lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
 - [kirang89/pycrumbs](https://github.com/kirang89/pycrumbs) - Bits and bytes of Python from the Internet
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
-- [samsquire/ideas](https://github.com/samsquire/ideas) - a hundred ideas for computing - a record of ideas - https://samsquire.github.io/ideas/
 - [rubocop/ruby-style-guide](https://github.com/rubocop/ruby-style-guide) - A community-driven Ruby coding style guide
 - [Zettt/km-macros](https://github.com/Zettt/km-macros) - My favorite Keyboard Maestro macros.
 - [zsoltika/dotfiles](https://github.com/zsoltika/dotfiles) - .files, including ~/.osx — sensible hacker defaults for OS X
