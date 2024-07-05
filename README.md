@@ -566,6 +566,7 @@
 - [pawroman/zola-theme-terminimal](https://github.com/pawroman/zola-theme-terminimal) - A simple, minimal retro theme for Zola
 - [ejmg/zerm](https://github.com/ejmg/zerm) - a minimalist and dark theme for Zola
 - [jhvanderschee/hugobricks](https://github.com/jhvanderschee/hugobricks) - 
+- [kaushikgopal/henry-hugo](https://github.com/kaushikgopal/henry-hugo) - Henry: Hugo theme meant for a gorgeous reading experience and packed with features
 - [paulmartins/hugo-digital-garden-theme](https://github.com/paulmartins/hugo-digital-garden-theme) - Hugo Theme for digital gardening projects.
 - [rhettinger/rhettinger.github.io](https://github.com/rhettinger/rhettinger.github.io) - Public web pages from talks
 - [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
@@ -1568,7 +1569,6 @@
 ## SCSS 
 
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
-- [kaushikgopal/henry-hugo](https://github.com/kaushikgopal/henry-hugo) - Henry: Hugo theme meant for a gorgeous reading experience and packed with features
 - [loikein/hugo-tufte](https://github.com/loikein/hugo-tufte) - Content centric Hugo blogging theme styled with Tufte-CSS
 - [ppeetteerrs/obsidian-zola](https://github.com/ppeetteerrs/obsidian-zola) - A no-brainer solution to turning your Obsidian PKM into a Zola site.
 - [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
