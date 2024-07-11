@@ -561,6 +561,7 @@
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [yihui/hugo-prose](https://github.com/yihui/hugo-prose) - A Hugo theme derived from the XMin theme, and inspired by Wowchemy, Distill, and tufte.css
 - [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
+- [beejjorgensen/bgnet0](https://github.com/beejjorgensen/bgnet0) - Beej's Guide to Network Concepts source
 - [callummcdougall/computational-thread-art](https://github.com/callummcdougall/computational-thread-art) - Code that renders an image as a series of lines connecting pins around a circular frame (for more detail, see my Medium page).
 - [fenglisch/bgg-names-to-ids](https://github.com/fenglisch/bgg-names-to-ids) - 
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
@@ -1098,7 +1099,6 @@
 - [SteveJob/ebooklib](https://github.com/SteveJob/ebooklib) - Python E-book library for handling books in EPUB2/EPUB3  format -
 - [ChenyangGao/python-epub3](https://github.com/ChenyangGao/python-epub3) - An awsome epub3 library.
 - [gutenbergtools/ebookmaker](https://github.com/gutenbergtools/ebookmaker) - The Project Gutenberg tool to generate EPUBs and other ebook formats.
-- [beejjorgensen/bgnet0](https://github.com/beejjorgensen/bgnet0) - Beej's Guide to Network Concepts source
 - [railsware/mailtrap-python](https://github.com/railsware/mailtrap-python) - Official mailtrap.io Python client
 - [anqxyr/mkepub](https://github.com/anqxyr/mkepub) - Simple minimalistic library for creating EPUB3 files
 - [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal news aggregator and Mastodon client
@@ -1124,7 +1124,7 @@
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [Deepali-Srivastava/data-structures-and-algorithms-in-python](https://github.com/Deepali-Srivastava/data-structures-and-algorithms-in-python) - Data Structures and Algorithms in Python ( DSA )
+- [Deepali-Srivastava/data-structures-and-algorithms-in-python](https://github.com/Deepali-Srivastava/data-structures-and-algorithms-in-python) - Data Structures and Algorithms ( DSA ) in Python
 - [learnbyexample/TUI-apps](https://github.com/learnbyexample/TUI-apps) - Terminal User Interface (TUI) apps
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
