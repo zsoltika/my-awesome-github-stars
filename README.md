@@ -110,6 +110,7 @@
 
 ## C 
 
+- [ililim/dual-key-remap](https://github.com/ililim/dual-key-remap) - Remap any key to any other two keys on Windows 🔥. Remap CapsLock to both Ctrl and Escape! (It's like xcape for windows!)
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [samyeyo/LuaRT](https://github.com/samyeyo/LuaRT) - Open source Windows programming framework for Lua
 - [getreuer/qmk-keymap](https://github.com/getreuer/qmk-keymap) - My keymap & reusable QMK gems
