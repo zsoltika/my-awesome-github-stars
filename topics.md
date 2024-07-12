@@ -224,7 +224,6 @@
 
 ## algorithm 
 
-- [Deepali-Srivastava/data-structures-and-algorithms-in-python](https://github.com/Deepali-Srivastava/data-structures-and-algorithms-in-python) - Data Structures and Algorithms ( DSA ) in Python
 - [SamirPaulb/DSAlgo](https://github.com/SamirPaulb/DSAlgo) - 📚A repository that contains all the Data Structures and Algorithms concepts and solutions to various problems in Python3 stored in a structured manner.👨‍💻🎯
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
@@ -1822,6 +1821,7 @@
 
 ## others 
 
+- [ililim/dual-key-remap](https://github.com/ililim/dual-key-remap) - Remap any key to any other two keys on Windows 🔥. Remap CapsLock to both Ctrl and Escape! (It's like xcape for windows!)
 - [google/starlark-go](https://github.com/google/starlark-go) - Starlark in Go: the Starlark configuration language, implemented in Go
 - [jdriselvato/FFmpeg-For-Beginners-Ebook](https://github.com/jdriselvato/FFmpeg-For-Beginners-Ebook) - Open source release of FFmpeg For Beginners - Edit Audio & Video Like a Pro for Youtube and Social Media
 - [zellyn/genart](https://github.com/zellyn/genart) - Genart experiments
