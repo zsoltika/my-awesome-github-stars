@@ -150,7 +150,6 @@
 - [imatix/gsl](https://github.com/imatix/gsl) - iMatix GSL code generator
 - [ngs-lang/ngs](https://github.com/ngs-lang/ngs) - Next Generation Shell (NGS)
 - [dnsmkl/fsqlf](https://github.com/dnsmkl/fsqlf) - Free SQL Formatter
-- [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
 - [TrilbyWhite/Leela](https://github.com/TrilbyWhite/Leela) - A CLI frontend to the poppler-glib libary of PDF tools
 - [Wikinaut/agrep](https://github.com/Wikinaut/agrep) - AGREP - approximate GREP for fast fuzzy string searching. Files are searched for a string or regular expression, with approximate matching capabilities and user-definable records. Developed 1989-1991 
 - [juho-p/fatty](https://github.com/juho-p/fatty) - Tabbed terminal for Cygwin based on mintty
@@ -225,6 +224,7 @@
 - [some-mthfka/Viy](https://github.com/some-mthfka/Viy) - Note taker featuring Neovim, pictures and screenshots
 - [ern0/shrinkshot](https://github.com/ern0/shrinkshot) - ✂ CLI tool for shrink images by removing empty regions (best use case: screenshot)
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
+- [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
 - [rprichard/winpty](https://github.com/rprichard/winpty) - A Windows software package providing an interface similar to a Unix pty-master for communicating with Windows console programs.
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [fatih/subvim](https://github.com/fatih/subvim) - Vim customized to be like SublimeText
@@ -657,7 +657,6 @@
 - [Jieiku/abridge](https://github.com/Jieiku/abridge) - Fast & Lightweight Zola Theme
 - [badlogic/heissepreise](https://github.com/badlogic/heissepreise) - Jo eh.
 - [ckolderup/postmarks](https://github.com/ckolderup/postmarks) - a single-user bookmarking website designed to live on the Fediverse
-- [simonw/simonwillisonblog](https://github.com/simonw/simonwillisonblog) - The source code behind my blog
 - [underpig1/octos](https://github.com/underpig1/octos) - HTML live wallpaper engine :rocket:
 - [nicbou/timeline-old](https://github.com/nicbou/timeline-old) - Collects personal data from different sources, displays it as a daily diary.
 - [psb1558/Elstob-font](https://github.com/psb1558/Elstob-font) - A variable font for medievalists
@@ -1131,6 +1130,7 @@
 - [learnbyexample/TUI-apps](https://github.com/learnbyexample/TUI-apps) - Terminal User Interface (TUI) apps
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
+- [simonw/simonwillisonblog](https://github.com/simonw/simonwillisonblog) - The source code behind my blog
 - [Serra-Technologies/serra](https://github.com/Serra-Technologies/serra) - Build elegant data pipelines
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [rhettinger/modernpython](https://github.com/rhettinger/modernpython) - Sample code for the video course: Modern Python: Big Ideas, Little Code
