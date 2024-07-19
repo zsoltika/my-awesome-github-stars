@@ -1617,7 +1617,7 @@
 - [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 - [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns) - Source repo for the book
 - [kepano/kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
-- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Editor Agnostic PKM: you bring the text editor and we bring the PKM - inspired by and compatible with Obsidian
+- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Composable PKM: You bring the text-editor, we bring the PKM - inspired by and compatible with Obsidian
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [Jieiku/abridge](https://github.com/Jieiku/abridge) - Fast & Lightweight Zola Theme
 - [cnshsliu/smp.nvim](https://github.com/cnshsliu/smp.nvim) - NeoVim Markdown Previewer, Outliner, Incremental Searcher and more
@@ -1777,7 +1777,6 @@
 - [oroszgy/awesome-hungarian-nlp](https://github.com/oroszgy/awesome-hungarian-nlp) - A curated list of NLP resources for Hungarian
 - [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [huspacy/huspacy](https://github.com/huspacy/huspacy) - HuSpaCy: industrial-strength Hungarian natural language processing
-- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [jbesomi/texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero.
 - [huggingface/knockknock](https://github.com/huggingface/knockknock) - 🚪✊Knock Knock: Get notified when your training ends with only two additional lines of code
 
@@ -2044,6 +2043,7 @@
 - [paladin-t/fantasy](https://github.com/paladin-t/fantasy) - A curated list of available fantasy consoles/computers.
 - [ehmatthes/pcc_2e](https://github.com/ehmatthes/pcc_2e) - Online resources for Python Crash Course (Second Edition), from No Starch Press
 - [woodrush/lisp-in-life](https://github.com/woodrush/lisp-in-life) - A Lisp interpreter implemented in Conway's Game of Life
+- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
 - [LexSong/nvim-old](https://github.com/LexSong/nvim-old) - My Neovim configs
 - [fogus/thunks](https://github.com/fogus/thunks) - posts and code related to personal studies
@@ -3060,7 +3060,7 @@
 - [LGUG2Z/whkd](https://github.com/LGUG2Z/whkd) - A simple hotkey daemon for Windows
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
-- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Editor Agnostic PKM: you bring the text editor and we bring the PKM - inspired by and compatible with Obsidian
+- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Composable PKM: You bring the text-editor, we bring the PKM - inspired by and compatible with Obsidian
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [ratatui-org/awesome-ratatui](https://github.com/ratatui-org/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
