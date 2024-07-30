@@ -1670,6 +1670,7 @@
 
 ## Swift 
 
+- [Krisztiaan/MagyarTV](https://github.com/Krisztiaan/MagyarTV) - 
 - [mortenjust/cleartext-mac](https://github.com/mortenjust/cleartext-mac) - A text editor that will help you write clearer and simpler
 
 ## TSQL 
