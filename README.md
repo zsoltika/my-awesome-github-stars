@@ -556,6 +556,7 @@
 
 ## HTML 
 
+- [healsdata/ai-training-opt-out](https://github.com/healsdata/ai-training-opt-out) - Known tags and settings suggested to opt out of having your content used for AI training.
 - [philips/inkpalm-5-adb-english](https://github.com/philips/inkpalm-5-adb-english) - Instructions to setup an Xioami Inkpalm 5 with English and other apps
 - [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
 - [tomfran/typo](https://github.com/tomfran/typo) - A simple Hugo theme
