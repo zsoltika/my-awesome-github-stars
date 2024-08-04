@@ -1821,6 +1821,7 @@
 
 ## others 
 
+- [arunsupe/semantic-grep](https://github.com/arunsupe/semantic-grep) - grep for words with similar meaning to the query
 - [doublespeakgames/adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
 - [Continuities/adarkroom](https://github.com/Continuities/adarkroom) - A Dark Room - A Minimalist Text Adventure
 - [Krisztiaan/MagyarTV](https://github.com/Krisztiaan/MagyarTV) - 
