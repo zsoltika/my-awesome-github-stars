@@ -325,6 +325,7 @@
 
 ## Emacs Lisp 
 
+- [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [ianthehenry/dotfiles](https://github.com/ianthehenry/dotfiles) - My dotfiles. For easy clonin'.
 - [progfolio/doct](https://github.com/progfolio/doct) - DOCT: Declarative Org Capture Templates for Emacs
 - [vreeze/zone-matrix-wake-up](https://github.com/vreeze/zone-matrix-wake-up) - The Matrix wake up scene as an Emacs zone/screen saver
@@ -580,7 +581,6 @@
 - [lethain/systems](https://github.com/lethain/systems) - systems is a set of tools for describing, running and visualizing systems diagrams.
 - [cbeust/guess-card](https://github.com/cbeust/guess-card) - 
 - [preslavrachev/generative-art-in-go](https://github.com/preslavrachev/generative-art-in-go) - A companion source code repository to the book "Generative Art in Go"
-- [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [rjpcomputing/luaforwindows](https://github.com/rjpcomputing/luaforwindows) - Lua for Windows is a 'batteries included environment' for the Lua scripting language on Windows. NOTICE: Looking for maintainer.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [alan-turing-institute/ReadabiliPy](https://github.com/alan-turing-institute/ReadabiliPy) - A simple HTML content extractor in Python. Can be run as a wrapper for Mozilla's Readability.js package or in pure-python mode.
