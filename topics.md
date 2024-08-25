@@ -534,6 +534,7 @@
 
 ## cli 
 
+- [rafo/aerc-vim](https://github.com/rafo/aerc-vim) - Vim-Like Keybindings for Aerc. Aerc is an exceptional terminal-based email client known for its efficiency and simplicity.
 - [2KAbhishek/win2k](https://github.com/2KAbhishek/win2k) - Ultimate Dev Setup for Windows 🪟🪄
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
@@ -663,6 +664,7 @@
 
 ## config 
 
+- [rafo/aerc-vim](https://github.com/rafo/aerc-vim) - Vim-Like Keybindings for Aerc. Aerc is an exceptional terminal-based email client known for its efficiency and simplicity.
 - [JFryy/qq](https://github.com/JFryy/qq) - jq inspired (and gojq dependent) interoperable config format transcoder with interactive querying.
 - [2KAbhishek/nvim2k](https://github.com/2KAbhishek/nvim2k) - Your Personalized Dev Env ❤️👨‍💻
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
@@ -752,7 +754,7 @@
 
 - [ivnvxd/pyquest](https://github.com/ivnvxd/pyquest) - Python everything Cheatsheet and a Journey to the land of Python programming
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
-- [Deepali-Srivastava/data-structures-and-algorithms-in-python](https://github.com/Deepali-Srivastava/data-structures-and-algorithms-in-python) - Data Structures and Algorithms ( DSA ) in Python
+- [Deepali-Srivastava/data-structures-and-algorithms-in-python](https://github.com/Deepali-Srivastava/data-structures-and-algorithms-in-python) - Data Structures and Algorithms in Python ( DSA )
 - [SamirPaulb/DSAlgo](https://github.com/SamirPaulb/DSAlgo) - 📚A repository that contains all the Data Structures and Algorithms concepts and solutions to various problems in Python3 stored in a structured manner.👨‍💻🎯
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -873,6 +875,7 @@
 
 ## dotfiles 
 
+- [rafo/aerc-vim](https://github.com/rafo/aerc-vim) - Vim-Like Keybindings for Aerc. Aerc is an exceptional terminal-based email client known for its efficiency and simplicity.
 - [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
 - [2KAbhishek/nvim2k](https://github.com/2KAbhishek/nvim2k) - Your Personalized Dev Env ❤️👨‍💻
 - [2KAbhishek/win2k](https://github.com/2KAbhishek/win2k) - Ultimate Dev Setup for Windows 🪟🪄
@@ -1720,6 +1723,7 @@
 
 ## neovim 
 
+- [rafo/aerc-vim](https://github.com/rafo/aerc-vim) - Vim-Like Keybindings for Aerc. Aerc is an exceptional terminal-based email client known for its efficiency and simplicity.
 - [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
 - [juansalvatore/git-dashboard-nvim](https://github.com/juansalvatore/git-dashboard-nvim) - Your git contributions heatmap chart inside your favorite nvim dashboards.
 - [2KAbhishek/nvim2k](https://github.com/2KAbhishek/nvim2k) - Your Personalized Dev Env ❤️👨‍💻
@@ -1842,6 +1846,7 @@
 
 ## others 
 
+- [akissinger/dodo](https://github.com/akissinger/dodo) - A graphical, hackable email client based on notmuch
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [bzimor/obsidian_hledger](https://github.com/bzimor/obsidian_hledger) - Add transaction to hledger file or to daily note functionality using Templater on Obsidian
 - [meithecatte/bashfuck](https://github.com/meithecatte/bashfuck) - Write any bash with only the punctuation characters
@@ -2822,7 +2827,7 @@
 - [MajorcaDevs/dvd](https://github.com/MajorcaDevs/dvd) - Small utility to generate dvd screensaver videos or live streamings
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
-- [Deepali-Srivastava/data-structures-and-algorithms-in-python](https://github.com/Deepali-Srivastava/data-structures-and-algorithms-in-python) - Data Structures and Algorithms ( DSA ) in Python
+- [Deepali-Srivastava/data-structures-and-algorithms-in-python](https://github.com/Deepali-Srivastava/data-structures-and-algorithms-in-python) - Data Structures and Algorithms in Python ( DSA )
 - [learnbyexample/TUI-apps](https://github.com/learnbyexample/TUI-apps) - Terminal User Interface (TUI) apps
 - [FernandoCelmer/mkdocs-simple-blog](https://github.com/FernandoCelmer/mkdocs-simple-blog) - Blog Template for Mkdocs
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
@@ -3316,6 +3321,7 @@
 
 ## terminal 
 
+- [rafo/aerc-vim](https://github.com/rafo/aerc-vim) - Vim-Like Keybindings for Aerc. Aerc is an exceptional terminal-based email client known for its efficiency and simplicity.
 - [ChrisBuilds/moneyterm](https://github.com/ChrisBuilds/moneyterm) - TUI expense and budget tracker.
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
@@ -3431,6 +3437,7 @@
 
 ## vim 
 
+- [rafo/aerc-vim](https://github.com/rafo/aerc-vim) - Vim-Like Keybindings for Aerc. Aerc is an exceptional terminal-based email client known for its efficiency and simplicity.
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [juansalvatore/git-dashboard-nvim](https://github.com/juansalvatore/git-dashboard-nvim) - Your git contributions heatmap chart inside your favorite nvim dashboards.
 - [2KAbhishek/nvim2k](https://github.com/2KAbhishek/nvim2k) - Your Personalized Dev Env ❤️👨‍💻
