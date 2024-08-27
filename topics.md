@@ -406,7 +406,7 @@
 - [shekhargulati/52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) - Let's learn a new technology every week. A new technology blog every Sunday in 2016.
 - [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -654,7 +654,7 @@
 - [vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 
 ## computer-vision 
@@ -1846,6 +1846,7 @@
 
 ## others 
 
+- [lanurmi/efte](https://github.com/lanurmi/efte) - eFTE is a fork of FTE -- Folding Text Editor
 - [akissinger/dodo](https://github.com/akissinger/dodo) - A graphical, hackable email client based on notmuch
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [bzimor/obsidian_hledger](https://github.com/bzimor/obsidian_hledger) - Add transaction to hledger file or to daily note functionality using Templater on Obsidian
