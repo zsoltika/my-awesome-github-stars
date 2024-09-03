@@ -325,6 +325,7 @@
 
 ## Emacs Lisp 
 
+- [pprevos/emacs-writing-studio](https://github.com/pprevos/emacs-writing-studio) - Emacs configuration for authors who research, write and publish articles, books and websites.
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [ianthehenry/dotfiles](https://github.com/ianthehenry/dotfiles) - My dotfiles. For easy clonin'.
