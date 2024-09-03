@@ -927,6 +927,7 @@
 
 ## emacs 
 
+- [pprevos/emacs-writing-studio](https://github.com/pprevos/emacs-writing-studio) - Emacs configuration for authors who research, write and publish articles, books and websites.
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 - [progfolio/doct](https://github.com/progfolio/doct) - DOCT: Declarative Org Capture Templates for Emacs
 - [alhassy/CheatSheet](https://github.com/alhassy/CheatSheet) - Pretty cheat sheets, or ``reference cards'', obtainable from Org files.
