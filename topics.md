@@ -351,7 +351,6 @@
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [rememberYou/.emacs.d](https://github.com/rememberYou/.emacs.d) - 🎉 Personal GNU Emacs configuration
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
-- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
@@ -927,6 +926,7 @@
 
 ## emacs 
 
+- [Emacs101/howm-manual](https://github.com/Emacs101/howm-manual) - Note-taking in Emacs with howm package
 - [pprevos/emacs-writing-studio](https://github.com/pprevos/emacs-writing-studio) - Emacs configuration for authors who research, write and publish articles, books and websites.
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 - [progfolio/doct](https://github.com/progfolio/doct) - DOCT: Declarative Org Capture Templates for Emacs
@@ -1699,7 +1699,6 @@
 
 - [O365/python-o365](https://github.com/O365/python-o365) - A simple python library to interact with Microsoft Graph and Office 365 API
 - [microsoft/botbuilder-python](https://github.com/microsoft/botbuilder-python) - The Microsoft Bot Framework provides what you need to build and connect intelligent bots that interact naturally wherever your users are talking, from text/sms to Skype, Slack, Office 365 mail and oth
-- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 
 ## mongodb 
 
@@ -3610,7 +3609,6 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [jithurjacob/Windows-10-Toast-Notifications](https://github.com/jithurjacob/Windows-10-Toast-Notifications) - Python library to display Windows 10 Toast Notifications
-- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
