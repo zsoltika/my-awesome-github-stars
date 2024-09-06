@@ -1040,6 +1040,7 @@
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 - [wimpysworld/antsy-alien-attack](https://github.com/wimpysworld/antsy-alien-attack) - A game, written in Bash, that is a somewhat retro-a-like shoot 'em up. Hopefully.
 - [bfontaine/term2048](https://github.com/bfontaine/term2048) - :tada: 2048 in your terminal
+- [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
 
 ## game-development 
 
@@ -1391,6 +1392,7 @@
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
+- [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [mattn/emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
@@ -2500,7 +2502,6 @@
 - [scrapinghub/portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy
 - [tinypigdotcom/stabby](https://github.com/tinypigdotcom/stabby) - stabby is an alternative to alt tab madness
 - [themattrix/sed2048](https://github.com/themattrix/sed2048) - The 2048 game implemented in sed
-- [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://web.archive.org/web/20140328011720/https://play.google.com/store/apps/details?id=com.veewo.a1024)
 - [gcmt/wildfire.vim](https://github.com/gcmt/wildfire.vim) - Smart selection of the closest text object
 - [prasmussen/chrome-cli](https://github.com/prasmussen/chrome-cli) - Control Google Chrome from the command line
 - [mbbill/undotree](https://github.com/mbbill/undotree) - The undo history visualizer for VIM
