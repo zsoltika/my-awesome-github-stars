@@ -192,6 +192,7 @@
 
 ## C++ 
 
+- [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
 - [lanurmi/efte](https://github.com/lanurmi/efte) - eFTE is a fork of FTE -- Folding Text Editor
 - [p-ranav/hypergrep](https://github.com/p-ranav/hypergrep) - Recursively search directories for a regex pattern
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
