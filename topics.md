@@ -507,6 +507,7 @@
 
 ## c-plus-plus 
 
+- [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
 - [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns) - Source repo for the book
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
@@ -680,6 +681,7 @@
 
 ## cpp 
 
+- [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Play in your Browser! https://hypersomnia.io Made in 🇵🇱
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
@@ -692,6 +694,7 @@
 
 ## cryptocurrency 
 
+- [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 
 ## crystal 
@@ -769,6 +772,7 @@
 
 ## data-visualization 
 
+- [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
@@ -976,6 +980,7 @@
 
 ## finance 
 
+- [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
 - [ChrisBuilds/moneyterm](https://github.com/ChrisBuilds/moneyterm) - TUI expense and budget tracker.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 
@@ -1507,6 +1512,7 @@
 
 ## linux 
 
+- [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -1628,6 +1634,7 @@
 
 ## macos 
 
+- [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -3577,6 +3584,7 @@
 
 ## windows 
 
+- [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [LGUG2Z/whkd](https://github.com/LGUG2Z/whkd) - A simple hotkey daemon for Windows
 - [da-rth/yasb](https://github.com/da-rth/yasb) - A highly configurable cross-platform (Windows) status bar written in Python.
