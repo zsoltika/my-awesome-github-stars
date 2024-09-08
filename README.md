@@ -1180,7 +1180,7 @@
 - [SamirPaulb/DSAlgo](https://github.com/SamirPaulb/DSAlgo) - 📚A repository that contains all the Data Structures and Algorithms concepts and solutions to various problems in Python3 stored in a structured manner.👨‍💻🎯
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
-- [marph91/joppy](https://github.com/marph91/joppy) - Python interface for the Joplin data API
+- [marph91/joppy](https://github.com/marph91/joppy) - Python interface for the Joplin client and server API
 - [Ben-Gillman/onenote_to_markdown](https://github.com/Ben-Gillman/onenote_to_markdown) - Script to convert MS Onenote notebooks to Joplin
 - [polkerty/dog-bunny-puzzle-solver](https://github.com/polkerty/dog-bunny-puzzle-solver) - 
 - [Miksus/red-mail](https://github.com/Miksus/red-mail) - Advanced email sending for Python
