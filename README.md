@@ -48,6 +48,7 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
+- [PLpgSQL](#plpgsql)
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -1068,6 +1069,10 @@
 - [xero/figlet-fonts](https://github.com/xero/figlet-fonts) - my collection of figlet / toilet ascii art fonts
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [straup/parallel-flickr](https://github.com/straup/parallel-flickr) - 
+
+## PLpgSQL 
+
+- [nuno-faria/tetris-sql](https://github.com/nuno-faria/tetris-sql) - Using SQL's Turing Completeness to Build Tetris
 
 ## Perl 
 
