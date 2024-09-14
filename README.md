@@ -1693,7 +1693,7 @@
 - [CC-Archived/mou-theme-solarized](https://github.com/CC-Archived/mou-theme-solarized) - Mou (http://mouapp.com/) theme for Markdown syntax highlighting using Ethan Schoonover's Solarized color scheme.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [ku1ik/bitpocket](https://github.com/ku1ik/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## Swift 
 
