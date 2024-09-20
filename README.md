@@ -655,6 +655,7 @@
 
 ## JavaScript 
 
+- [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
 - [bzimor/obsidian_hledger](https://github.com/bzimor/obsidian_hledger) - Add transaction to hledger file or to daily note functionality using Templater on Obsidian
 - [doublespeakgames/adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
@@ -1100,6 +1101,7 @@
 
 ## Python 
 
+- [pyedifice/pyedifice](https://github.com/pyedifice/pyedifice) - Declarative GUI framework for Python and Qt
 - [akissinger/dodo](https://github.com/akissinger/dodo) - A graphical, hackable email client based on notmuch
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [ChrisBuilds/moneyterm](https://github.com/ChrisBuilds/moneyterm) - TUI expense and budget tracker.
