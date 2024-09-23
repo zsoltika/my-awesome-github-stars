@@ -1270,6 +1270,7 @@
 - [rexagod/samwise.nvim](https://github.com/rexagod/samwise.nvim) - samwise is a line-wise note-taking plugin for neovim.
 - [kassio/neoterm](https://github.com/kassio/neoterm) - Wrapper of some vim/neovim's :terminal functions.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
+- [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [ms7m/notify-py](https://github.com/ms7m/notify-py) - :speech_balloon: | A simple Python Module for sending cross-platform desktop notifications on Windows, macOS and Linux
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python
