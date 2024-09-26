@@ -711,6 +711,7 @@
 
 ## css 
 
+- [bradleytaunt/ET-Jekyll](https://github.com/bradleytaunt/ET-Jekyll) - A minimal Jekyll theme inspired by Tufte CSS
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
 - [underpig1/octos](https://github.com/underpig1/octos) - HTML live wallpaper engine :rocket:
@@ -1032,6 +1033,7 @@
 
 ## game 
 
+- [nuno-faria/tetris-sql](https://github.com/nuno-faria/tetris-sql) - Using SQL's Turing Completeness to Build Tetris
 - [halfburnttoast/Dungeon-Cross](https://github.com/halfburnttoast/Dungeon-Cross) - A Python-based reimplementation of Zachtronic's Dungeons and Diagrams
 - [finol-digital/Card-Game-Simulator](https://github.com/finol-digital/Card-Game-Simulator) - Create, Share, and Play
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
@@ -1416,12 +1418,16 @@
 
 ## jekyll 
 
+- [bradleytaunt/ET-Jekyll](https://github.com/bradleytaunt/ET-Jekyll) - A minimal Jekyll theme inspired by Tufte CSS
+- [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [mmistakes/jekyll-theme-hpstr](https://github.com/mmistakes/jekyll-theme-hpstr) - A Jekyll theme with some tumble-log tendencies.
 
 ## jekyll-theme 
 
+- [bradleytaunt/ET-Jekyll](https://github.com/bradleytaunt/ET-Jekyll) - A minimal Jekyll theme inspired by Tufte CSS
+- [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [mmistakes/jekyll-theme-hpstr](https://github.com/mmistakes/jekyll-theme-hpstr) - A Jekyll theme with some tumble-log tendencies.
 
 ## js 
