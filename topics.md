@@ -1683,7 +1683,7 @@
 - [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 - [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns) - Source repo for the book
 - [kepano/kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
-- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Robust PKM on the LSP
+- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM for the LSP
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [Jieiku/abridge](https://github.com/Jieiku/abridge) - Fast & Lightweight Zola Theme
 - [cnshsliu/smp.nvim](https://github.com/cnshsliu/smp.nvim) - NeoVim Markdown Previewer, Outliner, Incremental Searcher and more
@@ -3149,7 +3149,7 @@
 - [LGUG2Z/whkd](https://github.com/LGUG2Z/whkd) - A simple hotkey daemon for Windows
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
-- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Robust PKM on the LSP
+- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM for the LSP
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
@@ -3309,6 +3309,7 @@
 
 ## sql 
 
+- [ben-n93/SQL-tips-and-tricks](https://github.com/ben-n93/SQL-tips-and-tricks) - SQL tips and tricks
 - [nuno-faria/tetris-sql](https://github.com/nuno-faria/tetris-sql) - Using SQL's Turing Completeness to Build Tetris
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
