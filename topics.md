@@ -890,6 +890,7 @@
 
 ## dotfiles 
 
+- [Matalus/dotfiles](https://github.com/Matalus/dotfiles) - a collection of windows configuration files (powershell profile customization, nvim, nano, scoop, tools)
 - [rafo/aerc-vim](https://github.com/rafo/aerc-vim) - Vim-Like Keybindings for Aerc. Aerc is an exceptional terminal-based email client known for its efficiency and simplicity.
 - [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
 - [2KAbhishek/nvim2k](https://github.com/2KAbhishek/nvim2k) - Your Personalized Dev Env ❤️👨‍💻
@@ -1767,6 +1768,7 @@
 
 ## neovim 
 
+- [Matalus/dotfiles](https://github.com/Matalus/dotfiles) - a collection of windows configuration files (powershell profile customization, nvim, nano, scoop, tools)
 - [rafo/aerc-vim](https://github.com/rafo/aerc-vim) - Vim-Like Keybindings for Aerc. Aerc is an exceptional terminal-based email client known for its efficiency and simplicity.
 - [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
 - [juansalvatore/git-dashboard-nvim](https://github.com/juansalvatore/git-dashboard-nvim) - Your git contributions heatmap chart inside your favorite nvim dashboards.
@@ -1897,6 +1899,7 @@
 
 ## others 
 
+- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million+ lines of code in your GitHub and GitLab repositories 🪄 MIT licensed ✅
 - [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [kudrykv/latex-yearly-planner](https://github.com/kudrykv/latex-yearly-planner) - Digital planner for Supernote and ReMarkable // Support Ukraine 🇺🇦 https://savelife.in.ua/en
 - [marekbrze/categorized-obsidian-plugins](https://github.com/marekbrze/categorized-obsidian-plugins) - Easily find Obsidian plugins!🚀
@@ -2314,7 +2317,7 @@
 - [commonmark/cmark](https://github.com/commonmark/cmark) - CommonMark parsing and rendering library and program in C
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [arogozhnikov/python3_with_pleasure](https://github.com/arogozhnikov/python3_with_pleasure) - A short guide on features of Python 3 with examples
-- [landscapeio/prospector](https://github.com/landscapeio/prospector) - Inspects Python source files and provides information about type and location of classes, methods etc
+- [prospector-dev/prospector](https://github.com/prospector-dev/prospector) - Inspects Python source files and provides information about type and location of classes, methods etc
 - [ahungry/md4rd](https://github.com/ahungry/md4rd) - Emacs Mode for Reddit - Read Reddit from within Emacs interactively.
 - [will8211/unimatrix](https://github.com/will8211/unimatrix) - Python script to simulate the display from "The Matrix" in terminal. Uses half-width katakana unicode characters by default, but can use custom character sets. Accepts keyboard controls while running.
 - [icesphere/star-realms-simulator](https://github.com/icesphere/star-realms-simulator) - Star Realms Simulator
@@ -2787,6 +2790,7 @@
 
 ## powershell 
 
+- [Matalus/dotfiles](https://github.com/Matalus/dotfiles) - a collection of windows configuration files (powershell profile customization, nvim, nano, scoop, tools)
 - [2KAbhishek/win2k](https://github.com/2KAbhishek/win2k) - Ultimate Dev Setup for Windows 🪟🪄
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
