@@ -77,6 +77,7 @@
 - [Vue](#vue)
 - [XSLT](#xslt)
 - [ZAP](#zap)
+- [Zig](#zig)
 
 ## AppleScript 
 
@@ -1930,6 +1931,10 @@
 ## ZAP 
 
 - [historicalsource/shogun](https://github.com/historicalsource/shogun) - James Clavell's Shōgun by Dave Lebling of Infocom (1989)
+
+## Zig 
+
+- [kristoff-it/zine](https://github.com/kristoff-it/zine) - Fast, Scalable, Flexible Static Site Generator (SSG)
 
 
 ## License
