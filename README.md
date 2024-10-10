@@ -319,6 +319,7 @@
 
 ## Dart 
 
+- [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [munificent/hauberk](https://github.com/munificent/hauberk) - A web-based roguelike written in Dart.
 - [liftoff-app/liftoff](https://github.com/liftoff-app/liftoff) - 🐒  A mobile client for lemmy
 - [thunder-app/thunder](https://github.com/thunder-app/thunder) - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter
@@ -1540,7 +1541,6 @@
 
 ## Rust 
 
-- [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [LGUG2Z/whkd](https://github.com/LGUG2Z/whkd) - A simple hotkey daemon for Windows
