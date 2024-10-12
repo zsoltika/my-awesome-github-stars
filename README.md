@@ -802,6 +802,7 @@
 
 ## Lua 
 
+- [neo451/feed.nvim](https://github.com/neo451/feed.nvim) - feature-rich neovim web feed reader, rss, atom and json, all in lua
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - ☄️ Highly customisable markdown(latex & inline html) previewer for Neovim
 - [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - Experimental Sourcegraph + Cody plugin for Neovim
 - [juansalvatore/git-dashboard-nvim](https://github.com/juansalvatore/git-dashboard-nvim) - Your git contributions heatmap chart inside your favorite nvim dashboards.
@@ -918,6 +919,8 @@
 
 ## Others 
 
+- [hundredrabbits/awesome-uxn](https://github.com/hundredrabbits/awesome-uxn) - Awesome things from the community
+- [tBaxter/questions-for-employers](https://github.com/tBaxter/questions-for-employers) - A big collection of useful questions to ask potential employers.
 - [Emacs101/howm-manual](https://github.com/Emacs101/howm-manual) - Note-taking in Emacs with howm package
 - [marekbrze/categorized-obsidian-plugins](https://github.com/marekbrze/categorized-obsidian-plugins) - Easily find Obsidian plugins!🚀
 - [jdriselvato/FFmpeg-For-Beginners-Ebook](https://github.com/jdriselvato/FFmpeg-For-Beginners-Ebook) - Open source release of FFmpeg For Beginners - Edit Audio & Video Like a Pro for Youtube and Social Media
@@ -1092,6 +1095,7 @@
 
 ## PowerShell 
 
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [Matalus/dotfiles](https://github.com/Matalus/dotfiles) - a collection of windows configuration files (powershell profile customization, nvim, nano, scoop, tools)
 - [2KAbhishek/win2k](https://github.com/2KAbhishek/win2k) - Ultimate Dev Setup for Windows 🪟🪄
 - [SjoerdV/ConvertOneNote2MarkDown](https://github.com/SjoerdV/ConvertOneNote2MarkDown) - Ready to make the step to Markdown and saying farewell to your OneNote, EverNote or whatever proprietary note taking tool you are using? Nothing beats clear text, right? Read on!
