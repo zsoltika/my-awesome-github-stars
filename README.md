@@ -1635,7 +1635,7 @@
 - [meithecatte/bashfuck](https://github.com/meithecatte/bashfuck) - Write any bash with only the punctuation characters
 - [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
 - [notmarek/LanguageBreak](https://github.com/notmarek/LanguageBreak) - A kindle &lt;=5.16.2.1.1 jailbreak
-- [johnalanwoods/maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix) - A collection of modern/faster/saner alternatives to common unix commands, which is maintained.
+- [johnalanwoods/maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix) - A collection of modern/faster/great alternatives to common unix commands, which is maintained.
 - [asdf-vm/asdf-plugins](https://github.com/asdf-vm/asdf-plugins) - Convenience shortname repository for asdf community plugins
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
