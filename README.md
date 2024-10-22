@@ -570,6 +570,7 @@
 
 ## HTML 
 
+- [en9inerd/zola-hacker](https://github.com/en9inerd/zola-hacker) - Hacker is a Zola theme
 - [bradleytaunt/ET-Jekyll](https://github.com/bradleytaunt/ET-Jekyll) - A minimal Jekyll theme inspired by Tufte CSS
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [healsdata/ai-training-opt-out](https://github.com/healsdata/ai-training-opt-out) - Known tags and settings suggested to opt out of having your content used for AI training.
@@ -661,6 +662,7 @@
 
 ## JavaScript 
 
+- [welpo/tabi](https://github.com/welpo/tabi) - A modern Zola theme with search, multilingual support, optional JavaScript, a perfect Lighthouse score, and a focus on accessibility.
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
 - [bzimor/obsidian_hledger](https://github.com/bzimor/obsidian_hledger) - Add transaction to hledger file or to daily note functionality using Templater on Obsidian
