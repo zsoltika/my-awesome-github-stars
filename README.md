@@ -113,6 +113,7 @@
 
 ## C 
 
+- [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [lelanthran/frame](https://github.com/lelanthran/frame) - Personal DB to help maintain focus on long-sequences of tasks.
 - [ililim/dual-key-remap](https://github.com/ililim/dual-key-remap) - Remap any key to any other two keys on Windows 🔥. Remap CapsLock to both Ctrl and Escape! (It's like xcape for windows!)
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
@@ -319,7 +320,6 @@
 
 ## Dart 
 
-- [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [munificent/hauberk](https://github.com/munificent/hauberk) - A web-based roguelike written in Dart.
 - [liftoff-app/liftoff](https://github.com/liftoff-app/liftoff) - 🐒  A mobile client for lemmy
 - [thunder-app/thunder](https://github.com/thunder-app/thunder) - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter
