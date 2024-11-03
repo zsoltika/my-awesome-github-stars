@@ -76,7 +76,6 @@
 - [flutter](#flutter)
 - [font](#font)
 - [framework](#framework)
-- [frameworks](#frameworks)
 - [frontend](#frontend)
 - [game](#game)
 - [game-development](#game-development)
@@ -341,7 +340,6 @@
 - [lindelof/awesome-web-effect](https://github.com/lindelof/awesome-web-effect) - A series of exquisite and compact web page cool effects
 - [awesome-streamers/awesome-streamerrc](https://github.com/awesome-streamers/awesome-streamerrc) - Dotfiles for various streamers on Twitch.
 - [mateusz-brainhub/awesome-cto-resources](https://github.com/mateusz-brainhub/awesome-cto-resources) - :bulb: A community-curated list of awesome resources to help you grow as a CTO
-- [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [cerebroapp/awesome-cerebro](https://github.com/cerebroapp/awesome-cerebro) - Curated list of Cerebro plugins and resources
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
@@ -396,7 +394,6 @@
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [awesome-streamers/awesome-streamerrc](https://github.com/awesome-streamers/awesome-streamerrc) - Dotfiles for various streamers on Twitch.
 - [mateusz-brainhub/awesome-cto-resources](https://github.com/mateusz-brainhub/awesome-cto-resources) - :bulb: A community-curated list of awesome resources to help you grow as a CTO
-- [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [cerebroapp/awesome-cerebro](https://github.com/cerebroapp/awesome-cerebro) - Curated list of Cerebro plugins and resources
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
@@ -905,6 +902,7 @@
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [Xyene/wsl-dotfiles](https://github.com/Xyene/wsl-dotfiles) - My dotfiles for running an i3-based environment within the Windows Subsystem for Linux (WSL).
+- [glynnforrest/dotfiles](https://github.com/glynnforrest/dotfiles) - Mostly emacs, random scripts, and nix
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 
 ## dotnet 
@@ -944,7 +942,6 @@
 - [ajgrf/parchment](https://github.com/ajgrf/parchment) - A light editor theme for Vim and Emacs, inspired by Acme and Leuven – GitHub mirror
 - [MetroWind/flucui-theme](https://github.com/MetroWind/flucui-theme) - A custom theme for Emacs, inspired by http://flatuicolors.com. Has both light and dark variants.
 - [alphapapa/org-super-agenda](https://github.com/alphapapa/org-super-agenda) - Supercharge your Org daily/weekly agenda by grouping items
-- [glynnforrest/emacs.d](https://github.com/glynnforrest/emacs.d) - The emacs configuration of a vim convert.
 - [alphapapa/yequake](https://github.com/alphapapa/yequake) - Drop-down Emacs frames, like Yakuake
 - [kunalb/poet](https://github.com/kunalb/poet) - An emacs theme that's well suited for modes using variable pitch: particularly org-mode and markdown-mode.
 - [alphapapa/unpackaged.el](https://github.com/alphapapa/unpackaged.el) - A collection of useful Emacs Lisp code that isn't substantial enough to be packaged
@@ -1025,10 +1022,6 @@
 - [nsacyber/WALKOFF](https://github.com/nsacyber/WALKOFF) - A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down. #nsacyber
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
-
-## frameworks 
-
-- [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 
 ## frontend 
 
@@ -1130,6 +1123,7 @@
 
 - [coder/wush](https://github.com/coder/wush) - simplest & fastest way to transfer files between computers via WireGuard
 - [JFryy/qq](https://github.com/JFryy/qq) - jq inspired (and gojq dependent) interoperable config format transcoder with interactive querying.
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [dimkr/tootik](https://github.com/dimkr/tootik) - A federated nanoblogging service with a Gemini frontend.
 - [jovandeginste/workout-tracker](https://github.com/jovandeginste/workout-tracker) - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
 - [benhoyt/zztgo](https://github.com/benhoyt/zztgo) - Port of ZZT to Go (using a Pascal-to-Go converter)
@@ -1173,6 +1167,7 @@
 
 ## golang 
 
+- [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [JFryy/qq](https://github.com/JFryy/qq) - jq inspired (and gojq dependent) interoperable config format transcoder with interactive querying.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
@@ -1485,6 +1480,7 @@
 
 ## kubernetes 
 
+- [augur-ai/mantis](https://github.com/augur-ai/mantis) - Mantis is a unified infrastructure as code framework that replaces Terraform and Helm
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
@@ -1750,6 +1746,7 @@
 
 ## monitoring 
 
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [dora-team/fourkeys](https://github.com/dora-team/fourkeys) - Platform for monitoring the four key software delivery metrics of software delivery
 - [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools
@@ -1910,6 +1907,13 @@
 
 ## others 
 
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
+- [capnfabs/paperesque](https://github.com/capnfabs/paperesque) - A lightweight theme for Hugo (gohugo.io)
+- [michenriksen/hugo-theme-til](https://github.com/michenriksen/hugo-theme-til) - A Hugo theme focused on simplicity and readability, and content discovery.
+- [schnerring/hugo-theme-gruvbox](https://github.com/schnerring/hugo-theme-gruvbox) - A retro-looking Hugo theme inspired by gruvbox. The pastel colors are high contrast, easily distinguishable, pleasing to the eye, and feature light and dark color palettes.
+- [binokochumolvarghese/lightbi-hugo](https://github.com/binokochumolvarghese/lightbi-hugo) - Lightbi is a minimal and clean blog theme for Hugo.
+- [olOwOlo/hugo-theme-even](https://github.com/olOwOlo/hugo-theme-even) - 🚀 A super concise theme for Hugo https://hugo-theme-even.netlify.app
+- [CyrusYip/hugo-theme-yue](https://github.com/CyrusYip/hugo-theme-yue) - A minimal, multilingual and customizable Hugo theme, suitable for blogging
 - [welpo/tabi](https://github.com/welpo/tabi) - A modern Zola theme with search, multilingual support, optional JavaScript, a perfect Lighthouse score, and a focus on accessibility.
 - [en9inerd/zola-hacker](https://github.com/en9inerd/zola-hacker) - Hacker is a Zola theme
 - [tBaxter/questions-for-employers](https://github.com/tBaxter/questions-for-employers) - A big collection of useful questions to ask potential employers.
@@ -1996,7 +2000,7 @@
 - [anqxyr/mkepub](https://github.com/anqxyr/mkepub) - Simple minimalistic library for creating EPUB3 files
 - [holzschu/a-shell](https://github.com/holzschu/a-shell) - A terminal for iOS, with multiple windows
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
-- [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal news aggregator and Mastodon client
+- [facundoolano/feedi](https://github.com/facundoolano/feedi) - RSS + Mastodon feed reader
 - [callummcdougall/computational-thread-art](https://github.com/callummcdougall/computational-thread-art) - Code that renders an image as a series of lines connecting pins around a circular frame (for more detail, see my Medium page).
 - [ctuncan/bga_bgstats](https://github.com/ctuncan/bga_bgstats) - Create a bgsplay file containing games played on Board Game Arena to import to BG Stats
 - [fenglisch/bgg-bulk-upload](https://github.com/fenglisch/bgg-bulk-upload) - 
@@ -2826,6 +2830,7 @@
 
 ## privacy 
 
+- [spookey/slick](https://github.com/spookey/slick) - A fast, minimalist, responsive theme for Hugo that respects your privacy
 - [libreom/predirect](https://github.com/libreom/predirect) - A manifest v3 web extension with minimal permissions to automatically redirect to privacy friendly frontends. ⭐️ Star to support our work!
 - [chadgeary/cloudblock](https://github.com/chadgeary/cloudblock) - Cloudblock deploys secure ad-blocking and VPN for all devices. Text and video guides included! 6 supported cloud providers, plus Ubuntu and Raspberry Pi. Cloudblock deploys Wireguard VPN, Pi-Hole DNS 
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
@@ -3404,6 +3409,7 @@
 
 ## terminal 
 
+- [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [rafo/aerc-vim](https://github.com/rafo/aerc-vim) - Vim-Like Keybindings for Aerc. Aerc is an exceptional terminal-based email client known for its efficiency and simplicity.
 - [ChrisBuilds/moneyterm](https://github.com/ChrisBuilds/moneyterm) - TUI expense and budget tracker.
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
@@ -3472,6 +3478,7 @@
 
 ## terraform 
 
+- [augur-ai/mantis](https://github.com/augur-ai/mantis) - Mantis is a unified infrastructure as code framework that replaces Terraform and Helm
 - [JFryy/qq](https://github.com/JFryy/qq) - jq inspired (and gojq dependent) interoperable config format transcoder with interactive querying.
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [chadgeary/cloudblock](https://github.com/chadgeary/cloudblock) - Cloudblock deploys secure ad-blocking and VPN for all devices. Text and video guides included! 6 supported cloud providers, plus Ubuntu and Raspberry Pi. Cloudblock deploys Wireguard VPN, Pi-Hole DNS 
