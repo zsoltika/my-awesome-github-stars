@@ -237,6 +237,8 @@
 
 ## CSS 
 
+- [michenriksen/hugo-theme-til](https://github.com/michenriksen/hugo-theme-til) - A Hugo theme focused on simplicity and readability, and content discovery.
+- [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [maolonglong/hugo-simple](https://github.com/maolonglong/hugo-simple) - A Hugo-theme based on Simple.css and Bear Blog
 - [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md
 - [caraya/epub-zen](https://github.com/caraya/epub-zen) - Epub Zen Garden Content
@@ -340,7 +342,7 @@
 - [MetroWind/flucui-theme](https://github.com/MetroWind/flucui-theme) - A custom theme for Emacs, inspired by http://flatuicolors.com. Has both light and dark variants.
 - [larstvei/Focus](https://github.com/larstvei/Focus) - Dim the font color of text in surrounding paragraphs
 - [alphapapa/org-super-agenda](https://github.com/alphapapa/org-super-agenda) - Supercharge your Org daily/weekly agenda by grouping items
-- [glynnforrest/emacs.d](https://github.com/glynnforrest/emacs.d) - The emacs configuration of a vim convert.
+- [glynnforrest/dotfiles](https://github.com/glynnforrest/dotfiles) - Mostly emacs, random scripts, and nix
 - [alphapapa/yequake](https://github.com/alphapapa/yequake) - Drop-down Emacs frames, like Yakuake
 - [Kungsgeten/yankpad](https://github.com/Kungsgeten/yankpad) - Paste snippets from an org-mode file
 - [swillner/org-gantt](https://github.com/swillner/org-gantt) - Gantt chart for emacs org-mode
@@ -449,7 +451,7 @@
 
 ## Go 
 
-- [pranil-augur/mantis](https://github.com/pranil-augur/mantis) - Mantis is a unified infrastructure as code framework that replaces Terraform and Helm
+- [augur-ai/mantis](https://github.com/augur-ai/mantis) - Mantis is a unified infrastructure as code framework that replaces Terraform and Helm
 - [C-Loftus/QuickPiperAudiobook](https://github.com/C-Loftus/QuickPiperAudiobook) - With one command, create a natural-sounding audiobook from a variety of input formats (epub, mobi, txt, PDF, HTML and more!)
 - [kudrykv/latex-yearly-planner](https://github.com/kudrykv/latex-yearly-planner) - Digital planner for Supernote and ReMarkable // Support Ukraine 🇺🇦 https://savelife.in.ua/en
 - [coder/wush](https://github.com/coder/wush) - simplest & fastest way to transfer files between computers via WireGuard
@@ -570,6 +572,12 @@
 
 ## HTML 
 
+- [capnfabs/paperesque](https://github.com/capnfabs/paperesque) - A lightweight theme for Hugo (gohugo.io)
+- [schnerring/hugo-theme-gruvbox](https://github.com/schnerring/hugo-theme-gruvbox) - A retro-looking Hugo theme inspired by gruvbox. The pastel colors are high contrast, easily distinguishable, pleasing to the eye, and feature light and dark color palettes.
+- [binokochumolvarghese/lightbi-hugo](https://github.com/binokochumolvarghese/lightbi-hugo) - Lightbi is a minimal and clean blog theme for Hugo.
+- [spookey/slick](https://github.com/spookey/slick) - A fast, minimalist, responsive theme for Hugo that respects your privacy
+- [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
+- [CyrusYip/hugo-theme-yue](https://github.com/CyrusYip/hugo-theme-yue) - A minimal, multilingual and customizable Hugo theme, suitable for blogging
 - [en9inerd/zola-hacker](https://github.com/en9inerd/zola-hacker) - Hacker is a Zola theme
 - [bradleytaunt/ET-Jekyll](https://github.com/bradleytaunt/ET-Jekyll) - A minimal Jekyll theme inspired by Tufte CSS
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
@@ -990,7 +998,6 @@
 - [lindelof/awesome-web-effect](https://github.com/lindelof/awesome-web-effect) - A series of exquisite and compact web page cool effects
 - [chubin/Best-websites-a-programmer-should-visit](https://github.com/chubin/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [mateusz-brainhub/awesome-cto-resources](https://github.com/mateusz-brainhub/awesome-cto-resources) - :bulb: A community-curated list of awesome resources to help you grow as a CTO
-- [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [itamarst/pandoc-book-template](https://github.com/itamarst/pandoc-book-template) - LaTeX setup for Pandoc to produce reasonable-looking book PDFs
 - [cerebroapp/awesome-cerebro](https://github.com/cerebroapp/awesome-cerebro) - Curated list of Cerebro plugins and resources
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
@@ -1116,6 +1123,7 @@
 
 ## Python 
 
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [pyedifice/pyedifice](https://github.com/pyedifice/pyedifice) - Declarative GUI framework for Python and Qt
 - [akissinger/dodo](https://github.com/akissinger/dodo) - A graphical, hackable email client based on notmuch
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
@@ -1612,6 +1620,7 @@
 
 ## SCSS 
 
+- [olOwOlo/hugo-theme-even](https://github.com/olOwOlo/hugo-theme-even) - 🚀 A super concise theme for Hugo https://hugo-theme-even.netlify.app
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [loikein/hugo-tufte](https://github.com/loikein/hugo-tufte) - Content centric Hugo blogging theme styled with Tufte-CSS
 - [ppeetteerrs/obsidian-zola](https://github.com/ppeetteerrs/obsidian-zola) - A no-brainer solution to turning your Obsidian PKM into a Zola site.
