@@ -592,7 +592,7 @@
 - [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [beejjorgensen/bgnet0](https://github.com/beejjorgensen/bgnet0) - Beej's Guide to Network Concepts source
 - [callummcdougall/computational-thread-art](https://github.com/callummcdougall/computational-thread-art) - Code that renders an image as a series of lines connecting pins around a circular frame (for more detail, see my Medium page).
-- [fenglisch/bgg-names-to-ids](https://github.com/fenglisch/bgg-names-to-ids) - 
+- [fenglisch/translate-board-game-names-into-bgg-ids](https://github.com/fenglisch/translate-board-game-names-into-bgg-ids) - 
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [pawroman/zola-theme-terminimal](https://github.com/pawroman/zola-theme-terminimal) - A simple, minimal retro theme for Zola
 - [ejmg/zerm](https://github.com/ejmg/zerm) - a minimalist and dark theme for Zola
@@ -684,7 +684,7 @@
 - [libreom/predirect](https://github.com/libreom/predirect) - A manifest v3 web extension with minimal permissions to automatically redirect to privacy friendly frontends. ⭐️ Star to support our work!
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
-- [fenglisch/bgg-bulk-upload](https://github.com/fenglisch/bgg-bulk-upload) - 
+- [fenglisch/bulk-upload-board-games-into-bgg-collection](https://github.com/fenglisch/bulk-upload-board-games-into-bgg-collection) - 
 - [nubank/morse](https://github.com/nubank/morse) - A graphical, interactive tool for browsing Clojure data
 - [Jieiku/abridge](https://github.com/Jieiku/abridge) - Fast & Lightweight Zola Theme
 - [badlogic/heissepreise](https://github.com/badlogic/heissepreise) - Jo eh.
