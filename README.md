@@ -41,6 +41,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [NSIS](#nsis)
+- [NWScript](#nwscript)
 - [Nim](#nim)
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
@@ -49,6 +50,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
+- [Pascal](#pascal)
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -63,6 +65,7 @@
 - [Scala](#scala)
 - [Scheme](#scheme)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TSQL](#tsql)
 - [Tcl](#tcl)
@@ -108,11 +111,13 @@
 
 ## Batchfile 
 
+- [awesome-windows11/windows11](https://github.com/awesome-windows11/windows11) - 🌎 Windows 11 Settings, Tweaks, Scripts
 - [alwsl/alwsl](https://github.com/alwsl/alwsl) - Install archlinux as the WSL (Windows Subsystem for Linux) host.
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 
 ## C 
 
+- [rudyrucker/chaos](https://github.com/rudyrucker/chaos) - James Gleick's Chaos: The Software
 - [lelanthran/frame](https://github.com/lelanthran/frame) - Personal DB to help maintain focus on long-sequences of tasks.
 - [ililim/dual-key-remap](https://github.com/ililim/dual-key-remap) - Remap any key to any other two keys on Windows 🔥. Remap CapsLock to both Ctrl and Escape! (It's like xcape for windows!)
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
@@ -170,6 +175,7 @@
 
 ## C# # 
 
+- [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
 - [endrl/jellyfin-plugin-media-analyzer](https://github.com/endrl/jellyfin-plugin-media-analyzer) - Fingerprint audio to automatically detect intro and outro segments in Jellyfin
 - [endrl/jellyfin-plugin-edl](https://github.com/endrl/jellyfin-plugin-edl) - Jellyfin .edl file creation plugin
 - [samhocevar/wincompose](https://github.com/samhocevar/wincompose) - 🔣 Compose Key for Windows
@@ -184,7 +190,6 @@
 - [inkle/ink](https://github.com/inkle/ink) - inkle's open source scripting language for writing interactive narrative.
 - [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic
 - [wesdoyle/design-patterns-explained-with-food](https://github.com/wesdoyle/design-patterns-explained-with-food) - GoF Design Patterns with "Real-World" examples involving Food-Related Businesses and mock dependencies
-- [mudroljub/programming-quotes-api](https://github.com/mudroljub/programming-quotes-api) - Programming Quotes API for open source projects.
 - [zsims/hunt-and-peck](https://github.com/zsims/hunt-and-peck) - Simple vimium/vimperator style navigation for Windows applications based on the UI Automation framework.
 - [dnGrep/dnGrep](https://github.com/dnGrep/dnGrep) - Graphical GREP tool for Windows
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
@@ -221,7 +226,7 @@
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [przemek83/volbx](https://github.com/przemek83/volbx) - Graphical tool for data manipulation written in C++/Qt.
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 7.0: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 7.1: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [CoatiSoftware/SourcetrailDB](https://github.com/CoatiSoftware/SourcetrailDB) - Library to export Sourcetrail compatible database files for writing custom indexers
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [tom-seddon/align_window3](https://github.com/tom-seddon/align_window3) - Quickly create tiled window arrangements
@@ -236,6 +241,7 @@
 
 ## CSS 
 
+- [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 - [holman/left](https://github.com/holman/left) - Left is a clean, whitespace-happy layout for Jekyll.
 - [michenriksen/hugo-theme-til](https://github.com/michenriksen/hugo-theme-til) - A Hugo theme focused on simplicity and readability, and content discovery.
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
@@ -338,7 +344,7 @@
 - [progfolio/doct](https://github.com/progfolio/doct) - DOCT: Declarative Org Capture Templates for Emacs
 - [vreeze/zone-matrix-wake-up](https://github.com/vreeze/zone-matrix-wake-up) - The Matrix wake up scene as an Emacs zone/screen saver
 - [jschaf/esup](https://github.com/jschaf/esup) - ESUP - Emacs Start Up Profiler
-- [ajgrf/parchment](https://github.com/ajgrf/parchment) - A light editor theme for Vim and Emacs, inspired by Acme and Leuven – GitHub mirror
+- [axgfn/parchment](https://github.com/axgfn/parchment) - A light editor theme for Vim and Emacs, inspired by Acme and Leuven – GitHub mirror
 - [MetroWind/flucui-theme](https://github.com/MetroWind/flucui-theme) - A custom theme for Emacs, inspired by http://flatuicolors.com. Has both light and dark variants.
 - [larstvei/Focus](https://github.com/larstvei/Focus) - Dim the font color of text in surrounding paragraphs
 - [alphapapa/org-super-agenda](https://github.com/alphapapa/org-super-agenda) - Supercharge your Org daily/weekly agenda by grouping items
@@ -451,6 +457,7 @@
 
 ## Go 
 
+- [greenpau/caddy-git](https://github.com/greenpau/caddy-git) - Git Plugin for Caddy v2
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [augur-ai/mantis](https://github.com/augur-ai/mantis) - Mantis is a unified infrastructure as code framework that replaces Terraform and Helm
 - [C-Loftus/QuickPiperAudiobook](https://github.com/C-Loftus/QuickPiperAudiobook) - With one command, create a natural-sounding audiobook from a variety of input formats (epub, mobi, txt, PDF, HTML and more!)
@@ -574,6 +581,8 @@
 
 ## HTML 
 
+- [athul/archie](https://github.com/athul/archie) - A minimal Hugo Theme
+- [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) - Minimal and responsive Hugo theme inspired by the system console, crafted for optimal performance with an average page load time of under one second.
 - [mojombo/mojombo.github.io](https://github.com/mojombo/mojombo.github.io) - Jekyll source for my personal blog.
 - [capnfabs/paperesque](https://github.com/capnfabs/paperesque) - A lightweight theme for Hugo (gohugo.io)
 - [schnerring/hugo-theme-gruvbox](https://github.com/schnerring/hugo-theme-gruvbox) - A retro-looking Hugo theme inspired by gruvbox. The pastel colors are high contrast, easily distinguishable, pleasing to the eye, and feature light and dark color palettes.
@@ -631,6 +640,7 @@
 - [hwmaier/asciidoc-ditaa-filter](https://github.com/hwmaier/asciidoc-ditaa-filter) - ditaa filter for AsciiDoc
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [mixu/markdown-styles](https://github.com/mixu/markdown-styles) - Markdown to static HTML generator and multiple CSS themes for Markdown
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [worrydream/EarlyHistoryOfSmalltalk](https://github.com/worrydream/EarlyHistoryOfSmalltalk) - Cleaned-up HTML version of Alan Kay's HOPL paper, "The Early History of Smalltalk"
 - [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
 - [propublica/upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS! (Or do more.)
@@ -673,6 +683,8 @@
 
 ## JavaScript 
 
+- [lucahammer/tweetXer](https://github.com/lucahammer/tweetXer) - Delete all your Tweets for free
+- [sylumer/automators](https://github.com/sylumer/automators) - Obsidian Vault for Automators Podcast
 - [welpo/tabi](https://github.com/welpo/tabi) - A modern Zola theme with search, multilingual support, optional JavaScript, a perfect Lighthouse score, and a focus on accessibility.
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
@@ -724,6 +736,7 @@
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
 - [inkle/inky](https://github.com/inkle/inky) - An editor for ink: inkle's narrative scripting language
+- [mudroljub/programming-quotes-api](https://github.com/mudroljub/programming-quotes-api) - Programming Quotes API for open source projects.
 - [ottomatica/docable-notebooks](https://github.com/ottomatica/docable-notebooks) - :ledger: Next-Generation Interactive Notebooks
 - [shreyashankar/gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox) - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
 - [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting 
@@ -786,7 +799,7 @@
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [chenxwh/insanely-fast-whisper](https://github.com/chenxwh/insanely-fast-whisper) - Incredibly fast Whisper-large-v3
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
-- [fastai/nbdev](https://github.com/fastai/nbdev) - Create delightful software with Jupyter Notebooks
+- [AnswerDotAI/nbdev](https://github.com/AnswerDotAI/nbdev) - Create delightful software with Jupyter Notebooks
 - [blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series:
 - [python-frederick/talks](https://github.com/python-frederick/talks) - A collection of talks presented at Python Frederick
 - [vega/ipyvega](https://github.com/vega/ipyvega) - IPython/Jupyter notebook module for Vega and Vega-Lite
@@ -816,7 +829,9 @@
 
 ## Lua 
 
-- [Kurama622/profile.nvim](https://github.com/Kurama622/profile.nvim) - Your Personal Homepage in Neovim
+- [MiragianCycle/OVIWrite](https://github.com/MiragianCycle/OVIWrite) - Integrated Writing Environment (IWE) based on NeoVim
+- [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of small QoL plugins for Neovim
+- [Kurama622/profile.nvim](https://github.com/Kurama622/profile.nvim) - Your Personal Homepage
 - [neo451/feed.nvim](https://github.com/neo451/feed.nvim) - feature-rich neovim web feed reader, rss, atom and json, all in lua
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - ☄️ Highly customisable markdown(latex & inline html) previewer for Neovim
 - [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - Experimental Sourcegraph + Cody plugin for Neovim
@@ -827,7 +842,6 @@
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
 - [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim
 - [Abstract-IDE/abstract-autocmds](https://github.com/Abstract-IDE/abstract-autocmds) - Useful autocmds for Neovim.
-- [dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim) - CodeGPT is a plugin for neovim that provides commands to interact with ChatGPT.
 - [mobily/.nvim](https://github.com/mobily/.nvim) - 
 - [kelly-lin/ranger.nvim](https://github.com/kelly-lin/ranger.nvim) - Ranger plugin for neovim
 - [cnshsliu/smp.nvim](https://github.com/cnshsliu/smp.nvim) - NeoVim Markdown Previewer, Outliner, Incremental Searcher and more
@@ -906,6 +920,10 @@
 
 - [bmatzelle/gow](https://github.com/bmatzelle/gow) - Unix command line utilities installer for Windows.
 
+## NWScript 
+
+- [szzran/winconfig](https://github.com/szzran/winconfig) - This repository contains my configuration files for MS Windows.
+
 ## Nim 
 
 - [c-blake/bu](https://github.com/c-blake/bu) - B)asic|But-For U)tility Code/Programs (in Nim & Often Unix/POSIX/Linux Context)
@@ -934,6 +952,9 @@
 
 ## Others 
 
+- [obsidian-community/web-clipper-templates](https://github.com/obsidian-community/web-clipper-templates) - Community collection of templates for the official Obsidian web clipper.
+- [SilverAzide/Gadgets](https://github.com/SilverAzide/Gadgets) - Gadgets for Rainmeter
+- [Legend0804/Theme-Kanagawa](https://github.com/Legend0804/Theme-Kanagawa) - 
 - [hundredrabbits/awesome-uxn](https://github.com/hundredrabbits/awesome-uxn) - Awesome things from the community
 - [tBaxter/questions-for-employers](https://github.com/tBaxter/questions-for-employers) - A big collection of useful questions to ask potential employers.
 - [Emacs101/howm-manual](https://github.com/Emacs101/howm-manual) - Note-taking in Emacs with howm package
@@ -1067,7 +1088,6 @@
 - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
 - [ligurio/sqa-wiki](https://github.com/ligurio/sqa-wiki) - My own notes (drafts mostly) about software quality
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [vim-pandoc/vim-pandoc-legacy](https://github.com/vim-pandoc/vim-pandoc-legacy) - [UNSUPPORTED/use vim-pandoc/vim-pandoc] vim bundle for pandoc users
 - [dahu/LearnVim](https://github.com/dahu/LearnVim) - A Suggested Path for Learning Vim
 - [limetext/lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
@@ -1099,6 +1119,10 @@
 
 - [nuno-faria/tetris-sql](https://github.com/nuno-faria/tetris-sql) - Using SQL's Turing Completeness to Build Tetris
 
+## Pascal 
+
+- [Runixe786/MD3-Windows](https://github.com/Runixe786/MD3-Windows) - Material you widgets for your windows desktop, adaptable with wallpaper colors with both light & dark modes
+
 ## Perl 
 
 - [holzschu/a-shell](https://github.com/holzschu/a-shell) - A terminal for iOS, with multiple windows
@@ -1127,6 +1151,8 @@
 
 ## Python 
 
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+- [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [pyedifice/pyedifice](https://github.com/pyedifice/pyedifice) - Declarative GUI framework for Python and Qt
 - [akissinger/dodo](https://github.com/akissinger/dodo) - A graphical, hackable email client based on notmuch
@@ -1138,7 +1164,7 @@
 - [google/mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python
 - [benjie-git/CardStock](https://github.com/benjie-git/CardStock) - CardStock is a cross-platform tool for quickly and easily building programs. It provides a drawing-program-like editor for visually laying out your programs' parts, and a code editor for adding event-
 - [da-rth/yasb](https://github.com/da-rth/yasb) - A highly configurable cross-platform (Windows) status bar written in Python.
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - [try V7!] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - [Try V7!] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 - [halfburnttoast/Dungeon-Cross](https://github.com/halfburnttoast/Dungeon-Cross) - A Python-based reimplementation of Zachtronic's Dungeons and Diagrams
 - [amirkarimi/browser-hub](https://github.com/amirkarimi/browser-hub) - A Browser wrapper that allows you run multiple browser instances hassle-free
 - [iktakahiro/dddpy](https://github.com/iktakahiro/dddpy) - Python DDD Example and Techniques
@@ -1729,6 +1755,10 @@
 - [ku1ik/bitpocket](https://github.com/ku1ik/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
+## Svelte 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
 ## Swift 
 
 - [Krisztiaan/MagyarTV](https://github.com/Krisztiaan/MagyarTV) - 
@@ -1756,10 +1786,11 @@
 
 ## TypeScript 
 
+- [sibosi/e5vosdo-snimrod](https://github.com/sibosi/e5vosdo-snimrod) - 
 - [klimeryk/dealwithit](https://github.com/klimeryk/dealwithit) - Fully client-side Deal With It GIF emoji generator.
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million+ lines of code in your GitHub, GitLab, and Gitea repositories 🪄 MIT licensed ✅
-- [getyaak/app](https://github.com/getyaak/app) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [Instawork/hyperview](https://github.com/Instawork/hyperview) - Server-driven mobile apps with React Native
 - [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) - A plugin that can query multiple APIs for movies, series, anime, games, music and wiki articles, and import them into your vault.
