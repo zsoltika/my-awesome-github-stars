@@ -685,7 +685,7 @@
 
 - [lucahammer/tweetXer](https://github.com/lucahammer/tweetXer) - Delete all your Tweets for free
 - [sylumer/automators](https://github.com/sylumer/automators) - Obsidian Vault for Automators Podcast
-- [welpo/tabi](https://github.com/welpo/tabi) - A modern Zola theme with search, multilingual support, optional JavaScript, a perfect Lighthouse score, and a focus on accessibility.
+- [welpo/tabi](https://github.com/welpo/tabi) - An accessible Zola theme with search, multi-language support, optional JavaScript, a perfect Lighthouse score, and comprehensive documentation. Crafted for personal websites and blogs.
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
 - [bzimor/obsidian_hledger](https://github.com/bzimor/obsidian_hledger) - Add transaction to hledger file or to daily note functionality using Templater on Obsidian
@@ -1524,6 +1524,7 @@
 
 ## Ruby 
 
+- [captn3m0/jekyll-sqlite](https://github.com/captn3m0/jekyll-sqlite) - A Jekyll plugin to use SQLite databases as a data source.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [ttscoff/journal-cli](https://github.com/ttscoff/journal-cli) - 
 - [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot) - A command line tool that draw plots on the terminal.
