@@ -600,6 +600,7 @@
 - [sgreben/yeetgif](https://github.com/sgreben/yeetgif) - gif effects CLI. single binary, no dependencies. linux, osx, windows. #1 workplace productivity booster. #yeetgif #eggplant #golang
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [pndurette/gTTS](https://github.com/pndurette/gTTS) - Python library and CLI tool to interface with Google Translate's text-to-speech API
+- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
@@ -1459,6 +1460,7 @@
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [xonixx/gron.awk](https://github.com/xonixx/gron.awk) - Gron in Awk
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
+- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [sgreben/jp](https://github.com/sgreben/jp) - dead simple terminal plots from JSON data. single binary, no dependencies. linux, osx, windows.
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
@@ -2316,7 +2318,6 @@
 - [kidpixo/vimways.org](https://github.com/kidpixo/vimways.org) - vimways.org
 - [PacktPublishing/Microsoft-Power-BI-Cookbook](https://github.com/PacktPublishing/Microsoft-Power-BI-Cookbook) - Microsoft Power BI Cookbook, published by Packt
 - [Apress/beg-dax-with-powerbi](https://github.com/Apress/beg-dax-with-powerbi) - Source code for 'Beginning DAX with PowerBI' by Philip Seamark
-- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [vreeze/zone-matrix-wake-up](https://github.com/vreeze/zone-matrix-wake-up) - The Matrix wake up scene as an Emacs zone/screen saver
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [jschaf/esup](https://github.com/jschaf/esup) - ESUP - Emacs Start Up Profiler
