@@ -204,6 +204,7 @@
 - [unity](#unity)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
+- [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [wagtail](#wagtail)
@@ -226,6 +227,7 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [vijishmadhavan/ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
 
 ## algorithm 
@@ -313,6 +315,7 @@
 
 ## awesome 
 
+- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
@@ -525,6 +528,7 @@
 
 ## chatgpt 
 
+- [eeeXun/gtt](https://github.com/eeeXun/gtt) - Google Translate TUI (Originally). Currently supports Apertium, Bing, ChatGPT, DeepL, DeepLX, Google, LibreTranslate, Reverso.
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
@@ -544,6 +548,7 @@
 
 ## cli 
 
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
 - [rafo/aerc-vim](https://github.com/rafo/aerc-vim) - Vim-Like Keybindings for Aerc. Aerc is an exceptional terminal-based email client known for its efficiency and simplicity.
@@ -737,8 +742,10 @@
 
 ## data 
 
+- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [przemek83/volbx](https://github.com/przemek83/volbx) - Graphical tool for data manipulation written in C++/Qt.
+- [nikitavoloboev/data](https://github.com/nikitavoloboev/data) - All kinds of things
 
 ## data-analysis 
 
@@ -1231,6 +1238,7 @@
 
 ## google 
 
+- [eeeXun/gtt](https://github.com/eeeXun/gtt) - Google Translate TUI (Originally). Currently supports Apertium, Bing, ChatGPT, DeepL, DeepLX, Google, LibreTranslate, Reverso.
 - [Runixe786/MD3-Windows](https://github.com/Runixe786/MD3-Windows) - Material you widgets for your windows desktop, adaptable with wallpaper colors with both light & dark modes
 - [google/yapf](https://github.com/google/yapf) - A formatter for Python files
 
@@ -1859,6 +1867,7 @@
 
 ## nextjs 
 
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [datopian/flowershow](https://github.com/datopian/flowershow) - 💐 Publish your obsidian digital garden or any markdown site easily and elegantly.
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
@@ -1895,6 +1904,7 @@
 
 ## open-source 
 
+- [IndiePython/nodezator](https://github.com/IndiePython/nodezator) - A generalist Python node editor
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [mmulet/code-relay](https://github.com/mmulet/code-relay) - Source for the Code Relay website. Code Relay The fastest and easiest way to contribute to open source!
@@ -1921,6 +1931,15 @@
 
 ## others 
 
+- [kepano/40-questions](https://github.com/kepano/40-questions) - Questions that I ask myself at the end of each year and each decade.
+- [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) - 🌠 Neovim plugin to animate the cursor with a smear effect in all terminals
+- [thomast1906/DevOps-Journey-Using-Azure-DevOps](https://github.com/thomast1906/DevOps-Journey-Using-Azure-DevOps) - A DevOps journey using Azure DevOps (CI/CD, reporting, terraform, AKS)
+- [allanhortle/board-game-one-pagers](https://github.com/allanhortle/board-game-one-pagers) - One page descriptions of board games
+- [ricott1/rebels-in-the-sky](https://github.com/ricott1/rebels-in-the-sky) - P2P terminal game about spacepirates playing basketball across the galaxy
+- [Luke-lwz/kaboom](https://github.com/Luke-lwz/kaboom) - Adaptation of the card game Two Rooms and a Boom
+- [GandalfDG/tworooms](https://github.com/GandalfDG/tworooms) - a web implementation of the Two Rooms and a Boom social deduction game
+- [64bitpandas/amethyst](https://github.com/64bitpandas/amethyst) - 📓 obsidian-compatible notes theme for hugo, built from quartz and hugo-book
+- [jackyzha0/jackyzha0.github.io](https://github.com/jackyzha0/jackyzha0.github.io) - :sparkles: website v3
 - [captn3m0/jekyll-sqlite](https://github.com/captn3m0/jekyll-sqlite) - A Jekyll plugin to use SQLite databases as a data source.
 - [greenpau/caddy-git](https://github.com/greenpau/caddy-git) - Git Plugin for Caddy v2
 - [sibosi/e5vosdo-snimrod](https://github.com/sibosi/e5vosdo-snimrod) - 
@@ -1952,7 +1971,7 @@
 - [neo451/feed.nvim](https://github.com/neo451/feed.nvim) - feature-rich neovim web feed reader, rss, atom and json, all in lua
 - [kristoff-it/zine](https://github.com/kristoff-it/zine) - Fast, Scalable, Flexible Static Site Generator (SSG)
 - [C-Loftus/QuickPiperAudiobook](https://github.com/C-Loftus/QuickPiperAudiobook) - With one command, create a natural-sounding audiobook from a variety of input formats (epub, mobi, txt, PDF, HTML and more!)
-- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million+ lines of code in your GitHub, GitLab, and Gitea repositories 🪄 MIT licensed ✅
+- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million+ lines of code in your GitHub, GitLab, Gitea, and Gerrit repositories 🪄 MIT licensed ✅
 - [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [kudrykv/latex-yearly-planner](https://github.com/kudrykv/latex-yearly-planner) - Digital planner for Supernote and ReMarkable // Support Ukraine 🇺🇦 https://savelife.in.ua/en
 - [marekbrze/categorized-obsidian-plugins](https://github.com/marekbrze/categorized-obsidian-plugins) - Easily find Obsidian plugins!🚀
@@ -2300,7 +2319,6 @@
 - [AlgoryL/Projects-from-Scratch](https://github.com/AlgoryL/Projects-from-Scratch) - Read and do projects.
 - [the-machine-preacher/Pythonic-Python-Tutorial](https://github.com/the-machine-preacher/Pythonic-Python-Tutorial) - Learn Python! Python is a programming language that lets you work quickly and integrate systems more effectively.
 - [CoatiSoftware/SourcetrailDB](https://github.com/CoatiSoftware/SourcetrailDB) - Library to export Sourcetrail compatible database files for writing custom indexers
-- [nikitavoloboev/data](https://github.com/nikitavoloboev/data) - All kinds of things
 - [KroniK907/WindowSaver](https://github.com/KroniK907/WindowSaver) - An AutoHotkey script that will save your window positions and then restore them to the saved position
 - [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
 - [jvns/pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
@@ -2905,6 +2923,7 @@
 
 ## python 
 
+- [IndiePython/nodezator](https://github.com/IndiePython/nodezator) - A generalist Python node editor
 - [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python.
 - [pyedifice/pyedifice](https://github.com/pyedifice/pyedifice) - Declarative GUI framework for Python and Qt
 - [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win) - pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-p
@@ -3058,7 +3077,7 @@
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [google/yapf](https://github.com/google/yapf) - A formatter for Python files
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
-- [packt-cli/Packt-Publishing-Free-Learning](https://github.com/packt-cli/Packt-Publishing-Free-Learning) - Scripts that automatically claim and download  free daily eBooks from https://www.packtpub.com/packt/offers/free-learning
+- [luk6xff/Packt-Publishing-Free-Learning](https://github.com/luk6xff/Packt-Publishing-Free-Learning) - Scripts that automatically claim and download  free daily eBooks from https://www.packtpub.com/packt/offers/free-learning
 - [novoid/lazyblorg](https://github.com/novoid/lazyblorg) - Blogging with Org-mode for very lazy people
 - [valignatev/ddd-dynamic](https://github.com/valignatev/ddd-dynamic) - Domain Driven Design in Python, Ruby and other dynamic languages resources
 - [ryukinix/decorating](https://github.com/ryukinix/decorating) - decorating: Literally decorating your terminal with decorators
@@ -3093,6 +3112,7 @@
 
 ## python3 
 
+- [IndiePython/nodezator](https://github.com/IndiePython/nodezator) - A generalist Python node editor
 - [halfburnttoast/Dungeon-Cross](https://github.com/halfburnttoast/Dungeon-Cross) - A Python-based reimplementation of Zachtronic's Dungeons and Diagrams
 - [liiight/notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [joelibaceta/webcam-fixed-terminal](https://github.com/joelibaceta/webcam-fixed-terminal) - Multi terminal experience
@@ -3207,6 +3227,7 @@
 
 ## rust 
 
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [LGUG2Z/whkd](https://github.com/LGUG2Z/whkd) - A simple hotkey daemon for Windows
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
@@ -3287,6 +3308,7 @@
 
 ## self-hosted 
 
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -3374,6 +3396,7 @@
 
 ## sql 
 
+- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) - SQL tips and tricks
 - [nuno-faria/tetris-sql](https://github.com/nuno-faria/tetris-sql) - Using SQL's Turing Completeness to Build Tetris
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -3438,6 +3461,7 @@
 
 ## terminal 
 
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [rafo/aerc-vim](https://github.com/rafo/aerc-vim) - Vim-Like Keybindings for Aerc. Aerc is an exceptional terminal-based email client known for its efficiency and simplicity.
 - [ChrisBuilds/moneyterm](https://github.com/ChrisBuilds/moneyterm) - TUI expense and budget tracker.
@@ -3536,7 +3560,9 @@
 
 ## typescript 
 
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
 - [klimeryk/dealwithit](https://github.com/klimeryk/dealwithit) - Fully client-side Deal With It GIF emoji generator.
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
@@ -3637,6 +3663,10 @@
 ## visual-studio-code 
 
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
+
+## vpn 
+
+- [chadgeary/cloudblock](https://github.com/chadgeary/cloudblock) - Cloudblock deploys secure ad-blocking and VPN for all devices. Text and video guides included! 6 supported cloud providers, plus Ubuntu and Raspberry Pi. Cloudblock deploys Wireguard VPN, Pi-Hole DNS 
 
 ## vue 
 
