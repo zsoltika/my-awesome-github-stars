@@ -602,7 +602,7 @@
 - [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns) - Source repo for the book
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [yihui/hugo-prose](https://github.com/yihui/hugo-prose) - A Hugo theme derived from the XMin theme, and inspired by Wowchemy, Distill, and tufte.css
-- [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
+- [google/docsy](https://github.com/google/docsy) - Hugo theme for open source documentation
 - [beejjorgensen/bgnet0](https://github.com/beejjorgensen/bgnet0) - Beej's Guide to Network Concepts source
 - [callummcdougall/computational-thread-art](https://github.com/callummcdougall/computational-thread-art) - Code that renders an image as a series of lines connecting pins around a circular frame (for more detail, see my Medium page).
 - [fenglisch/translate-board-game-names-into-bgg-ids](https://github.com/fenglisch/translate-board-game-names-into-bgg-ids) - 
@@ -685,6 +685,7 @@
 
 ## JavaScript 
 
+- [s3rvant/boardgames](https://github.com/s3rvant/boardgames) - David Gregg board game design notes and playtesting files
 - [Luke-lwz/kaboom](https://github.com/Luke-lwz/kaboom) - Adaptation of the card game Two Rooms and a Boom
 - [lucahammer/tweetXer](https://github.com/lucahammer/tweetXer) - Delete all your Tweets for free
 - [sylumer/automators](https://github.com/sylumer/automators) - Obsidian Vault for Automators Podcast
@@ -1157,6 +1158,9 @@
 
 ## Python 
 
+- [jstrieb/just.sh](https://github.com/jstrieb/just.sh) - Compile Justfiles to portable shell scripts
+- [dpunj/weft](https://github.com/dpunj/weft) - A vim-like terminal reader to chat with your books
+- [kirkthaker/investopedia-trading-api](https://github.com/kirkthaker/investopedia-trading-api) - An api, written in Python, for Investopedia's paper trading stock simulator.
 - [IndiePython/nodezator](https://github.com/IndiePython/nodezator) - A generalist Python node editor
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python.
@@ -1222,7 +1226,7 @@
 - [qtile/qtile-examples](https://github.com/qtile/qtile-examples) - Example configurations and scripts for Qtile
 - [1j01/textual-paint](https://github.com/1j01/textual-paint) - :art: MS Paint in your terminal.
 - [All-About-Berlin/ursus](https://github.com/All-About-Berlin/ursus) - Static site generator for All About Berlin
-- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [dora-team/fourkeys](https://github.com/dora-team/fourkeys) - Platform for monitoring the four key software delivery metrics of software delivery
 - [papajohn/composing-programs-published](https://github.com/papajohn/composing-programs-published) - Published version of composing programs textbook
@@ -1531,6 +1535,8 @@
 
 ## Ruby 
 
+- [thoughtbot/guides](https://github.com/thoughtbot/guides) - A guide for programming in style.
+- [standardrb/standard](https://github.com/standardrb/standard) - Ruby's bikeshed-proof linter and formatter 🚲
 - [captn3m0/jekyll-sqlite](https://github.com/captn3m0/jekyll-sqlite) - A Jekyll plugin to use SQLite databases as a data source.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [ttscoff/journal-cli](https://github.com/ttscoff/journal-cli) - 
@@ -1797,6 +1803,8 @@
 
 ## TypeScript 
 
+- [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
+- [shamith09/pygyat](https://github.com/shamith09/pygyat) - Python with rizz.
 - [allanhortle/board-game-one-pagers](https://github.com/allanhortle/board-game-one-pagers) - One page descriptions of board games
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
 - [jackyzha0/jackyzha0.github.io](https://github.com/jackyzha0/jackyzha0.github.io) - :sparkles: website v3
