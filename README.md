@@ -117,6 +117,7 @@
 
 ## C 
 
+- [carlini/c-chat-gpt-2](https://github.com/carlini/c-chat-gpt-2) - 
 - [rudyrucker/chaos](https://github.com/rudyrucker/chaos) - James Gleick's Chaos: The Software
 - [lelanthran/frame](https://github.com/lelanthran/frame) - Personal DB to help maintain focus on long-sequences of tasks.
 - [ililim/dual-key-remap](https://github.com/ililim/dual-key-remap) - Remap any key to any other two keys on Windows 🔥. Remap CapsLock to both Ctrl and Escape! (It's like xcape for windows!)
@@ -1804,12 +1805,13 @@
 
 ## TypeScript 
 
+- [mdfriday/obsidian-friday-plugin](https://github.com/mdfriday/obsidian-friday-plugin) - Turn notes to website, in minutes. MDFriday plugin for Obsidian.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [shamith09/pygyat](https://github.com/shamith09/pygyat) - Python with rizz.
 - [allanhortle/board-game-one-pagers](https://github.com/allanhortle/board-game-one-pagers) - One page descriptions of board games
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
 - [jackyzha0/jackyzha0.github.io](https://github.com/jackyzha0/jackyzha0.github.io) - :sparkles: website v3
-- [sibosi/e5vosdo-snimrod](https://github.com/sibosi/e5vosdo-snimrod) - 
+- [e5vos/e5vosdo-snimrod](https://github.com/e5vos/e5vosdo-snimrod) - 
 - [klimeryk/dealwithit](https://github.com/klimeryk/dealwithit) - Fully client-side Deal With It GIF emoji generator.
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million+ lines of code in your GitHub, GitLab, Gitea, and Gerrit repositories 🪄 MIT licensed ✅
