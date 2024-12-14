@@ -585,6 +585,7 @@
 
 ## HTML 
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [athul/archie](https://github.com/athul/archie) - A minimal Hugo Theme
 - [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) - Minimal and responsive Hugo theme inspired by the system console, crafted for optimal performance with an average page load time of under one second.
 - [mojombo/mojombo.github.io](https://github.com/mojombo/mojombo.github.io) - Jekyll source for my personal blog.
@@ -1879,6 +1880,7 @@
 
 ## Vim Script 
 
+- [JKirchartz/writegooder.vim](https://github.com/JKirchartz/writegooder.vim) - Vim plugin for Matt Might's '3 shell scripts that can improve your writing'
 - [plentiform/go-ide](https://github.com/plentiform/go-ide) - Neovim config for golang development
 - [jwworth/til](https://github.com/jwworth/til) - ⌨️  Technical articles; needless words omitted
 - [romainl/vim-devdocs](https://github.com/romainl/vim-devdocs) - Look up keyword on https://devdocs.io from Vim
