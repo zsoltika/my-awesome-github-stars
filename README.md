@@ -1160,6 +1160,7 @@
 
 ## Python 
 
+- [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv) - 
 - [jstrieb/just.sh](https://github.com/jstrieb/just.sh) - Compile Justfiles to portable shell scripts
 - [dpunj/weft](https://github.com/dpunj/weft) - A vim-like terminal reader to chat with your books
 - [kirkthaker/investopedia-trading-api](https://github.com/kirkthaker/investopedia-trading-api) - An api, written in Python, for Investopedia's paper trading stock simulator.
