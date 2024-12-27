@@ -177,6 +177,7 @@
 - [scala](#scala)
 - [scikit-learn](#scikit-learn)
 - [security](#security)
+- [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [serverless](#serverless)
@@ -266,6 +267,7 @@
 
 ## api 
 
+- [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [ywalia01/dune-api](https://github.com/ywalia01/dune-api) - A simple API which provides you with book, character, movie and quotes JSON data
 - [mudroljub/programming-quotes-api](https://github.com/mudroljub/programming-quotes-api) - Programming Quotes API for open source projects.
@@ -299,9 +301,9 @@
 
 ## automation 
 
+- [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
-- [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
@@ -786,9 +788,9 @@
 
 ## data-visualization 
 
+- [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
-- [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [mljar/mercury](https://github.com/mljar/mercury) - Convert Jupyter Notebooks to Web Apps
@@ -815,7 +817,7 @@
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.
 - [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 - [vijishmadhavan/ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
 - [huggingface/knockknock](https://github.com/huggingface/knockknock) - 🚪✊Knock Knock: Get notified when your training ends with only two additional lines of code
@@ -843,7 +845,7 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
-- [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
+- [SadServers/sadservers](https://github.com/SadServers/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
 - [eon01/kubernetes-workshop](https://github.com/eon01/kubernetes-workshop) - ⚙️ A Gentle introduction to Kubernetes with more than just the basics. 🌟 Give it a star if you like it.
 - [dwmkerr/effective-shell](https://github.com/dwmkerr/effective-shell) - Text, samples and website for my 'Effective Shell' series.
@@ -1030,6 +1032,7 @@
 
 ## framework 
 
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [samyeyo/LuaRT](https://github.com/samyeyo/LuaRT) - Open source Windows programming framework for Lua
 - [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
@@ -1126,6 +1129,7 @@
 
 ## github 
 
+- [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 
@@ -1256,6 +1260,8 @@
 
 ## hacktoberfest 
 
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
+- [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
@@ -1265,7 +1271,6 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters.
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
-- [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [PataphysicalSociety/soupault](https://github.com/PataphysicalSociety/soupault) - Static website generator based on HTML element tree rewriting
 - [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts) - Scripts that will make you go WOW!
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
@@ -1283,7 +1288,7 @@
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [workspacer/workspacer](https://github.com/workspacer/workspacer) - a tiling window manager for Windows
 - [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
@@ -1486,6 +1491,7 @@
 
 ## jupyter-notebook 
 
+- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [ivnvxd/pyquest](https://github.com/ivnvxd/pyquest) - Python everything Cheatsheet and a Journey to the land of Python programming
 - [mljar/mercury](https://github.com/mljar/mercury) - Convert Jupyter Notebooks to Web Apps
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
@@ -1557,6 +1563,7 @@
 
 ## linux 
 
+- [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
 - [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
@@ -1570,7 +1577,7 @@
 - [akkartik/mu](https://github.com/akkartik/mu) - Soul of a tiny new machine. More thorough tests → More comprehensible and rewrite-friendly software → More resilient society.
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) - A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - [codeaprendiz/learn_devops](https://github.com/codeaprendiz/learn_devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
-- [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
+- [SadServers/sadservers](https://github.com/SadServers/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
 - [k247tEK/archVM-Hyper-V](https://github.com/k247tEK/archVM-Hyper-V) - Arch Linux virtual machine on Windows10 Hyper-V with Enhanced Session Mode
 - [EvotecIT/PSTeams](https://github.com/EvotecIT/PSTeams) - PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. I
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
@@ -1683,6 +1690,7 @@
 
 ## macos 
 
+- [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
 - [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
@@ -1708,6 +1716,7 @@
 
 ## markdown 
 
+- [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [datopian/flowershow](https://github.com/datopian/flowershow) - 💐 Publish your obsidian digital garden or any markdown site easily and elegantly.
 - [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
@@ -1874,7 +1883,7 @@
 
 ## nextjs 
 
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [datopian/flowershow](https://github.com/datopian/flowershow) - 💐 Publish your obsidian digital garden or any markdown site easily and elegantly.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
@@ -1911,6 +1920,7 @@
 
 ## open-source 
 
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [IndiePython/nodezator](https://github.com/IndiePython/nodezator) - A generalist Python node editor
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
@@ -1940,6 +1950,8 @@
 
 ## others 
 
+- [quantk/obsidian-hugo-demo](https://github.com/quantk/obsidian-hugo-demo) - 
+- [abuseofnotation/feed-aggregator](https://github.com/abuseofnotation/feed-aggregator) - An RSS aggregator that generates a simple embeddable static Markdown page
 - [wsdjeg/vim-zettelkasten](https://github.com/wsdjeg/vim-zettelkasten) - a Zettelkasten note taking plugin
 - [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv) - 
 - [JKirchartz/writegooder.vim](https://github.com/JKirchartz/writegooder.vim) - Vim plugin for Matt Might's '3 shell scripts that can improve your writing'
@@ -2362,7 +2374,6 @@
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 - [unqueued/sublime-notelink](https://github.com/unqueued/sublime-notelink) - Sublime Text 3 plugin to add wiki-style links between notes
 - [na-ka-na/ExcelCompare](https://github.com/na-ka-na/ExcelCompare) - Command line tool (and API) for diffing Excel Workbooks
-- [trimstray/htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
 - [andrewchambers/sftpplease](https://github.com/andrewchambers/sftpplease) - SFTP &lt;-&gt; Cloud service bridge.
 - [alysbrooks/iris-tufte](https://github.com/alysbrooks/iris-tufte) - My modifications to the Iris theme.
 - [crclark96/ginh](https://github.com/crclark96/ginh) - ginh is not a histogram: visually evaluate your shell usage patterns
@@ -2943,6 +2954,9 @@
 
 ## python 
 
+- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
+- [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [IndiePython/nodezator](https://github.com/IndiePython/nodezator) - A generalist Python node editor
 - [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python.
 - [pyedifice/pyedifice](https://github.com/pyedifice/pyedifice) - Declarative GUI framework for Python and Qt
@@ -2964,7 +2978,6 @@
 - [aerkalov/ebooklib](https://github.com/aerkalov/ebooklib) - Python E-book library for handling books in EPUB2/EPUB3  format -
 - [yazdipour/OmnivoreQL](https://github.com/yazdipour/OmnivoreQL) - @Omnivore-app API client for Python
 - [aceinnolab/Inkycal](https://github.com/aceinnolab/Inkycal) - Create awesome e-paper dashboards within minutes! Modularity? Check! Python3? Check? Works on Raspberry Pi Zero W? Check! Support for own modules? Check!
-- [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018 and actively developed, maintained, and supported in 2024. Transforms tkinter, Qt, WxP
 - [joelibaceta/webcam-fixed-terminal](https://github.com/joelibaceta/webcam-fixed-terminal) - Multi terminal experience
 - [gvwilson/sdxpy](https://github.com/gvwilson/sdxpy) - Software Design by Example: a tool-based introduction with Python
@@ -3158,7 +3171,7 @@
 
 ## pytorch 
 
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.
 
 ## qt 
 
@@ -3251,6 +3264,7 @@
 
 ## rust 
 
+- [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [sminez/ad](https://github.com/sminez/ad) - an adaptable text editor
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
@@ -3331,10 +3345,14 @@
 - [FusionAuth/security-scripts](https://github.com/FusionAuth/security-scripts) - Scripts built from our Guide to User Data Security
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 
+## security-tools 
+
+- [trimstray/htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
+
 ## self-hosted 
 
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -3455,7 +3473,7 @@
 ## stable-diffusion 
 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - 🪩 Create Disco Diffusion artworks in one line
 
 ## statistics 
@@ -3588,7 +3606,7 @@
 
 ## typescript 
 
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [klimeryk/dealwithit](https://github.com/klimeryk/dealwithit) - Fully client-side Deal With It GIF emoji generator.
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
@@ -3713,6 +3731,7 @@
 
 ## web 
 
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [PataphysicalSociety/soupault](https://github.com/PataphysicalSociety/soupault) - Static website generator based on HTML element tree rewriting
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [jstrieb/quickserv](https://github.com/jstrieb/quickserv) - Dangerously user-friendly web server for quick prototyping and hackathons
@@ -3741,6 +3760,7 @@
 
 ## windows 
 
+- [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [Runixe786/MD3-Windows](https://github.com/Runixe786/MD3-Windows) - Material you widgets for your windows desktop, adaptable with wallpaper colors with both light & dark modes
 - [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python.
 - [awesome-windows11/windows11](https://github.com/awesome-windows11/windows11) - 🌎 Windows 11 Settings, Tweaks, Scripts
