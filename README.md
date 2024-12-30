@@ -1730,7 +1730,7 @@
 - [muhmud/qsh](https://github.com/muhmud/qsh) - shell-based query tool
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [pascalw/kindle-dash](https://github.com/pascalw/kindle-dash) - Power efficient dashboard for Kindle 4 NT devices
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [salman-abedin/faint](https://github.com/salman-abedin/faint) - Extensible TUI fuzzy file file explorer
 - [chr15m/flk](https://github.com/chr15m/flk) - A LISP that runs wherever Bash is
 - [numcommand/num](https://github.com/numcommand/num) - Num: number utilities for mathematics
@@ -1853,7 +1853,7 @@
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [treebeardtech/nbmake-action](https://github.com/treebeardtech/nbmake-action) - GitHub Action for testing notebooks
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
-- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [WuTheFWasThat/vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
