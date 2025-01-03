@@ -200,6 +200,7 @@
 
 ## C++ 
 
+- [isledecomp/isle](https://github.com/isledecomp/isle) - A functionally complete decompilation of LEGO Island (1997)
 - [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
 - [lanurmi/efte](https://github.com/lanurmi/efte) - eFTE is a fork of FTE -- Folding Text Editor
 - [p-ranav/hypergrep](https://github.com/p-ranav/hypergrep) - Recursively search directories for a regex pattern
@@ -337,6 +338,8 @@
 
 ## Emacs Lisp 
 
+- [chenyanming/calibredb.el](https://github.com/chenyanming/calibredb.el) - Emacs calibre client - An Ebook Management Solution in Emacs.
+- [positron-solutions/dslide](https://github.com/positron-solutions/dslide) - Present anything Emacs can do with programmable, extensible, configurable slides & presentation steps made from org mode headings
 - [pprevos/emacs-writing-studio](https://github.com/pprevos/emacs-writing-studio) - Emacs configuration for authors who research, write and publish articles, books and websites.
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
@@ -585,6 +588,7 @@
 
 ## HTML 
 
+- [Michaelangel007/vim_cheat_sheet](https://github.com/Michaelangel007/vim_cheat_sheet) - Updated my Vim cheat sheet
 - [quantk/obsidian-hugo-demo](https://github.com/quantk/obsidian-hugo-demo) - 
 - [athul/archie](https://github.com/athul/archie) - A minimal Hugo Theme
 - [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) - Minimal and responsive Hugo theme inspired by the system console, crafted for optimal performance with an average page load time of under one second.
@@ -1166,6 +1170,8 @@
 
 ## Python 
 
+- [pythological/kanren](https://github.com/pythological/kanren) - An extensible, lightweight relational/logic programming DSL written in pure Python
+- [ihabunek/toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
 - [AlfredoSequeida/hints](https://github.com/AlfredoSequeida/hints) - Hints lets you navigate GUI applications in Linux without your mouse by displaying "hints" you can type on your keyboard to interact with GUI elements.
 - [OpenSPG/KAG](https://github.com/OpenSPG/KAG) - KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge base
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
@@ -1857,7 +1863,7 @@
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [treebeardtech/nbmake-action](https://github.com/treebeardtech/nbmake-action) - GitHub Action for testing notebooks
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
-- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [WuTheFWasThat/vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
