@@ -208,7 +208,7 @@
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [adamritter/fastgron](https://github.com/adamritter/fastgron) - High-performance JSON to GRON (greppable, flattened JSON) converter
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Play in your Browser! https://hypersomnia.io Made in 🇵🇱
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
@@ -243,6 +243,7 @@
 
 ## CSS 
 
+- [athul/archie](https://github.com/athul/archie) - A minimal Hugo Theme
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 - [holman/left](https://github.com/holman/left) - Left is a clean, whitespace-happy layout for Jekyll.
 - [michenriksen/hugo-theme-til](https://github.com/michenriksen/hugo-theme-til) - A Hugo theme focused on simplicity and readability, and content discovery.
@@ -469,7 +470,7 @@
 - [jlelse/GoBlog](https://github.com/jlelse/GoBlog) - Simple blogging system written in Go
 - [eeeXun/gtt](https://github.com/eeeXun/gtt) - Google Translate TUI (Originally). Currently supports Apertium, Bing, ChatGPT, DeepL, DeepLX, Google, LibreTranslate, Reverso.
 - [greenpau/caddy-git](https://github.com/greenpau/caddy-git) - Git Plugin for Caddy v2
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 - [augur-ai/mantis](https://github.com/augur-ai/mantis) - Mantis is a unified infrastructure as code framework that replaces Terraform and Helm
 - [C-Loftus/QuickPiperAudiobook](https://github.com/C-Loftus/QuickPiperAudiobook) - With one command, create a natural-sounding audiobook from a variety of input formats (epub, mobi, txt, PDF, HTML and more!)
 - [kudrykv/latex-yearly-planner](https://github.com/kudrykv/latex-yearly-planner) - Digital planner for Supernote and ReMarkable // Support Ukraine 🇺🇦 https://savelife.in.ua/en
@@ -543,7 +544,6 @@
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
 - [acaloiaro/di-tui](https://github.com/acaloiaro/di-tui) - A simple terminal UI player for di.fm
 - [sgreben/yeetgif](https://github.com/sgreben/yeetgif) - gif effects CLI. single binary, no dependencies. linux, osx, windows. #1 workplace productivity booster. #yeetgif #eggplant #golang
-- [nikitavoloboev/go](https://github.com/nikitavoloboev/go) - Go tools, libraries and other code
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
@@ -594,9 +594,9 @@
 
 ## HTML 
 
+- [merlinmann/wisdom](https://github.com/merlinmann/wisdom) - Merlin Mann attempts to capture the best advice he's heard and learned from.
 - [Michaelangel007/vim_cheat_sheet](https://github.com/Michaelangel007/vim_cheat_sheet) - Updated my Vim cheat sheet
 - [quantk/obsidian-hugo-demo](https://github.com/quantk/obsidian-hugo-demo) - 
-- [athul/archie](https://github.com/athul/archie) - A minimal Hugo Theme
 - [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) - Minimal and responsive Hugo theme inspired by the system console, crafted for optimal performance with an average page load time of under one second.
 - [mojombo/mojombo.github.io](https://github.com/mojombo/mojombo.github.io) - Jekyll source for my personal blog.
 - [capnfabs/paperesque](https://github.com/capnfabs/paperesque) - A lightweight theme for Hugo (gohugo.io)
@@ -903,14 +903,14 @@
 - [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim) - Visual git plugin for Neovim
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.
 - [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) - Interactive real time neovim scratchpad for embedded lua engine - type and watch!
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.9+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.10.0+.
 - [letoram/pipeworld](https://github.com/letoram/pipeworld) - Dataflow 'spreadsheet' desktop environment
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [famiu/feline.nvim](https://github.com/famiu/feline.nvim) - A minimal, stylish and customizable statusline for Neovim written in Lua
 - [dobrovolsky/kb-notes.nvim](https://github.com/dobrovolsky/kb-notes.nvim) - Note-taking plugin builtt on to of nvim
 - [hadronized/hop.nvim](https://github.com/hadronized/hop.nvim) - Neovim motions on speed!
 - [awesome-streamers/awesome-streamerrc](https://github.com/awesome-streamers/awesome-streamerrc) - Dotfiles for various streamers on Twitch.
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [nvim-focus/focus.nvim](https://github.com/nvim-focus/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!
 - [fpczk/conky-simple](https://github.com/fpczk/conky-simple) - Conky setup for a minimalistic desktop.
@@ -924,6 +924,7 @@
 ## MDX 
 
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
+- [nikitavoloboev/docs](https://github.com/nikitavoloboev/docs) - 
 
 ## Makefile 
 
