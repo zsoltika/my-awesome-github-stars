@@ -25,7 +25,6 @@
 - [F#](#f#)
 - [Fennel](#fennel)
 - [GAMS](#gams)
-- [GLSL](#glsl)
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -461,10 +460,6 @@
 
 - [DREAM-DK/MAKRO](https://github.com/DREAM-DK/MAKRO) - 
 
-## GLSL 
-
-- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
-
 ## Go 
 
 - [jlelse/GoBlog](https://github.com/jlelse/GoBlog) - Simple blogging system written in Go
@@ -833,6 +828,7 @@
 - [vijishmadhavan/ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
 - [the-machine-preacher/Pythonic-Python-Tutorial](https://github.com/the-machine-preacher/Pythonic-Python-Tutorial) - Learn Python! Python is a programming language that lets you work quickly and integrate systems more effectively.
 - [jvns/pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
+- [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 - [parrt/dtreeviz](https://github.com/parrt/dtreeviz) - A python library for decision tree visualization and model interpretation.
 - [worldveil/photomosaic](https://github.com/worldveil/photomosaic) - Creating fun photomosaics, GIFs, and murals from your family pictures using ML & similarity search
@@ -900,6 +896,7 @@
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [rebelot/heirline.nvim](https://github.com/rebelot/heirline.nvim) - Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.
 - [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim) - Visual git plugin for Neovim
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.
@@ -1181,6 +1178,8 @@
 
 ## Python 
 
+- [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
+- [Goldziher/kreuzberg](https://github.com/Goldziher/kreuzberg) - A text extraction library supporting PDFs, images, office documents and more
 - [executablebooks/markdown-it-py](https://github.com/executablebooks/markdown-it-py) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. Now in Python!
 - [EnhancedJax/Bagels](https://github.com/EnhancedJax/Bagels) - Powerful expense tracker that lives in your terminal.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -1212,7 +1211,7 @@
 - [google/mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python
 - [benjie-git/CardStock](https://github.com/benjie-git/CardStock) - CardStock is a cross-platform tool for quickly and easily building programs. It provides a drawing-program-like editor for visually laying out your programs' parts, and a code editor for adding event-
 - [da-rth/yasb](https://github.com/da-rth/yasb) - A highly configurable cross-platform (Windows) status bar written in Python.
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - [Try V7!] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [halfburnttoast/Dungeon-Cross](https://github.com/halfburnttoast/Dungeon-Cross) - A Python-based reimplementation of Zachtronic's Dungeons and Diagrams
 - [amirkarimi/browser-hub](https://github.com/amirkarimi/browser-hub) - A Browser wrapper that allows you run multiple browser instances hassle-free
 - [iktakahiro/dddpy](https://github.com/iktakahiro/dddpy) - Python DDD Example and Techniques
@@ -1388,7 +1387,6 @@
 - [pyqt/examples](https://github.com/pyqt/examples) - Learn to create a desktop app with Python and Qt
 - [microsoft/botbuilder-python](https://github.com/microsoft/botbuilder-python) - The Microsoft Bot Framework provides what you need to build and connect intelligent bots that interact naturally wherever your users are talking, from text/sms to Skype, Slack, Office 365 mail and oth
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
-- [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [jithurjacob/Windows-10-Toast-Notifications](https://github.com/jithurjacob/Windows-10-Toast-Notifications) - Python library to display Windows 10 Toast Notifications
 - [pearsonkyle/Neural-Nebula](https://github.com/pearsonkyle/Neural-Nebula) - A deep conv. generative adversarial network trained on nebula and images of space
@@ -1948,7 +1946,7 @@
 - [wsdjeg/FlyGrep.vim](https://github.com/wsdjeg/FlyGrep.vim) - Asynchronously fly grep in vim
 - [dyng/ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) - A text searching plugin mimics Ctrl-Shift-F on Sublime Text 2
 - [metakirby5/codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
-- [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap:
+- [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap: netrW =&gt; netrL
 - [wellle/context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents
 - [arp242/gopher.vim](https://github.com/arp242/gopher.vim) - Plugin for the Go programming language
 - [tpope/vim-fireplace](https://github.com/tpope/vim-fireplace) - fireplace.vim: Clojure REPL support
