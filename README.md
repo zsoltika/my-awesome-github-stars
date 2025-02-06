@@ -252,7 +252,6 @@
 - [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md
 - [caraya/epub-zen](https://github.com/caraya/epub-zen) - Epub Zen Garden Content
 - [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
-- [FernandoCelmer/mkdocs-simple-blog](https://github.com/FernandoCelmer/mkdocs-simple-blog) - Blog Template for Mkdocs
 - [Darkkal44/Cozytile](https://github.com/Darkkal44/Cozytile) - A Cozy rice ❃
 - [StefanSalewski/NimProgrammingBook](https://github.com/StefanSalewski/NimProgrammingBook) - Computer Programming with the Nim Programming Language -- A gentle Introduction
 - [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Personal theme for Obsidian
@@ -617,6 +616,7 @@
 - [pawroman/zola-theme-terminimal](https://github.com/pawroman/zola-theme-terminimal) - A simple, minimal retro theme for Zola
 - [ejmg/zerm](https://github.com/ejmg/zerm) - a minimalist and dark theme for Zola
 - [jhvanderschee/hugobricks](https://github.com/jhvanderschee/hugobricks) - 
+- [FernandoCelmer/mkdocs-simple-blog](https://github.com/FernandoCelmer/mkdocs-simple-blog) - Blog Template for Mkdocs
 - [paulmartins/hugo-digital-garden-theme](https://github.com/paulmartins/hugo-digital-garden-theme) - Hugo Theme for digital gardening projects.
 - [rhettinger/rhettinger.github.io](https://github.com/rhettinger/rhettinger.github.io) - Public web pages from talks
 - [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
@@ -848,6 +848,8 @@
 
 ## Lua 
 
+- [MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim) - Find And Replace plugin for neovim
+- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
 - [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) - Fluent navigation and management of markdown notebooks
 - [wsdjeg/vim-zettelkasten](https://github.com/wsdjeg/vim-zettelkasten) - a Zettelkasten note taking plugin
 - [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) - 🌠 Neovim plugin to animate the cursor with a smear effect in all terminals
@@ -958,6 +960,7 @@
 
 ## Nunjucks 
 
+- [ksylor/ohshitgit](https://github.com/ksylor/ohshitgit) - The official home of Oh Shit, Git!?!
 - [bigskysoftware/grugbrain.dev](https://github.com/bigskysoftware/grugbrain.dev) - The Grug Brained Developer
 
 ## OCaml 
@@ -1178,6 +1181,7 @@
 
 ## Python 
 
+- [leodiegues/pinkmess](https://github.com/leodiegues/pinkmess) - A completely opinionated PKMS terminal manager with AI features for lazy people just like me.
 - [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 - [Goldziher/kreuzberg](https://github.com/Goldziher/kreuzberg) - A text extraction library supporting PDFs, images, office documents and more
 - [executablebooks/markdown-it-py](https://github.com/executablebooks/markdown-it-py) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. Now in Python!
@@ -1840,6 +1844,7 @@
 
 ## TypeScript 
 
+- [IsaacGemal/wikitok](https://github.com/IsaacGemal/wikitok) - 
 - [obsidian-userland/publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
 - [chrisgurney/obsidian-note-toolbar](https://github.com/chrisgurney/obsidian-note-toolbar) - Plugin for Obsidian providing a flexible way to create context-aware toolbars for your notes.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -1854,7 +1859,7 @@
 - [klimeryk/dealwithit](https://github.com/klimeryk/dealwithit) - Fully client-side Deal With It GIF emoji generator.
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million+ lines of code in your GitHub, GitLab, Gitea, and Gerrit repositories 🪄 MIT licensed ✅
-- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [Instawork/hyperview](https://github.com/Instawork/hyperview) - Server-driven mobile apps with React Native
 - [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) - A plugin that can query multiple APIs for movies, series, anime, games, music and wiki articles, and import them into your vault.
