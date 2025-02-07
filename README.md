@@ -692,6 +692,7 @@
 
 ## JavaScript 
 
+- [abuseofnotation/comic-web-markup](https://github.com/abuseofnotation/comic-web-markup) - Comic-web is a markup language for describing comics, as well as a rendering engine for this language.
 - [TuanManhCao/digital-garden](https://github.com/TuanManhCao/digital-garden) - Free Obisidian Publish alternative, for publishing your digital garden.
 - [abuseofnotation/feed-aggregator](https://github.com/abuseofnotation/feed-aggregator) - An RSS aggregator that generates a simple embeddable static Markdown page
 - [s3rvant/boardgames](https://github.com/s3rvant/boardgames) - David Gregg board game design notes and playtesting files
