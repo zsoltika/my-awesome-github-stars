@@ -116,6 +116,7 @@
 
 ## C 
 
+- [He4eT/oddkb](https://github.com/He4eT/oddkb) - The Dactyl-ManuForm Keyboard [5x6]
 - [carlini/c-chat-gpt-2](https://github.com/carlini/c-chat-gpt-2) - 
 - [rudyrucker/chaos](https://github.com/rudyrucker/chaos) - James Gleick's Chaos: The Software
 - [lelanthran/frame](https://github.com/lelanthran/frame) - Personal DB to help maintain focus on long-sequences of tasks.
@@ -463,6 +464,7 @@
 
 ## Go 
 
+- [antonmedv/howto](https://github.com/antonmedv/howto) - A terminal helper for querying LLM
 - [jlelse/GoBlog](https://github.com/jlelse/GoBlog) - Simple blogging system written in Go
 - [eeeXun/gtt](https://github.com/eeeXun/gtt) - Google Translate TUI (Originally). Currently supports Apertium, Bing, ChatGPT, DeepL, DeepLX, Google, LibreTranslate, Reverso.
 - [greenpau/caddy-git](https://github.com/greenpau/caddy-git) - Git Plugin for Caddy v2
@@ -983,6 +985,7 @@
 
 ## Others 
 
+- [diepala/cantor](https://github.com/diepala/cantor) - Cantor keyboard, a 42 key diodeless split keyboard.
 - [groepl/Obsidian-Zettelkasten-Starter-Kit](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit) - A Starter Kit for Obsidian with all essential elements to build up your own Zettelkasten system.
 - [joelparkerhenderson/causal-analysis-based-on-system-theory](https://github.com/joelparkerhenderson/causal-analysis-based-on-system-theory) - Causal Analysis based on System Theory (CAST)
 - [kepano/40-questions](https://github.com/kepano/40-questions) - Questions that I ask myself at the end of each year and each decade.
@@ -1185,6 +1188,7 @@
 
 ## Python 
 
+- [hotrod462/Mikey](https://github.com/hotrod462/Mikey) - No bot native audio meeting note taker for Windows
 - [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv) - A modern cookiecutter template for Python projects that use uv for dependency management
 - [enoch3712/ExtractThinker](https://github.com/enoch3712/ExtractThinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows.
 - [leodiegues/pinkmess](https://github.com/leodiegues/pinkmess) - A completely opinionated PKMS terminal manager with AI features for lazy people just like me.
@@ -1739,6 +1743,7 @@
 
 ## Shell 
 
+- [He4eT/cantor-mx-tastatura](https://github.com/He4eT/cantor-mx-tastatura) - Custom 42 key diodeless split keyboard with the Vial support.
 - [QUICK-GCP-LAB/2-Minutes-Labs-Solutions](https://github.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions) - This repository provides solutions for Google Cloud Labs, offering easy-to-understand approaches to solving problems. It is designed to help learners quickly grasp key concepts and apply practical sol
 - [rupertl/eliza-ctss](https://github.com/rupertl/eliza-ctss) - The original ELIZA on an emulated CTSS environment
 - [rafo/aerc-vim](https://github.com/rafo/aerc-vim) - Vim-Like Keybindings for Aerc. Aerc is an exceptional terminal-based email client known for its efficiency and simplicity.
