@@ -342,7 +342,7 @@
 ## Emacs Lisp 
 
 - [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
-- [chenyanming/calibredb.el](https://github.com/chenyanming/calibredb.el) - Emacs calibre client - An Ebook Management Solution in Emacs.
+- [chenyanming/calibredb.el](https://github.com/chenyanming/calibredb.el) - Emacs calibre client - A Document Management Solution in Emacs.
 - [positron-solutions/dslide](https://github.com/positron-solutions/dslide) - Present anything Emacs can do with programmable, extensible, configurable slides & presentation steps made from org mode headings
 - [pprevos/emacs-writing-studio](https://github.com/pprevos/emacs-writing-studio) - Emacs configuration for authors who research, write and publish articles, books and websites.
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
@@ -797,7 +797,7 @@
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
 - [msubra/kelvi](https://github.com/msubra/kelvi) - A stackoverflow questions monitor
-- [FoxUSA/OpenNote](https://github.com/FoxUSA/OpenNote) - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote.
+- [JLiscom/OpenNote](https://github.com/JLiscom/OpenNote) - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [berbaquero/reeddit](https://github.com/berbaquero/reeddit) - Minimal, elastic Reddit reader web-app client
@@ -1002,7 +1002,6 @@
 - [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 - [MobiusSync/MobiusSync](https://github.com/MobiusSync/MobiusSync) - Syncthing for iOS
 - [larryboyko/dimityjones](https://github.com/larryboyko/dimityjones) - electronic escape novel requiring readers to solve puzzles before reading the next chapter
-- [rumca-js/Internet-Places-Database](https://github.com/rumca-js/Internet-Places-Database) - Database of Internet places. Mostly domains
 - [raylene/eng-handbook](https://github.com/raylene/eng-handbook) - A developer's guide to management: an open-sourced handbook for leading software engineering teams.
 - [dabeaz/blog](https://github.com/dabeaz/blog) - David Beazley's blog.
 - [kepano/kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
@@ -1227,6 +1226,7 @@
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [halfburnttoast/Dungeon-Cross](https://github.com/halfburnttoast/Dungeon-Cross) - A Python-based reimplementation of Zachtronic's Dungeons and Diagrams
 - [amirkarimi/browser-hub](https://github.com/amirkarimi/browser-hub) - A Browser wrapper that allows you run multiple browser instances hassle-free
+- [rumca-js/Internet-Places-Database](https://github.com/rumca-js/Internet-Places-Database) - Database of Internet places. Mostly domains
 - [iktakahiro/dddpy](https://github.com/iktakahiro/dddpy) - Python DDD Example and Techniques
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [zotroneneis/magical_universe](https://github.com/zotroneneis/magical_universe) - Awesome Python features explained using the world of magic
@@ -1582,6 +1582,7 @@
 
 ## Ruby 
 
+- [joeyates/imap-backup](https://github.com/joeyates/imap-backup) - Backup and Migrate IMAP Email Accounts
 - [thoughtbot/guides](https://github.com/thoughtbot/guides) - A guide for programming in style.
 - [standardrb/standard](https://github.com/standardrb/standard) - Ruby's bikeshed-proof linter and formatter 🚲
 - [captn3m0/jekyll-sqlite](https://github.com/captn3m0/jekyll-sqlite) - A Jekyll plugin to use SQLite databases as a data source.
@@ -1743,6 +1744,7 @@
 
 ## Shell 
 
+- [imapsync/imapsync](https://github.com/imapsync/imapsync) - Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two oth
 - [He4eT/cantor-mx-tastatura](https://github.com/He4eT/cantor-mx-tastatura) - Custom 42 key diodeless split keyboard with the Vial support.
 - [QUICK-GCP-LAB/2-Minutes-Labs-Solutions](https://github.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions) - This repository provides solutions for Google Cloud Labs, offering easy-to-understand approaches to solving problems. It is designed to help learners quickly grasp key concepts and apply practical sol
 - [rupertl/eliza-ctss](https://github.com/rupertl/eliza-ctss) - The original ELIZA on an emulated CTSS environment
@@ -1853,9 +1855,10 @@
 
 ## TypeScript 
 
+- [AkashRajpurohit/howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay) - 📖 A guide for your daily "professional" interactions
 - [IsaacGemal/wikitok](https://github.com/IsaacGemal/wikitok) - 
 - [obsidian-userland/publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
-- [chrisgurney/obsidian-note-toolbar](https://github.com/chrisgurney/obsidian-note-toolbar) - Plugin for Obsidian providing a flexible way to create context-aware toolbars for your notes.
+- [chrisgurney/obsidian-note-toolbar](https://github.com/chrisgurney/obsidian-note-toolbar) - Create flexible, context-aware toolbars for your notes with this plugin for Obsidian.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
 - [mdfriday/obsidian-friday-plugin](https://github.com/mdfriday/obsidian-friday-plugin) - Turn notes to website, in minutes. MDFriday plugin for Obsidian.
