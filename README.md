@@ -1188,7 +1188,7 @@
 
 ## Python 
 
-- [hotrod462/Mikey](https://github.com/hotrod462/Mikey) - No bot native audio meeting note taker for Windows
+- [hotrod462/Mikey](https://github.com/hotrod462/Mikey) - Fully local ,no bot, native audio meeting note taker for Windows
 - [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv) - A modern cookiecutter template for Python projects that use uv for dependency management
 - [enoch3712/ExtractThinker](https://github.com/enoch3712/ExtractThinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows.
 - [leodiegues/pinkmess](https://github.com/leodiegues/pinkmess) - A completely opinionated PKMS terminal manager with AI features for lazy people just like me.
