@@ -116,6 +116,7 @@
 
 ## C 
 
+- [ttkb-oss/dedup](https://github.com/ttkb-oss/dedup) - dedup finds and clones duplicate files
 - [He4eT/oddkb](https://github.com/He4eT/oddkb) - The Dactyl-ManuForm Keyboard [5x6]
 - [carlini/c-chat-gpt-2](https://github.com/carlini/c-chat-gpt-2) - 
 - [rudyrucker/chaos](https://github.com/rudyrucker/chaos) - James Gleick's Chaos: The Software
@@ -551,6 +552,7 @@
 - [mattn/go-mastodon](https://github.com/mattn/go-mastodon) - mastodon client for golang
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [sgreben/jp](https://github.com/sgreben/jp) - dead simple terminal plots from JSON data. single binary, no dependencies. linux, osx, windows.
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [mmcloughlin/globe](https://github.com/mmcloughlin/globe) - Globe wireframe visualizations in Golang
 - [dzhou121/gonvim](https://github.com/dzhou121/gonvim) - 
@@ -776,7 +778,6 @@
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [kendricktan/ledger-analytics](https://github.com/kendricktan/ledger-analytics) - Easy to use analytics/visualization tool for ledger-cli
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
-- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [alexmojaki/birdseye](https://github.com/alexmojaki/birdseye) - Graphical Python debugger which lets you easily view the values of all evaluated expressions
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
 - [p-e-w/envy](https://github.com/p-e-w/envy) - Text editing supercharger
@@ -987,6 +988,7 @@
 
 ## Others 
 
+- [johnousterhout/aposd-vs-clean-code](https://github.com/johnousterhout/aposd-vs-clean-code) - A discussion between John Ousterhout and Robert Martin about differences between John's book "A Philosophy of Software Design" and Bob's book "Clean Code".
 - [diepala/cantor](https://github.com/diepala/cantor) - Cantor keyboard, a 42 key diodeless split keyboard.
 - [groepl/Obsidian-Zettelkasten-Starter-Kit](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit) - A Starter Kit for Obsidian with all essential elements to build up your own Zettelkasten system.
 - [joelparkerhenderson/causal-analysis-based-on-system-theory](https://github.com/joelparkerhenderson/causal-analysis-based-on-system-theory) - Causal Analysis based on System Theory (CAST)
@@ -1650,6 +1652,7 @@
 
 ## Rust 
 
+- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
