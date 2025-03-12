@@ -472,6 +472,7 @@
 
 ## Go 
 
+- [eduardoagarcia/shef](https://github.com/eduardoagarcia/shef) - Shef is a powerful CLI tool for cooking up shell recipes.
 - [rsdoiel/skimmer](https://github.com/rsdoiel/skimmer) - A naively simple feed reader
 - [antonmedv/howto](https://github.com/antonmedv/howto) - A terminal helper for querying LLM
 - [jlelse/GoBlog](https://github.com/jlelse/GoBlog) - Simple blogging system written in Go
@@ -651,6 +652,7 @@
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [robinsloan/perfect-edition](https://github.com/robinsloan/perfect-edition) - A lightweight, responsive web e-book template
 - [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
+- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [yihui/hugo-xmin](https://github.com/yihui/hugo-xmin) - eXtremely Minimal Hugo theme: about 140 lines of code in total, including HTML and CSS (with no dependencies)
 - [alanorth/hugo-theme-tufte-css](https://github.com/alanorth/hugo-theme-tufte-css) - A simple Hugo theme based on the Tufte CSS style.
 - [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 🚨 GROW YOUR AUDIENCE WITH HUGOBLOX! 🚀 HugoBlox is an easy, fast no-code website builder for researchers, entrepreneurs, data scientists, and developers. Build stunning sites in minutes. 适合研究人员、企业家、数据科
@@ -1691,7 +1693,7 @@
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 - [say4n/jf](https://github.com/say4n/jf) - flatten them json
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
-- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
@@ -1816,7 +1818,6 @@
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [ColonelBuendia/rgpipe](https://github.com/ColonelBuendia/rgpipe) - lesspipe for ripgrep for common new filetypes using few dependencies
 - [Checksum/critic.sh](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage reporting
-- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [icyphox/shlide](https://github.com/icyphox/shlide) - :framed_picture: a slide deck presentation tool written in pure bash
 - [wimpysworld/antsy-alien-attack](https://github.com/wimpysworld/antsy-alien-attack) - A game, written in Bash, that is a somewhat retro-a-like shoot 'em up. Hopefully.
 - [trimstray/htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
