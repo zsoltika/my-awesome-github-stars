@@ -117,6 +117,7 @@
 
 ## C 
 
+- [Squalius-cephalus/silakka54](https://github.com/Squalius-cephalus/silakka54) - 54-key column staggered split keyboard
 - [tompi/qmk_firmware](https://github.com/tompi/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [ttkb-oss/dedup](https://github.com/ttkb-oss/dedup) - dedup finds and clones duplicate files
 - [He4eT/oddkb](https://github.com/He4eT/oddkb) - The Dactyl-ManuForm Keyboard [5x6]
@@ -1249,7 +1250,7 @@
 - [Textualize/textual-serve](https://github.com/Textualize/textual-serve) - Serve Textual apps locally
 - [Tenzer/alga](https://github.com/Tenzer/alga) - CLI for remote controlling LG webOS TVs
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
-- [google/mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python
+- [mesop-dev/mesop](https://github.com/mesop-dev/mesop) - Rapidly build AI apps in Python
 - [benjie-git/CardStock](https://github.com/benjie-git/CardStock) - CardStock is a cross-platform tool for quickly and easily building programs. It provides a drawing-program-like editor for visually laying out your programs' parts, and a code editor for adding event-
 - [da-rth/yasb](https://github.com/da-rth/yasb) - A highly configurable cross-platform (Windows) status bar written in Python.
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
@@ -1677,6 +1678,8 @@
 
 ## Rust 
 
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
 - [timokroeger/kbremap](https://github.com/timokroeger/kbremap) - Custom keyboard layouts for windows.
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
@@ -1685,7 +1688,7 @@
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [sminez/ad](https://github.com/sminez/ad) - an adaptable text editor
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised 📺
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder TUI 📺
 - [ricott1/rebels-in-the-sky](https://github.com/ricott1/rebels-in-the-sky) - P2P terminal game about spacepirates playing basketball across the galaxy
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
 - [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology.
