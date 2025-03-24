@@ -141,6 +141,7 @@
 - [nestjs](#nestjs)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
+- [no-code](#no-code)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
 - [numpy](#numpy)
@@ -571,10 +572,11 @@
 
 ## cli 
 
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [EnhancedJax/Bagels](https://github.com/EnhancedJax/Bagels) - Powerful expense tracker that lives in your terminal.
 - [ihabunek/toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised 📺
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder TUI 📺
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
 - [rafo/aerc-vim](https://github.com/rafo/aerc-vim) - Vim-Like Keybindings for Aerc. Aerc is an exceptional terminal-based email client known for its efficiency and simplicity.
@@ -1985,6 +1987,10 @@
 - [jbesomi/texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero.
 - [huggingface/knockknock](https://github.com/huggingface/knockknock) - 🚪✊Knock Knock: Get notified when your training ends with only two additional lines of code
 
+## no-code 
+
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
+
 ## nodejs 
 
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -2042,6 +2048,8 @@
 
 ## others 
 
+- [Edu4rdSHL/fly-to-podman](https://github.com/Edu4rdSHL/fly-to-podman) - Migrate from Docker to Podman.
+- [Squalius-cephalus/silakka54](https://github.com/Squalius-cephalus/silakka54) - 54-key column staggered split keyboard
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way!
 - [yihong0618/Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper) - Download all your kindle books script.
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
@@ -2170,7 +2178,7 @@
 - [colindean/problem-diagnosis-remedy-proposal](https://github.com/colindean/problem-diagnosis-remedy-proposal) - A clear, generally concise proposal format to win hearts and minds
 - [Tenzer/alga](https://github.com/Tenzer/alga) - CLI for remote controlling LG webOS TVs
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
-- [google/mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python
+- [mesop-dev/mesop](https://github.com/mesop-dev/mesop) - Rapidly build AI apps in Python
 - [yunanwg/brilliant-CV](https://github.com/yunanwg/brilliant-CV) - 💼 another CV template for your job application, yet powered by Typst and more
 - [jskherman/imprecv](https://github.com/jskherman/imprecv) - A no-frills curriculum vitae (CV) template using Typst and YAML to version control CV data.
 - [caffeinatedgaze/bare-bones-cv](https://github.com/caffeinatedgaze/bare-bones-cv) - A minimalistic CV comprising essentials only
@@ -3415,12 +3423,13 @@
 
 ## rust 
 
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [sminez/ad](https://github.com/sminez/ad) - an adaptable text editor
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised 📺
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder TUI 📺
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [LGUG2Z/whkd](https://github.com/LGUG2Z/whkd) - A simple hotkey daemon for Windows
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
@@ -3545,7 +3554,7 @@
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
-- [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Integrate consoles, shells, and terminals inside Obsidian.
+- [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Integrate consoles, shells, and terminals.
 - [OceanSprint/tesh](https://github.com/OceanSprint/tesh) - TEstable SHell sessions in Markdown
 - [xonixx/makesure](https://github.com/xonixx/makesure) - Simple task/command runner with declarative goals and dependencies
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -3668,11 +3677,13 @@
 
 ## terminal 
 
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [iamaziz/TermFeed](https://github.com/iamaziz/TermFeed) - A simple terminal feed reader.
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [antonmedv/howto](https://github.com/antonmedv/howto) - A terminal helper for querying LLM
 - [EnhancedJax/Bagels](https://github.com/EnhancedJax/Bagels) - Powerful expense tracker that lives in your terminal.
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised 📺
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder TUI 📺
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [rafo/aerc-vim](https://github.com/rafo/aerc-vim) - Vim-Like Keybindings for Aerc. Aerc is an exceptional terminal-based email client known for its efficiency and simplicity.
 - [ChrisBuilds/moneyterm](https://github.com/ChrisBuilds/moneyterm) - TUI expense and budget tracker.
@@ -3689,7 +3700,7 @@
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 - [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot) - A command line tool that draw plots on the terminal.
-- [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Integrate consoles, shells, and terminals inside Obsidian.
+- [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Integrate consoles, shells, and terminals.
 - [noborus/ov](https://github.com/noborus/ov) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
 - [AngelJumbo/sssnake](https://github.com/AngelJumbo/sssnake) - cli snake game that plays itself
 - [fabiospampinato/termux-env](https://github.com/fabiospampinato/termux-env) - My super-quick-to-setup Termux environment.
