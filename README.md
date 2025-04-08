@@ -67,6 +67,7 @@
 - [Scala](#scala)
 - [Scheme](#scheme)
 - [Shell](#shell)
+- [Smalltalk](#smalltalk)
 - [Swift](#swift)
 - [TSQL](#tsql)
 - [Tcl](#tcl)
@@ -1225,6 +1226,7 @@
 
 ## Python 
 
+- [antoniorodr/memo](https://github.com/antoniorodr/memo) - Memo is a simple command-line interface (CLI) tool for managing your Apple Notes (and eventually Apple Reminders). It’s written in Python and aims to offer a fast, keyboard-driven way to create, searc
 - [yihong0618/Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper) - Download all your kindle books script.
 - [Tiendil/feeds.fun](https://github.com/Tiendil/feeds.fun) - News reader with tags, scoring, and AI
 - [iamaziz/TermFeed](https://github.com/iamaziz/TermFeed) - A simple terminal feed reader.
@@ -1883,6 +1885,10 @@
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [ku1ik/bitpocket](https://github.com/ku1ik/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+
+## Smalltalk 
+
+- [feenkcom/gtoolkit](https://github.com/feenkcom/gtoolkit) - Glamorous Toolkit is the Moldable Development Environment. It empowers you to make systems explainable through contextual micro tools.
 
 ## Swift 
 
