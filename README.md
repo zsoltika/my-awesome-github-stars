@@ -100,7 +100,7 @@
 - [JaredCH/KeyChain](https://github.com/JaredCH/KeyChain) - AHK tool to manage macros and external scripts
 - [henrystern/hotstring_hints](https://github.com/henrystern/hotstring_hints) - An autocompletion menu that reminds you of your hotstrings
 - [KroniK907/WindowSaver](https://github.com/KroniK907/WindowSaver) - An AutoHotkey script that will save your window positions and then restore them to the saved position
-- [lonepie/mintty-quake-console](https://github.com/lonepie/mintty-quake-console) - AHK script to implement dropdown hotkey for mintty
+- [devnullvoid/mintty-quake-console](https://github.com/devnullvoid/mintty-quake-console) - AHK script to implement dropdown hotkey for mintty
 - [sdias/win-10-virtual-desktop-enhancer](https://github.com/sdias/win-10-virtual-desktop-enhancer) - An application that enhances the Windows 10 multiple desktops feature by adding additional keyboard shortcuts and support for multiple wallpapers.
 - [fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows
 - [octalmage/mDesktop](https://github.com/octalmage/mDesktop) - mDesktop is a lightweight application that allows the user to utilize multiple virtual desktops.
@@ -971,7 +971,7 @@
 
 ## MDX 
 
-- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
+- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
 
 ## Makefile 
 
@@ -1245,7 +1245,7 @@
 
 ## Python 
 
-- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow Tutorial Project: Turns GitHub repo into Easy Tutorial with AI
+- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
 - [rumca-js/Django-link-archive](https://github.com/rumca-js/Django-link-archive) - Self-hostable link database
 - [antoniorodr/memo](https://github.com/antoniorodr/memo) - Memo is a simple command-line interface (CLI) tool for managing your Apple Notes and Apple Reminders. It’s written in Python and aims to offer a fast, keyboard-driven way to create, search, and organi
 - [yihong0618/Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper) - Download all your kindle books script.
