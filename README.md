@@ -43,7 +43,6 @@
 - [Markdown](#markdown)
 - [MoonScript](#moonscript)
 - [NSIS](#nsis)
-- [NWScript](#nwscript)
 - [Nim](#nim)
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
@@ -664,6 +663,7 @@
 - [alan-turing-institute/ReadabiliPy](https://github.com/alan-turing-institute/ReadabiliPy) - A simple HTML content extractor in Python. Can be run as a wrapper for Mozilla's Readability.js package or in pure-python mode.
 - [ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
 - [ehmatthes/pcc_2e](https://github.com/ehmatthes/pcc_2e) - Online resources for Python Crash Course (Second Edition), from No Starch Press
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [rr-tw5/rr-tw5.github.io](https://github.com/rr-tw5/rr-tw5.github.io) - A Roam Research Styled TiddlyWiki
 - [learnbyexample/learnbyexample.github.io](https://github.com/learnbyexample/learnbyexample.github.io) - My super duper awesome programming blog
 - [crisfeim/Zettels](https://github.com/crisfeim/Zettels) - Zettels Hugo Theme
@@ -998,10 +998,6 @@
 ## NSIS 
 
 - [bmatzelle/gow](https://github.com/bmatzelle/gow) - Unix command line utilities installer for Windows.
-
-## NWScript 
-
-- [szzran/winconfig](https://github.com/szzran/winconfig) - This repository contains my configuration files for MS Windows.
 
 ## Nim 
 
@@ -1417,7 +1413,6 @@
 - [yangman946/WallPaperChanger](https://github.com/yangman946/WallPaperChanger) - Changes your desktop wallpaper based on the weather.
 - [GoogleCloudPlatform/professional-services-data-validator](https://github.com/GoogleCloudPlatform/professional-services-data-validator) - Utility to compare data between homogeneous or heterogeneous environments to ensure source and target tables match
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal
 - [epilys/bibliothecula](https://github.com/epilys/bibliothecula) - document organizer with tags and full-text-search, in a simple and clean sqlite3 schema
 - [tomerfiliba/plumbum](https://github.com/tomerfiliba/plumbum) - Plumbum: Shell Combinators
@@ -1728,7 +1723,7 @@
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
+- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - Secure, scalable mail & collaboration server with IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV support.
 - [timokroeger/kbremap](https://github.com/timokroeger/kbremap) - Custom keyboard layouts for windows.
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
@@ -1973,7 +1968,7 @@
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - The open source Sourcegraph alternative. Sourcebot gives you a powerful interface to search though all your repos and branches across multiple code hosts.
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [bzimor/obsidian_hledger](https://github.com/bzimor/obsidian_hledger) - Create and manage hledger entries directly in Obsidian Daily notes
+- [bzimor/obsidian_hledger](https://github.com/bzimor/obsidian_hledger) - Hledger Notes: Create and manage hledger entries directly in Obsidian Daily notes
 - [Instawork/hyperview](https://github.com/Instawork/hyperview) - Server-driven mobile apps with React Native
 - [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) - A plugin that can query multiple APIs for movies, series, anime, games, music and wiki articles, and import them into your vault.
 - [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Create beautiful books, wikis, websites and PKMs from markdown.
