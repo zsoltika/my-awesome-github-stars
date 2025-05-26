@@ -666,7 +666,7 @@
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [rr-tw5/rr-tw5.github.io](https://github.com/rr-tw5/rr-tw5.github.io) - A Roam Research Styled TiddlyWiki
 - [learnbyexample/learnbyexample.github.io](https://github.com/learnbyexample/learnbyexample.github.io) - My super duper awesome programming blog
-- [crisfeim/Zettels](https://github.com/crisfeim/Zettels) - Zettels Hugo Theme
+- [crisfeim/theme-hugo-bearnotes](https://github.com/crisfeim/theme-hugo-bearnotes) - 🎨 Bear Notes Hugo Theme
 - [negrel/hugo-theme-pico](https://github.com/negrel/hugo-theme-pico) - :black_circle: Pico is a minimalist, readable, responsive, light and beautiful Hugo theme.
 - [Track3/hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
