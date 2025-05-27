@@ -2501,7 +2501,7 @@
 - [chubin/pyphoon](https://github.com/chubin/pyphoon) - :waning_gibbous_moon:  ASCII Art Phase of the Moon (Python version)
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [mszep/pandoc_resume](https://github.com/mszep/pandoc_resume) - The Markdown Resume
-- [crisfeim/Zettels](https://github.com/crisfeim/Zettels) - Zettels Hugo Theme
+- [crisfeim/theme-hugo-bearnotes](https://github.com/crisfeim/theme-hugo-bearnotes) - 🎨 Bear Notes Hugo Theme
 - [quantopian/qgrid](https://github.com/quantopian/qgrid) - An interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
