@@ -91,6 +91,7 @@
 ## Assembly 
 
 - [akkartik/mu](https://github.com/akkartik/mu) - Soul of a tiny new machine. More thorough tests → More comprehensible and rewrite-friendly software → More resilient society.
+- [smartykit/apple1](https://github.com/smartykit/apple1) - SmartyKit 1 computer construction kit drivers and software. (Apple 1-compatible)
 - [hgesser/ulix](https://github.com/hgesser/ulix) - Ulix, the Literate Unix
 
 ## AutoHotkey 
@@ -119,6 +120,7 @@
 
 ## C 
 
+- [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [Squalius-cephalus/silakka54](https://github.com/Squalius-cephalus/silakka54) - 54-key column staggered split keyboard
 - [tompi/qmk_firmware](https://github.com/tompi/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
@@ -232,7 +234,6 @@
 - [gnudatalanguage/gdl](https://github.com/gnudatalanguage/gdl) - GDL - GNU Data Language
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon) - Interactive ASCII art diagram generators. :star2:
-- [smartykit/apple1](https://github.com/smartykit/apple1) - SmartyKit 1 computer construction kit drivers and software. (Apple 1-compatible)
 - [k4zmu2a/SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Decompilation of 3D Pinball for Windows – Space Cadet
 - [bailey27/cppcryptfs](https://github.com/bailey27/cppcryptfs) - cppcryptfs is an implementation of the gocryptfs encrypted overlay filesystem in C++ for Windows.
 - [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim.
@@ -485,6 +486,7 @@
 
 ## Go 
 
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [lapwat/papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks and markdown.
 - [codemicro/readingList](https://github.com/codemicro/readingList) - [MIRROR] A list of articles I've read
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
@@ -686,7 +688,6 @@
 - [hwmaier/asciidoc-ditaa-filter](https://github.com/hwmaier/asciidoc-ditaa-filter) - ditaa filter for AsciiDoc
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [mixu/markdown-styles](https://github.com/mixu/markdown-styles) - Markdown to static HTML generator and multiple CSS themes for Markdown
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [worrydream/EarlyHistoryOfSmalltalk](https://github.com/worrydream/EarlyHistoryOfSmalltalk) - Cleaned-up HTML version of Alan Kay's HOPL paper, "The Early History of Smalltalk"
 - [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
 - [propublica/upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS! (Or do more.)
@@ -955,7 +956,7 @@
 - [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim) - Visual git plugin for Neovim
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.
 - [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) - Interactive real time neovim scratchpad for embedded lua engine - type and watch!
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.10.0+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.10.3+.
 - [letoram/pipeworld](https://github.com/letoram/pipeworld) - Dataflow 'spreadsheet' desktop environment
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [famiu/feline.nvim](https://github.com/famiu/feline.nvim) - A minimal, stylish and customizable statusline for Neovim written in Lua
@@ -1034,6 +1035,7 @@
 
 ## Others 
 
+- [open-spaced-repetition/free-spaced-repetition-scheduler](https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler) - A spaced repetition algorithm based on DSR model
 - [rumca-js/RSS-Link-Database](https://github.com/rumca-js/RSS-Link-Database) - Bookmarked archived links
 - [nvim-neorg/awesome-neorg](https://github.com/nvim-neorg/awesome-neorg) - A collection of awesome Neorg notes, software and resources
 - [fpatrick/podman-quadlet](https://github.com/fpatrick/podman-quadlet) - Personal Podman Quadlet configurations for self-hosted services in a homelab environment
@@ -1244,6 +1246,7 @@
 
 ## Python 
 
+- [open-spaced-repetition/py-fsrs](https://github.com/open-spaced-repetition/py-fsrs) - Python Package for FSRS Spaced Repetition
 - [cofob/autogenlib](https://github.com/cofob/autogenlib) - Import wisdom, export code.
 - [mkaz/libro](https://github.com/mkaz/libro) - A command-line book tracking tool
 - [djetelina/pyCardDeck](https://github.com/djetelina/pyCardDeck) - Deck of cards with all the logic, so you don't have to!
@@ -1568,6 +1571,7 @@
 - [commonmark/commonmark-spec](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [MechanicalSoup/MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [scrapinghub/portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy
 - [bfontaine/term2048](https://github.com/bfontaine/term2048) - :tada: 2048 in your terminal
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
@@ -1693,7 +1697,7 @@
 - [glucero/fusuma](https://github.com/glucero/fusuma) - window management for OSX
 - [avdi/orgpress](https://github.com/avdi/orgpress) - A collection of Makefiles and scripts for generating formatted eBooks.
 - [runemadsen/Magic-Book-Project](https://github.com/runemadsen/Magic-Book-Project) - DEPRECATED: We are reviving the Magic Book project as a node package: https://github.com/magicbookproject/magicbook
-- [ooyala/barkeep](https://github.com/ooyala/barkeep) - The friendly code review system.
+- [brightcove-archive/ooyala_barkeep](https://github.com/brightcove-archive/ooyala_barkeep) - The friendly code review system.
 - [edavis10/kindle](https://github.com/edavis10/kindle) - A collection of classes and scripts that can be used to manage a kindle notes files.
 - [maid/maid](https://github.com/maid/maid) - Be lazy.  Let Maid clean up after you, based on rules you define.  Think of it as "Hazel for hackers".
 - [practicingruby/bookie](https://github.com/practicingruby/bookie) - experimental book formatting toolchain
@@ -1717,6 +1721,8 @@
 
 ## Rust 
 
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
+- [trane-project/trane](https://github.com/trane-project/trane) - An automated practice system for mastering complex skills
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool!
 - [linkdd/regname](https://github.com/linkdd/regname) - Mass renamer TUI written in Rust
 - [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
@@ -1942,6 +1948,7 @@
 
 ## TypeScript 
 
+- [kahole/edamagit](https://github.com/kahole/edamagit) - Magit for VSCode
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
 - [colibri-hq/colibri](https://github.com/colibri-hq/colibri) - Colibri is a simple web application to manage, read and download your ebooks.
 - [fedify-dev/microblog](https://github.com/fedify-dev/microblog) - A simple federated microblog example using Fedify for educational purpose
