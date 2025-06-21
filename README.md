@@ -218,7 +218,7 @@
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [martinrotter/rssguard](https://github.com/martinrotter/rssguard) - Feed reader (podcast player and also Gemini protocol client) which supports RSS/ATOM/JSON and many web-based feed services.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-- [isledecomp/isle](https://github.com/isledecomp/isle) - A functionally complete decompilation of LEGO Island (1997)
+- [isledecomp/isle](https://github.com/isledecomp/isle) - A decompilation of LEGO Island (1997)
 - [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
 - [lanurmi/efte](https://github.com/lanurmi/efte) - eFTE is a fork of FTE -- Folding Text Editor
 - [p-ranav/hypergrep](https://github.com/p-ranav/hypergrep) - Recursively search directories for a regex pattern
@@ -244,7 +244,7 @@
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [przemek83/volbx](https://github.com/przemek83/volbx) - Graphical tool for data manipulation written in C++/Qt.
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.4 file pattern searcher -- a more powerful, ultra fast, user-friendly, compatible grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, search
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.5 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
 - [CoatiSoftware/SourcetrailDB](https://github.com/CoatiSoftware/SourcetrailDB) - Library to export Sourcetrail compatible database files for writing custom indexers
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [tom-seddon/align_window3](https://github.com/tom-seddon/align_window3) - Quickly create tiled window arrangements
@@ -299,7 +299,6 @@
 - [caiorss/Emacs-Elisp-Programming](https://github.com/caiorss/Emacs-Elisp-Programming) - Tutorial about programming Elisp and Emacs text editor customization.
 - [HubPress/hubpress.io](https://github.com/HubPress/hubpress.io) - A web application to build your blog on GitHub
 - [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
-- [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 - [jagregory/abrash-black-book](https://github.com/jagregory/abrash-black-book) - Markdown source for Michael Abrash's Graphics Programming Black Book
 - [mrmrs/colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 - [worlduniting/old-bookshop](https://github.com/worlduniting/old-bookshop) - bookShop is a publishing framework for html-to-pdf/(e)book toolchain happiness and sustainable productivity.
@@ -485,6 +484,7 @@
 
 ## Fennel 
 
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 - [rktjmp/playtime.nvim](https://github.com/rktjmp/playtime.nvim) - 🃏 At last! A way to play card games on your computer!
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 
@@ -842,6 +842,7 @@
 - [Lyrrad/NewsBlurBackgroundTab](https://github.com/Lyrrad/NewsBlurBackgroundTab) - NewsBlur Background Tab Chrome Extension
 - [vladikoff/chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
+- [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 - [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
 - [msubra/kelvi](https://github.com/msubra/kelvi) - A stackoverflow questions monitor
 - [JLiscom/OpenNote](https://github.com/JLiscom/OpenNote) - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote.
@@ -901,6 +902,7 @@
 
 ## Lua 
 
+- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
 - [forest-nvim/maple.nvim](https://github.com/forest-nvim/maple.nvim) - maple.nvim is a notes plugin for neovim which allows you to have global, and project based notes directly in nvim
 - [gaborvecsei/usage-tracker.nvim](https://github.com/gaborvecsei/usage-tracker.nvim) - NeoVim plugin with which you can track the time you spent on files, projects, repos, filetypes
 - [jinh0/eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim) - 👀 Move faster with unique f/F indicators.
@@ -923,7 +925,7 @@
 - [2KAbhishek/nvim2k](https://github.com/2KAbhishek/nvim2k) - Your Personalized Dev Env ❤️👨‍💻
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
 - [jakobkhansen/journal.nvim](https://github.com/jakobkhansen/journal.nvim) - 🖋️ Highly extensible journaling system for Neovim
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.9 and higher) experience with minimal effort
 - [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim
 - [Abstract-IDE/abstract-autocmds](https://github.com/Abstract-IDE/abstract-autocmds) - Useful autocmds for Neovim.
 - [mobily/.nvim](https://github.com/mobily/.nvim) - 
@@ -1123,7 +1125,6 @@
 - [jesselpalmer/the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist) - Books for people who are or aspire to manage/lead team(s) of software engineers
 - [kosmos/awesome-generative-art](https://github.com/kosmos/awesome-generative-art) - Awesome generative art
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
@@ -1259,6 +1260,10 @@
 
 ## Python 
 
+- [wyattferguson/cookiecutter-python-uv](https://github.com/wyattferguson/cookiecutter-python-uv) - A modern, opinionated, cookiecutter template for your next Python project.
+- [simonw/sqlite-chronicle](https://github.com/simonw/sqlite-chronicle) - Use triggers to track when rows in a SQLite table were updated or deleted
+- [dogsheep/github-to-sqlite](https://github.com/dogsheep/github-to-sqlite) - Save data from GitHub to a SQLite database
+- [EngineersNeedArt/SystemSix](https://github.com/EngineersNeedArt/SystemSix) - e-Ink Calendar
 - [open-spaced-repetition/py-fsrs](https://github.com/open-spaced-repetition/py-fsrs) - Python Package for FSRS Spaced Repetition
 - [cofob/autogenlib](https://github.com/cofob/autogenlib) - Import wisdom, export code.
 - [mkaz/libro](https://github.com/mkaz/libro) - A command-line book tracking tool
@@ -1283,7 +1288,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [princeton-vl/infinigen](https://github.com/princeton-vl/infinigen) - Infinite Photorealistic Worlds using Procedural Generation
 - [simonw/llm-cmd](https://github.com/simonw/llm-cmd) - Use LLM to generate and execute commands in your shell
-- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
 - [pythological/kanren](https://github.com/pythological/kanren) - An extensible, lightweight relational/logic programming DSL written in pure Python
 - [ihabunek/toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
 - [AlfredoSequeida/hints](https://github.com/AlfredoSequeida/hints) - Hints lets you navigate GUI applications in Linux without your mouse by displaying "hints" you can type on your keyboard to interact with GUI elements.
@@ -1734,6 +1739,7 @@
 
 ## Rust 
 
+- [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [erikjuhani/basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
 - [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [trane-project/trane](https://github.com/trane-project/trane) - An automated practice system for mastering complex skills
@@ -1766,7 +1772,7 @@
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
-- [yujqiao/rathole](https://github.com/yujqiao/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+- [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM Markdown Language Server
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -1845,6 +1851,8 @@
 
 ## Shell 
 
+- [day50-dev/sidechat](https://github.com/day50-dev/sidechat) - TMUX based AI assistance
+- [day50-dev/Streamdown](https://github.com/day50-dev/Streamdown) - Streaming Markdown parser for tui clis
 - [2KAbhishek/tdo](https://github.com/2KAbhishek/tdo) - Fast & Simple Note Taking! 📃🚀
 - [Edu4rdSHL/fly-to-podman](https://github.com/Edu4rdSHL/fly-to-podman) - Migrate from Docker to Podman.
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
@@ -1877,6 +1885,7 @@
 - [github/scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.
 - [xonixx/gron.awk](https://github.com/xonixx/gron.awk) - Gron in Awk
 - [muhmud/qsh](https://github.com/muhmud/qsh) - shell-based query tool
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [pascalw/kindle-dash](https://github.com/pascalw/kindle-dash) - Power efficient dashboard for Kindle 4 NT devices
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
@@ -1966,6 +1975,7 @@
 
 ## TypeScript 
 
+- [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
 - [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software
 - [mmazzarolo/breathly-app](https://github.com/mmazzarolo/breathly-app) - A tiny breath training app built with React-Native
 - [kahole/edamagit](https://github.com/kahole/edamagit) - Magit for VSCode
