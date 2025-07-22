@@ -261,6 +261,7 @@
 
 ## CSS 
 
+- [Deathbyteacup/fluentbird](https://github.com/Deathbyteacup/fluentbird) - FluentBird is a userChrome.css theme for Mozilla Thunderbird, that implemenets Windows 11 Fluent Design and Mica transparency materials.
 - [nielssp/classic-stylesheets](https://github.com/nielssp/classic-stylesheets) - Classic stylesheets for web applications.
 - [5t3ph/stylestage](https://github.com/5t3ph/stylestage) - A modern CSS showcase styled by community contributions. Add your stylesheet!
 - [crnkv/obsidian-sidenote-auto-adjust-module](https://github.com/crnkv/obsidian-sidenote-auto-adjust-module) - One module that powers up all sidenote CSS snippets for [Obsidian.md](https://obsidian.md).
@@ -596,7 +597,6 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [sgreben/jp](https://github.com/sgreben/jp) - dead simple terminal plots from JSON data. single binary, no dependencies. linux, osx, windows.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
-- [94solutions/yoda](https://github.com/94solutions/yoda) - Wise and powerful personal assistant, available in your nearest terminal
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [mmcloughlin/globe](https://github.com/mmcloughlin/globe) - Globe wireframe visualizations in Golang
 - [dzhou121/gonvim](https://github.com/dzhou121/gonvim) - 
@@ -637,6 +637,7 @@
 
 ## HTML 
 
+- [Born2Root/Fast-Font](https://github.com/Born2Root/Fast-Font) - This font provides faster reading through facilitating the reading process by guiding the eyes through text with artificial fixation points.
 - [geekifan/hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) - A hugo version of Chirpy Theme.
 - [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
 - [FriendsOfEpub/eBookTricks](https://github.com/FriendsOfEpub/eBookTricks) - A collection of CSS snippets to help you do progressive enhancement in eBooks
@@ -748,9 +749,10 @@
 
 ## JavaScript 
 
+- [PaulleDemon/PyUIBuilder](https://github.com/PaulleDemon/PyUIBuilder) - Python GUI builder. GUI builder for Tkinter, CustomTkinter, Kivy and PySide (upcoming)
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [StepanoidTeam/pg-web](https://github.com/StepanoidTeam/pg-web) - powergrid boardgame
-- [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - Visual low-code flow-based programming environment for Erlang, inspired by Node-RED.
+- [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - Breadboard Programming for Erlang inspired by Node-RED
 - [retypeapp/retype](https://github.com/retypeapp/retype) - Retype is an ultra-high-performance static site generator that builds a website based on simple text files. Made in Canada 🇨🇦.
 - [horizoncarlo/badlands-online](https://github.com/horizoncarlo/badlands-online) - Fan made online adaptation of the "Radlands" card game
 - [TheIconfactory/Tapestry](https://github.com/TheIconfactory/Tapestry) - 
@@ -911,6 +913,7 @@
 
 ## Lua 
 
+- [shahshlok/vim-coach.nvim](https://github.com/shahshlok/vim-coach.nvim) - Your Personal Coach for Neovim
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
 - [forest-nvim/maple.nvim](https://github.com/forest-nvim/maple.nvim) - maple.nvim is a notes plugin for neovim which allows you to have global, and project based notes directly in nvim
 - [gaborvecsei/usage-tracker.nvim](https://github.com/gaborvecsei/usage-tracker.nvim) - NeoVim plugin with which you can track the time you spent on files, projects, repos, filetypes
@@ -1057,6 +1060,8 @@
 
 ## Others 
 
+- [asweigart/Free-Web-Games-No-Ads](https://github.com/asweigart/Free-Web-Games-No-Ads) - A collection of links to free games with no ads.
+- [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [zlaval/hun-it-content](https://github.com/zlaval/hun-it-content) - Magyar IT tartalmak gyűjteménye
 - [open-spaced-repetition/free-spaced-repetition-scheduler](https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler) - A spaced repetition algorithm based on DSR model
@@ -1518,6 +1523,7 @@
 - [chelmertz/cleader](https://github.com/chelmertz/cleader) - Store web articles as plain text. No more 'saved as' HTML (aka cURL:d) or 'printed as PDF', just extracted content in markdown, without all annoying markup that isn't content.
 - [aniketpanjwani/chomper](https://github.com/aniketpanjwani/chomper) - Internet blocker for the Linux desktop.
 - [mherrmann/fbs](https://github.com/mherrmann/fbs) - Create Python GUIs with Qt in minutes
+- [manparvesh/yoda](https://github.com/manparvesh/yoda) - Wise and powerful personal assistant, available in your nearest terminal
 - [prospector-dev/prospector](https://github.com/prospector-dev/prospector) - Inspects Python source files and provides information about type and location of classes, methods etc
 - [will8211/unimatrix](https://github.com/will8211/unimatrix) - Python script to simulate the display from "The Matrix" in terminal. Uses half-width katakana unicode characters by default, but can use custom character sets. Accepts keyboard controls while running.
 - [brandon-rhodes/scrawler](https://github.com/brandon-rhodes/scrawler) - ASCII art animation library for Python
@@ -1748,6 +1754,7 @@
 
 ## Rust 
 
+- [usagi-flow/evil-helix](https://github.com/usagi-flow/evil-helix) - Bringing the Helix editor to the evil side
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [erikjuhani/basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
@@ -2013,7 +2020,7 @@
 - [e5vos/e5vosdo-snimrod](https://github.com/e5vos/e5vosdo-snimrod) - 
 - [klimeryk/dealwithit](https://github.com/klimeryk/dealwithit) - Fully client-side Deal With It GIF emoji generator.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - The open source Sourcegraph alternative. Sourcebot gives you a powerful interface to search though all your repos and branches across multiple code hosts.
+- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot gives you a powerful interface to search though all your repos and branches across multiple code hosts.
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [bzimor/obsidian_hledger](https://github.com/bzimor/obsidian_hledger) - Hledger Notes: Create and manage hledger entries directly in Obsidian Daily notes
@@ -2074,7 +2081,7 @@
 
 ## Vala 
 
-- [cheesecakeufo/komorebi](https://github.com/cheesecakeufo/komorebi) - A beautiful and customizable wallpapers manager for Linux
+- [christianloopp/komorebi](https://github.com/christianloopp/komorebi) - A beautiful and customizable wallpapers manager for Linux
 - [p-e-w/finalterm](https://github.com/p-e-w/finalterm) - At last – a modern terminal emulator (NO LONGER MAINTAINED)
 
 ## Vim Script 
