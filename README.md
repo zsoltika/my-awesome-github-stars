@@ -501,7 +501,6 @@
 
 ## Go 
 
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [lapwat/papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks and markdown.
 - [codemicro/readingList](https://github.com/codemicro/readingList) - [MIRROR] A list of articles I've read
@@ -1060,6 +1059,7 @@
 
 ## Others 
 
+- [thelinuxlighthouse/RHCSA](https://github.com/thelinuxlighthouse/RHCSA) - RHCSA Exam Preparation – Summaries & Study Notes
 - [asweigart/Free-Web-Games-No-Ads](https://github.com/asweigart/Free-Web-Games-No-Ads) - A collection of links to free games with no ads.
 - [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
@@ -1992,6 +1992,7 @@
 
 ## TypeScript 
 
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
 - [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software
@@ -2020,7 +2021,7 @@
 - [e5vos/e5vosdo-snimrod](https://github.com/e5vos/e5vosdo-snimrod) - 
 - [klimeryk/dealwithit](https://github.com/klimeryk/dealwithit) - Fully client-side Deal With It GIF emoji generator.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot gives you a powerful interface to search though all your repos and branches across multiple code hosts.
+- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps you understand your codebase.
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [bzimor/obsidian_hledger](https://github.com/bzimor/obsidian_hledger) - Hledger Notes: Create and manage hledger entries directly in Obsidian Daily notes
