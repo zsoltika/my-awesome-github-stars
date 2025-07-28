@@ -643,10 +643,11 @@
 - [merlinmann/wisdom](https://github.com/merlinmann/wisdom) - Merlin Mann attempts to capture the best advice he's heard and learned from.
 - [Michaelangel007/vim_cheat_sheet](https://github.com/Michaelangel007/vim_cheat_sheet) - Updated my Vim cheat sheet
 - [quantk/obsidian-hugo-demo](https://github.com/quantk/obsidian-hugo-demo) - 
+- [s3rvant/boardgames](https://github.com/s3rvant/boardgames) - David Gregg board game design notes and playtesting files
 - [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) - Minimal and responsive Hugo theme inspired by the system console, crafted for optimal performance with an average page load time of under one second.
 - [mojombo/mojombo.github.io](https://github.com/mojombo/mojombo.github.io) - Jekyll source for my personal blog.
 - [schnerring/hugo-theme-gruvbox](https://github.com/schnerring/hugo-theme-gruvbox) - A retro-looking Hugo theme inspired by gruvbox. The pastel colors are high contrast, easily distinguishable, pleasing to the eye, and feature light and dark color palettes.
-- [binokochumolvarghese/lightbi-hugo](https://github.com/binokochumolvarghese/lightbi-hugo) - Lightbi is a minimal and clean blog theme for Hugo.
+- [binokochumolvarghese/lightbi-hugo](https://github.com/binokochumolvarghese/lightbi-hugo) - Lightbi is a modern and elegant blog theme designed for Hugo
 - [spookey/slick](https://github.com/spookey/slick) - A fast, minimalist, responsive theme for Hugo that respects your privacy
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [CyrusYip/hugo-theme-yue](https://github.com/CyrusYip/hugo-theme-yue) - A minimal, multilingual and customizable Hugo theme, suitable for blogging
@@ -758,7 +759,6 @@
 - [abuseofnotation/comic-web-markup](https://github.com/abuseofnotation/comic-web-markup) - Comic-web is a markup language for describing comics, as well as a rendering engine for this language.
 - [TuanManhCao/digital-garden](https://github.com/TuanManhCao/digital-garden) - Free Obisidian Publish alternative, for publishing your digital garden.
 - [abuseofnotation/feed-aggregator](https://github.com/abuseofnotation/feed-aggregator) - An RSS aggregator that generates a simple embeddable static Markdown page
-- [s3rvant/boardgames](https://github.com/s3rvant/boardgames) - David Gregg board game design notes and playtesting files
 - [Luke-lwz/kaboom](https://github.com/Luke-lwz/kaboom) - Adaptation of the card game Two Rooms and a Boom
 - [lucahammer/tweetXer](https://github.com/lucahammer/tweetXer) - Delete all your Tweets for free
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
