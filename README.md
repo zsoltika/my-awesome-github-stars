@@ -501,6 +501,7 @@
 
 ## Go 
 
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [lapwat/papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks and markdown.
 - [codemicro/readingList](https://github.com/codemicro/readingList) - [MIRROR] A list of articles I've read
@@ -749,6 +750,8 @@
 
 ## JavaScript 
 
+- [edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) - A curated list of awesome and exceptional board games. Please contribute!
+- [igravitystudios/matchimals.fun](https://github.com/igravitystudios/matchimals.fun) - 🦁 🃏 📱 An animal matching puzzle card game– built with turn-based game engine boardgame.io and React-Native + React-Native-Web
 - [PaulleDemon/PyUIBuilder](https://github.com/PaulleDemon/PyUIBuilder) - Python GUI builder. GUI builder for Tkinter, CustomTkinter, Kivy and PySide (upcoming)
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [StepanoidTeam/pg-web](https://github.com/StepanoidTeam/pg-web) - powergrid boardgame
@@ -1059,6 +1062,7 @@
 
 ## Others 
 
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [thelinuxlighthouse/RHCSA](https://github.com/thelinuxlighthouse/RHCSA) - RHCSA Exam Preparation – Summaries & Study Notes
 - [asweigart/Free-Web-Games-No-Ads](https://github.com/asweigart/Free-Web-Games-No-Ads) - A collection of links to free games with no ads.
 - [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
@@ -1275,6 +1279,7 @@
 
 ## Python 
 
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [wyattferguson/pattern](https://github.com/wyattferguson/pattern) - Pattern - A modern, opinionated, cookiecutter template for your next Python project.
 - [simonw/sqlite-chronicle](https://github.com/simonw/sqlite-chronicle) - Use triggers to track when rows in a SQLite table were updated or deleted
 - [dogsheep/github-to-sqlite](https://github.com/dogsheep/github-to-sqlite) - Save data from GitHub to a SQLite database
@@ -1687,6 +1692,7 @@
 
 ## Ruby 
 
+- [andymeneely/squib](https://github.com/andymeneely/squib) - A Ruby DSL for prototyping card games.
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
 - [joeyates/imap-backup](https://github.com/joeyates/imap-backup) - Backup and Migrate IMAP Email Accounts
 - [thoughtbot/guides](https://github.com/thoughtbot/guides) - A guide for programming in style.
@@ -1992,7 +1998,7 @@
 
 ## TypeScript 
 
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
+- [oatear/cider](https://github.com/oatear/cider) - Card IDE (CIDEr) - Design game cards using HTML/Handlebars, CSS, and tabular data
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
 - [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software
