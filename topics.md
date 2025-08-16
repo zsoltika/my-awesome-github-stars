@@ -231,7 +231,6 @@
 - [xcode](#xcode)
 - [xml](#xml)
 - [zig](#zig)
-- [zsh](#zsh)
 
 ## ai 
 
@@ -2197,6 +2196,7 @@
 
 ## others 
 
+- [tanrax/org-social](https://github.com/tanrax/org-social) - Org-social is a decentralized social network that runs on an Org Mode file over HTTP.
 - [saxon1964/neovim-tips](https://github.com/saxon1964/neovim-tips) - A small plugin to collect and display various nvim commands, tips and tricks
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [kingddd3/DigitCode_Solver](https://github.com/kingddd3/DigitCode_Solver) - 
@@ -4270,22 +4270,6 @@
 ## zig 
 
 - [neurocyte/flow](https://github.com/neurocyte/flow) - Flow Control: a programmer's text editor
-
-## zsh 
-
-- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
-- [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
-- [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
-- [keis/git-fixup](https://github.com/keis/git-fixup) - Fighting the copy-paste element of your rebase workflow.
-- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
-- [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [jamesob/desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 
 ## License
