@@ -369,7 +369,6 @@
 
 ## Emacs Lisp 
 
-- [tanrax/org-social](https://github.com/tanrax/org-social) - Org-social is a decentralized social network that runs on an Org Mode file over HTTP.
 - [james-stoup/org-mode-better-defaults](https://github.com/james-stoup/org-mode-better-defaults) - An entry into the world of Org Mode for non Emacs users
 - [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 - [chenyanming/calibredb.el](https://github.com/chenyanming/calibredb.el) - Emacs calibre client - A Document Management Solution in Emacs.
@@ -1064,6 +1063,7 @@
 
 ## Others 
 
+- [tanrax/org-social](https://github.com/tanrax/org-social) - Org-social is a decentralized social network that runs on an Org Mode file over HTTP.
 - [BookOfCooks/blog](https://github.com/BookOfCooks/blog) - Turns out Github makes for a great blog... I think?
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [thelinuxlighthouse/RHCSA](https://github.com/thelinuxlighthouse/RHCSA) - RHCSA Exam Preparation – Summaries & Study Notes
