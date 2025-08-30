@@ -504,7 +504,6 @@
 ## Go 
 
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [lapwat/papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks and markdown.
 - [codemicro/readingList](https://github.com/codemicro/readingList) - [MIRROR] A list of articles I've read
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
@@ -915,7 +914,7 @@
 
 ## Lua 
 
-- [saxon1964/neovim-tips](https://github.com/saxon1964/neovim-tips) - A small plugin to collect and display various nvim commands, tips and tricks
+- [saxon1964/neovim-tips](https://github.com/saxon1964/neovim-tips) - Neovim plugin with hundreds of tips, tricks, and shortcuts — plus support for your own custom tips.
 - [shahshlok/vim-coach.nvim](https://github.com/shahshlok/vim-coach.nvim) - Your Personal Coach for Neovim
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
 - [forest-nvim/maple.nvim](https://github.com/forest-nvim/maple.nvim) - maple.nvim is a notes plugin for neovim which allows you to have global, and project based notes directly in nvim
@@ -940,7 +939,7 @@
 - [2KAbhishek/nvim2k](https://github.com/2KAbhishek/nvim2k) - Your Personalized Dev Env ❤️👨‍💻
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
 - [jakobkhansen/journal.nvim](https://github.com/jakobkhansen/journal.nvim) - 🖋️ Highly extensible journaling system for Neovim
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.9 and higher) experience with minimal effort
+- [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40+ independent Lua modules improving Neovim experience with minimal effort
 - [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim
 - [Abstract-IDE/abstract-autocmds](https://github.com/Abstract-IDE/abstract-autocmds) - Useful autocmds for Neovim.
 - [mobily/.nvim](https://github.com/mobily/.nvim) - 
@@ -1096,7 +1095,6 @@
 - [colindean/problem-diagnosis-remedy-proposal](https://github.com/colindean/problem-diagnosis-remedy-proposal) - A clear, generally concise proposal format to win hearts and minds
 - [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
 - [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Create beautiful books, wikis, websites and PKMs from markdown.
-- [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 - [MobiusSync/MobiusSync](https://github.com/MobiusSync/MobiusSync) - Syncthing for iOS
 - [larryboyko/dimityjones](https://github.com/larryboyko/dimityjones) - electronic escape novel requiring readers to solve puzzles before reading the next chapter
 - [raylene/eng-handbook](https://github.com/raylene/eng-handbook) - A developer's guide to management: an open-sourced handbook for leading software engineering teams.
@@ -1422,7 +1420,7 @@
 - [Miksus/red-mail](https://github.com/Miksus/red-mail) - Advanced email sending for Python
 - [eon01/kubernetes-workshop](https://github.com/eon01/kubernetes-workshop) - ⚙️ A Gentle introduction to Kubernetes with more than just the basics. 🌟 Give it a star if you like it.
 - [tazzben/DepreciateForLedger](https://github.com/tazzben/DepreciateForLedger) - Depreciation tool to for Ledger
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - :hugging_face: Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 - [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - 🪩 Create Disco Diffusion artworks in one line
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
@@ -1750,7 +1748,7 @@
 - [petewarden/dstk](https://github.com/petewarden/dstk) - A collection of the best open data sets and open-source tools for data science
 - [jamis/theseus](https://github.com/jamis/theseus) - A very flexible random maze generator, solver, and renderer for Ruby
 - [michaeledgar/laser](https://github.com/michaeledgar/laser) - Static analysis and style linter for Ruby code.
-- [davejacobs/mint](https://github.com/davejacobs/mint) - Word processing for people who love the commandline
+- [davejacobs/mint](https://github.com/davejacobs/mint) - Publish documents and digital gardens from Markdown
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
 - [cantino/ruby-readability](https://github.com/cantino/ruby-readability) - Port of arc90's readability project to Ruby
 - [imathis/octopress](https://github.com/imathis/octopress) - Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?
@@ -1771,7 +1769,7 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [erikjuhani/basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-hosted plaform for secure execution of untrusted user/AI code
 - [trane-project/trane](https://github.com/trane-project/trane) - An automated practice system for mastering complex skills
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool!
 - [linkdd/regname](https://github.com/linkdd/regname) - Mass renamer TUI written in Rust
@@ -2007,6 +2005,7 @@
 ## TypeScript 
 
 - [oatear/cider](https://github.com/oatear/cider) - Card IDE (CIDEr) - Design game cards using HTML/Handlebars, CSS, and tabular data
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
 - [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software
@@ -2041,6 +2040,7 @@
 - [bzimor/obsidian_hledger](https://github.com/bzimor/obsidian_hledger) - Hledger Notes: Create and manage hledger entries directly in Obsidian Daily notes
 - [Instawork/hyperview](https://github.com/Instawork/hyperview) - Server-driven mobile apps with React Native
 - [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) - A plugin that can query multiple APIs for movies, series, anime, games, music and wiki articles, and import them into your vault.
+- [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 - [endrl/segment-editor](https://github.com/endrl/segment-editor) - Segment Editor for Jellyfin Segment API
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Web Awesome ("Shoelace 3") has been released! Get it here 👇👇👇
 - [omnivore-app/obsidian-omnivore](https://github.com/omnivore-app/obsidian-omnivore) - Obsidian plugin to fetch articles and highlights from Omnivore
