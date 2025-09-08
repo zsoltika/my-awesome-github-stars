@@ -90,6 +90,7 @@
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
 - [games](#games)
+- [gaming](#gaming)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -1248,6 +1249,10 @@
 - [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) - A plugin that can query multiple APIs for movies, series, anime, games, music and wiki articles, and import them into your vault.
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018 and actively developed, maintained, and supported in 2024. Transforms tkinter, Qt, WxP
 
+## gaming 
+
+- [s3rvant/boardgames](https://github.com/s3rvant/boardgames) - David Gregg board game design notes and playtesting files
+
 ## git 
 
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
@@ -2321,7 +2326,6 @@
 - [JKirchartz/writegooder.vim](https://github.com/JKirchartz/writegooder.vim) - Vim plugin for Matt Might's '3 shell scripts that can improve your writing'
 - [carlini/c-chat-gpt-2](https://github.com/carlini/c-chat-gpt-2) - 
 - [mdfriday/obsidian-friday-plugin](https://github.com/mdfriday/obsidian-friday-plugin) - Turn notes to website, in minutes. MDFriday plugin for Obsidian.
-- [s3rvant/boardgames](https://github.com/s3rvant/boardgames) - David Gregg board game design notes and playtesting files
 - [dpunj/weft](https://github.com/dpunj/weft) - A vim-like terminal reader to chat with your books
 - [thoughtbot/guides](https://github.com/thoughtbot/guides) - A guide for programming in style.
 - [shamith09/pygyat](https://github.com/shamith09/pygyat) - Python with rizz.
@@ -2546,7 +2550,7 @@
 - [fastily/cheatsheet](https://github.com/fastily/cheatsheet) - 📜 A compendium of CLI commands I can't stop looking up
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
 - [jimniels/readlists](https://github.com/jimniels/readlists) - A readlist is a mixtape, but for online content.
-- [untitaker/quickenv](https://github.com/untitaker/quickenv) - An unintrusive environment manager
+- [untitaker/quickenv](https://github.com/untitaker/quickenv) - MOVED TO CODEBERG
 - [rjpcomputing/luaforwindows](https://github.com/rjpcomputing/luaforwindows) - Lua for Windows is a 'batteries included environment' for the Lua scripting language on Windows. NOTICE: Looking for maintainer.
 - [brave/goggles-quickstart](https://github.com/brave/goggles-quickstart) - Educational material to learn about Goggles and how to create your own.
 - [smmr-software/mabel](https://github.com/smmr-software/mabel) - A fancy BitTorrent client for the terminal
