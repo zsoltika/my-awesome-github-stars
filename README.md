@@ -198,6 +198,7 @@
 - [samhocevar/wincompose](https://github.com/samhocevar/wincompose) - 🔣 Compose Key for Windows
 - [finol-digital/Card-Game-Simulator](https://github.com/finol-digital/Card-Game-Simulator) - Create, Share, and Play
 - [YetAnotherPomodoroApp/YAPA-2](https://github.com/YetAnotherPomodoroApp/YAPA-2) - Minimalistic desktop timer app for Pomodoro Technique users
+- [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
 - [alxnbl/onenote-md-exporter](https://github.com/alxnbl/onenote-md-exporter) - ConsoleApp to export OneNote notebooks to Markdown formats
 - [workspacer/workspacer](https://github.com/workspacer/workspacer) - a tiling window manager for Windows
 - [mxgmn/MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic language based on pattern matching and constraint propagation, 153 examples
