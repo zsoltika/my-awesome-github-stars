@@ -519,7 +519,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [augur-ai/mantis](https://github.com/augur-ai/mantis) - Mantis is a unified infrastructure as code framework that replaces Terraform and Helm
 - [C-Loftus/QuickPiperAudiobook](https://github.com/C-Loftus/QuickPiperAudiobook) - With one command, create a natural-sounding audiobook from a variety of input formats (epub, mobi, txt, PDF, HTML and more!)
-- [kudrykv/latex-yearly-planner](https://github.com/kudrykv/latex-yearly-planner) - Digital planner for Supernote and ReMarkable // Support Ukraine 🇺🇦 https://savelife.in.ua/en
+- [kudrykv/latex-yearly-planner](https://github.com/kudrykv/latex-yearly-planner) - Digital planner for Supernote and ReMarkable // Support Ukraine 🇺🇦 https://war.ukraine.ua/support-ukraine/
 - [coder/wush](https://github.com/coder/wush) - simplest & fastest way to transfer files between computers via WireGuard
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [JFryy/qq](https://github.com/JFryy/qq) - jq, but with many interoperable configuration format transcodings and interactive querying.
@@ -759,7 +759,7 @@
 - [PaulleDemon/PyUIBuilder](https://github.com/PaulleDemon/PyUIBuilder) - Python GUI builder. GUI builder for Tkinter, CustomTkinter, Kivy and PySide (upcoming)
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [StepanoidTeam/pg-web](https://github.com/StepanoidTeam/pg-web) - powergrid boardgame
-- [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - Breadboard Programming for Erlang inspired by Node-RED
+- [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - Visual Erlang Prompting for an AI world - inspired by Node-RED
 - [retypeapp/retype](https://github.com/retypeapp/retype) - Retype is an ultra-high-performance static site generator that builds a website based on simple text files. Made in Canada 🇨🇦.
 - [horizoncarlo/badlands-online](https://github.com/horizoncarlo/badlands-online) - Fan made online adaptation of the "Radlands" card game
 - [TheIconfactory/Tapestry](https://github.com/TheIconfactory/Tapestry) - 
