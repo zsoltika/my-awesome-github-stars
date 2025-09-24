@@ -27,6 +27,7 @@
 - [F#](#f#)
 - [Fennel](#fennel)
 - [GAMS](#gams)
+- [GDScript](#gdscript)
 - [GLSL](#glsl)
 - [Go](#go)
 - [HCL](#hcl)
@@ -496,6 +497,10 @@
 ## GAMS 
 
 - [DREAM-DK/MAKRO](https://github.com/DREAM-DK/MAKRO) - 
+
+## GDScript 
+
+- [JHDev2006/Super-Mario-Bros.-Remastered-Public](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public) - A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!
 
 ## GLSL 
 
