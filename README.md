@@ -786,7 +786,7 @@
 - [rumca-js/Internet-Places-Database](https://github.com/rumca-js/Internet-Places-Database) - Database of Internet places. Mostly domains
 - [booktype/Booktype](https://github.com/booktype/Booktype) - Booktype is a free, open source platform that produces beautiful, engaging books formatted for print, Amazon, iBooks and almost any ereader within minutes.
 - [mathisgauthey/obsidian-workflow-template](https://github.com/mathisgauthey/obsidian-workflow-template) - This is an Obsidian vault template from my Workflow with Tasks and Project Management, Journaling, Media Tracking, Offline Read-it-later and Bookmark Management, Note-taking and Note-sharing on Your O
-- [libreom/predirect](https://github.com/libreom/predirect) - A manifest v3 web extension with minimal permissions to automatically redirect to privacy friendly frontends. ⭐️ Star to support our work!
+- [pritkr/predirect](https://github.com/pritkr/predirect) - A manifest v3 web extension with minimal permissions to automatically redirect to privacy friendly frontends. ⭐️ Star to support our work!
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [fenglisch/bulk-upload-board-games-into-bgg-collection](https://github.com/fenglisch/bulk-upload-board-games-into-bgg-collection) - 
@@ -1991,6 +1991,7 @@
 
 ## Svelte 
 
+- [kagisearch/kite-public](https://github.com/kagisearch/kite-public) - Open source repository for Kite, news app by Kagi.
 - [chroxify/haptic](https://github.com/chroxify/haptic) - A new local-first, privacy-focused and open-source home for your markdown notes
 
 ## Swift 
