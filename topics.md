@@ -1504,6 +1504,7 @@
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
 - [rexagod/samwise.nvim](https://github.com/rexagod/samwise.nvim) - samwise is a line-wise note-taking plugin for neovim.
+- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [kassio/neoterm](https://github.com/kassio/neoterm) - Wrapper of some vim/neovim's :terminal functions.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
@@ -1540,7 +1541,6 @@
 - [dhruvasagar/vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) - VIM Table Mode for instant table creation.
 - [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim.
 - [rubocop/rubocop](https://github.com/rubocop/rubocop) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## haskell 
 
@@ -1617,7 +1617,7 @@
 
 ## iot 
 
-- [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - Visual Erlang Prompting for an AI world - inspired by Node-RED
+- [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - Creating the Node-RED experience in Erlang - interchangeable flows included
 - [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
 
 ## java 
@@ -4138,10 +4138,8 @@
 - [mmazzarolo/breathly-app](https://github.com/mmazzarolo/breathly-app) - A tiny breath training app built with React-Native
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [klimeryk/dealwithit](https://github.com/klimeryk/dealwithit) - Fully client-side Deal With It GIF emoji generator.
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
-- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [WuTheFWasThat/vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
