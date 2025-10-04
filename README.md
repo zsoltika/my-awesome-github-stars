@@ -510,6 +510,8 @@
 
 ## Go 
 
+- [thecsw/darkness](https://github.com/thecsw/darkness) - The noblest static site generator 🥬
+- [FyshOS/fynedesk](https://github.com/FyshOS/fynedesk) - A full desktop environment for Linux/Unix using Fyne
 - [erans/hyprmon](https://github.com/erans/hyprmon) - TUI monitor configuration tool for Hyprland with visual layout, drag-and-drop, and profile management
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [lapwat/papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks and markdown.
@@ -766,7 +768,7 @@
 - [PaulleDemon/PyUIBuilder](https://github.com/PaulleDemon/PyUIBuilder) - Python GUI builder. GUI builder for Tkinter, CustomTkinter, Kivy and PySide (upcoming)
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [StepanoidTeam/pg-web](https://github.com/StepanoidTeam/pg-web) - powergrid boardgame
-- [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - Creating the Node-RED experience in Erlang - interchangeable flows included
+- [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - Emulating the Node-RED experience in Erlang - interchangeable flows included
 - [retypeapp/retype](https://github.com/retypeapp/retype) - Retype is an ultra-high-performance static site generator that builds a website based on simple text files. Made in Canada 🇨🇦.
 - [horizoncarlo/badlands-online](https://github.com/horizoncarlo/badlands-online) - Fan made online adaptation of the "Radlands" card game
 - [TheIconfactory/Tapestry](https://github.com/TheIconfactory/Tapestry) - 
@@ -1786,7 +1788,7 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [erikjuhani/basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-hosted plaform for secure execution of untrusted user/AI code
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [trane-project/trane](https://github.com/trane-project/trane) - An automated practice system for mastering complex skills
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool!
 - [linkdd/regname](https://github.com/linkdd/regname) - Mass renamer TUI written in Rust
@@ -2025,7 +2027,7 @@
 
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [oatear/cider](https://github.com/oatear/cider) - Card IDE (CIDEr) - Design game cards using HTML/Handlebars, CSS, and tabular data
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
+- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
 - [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software
