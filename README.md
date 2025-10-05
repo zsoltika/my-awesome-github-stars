@@ -926,7 +926,6 @@
 
 ## Lua 
 
-- [saxon1964/neovim-tips](https://github.com/saxon1964/neovim-tips) - Neovim plugin with hundreds of tips, tricks, and shortcuts — plus support for your own custom tips.
 - [shahshlok/vim-coach.nvim](https://github.com/shahshlok/vim-coach.nvim) - Your Personal Coach for Neovim
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
 - [forest-nvim/maple.nvim](https://github.com/forest-nvim/maple.nvim) - maple.nvim is a notes plugin for neovim which allows you to have global, and project based notes directly in nvim
@@ -2014,6 +2013,7 @@
 
 ## TeX 
 
+- [saxon1964/neovim-tips](https://github.com/saxon1964/neovim-tips) - Neovim plugin with hundreds of tips, tricks, and shortcuts — plus support for your own custom tips.
 - [jez/pandoc-starter](https://github.com/jez/pandoc-starter) - 📄 My pandoc markdown templates and makefiles
 - [sisl/tufte_algorithms_book](https://github.com/sisl/tufte_algorithms_book) - A template for textbooks in the same style as Algorithms for Optimization
 - [mszep/pandoc_resume](https://github.com/mszep/pandoc_resume) - The Markdown Resume
