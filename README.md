@@ -768,7 +768,7 @@
 - [PaulleDemon/PyUIBuilder](https://github.com/PaulleDemon/PyUIBuilder) - Python GUI builder. GUI builder for Tkinter, CustomTkinter, Kivy and PySide (upcoming)
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [StepanoidTeam/pg-web](https://github.com/StepanoidTeam/pg-web) - powergrid boardgame
-- [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - Emulating the Node-RED experience in Erlang - interchangeable flows included
+- [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - 1/ Visual 2/ low-AI-code, high-understanding-code 3/ flow-based programming environment for Erlang, inspired by Node-RED.
 - [retypeapp/retype](https://github.com/retypeapp/retype) - Retype is an ultra-high-performance static site generator that builds a website based on simple text files. Made in Canada 🇨🇦.
 - [horizoncarlo/badlands-online](https://github.com/horizoncarlo/badlands-online) - Fan made online adaptation of the "Radlands" card game
 - [TheIconfactory/Tapestry](https://github.com/TheIconfactory/Tapestry) - 
@@ -926,6 +926,7 @@
 
 ## Lua 
 
+- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [shahshlok/vim-coach.nvim](https://github.com/shahshlok/vim-coach.nvim) - Your Personal Coach for Neovim
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
 - [forest-nvim/maple.nvim](https://github.com/forest-nvim/maple.nvim) - maple.nvim is a notes plugin for neovim which allows you to have global, and project based notes directly in nvim
@@ -1009,7 +1010,7 @@
 
 ## MDX 
 
-- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
+- [nikivdev/nikiv](https://github.com/nikivdev/nikiv) - Personal website, docs
 
 ## Makefile 
 
@@ -1153,7 +1154,7 @@
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 - [paladin-t/fantasy](https://github.com/paladin-t/fantasy) - A curated list of available fantasy consoles/computers.
 - [seiyria/awesome-boardgame-development](https://github.com/seiyria/awesome-boardgame-development) - An awesome list of board game development resources.
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - 🚀 A hand-curated list of free, open, and developer-friendly APIs
 - [fogus/thunks](https://github.com/fogus/thunks) - posts and code related to personal studies
 - [jesselpalmer/the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist) - Books for people who are or aspire to manage/lead team(s) of software engineers
 - [kosmos/awesome-generative-art](https://github.com/kosmos/awesome-generative-art) - Awesome generative art
@@ -1295,6 +1296,8 @@
 
 ## Python 
 
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
+- [simonw/claude-skills](https://github.com/simonw/claude-skills) - The contents of /mnt/skills in Claude's code interpreter environment
 - [kimusan/mastui](https://github.com/kimusan/mastui) - A TUI client for mastodon written in python
 - [Olshansk/rss-feeds](https://github.com/Olshansk/rss-feeds) - Generate RSS feeds for all the blogs that don't have one
 - [russolsen/book_markdown_template](https://github.com/russolsen/book_markdown_template) - 
@@ -1368,7 +1371,7 @@
 - [SteveJob/ebooklib](https://github.com/SteveJob/ebooklib) - Python E-book library for handling books in EPUB2/EPUB3  format -
 - [ChenyangGao/python-epub3](https://github.com/ChenyangGao/python-epub3) - An awsome epub3 library.
 - [gutenbergtools/ebookmaker](https://github.com/gutenbergtools/ebookmaker) - The Project Gutenberg tool to generate EPUBs and other ebook formats.
-- [railsware/mailtrap-python](https://github.com/railsware/mailtrap-python) - Official mailtrap.io Python client
+- [mailtrap/mailtrap-python](https://github.com/mailtrap/mailtrap-python) - Official mailtrap.io Python client
 - [anqxyr/mkepub](https://github.com/anqxyr/mkepub) - Simple minimalistic library for creating EPUB3 files
 - [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal feed reader
 - [ctuncan/bga_bgstats](https://github.com/ctuncan/bga_bgstats) - Create a bgsplay file containing games played on Board Game Arena to import to BG Stats
@@ -1897,6 +1900,7 @@
 
 ## Shell 
 
+- [mikeckennedy/talk-python-in-production-devops-book](https://github.com/mikeckennedy/talk-python-in-production-devops-book) - 
 - [mroboff/omarchy-on-cachyos](https://github.com/mroboff/omarchy-on-cachyos) - Installation script for DHH's Omarchy on top of CachyOS. (Read the README.md before proceeding!)
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [day50-dev/sidechat](https://github.com/day50-dev/sidechat) - TMUX based AI assistance
@@ -2025,6 +2029,7 @@
 
 ## TypeScript 
 
+- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [oatear/cider](https://github.com/oatear/cider) - Card IDE (CIDEr) - Design game cards using HTML/Handlebars, CSS, and tabular data
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
