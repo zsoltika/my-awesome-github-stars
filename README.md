@@ -1074,6 +1074,7 @@
 
 ## Others 
 
+- [simonw/claude-skills](https://github.com/simonw/claude-skills) - The contents of /mnt/skills in Claude's code interpreter environment
 - [uscne/Awesome-European-Tech](https://github.com/uscne/Awesome-European-Tech) - An up-to-date, community-made list of European tech alternatives. The aim is to highlight projects and companies that meet GDPR, UK GDPR, and Swiss FADP standards, following regulations and practices 
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [tanrax/org-social](https://github.com/tanrax/org-social) - Org Social is a decentralized social network that runs on an Org Mode file over HTTP.
@@ -1108,7 +1109,7 @@
 - [jdriselvato/FFmpeg-For-Beginners-Ebook](https://github.com/jdriselvato/FFmpeg-For-Beginners-Ebook) - Open source release of FFmpeg For Beginners - Edit Audio & Video Like a Pro for Youtube and Social Media
 - [colindean/problem-diagnosis-remedy-proposal](https://github.com/colindean/problem-diagnosis-remedy-proposal) - A clear, generally concise proposal format to win hearts and minds
 - [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
-- [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Create beautiful books, wikis, websites and PKMs from markdown.
+- [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Create beautiful markdown-based websites, docs wikis and PKMs.
 - [MobiusSync/MobiusSync](https://github.com/MobiusSync/MobiusSync) - Syncthing for iOS
 - [larryboyko/dimityjones](https://github.com/larryboyko/dimityjones) - electronic escape novel requiring readers to solve puzzles before reading the next chapter
 - [raylene/eng-handbook](https://github.com/raylene/eng-handbook) - A developer's guide to management: an open-sourced handbook for leading software engineering teams.
@@ -1297,7 +1298,6 @@
 ## Python 
 
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
-- [simonw/claude-skills](https://github.com/simonw/claude-skills) - The contents of /mnt/skills in Claude's code interpreter environment
 - [kimusan/mastui](https://github.com/kimusan/mastui) - A TUI client for mastodon written in python
 - [Olshansk/rss-feeds](https://github.com/Olshansk/rss-feeds) - Generate RSS feeds for all the blogs that don't have one
 - [russolsen/book_markdown_template](https://github.com/russolsen/book_markdown_template) - 
