@@ -41,7 +41,6 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mojo](#mojo)
@@ -1008,10 +1007,6 @@
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [tylerneylon/termtris](https://github.com/tylerneylon/termtris) - A text-based game inspired by tetris.
 - [waf/nice-and-clean-theme](https://github.com/waf/nice-and-clean-theme) - A port of the Openbox "nice and clean" theme for awesome window manager
-
-## MDX 
-
-- [nikivdev/nikiv](https://github.com/nikivdev/nikiv) - Personal website, docs
 
 ## Makefile 
 
@@ -2095,6 +2090,7 @@
 - [pdemian/human2regex](https://github.com/pdemian/human2regex) - Humanized Regex
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [treebeardtech/nbmake-action](https://github.com/treebeardtech/nbmake-action) - GitHub Action for testing notebooks
+- [nikivdev/wiki](https://github.com/nikivdev/wiki) - 
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
