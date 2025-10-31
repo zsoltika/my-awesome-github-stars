@@ -225,7 +225,7 @@
 - [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
 - [lanurmi/efte](https://github.com/lanurmi/efte) - eFTE is a fork of FTE -- Folding Text Editor
 - [p-ranav/hypergrep](https://github.com/p-ranav/hypergrep) - Recursively search directories for a regex pattern
-- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
+- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [adamritter/fastgron](https://github.com/adamritter/fastgron) - High-performance JSON to GRON (greppable, flattened JSON) converter
 - [underpig1/octos](https://github.com/underpig1/octos) - Create and share web-based interactive, animated wallpapers on Windows :rocket: Available on the Microsoft Store
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Play in your Browser! https://hypersomnia.io Made in 🇵🇱
@@ -950,7 +950,6 @@
 - [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40+ independent Lua modules improving Neovim experience with minimal effort
 - [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim
 - [Abstract-IDE/abstract-autocmds](https://github.com/Abstract-IDE/abstract-autocmds) - Useful autocmds for Neovim.
-- [mobily/.nvim](https://github.com/mobily/.nvim) - 
 - [kelly-lin/ranger.nvim](https://github.com/kelly-lin/ranger.nvim) - Ranger plugin for neovim
 - [cnshsliu/smp.nvim](https://github.com/cnshsliu/smp.nvim) - NeoVim Markdown Previewer, Outliner, Incremental Searcher and more
 - [chomosuke/term-edit.nvim](https://github.com/chomosuke/term-edit.nvim) - Vim Keybindings in Neovim's Built-in Terminal
