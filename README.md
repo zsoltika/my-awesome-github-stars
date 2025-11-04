@@ -757,6 +757,7 @@
 
 ## JavaScript 
 
+- [telavivmakers/geek_code](https://github.com/telavivmakers/geek_code) - geek code 5.x repo
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Turn off AI. Your favorite browser, but better.
 - [edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) - A curated list of awesome and exceptional board games. Please contribute!
 - [igravitystudios/matchimals.fun](https://github.com/igravitystudios/matchimals.fun) - 🦁 🃏 📱 An animal matching puzzle card game– built with turn-based game engine boardgame.io and React-Native + React-Native-Web
@@ -921,6 +922,7 @@
 
 ## Lua 
 
+- [aktau/dotfiles](https://github.com/aktau/dotfiles) - my dotfiles, scavenged from around the web and other users
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [saxon1964/neovim-tips](https://github.com/saxon1964/neovim-tips) - Discover hundreds of Neovim tips, tricks, and shortcuts — and even add your own! You’ll also get a beautifully formatted PDF book with every tip inside.
 - [shahshlok/vim-coach.nvim](https://github.com/shahshlok/vim-coach.nvim) - Your Personal Coach for Neovim
@@ -1993,7 +1995,6 @@
 
 ## Svelte 
 
-- [kagisearch/kite-public](https://github.com/kagisearch/kite-public) - Open source repository for Kite, news app by Kagi.
 - [chroxify/haptic](https://github.com/chroxify/haptic) - A new local-first, privacy-focused and open-source home for your markdown notes
 
 ## Swift 
@@ -2025,6 +2026,7 @@
 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
+- [kagisearch/kite-public](https://github.com/kagisearch/kite-public) - Open source repository for Kite, news app by Kagi.
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [oatear/cider](https://github.com/oatear/cider) - Card IDE (CIDEr) - Design game cards using HTML/Handlebars, CSS, and tabular data
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
