@@ -506,9 +506,11 @@
 
 ## Go 
 
+- [idursun/jjui](https://github.com/idursun/jjui) - Jujutsu UI (jjui) is a Text User Interface (TUI) designed for interacting with the Jujutsu version control system.
 - [thecsw/darkness](https://github.com/thecsw/darkness) - The noblest static site generator 🥬
 - [FyshOS/fynedesk](https://github.com/FyshOS/fynedesk) - A full desktop environment for Linux/Unix using Fyne
 - [erans/hyprmon](https://github.com/erans/hyprmon) - TUI monitor configuration tool for Hyprland with visual layout, drag-and-drop, and profile management
+- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [lapwat/papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks and markdown.
 - [codemicro/readingList](https://github.com/codemicro/readingList) - [MIRROR] A list of articles I've read
@@ -924,6 +926,9 @@
 
 ## Lua 
 
+- [ahkohd/difft.nvim](https://github.com/ahkohd/difft.nvim) - A Neovim frontend for Difftastic
+- [rafikdraoui/jj-diffconflicts](https://github.com/rafikdraoui/jj-diffconflicts) - A conflict resolution merge tool for Jujutsu VCS that runs in Neovim
+- [julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim) - A tool for splitting diffs in Neovim
 - [aktau/dotfiles](https://github.com/aktau/dotfiles) - my dotfiles, scavenged from around the web and other users
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [saxon1964/neovim-tips](https://github.com/saxon1964/neovim-tips) - Discover hundreds of Neovim tips, tricks, and shortcuts — and even add your own! You’ll also get a beautifully formatted PDF book with every tip inside.
@@ -1790,7 +1795,7 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [erikjuhani/basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User or AI-Generated Code
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - self-hosted plaform for secure execution of untrusted user or AI-generated code
 - [trane-project/trane](https://github.com/trane-project/trane) - An automated practice system for mastering complex skills
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool!
 - [linkdd/regname](https://github.com/linkdd/regname) - Mass renamer TUI written in Rust
@@ -1900,6 +1905,7 @@
 
 ## Shell 
 
+- [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [attogram/bash-screensavers](https://github.com/attogram/bash-screensavers) - Turn your idle shell into a visual playground with this collection of Bash screensav­ers
 - [mikeckennedy/talk-python-in-production-devops-book](https://github.com/mikeckennedy/talk-python-in-production-devops-book) - 
 - [mroboff/omarchy-on-cachyos](https://github.com/mroboff/omarchy-on-cachyos) - Installation script for DHH's Omarchy on top of CachyOS. (Read the README.md before proceeding!)
@@ -2032,7 +2038,6 @@
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [kagisearch/kite-public](https://github.com/kagisearch/kite-public) - Open source repository for Kite, news app by Kagi.
-- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [oatear/cider](https://github.com/oatear/cider) - Card IDE (CIDEr) - Design game cards using HTML/Handlebars, CSS, and tabular data
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -2130,6 +2135,7 @@
 
 ## Vim Script 
 
+- [laktak/tome](https://github.com/laktak/tome) - 🔁 Interactive Script playbooks for your terminal with Vim/Neovim (and Tmux)
 - [ggml-org/llama.vim](https://github.com/ggml-org/llama.vim) - Vim plugin for LLM-assisted code/text completion
 - [JKirchartz/writegooder.vim](https://github.com/JKirchartz/writegooder.vim) - Vim plugin for Matt Might's '3 shell scripts that can improve your writing'
 - [plentiform/go-ide](https://github.com/plentiform/go-ide) - Neovim config for golang development
