@@ -652,7 +652,7 @@
 - [geekifan/hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) - A hugo version of Chirpy Theme.
 - [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
 - [FriendsOfEpub/eBookTricks](https://github.com/FriendsOfEpub/eBookTricks) - A collection of CSS snippets to help you do progressive enhancement in eBooks
-- [Goldziher/kreuzberg](https://github.com/Goldziher/kreuzberg) - Document intelligence framework for Python - Extract text, metadata, and structured data   from PDFs, images, Office documents, and more. Built on Pandoc, PDFium, and Tesseract.
+- [Goldziher/kreuzberg](https://github.com/Goldziher/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 50+ formats. Available for Rust, Python, Ruby, 
 - [merlinmann/wisdom](https://github.com/merlinmann/wisdom) - Merlin Mann attempts to capture the best advice he's heard and learned from.
 - [Michaelangel007/vim_cheat_sheet](https://github.com/Michaelangel007/vim_cheat_sheet) - Updated my Vim cheat sheet
 - [quantk/obsidian-hugo-demo](https://github.com/quantk/obsidian-hugo-demo) - 
@@ -1453,7 +1453,7 @@
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [synchronizing/bluelink](https://github.com/synchronizing/bluelink) - 🚙 Control your Hyundai car via Python.
-- [mljar/mercury](https://github.com/mljar/mercury) - Convert Jupyter Notebooks to Web Apps
+- [mljar/mercury](https://github.com/mljar/mercury) - Create web apps from Python notebooks
 - [JakobGlock/Generative-Art](https://github.com/JakobGlock/Generative-Art) - A selection of generative art scripts written in Python
 - [VagishVela/wtpython](https://github.com/VagishVela/wtpython) - Automatically find solutions when your Python code encounters an issue.
 - [tarioch/beancounttools](https://github.com/tarioch/beancounttools) - Beancount Tools
@@ -1790,6 +1790,7 @@
 
 ## Rust 
 
+- [houqp/kiorg](https://github.com/houqp/kiorg) - A hacker's file manager with VIM inspired keybind
 - [bahdotsh/feedr](https://github.com/bahdotsh/feedr) - A feature-rich terminal-based RSS/Atom feed reader written in Rust.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
