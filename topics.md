@@ -1485,6 +1485,7 @@
 
 ## hacktoberfest 
 
+- [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [bahdotsh/feedr](https://github.com/bahdotsh/feedr) - A feature-rich terminal-based RSS/Atom feed reader written in Rust.
 - [thecsw/darkness](https://github.com/thecsw/darkness) - The noblest static site generator 🥬
 - [FyshOS/fynedesk](https://github.com/FyshOS/fynedesk) - A full desktop environment for Linux/Unix using Fyne
@@ -1808,6 +1809,7 @@
 
 ## linux 
 
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [thelinuxlighthouse/RHCSA](https://github.com/thelinuxlighthouse/RHCSA) - RHCSA Exam Preparation – Summaries & Study Notes
@@ -2210,6 +2212,7 @@
 
 ## nodejs 
 
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
@@ -3379,6 +3382,8 @@
 
 ## productivity 
 
+- [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool!
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
@@ -3696,6 +3701,7 @@
 
 ## qt 
 
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [martinrotter/rssguard](https://github.com/martinrotter/rssguard) - Feed reader (podcast player and also Gemini protocol client) which supports RSS/ATOM/JSON and many web-based feed services.
 - [pyedifice/pyedifice](https://github.com/pyedifice/pyedifice) - Declarative GUI framework for Python and Qt
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018 and actively developed, maintained, and supported in 2024. Transforms tkinter, Qt, WxP
@@ -3731,6 +3737,7 @@
 
 ## react 
 
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [igravitystudios/matchimals.fun](https://github.com/igravitystudios/matchimals.fun) - 🦁 🃏 📱 An animal matching puzzle card game– built with turn-based game engine boardgame.io and React-Native + React-Native-Web
 - [mmazzarolo/breathly-app](https://github.com/mmazzarolo/breathly-app) - A tiny breath training app built with React-Native
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
@@ -4380,6 +4387,7 @@
 
 ## windows 
 
+- [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
 - [FuPeiJiang/VD.ahk](https://github.com/FuPeiJiang/VD.ahk) - Windows Virtual Desktop, AutoHotkey, Windows 11 support, Windows Server 2022, switch desktop, move window(wintitle) to current desktop; createDesktop, PinWindow, getCount, getDesktopNumOfWindow -&gt; 
