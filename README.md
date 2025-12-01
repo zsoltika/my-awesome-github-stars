@@ -902,6 +902,7 @@
 - [python-frederick/talks](https://github.com/python-frederick/talks) - A collection of talks presented at Python Frederick
 - [vega/ipyvega](https://github.com/vega/ipyvega) - IPython/Jupyter notebook module for Vega and Vega-Lite
 - [aaren/notedown](https://github.com/aaren/notedown) - Markdown &lt;=&gt; IPython Notebook
+- [sanic-org/tracerite](https://github.com/sanic-org/tracerite) - Tracebacks for Humans (in Jupyter notebooks)
 - [fzumstein/python-for-excel](https://github.com/fzumstein/python-for-excel) - This is the companion repo of the O'Reilly book "Python for Excel".
 - [ank0409/Ditching-Excel-for-Python](https://github.com/ank0409/Ditching-Excel-for-Python) - Functionalities in Excel translated to Python
 - [markwk/qs_ledger](https://github.com/markwk/qs_ledger) - Quantified Self Personal Data Aggregator and Data Analysis
@@ -1480,7 +1481,6 @@
 - [LeviBorodenko/primify](https://github.com/LeviBorodenko/primify) - Embed any image into a prime number.
 - [rr-/pq-cli](https://github.com/rr-/pq-cli) - Progress Quest: the CLI edition
 - [k2bd/action-python-poetry](https://github.com/k2bd/action-python-poetry) - Template repo to quickly make a tested and documented GitHub action in Python with Poetry
-- [sanic-org/tracerite](https://github.com/sanic-org/tracerite) - Tracebacks for Humans (in Jupyter notebooks)
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [beancount/smart_importer](https://github.com/beancount/smart_importer) - Augment Beancount importers with machine learning functionality.
 - [yangman946/WallPaperChanger](https://github.com/yangman946/WallPaperChanger) - Changes your desktop wallpaper based on the weather.
