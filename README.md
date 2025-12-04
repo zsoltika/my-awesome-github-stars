@@ -574,7 +574,7 @@
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
@@ -767,6 +767,7 @@
 
 ## JavaScript 
 
+- [iwotastic/internetcards](https://github.com/iwotastic/internetcards) - Web-based Cards Against Humanity clone with cards made by my friends.
 - [gruvw/strudel.nvim](https://github.com/gruvw/strudel.nvim) - A Neovim based strudel.cc controller, live coding using Strudel from Neovim.
 - [telavivmakers/geek_code](https://github.com/telavivmakers/geek_code) - geek code 5.x repo
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Turn off AI. Your favorite browser, but better.
@@ -1120,7 +1121,6 @@
 - [jdriselvato/FFmpeg-For-Beginners-Ebook](https://github.com/jdriselvato/FFmpeg-For-Beginners-Ebook) - Open source release of FFmpeg For Beginners - Edit Audio & Video Like a Pro for Youtube and Social Media
 - [colindean/problem-diagnosis-remedy-proposal](https://github.com/colindean/problem-diagnosis-remedy-proposal) - A clear, generally concise proposal format to win hearts and minds
 - [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
-- [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Create beautiful markdown-based websites, docs wikis and PKMs.
 - [MobiusSync/MobiusSync](https://github.com/MobiusSync/MobiusSync) - Syncthing for iOS
 - [larryboyko/dimityjones](https://github.com/larryboyko/dimityjones) - electronic escape novel requiring readers to solve puzzles before reading the next chapter
 - [raylene/eng-handbook](https://github.com/raylene/eng-handbook) - A developer's guide to management: an open-sourced handbook for leading software engineering teams.
@@ -1309,6 +1309,7 @@
 
 ## Python 
 
+- [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter
 - [amigavision/AmigaVision](https://github.com/amigavision/AmigaVision) - The ultimate Amiga games & demo scene setup for MiSTer & Pocket FPGAs, emulators, and real hardware. Open source, community driven. This is an Amiga HDF image builder that uses WHDLoad and custom inst
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
@@ -1518,7 +1519,7 @@
 - [laike9m/Cyberbrain](https://github.com/laike9m/Cyberbrain) - Python debugging, redefined.
 - [clobrano/pynicom](https://github.com/clobrano/pynicom) - A Minicom like Serial Communication program in Python that adds standard shell features like autocompletion, command history, inline help
 - [gnebbia/kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
-- [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide :snake: :snake: :snake:
+- [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide 🐍 🐍 🐍
 - [learnbyexample/py_regular_expressions](https://github.com/learnbyexample/py_regular_expressions) - Learn Python Regular Expressions step by step from beginner to advanced levels
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [Frimkron/Ascidia](https://github.com/Frimkron/Ascidia) - A command-line utility for rendering technical diagrams from ASCII art
@@ -1796,6 +1797,7 @@
 
 ## Rust 
 
+- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
 - [houqp/kiorg](https://github.com/houqp/kiorg) - A hacker's file manager with VIM inspired keybind
 - [bahdotsh/feedr](https://github.com/bahdotsh/feedr) - A feature-rich terminal-based RSS/Atom feed reader written in Rust.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -2084,6 +2086,7 @@
 - [bzimor/obsidian_hledger](https://github.com/bzimor/obsidian_hledger) - Hledger Notes: Create and manage hledger entries directly in Obsidian Daily notes
 - [Instawork/hyperview](https://github.com/Instawork/hyperview) - Server-driven mobile apps with React Native
 - [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) - A plugin that can query multiple APIs for movies, series, anime, games, music and wiki articles, and import them into your vault.
+- [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Create beautiful markdown-based websites, docs wikis and PKMs.
 - [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 - [endrl/segment-editor](https://github.com/endrl/segment-editor) - Segment Editor for Jellyfin Segment API
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Web Awesome ("Shoelace 3") has been released! Get it here 👇👇👇
@@ -2111,7 +2114,7 @@
 - [pdemian/human2regex](https://github.com/pdemian/human2regex) - Humanized Regex
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [treebeardtech/nbmake-action](https://github.com/treebeardtech/nbmake-action) - GitHub Action for testing notebooks
-- [nikivdev/research](https://github.com/nikivdev/research) - Research (code, docs, ..)
+- [nikivdev/research](https://github.com/nikivdev/research) - 
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
