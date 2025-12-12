@@ -641,6 +641,7 @@
 
 ## cli 
 
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers
 - [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter
 - [bahdotsh/feedr](https://github.com/bahdotsh/feedr) - A feature-rich terminal-based RSS/Atom feed reader written in Rust.
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
