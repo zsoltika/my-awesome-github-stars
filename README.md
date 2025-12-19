@@ -509,6 +509,7 @@
 
 ## Go 
 
+- [plainas/qjp](https://github.com/plainas/qjp) - Quick interactive TUI json picker/menu
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers
 - [idursun/jjui](https://github.com/idursun/jjui) - Jujutsu UI (jjui) is a Text User Interface (TUI) designed for interacting with the Jujutsu version control system.
 - [thecsw/darkness](https://github.com/thecsw/darkness) - The noblest static site generator 🥬
@@ -647,7 +648,7 @@
 
 - [thomast1906/DevOps-Journey-Using-Azure-DevOps](https://github.com/thomast1906/DevOps-Journey-Using-Azure-DevOps) - A DevOps journey using Azure DevOps (CI/CD, reporting, terraform, AKS)
 - [chadgeary/cloudblock](https://github.com/chadgeary/cloudblock) - Cloudblock deploys secure ad-blocking and VPN for all devices. Text and video guides included! 6 supported cloud providers, plus Ubuntu and Raspberry Pi. Cloudblock deploys Wireguard VPN, Pi-Hole DNS 
-- [codeaprendiz/learn_devops](https://github.com/codeaprendiz/learn_devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
+- [codeaprendiz/learn-devops](https://github.com/codeaprendiz/learn-devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
 - [SadServers/sadservers](https://github.com/SadServers/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
 
 ## HTML 
@@ -910,7 +911,6 @@
 - [python-frederick/talks](https://github.com/python-frederick/talks) - A collection of talks presented at Python Frederick
 - [vega/ipyvega](https://github.com/vega/ipyvega) - IPython/Jupyter notebook module for Vega and Vega-Lite
 - [aaren/notedown](https://github.com/aaren/notedown) - Markdown &lt;=&gt; IPython Notebook
-- [sanic-org/tracerite](https://github.com/sanic-org/tracerite) - Tracebacks for Humans (in Jupyter notebooks)
 - [fzumstein/python-for-excel](https://github.com/fzumstein/python-for-excel) - This is the companion repo of the O'Reilly book "Python for Excel".
 - [ank0409/Ditching-Excel-for-Python](https://github.com/ank0409/Ditching-Excel-for-Python) - Functionalities in Excel translated to Python
 - [markwk/qs_ledger](https://github.com/markwk/qs_ledger) - Quantified Self Personal Data Aggregator and Data Analysis
@@ -1497,6 +1497,7 @@
 - [LeviBorodenko/primify](https://github.com/LeviBorodenko/primify) - Embed any image into a prime number.
 - [rr-/pq-cli](https://github.com/rr-/pq-cli) - Progress Quest: the CLI edition
 - [k2bd/action-python-poetry](https://github.com/k2bd/action-python-poetry) - Template repo to quickly make a tested and documented GitHub action in Python with Poetry
+- [sanic-org/tracerite](https://github.com/sanic-org/tracerite) - Tracebacks for Humans (in Jupyter notebooks)
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [beancount/smart_importer](https://github.com/beancount/smart_importer) - Augment Beancount importers with machine learning functionality.
 - [yangman946/WallPaperChanger](https://github.com/yangman946/WallPaperChanger) - Changes your desktop wallpaper based on the weather.
