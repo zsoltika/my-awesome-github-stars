@@ -770,6 +770,7 @@
 
 ## JavaScript 
 
+- [abetusk/neatocal](https://github.com/abetusk/neatocal) - A single page printable calendar
 - [iwotastic/internetcards](https://github.com/iwotastic/internetcards) - Web-based Cards Against Humanity clone with cards made by my friends.
 - [gruvw/strudel.nvim](https://github.com/gruvw/strudel.nvim) - A Neovim based strudel.cc controller, live coding using Strudel from Neovim.
 - [telavivmakers/geek_code](https://github.com/telavivmakers/geek_code) - geek code 5.x repo
