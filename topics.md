@@ -2477,6 +2477,7 @@
 
 ## others 
 
+- [abetusk/neatocal](https://github.com/abetusk/neatocal) - A single page printable calendar
 - [plainas/qjp](https://github.com/plainas/qjp) - Quick interactive TUI json picker/menu
 - [eudoxia0/hashcards](https://github.com/eudoxia0/hashcards) - A plain text-based spaced repetition system.
 - [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
