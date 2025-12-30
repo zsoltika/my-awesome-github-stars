@@ -653,6 +653,7 @@
 
 ## HTML 
 
+- [jimmyff/zola-zap](https://github.com/jimmyff/zola-zap) - A fast, ultra-minimal Zola theme by jimmyff
 - [Born2Root/Fast-Font](https://github.com/Born2Root/Fast-Font) - This font provides faster reading through facilitating the reading process by guiding the eyes through text with artificial fixation points.
 - [geekifan/hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) - A hugo version of Chirpy Theme.
 - [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
@@ -715,6 +716,7 @@
 - [kristopolous/BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) - A vintage 1980s DOS inspired Twitter Bootstrap theme
 - [edwardtufte/et-book](https://github.com/edwardtufte/et-book) - A webfont of the typeface used in Edward Tufte’s books.
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
+- [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [jcdarwin/epubzengarden](https://github.com/jcdarwin/epubzengarden) - My version of http://epubzengarden.com
 - [metaperl/asciidoc-el](https://github.com/metaperl/asciidoc-el) - Emacs support for writing Asciidoc
@@ -765,11 +767,11 @@
 - [na-ka-na/ExcelCompare](https://github.com/na-ka-na/ExcelCompare) - Command line tool (and API) for diffing Excel Workbooks
 - [icesphere/star-realms-simulator](https://github.com/icesphere/star-realms-simulator) - Star Realms Simulator
 - [dbfit/dbfit](https://github.com/dbfit/dbfit) - DbFit is a database testing framework that supports easy test-driven development of your database code.
-- [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool
 - [P1kachu/ProgrammingLearning](https://github.com/P1kachu/ProgrammingLearning) - Learning new programming languages, the easy way.
 
 ## JavaScript 
 
+- [PoochyEXE/PoochyEXE.github.io](https://github.com/PoochyEXE/PoochyEXE.github.io) - 
 - [abetusk/neatocal](https://github.com/abetusk/neatocal) - A single page printable calendar
 - [iwotastic/internetcards](https://github.com/iwotastic/internetcards) - Web-based Cards Against Humanity clone with cards made by my friends.
 - [gruvw/strudel.nvim](https://github.com/gruvw/strudel.nvim) - A Neovim based strudel.cc controller, live coding using Strudel from Neovim.
@@ -1063,6 +1065,8 @@
 
 ## Nix 
 
+- [LGUG2Z/JeezyVim](https://github.com/LGUG2Z/JeezyVim) - A fast, reliable NeoVim configuration as a Nix Flake for people who want to use NeoVim as an editor and not as an IDE
+- [LGUG2Z/nixos-wsl-starter](https://github.com/LGUG2Z/nixos-wsl-starter) - A sane, batteries-included starter template for running NixOS on WSL
 - [Evertras/simple-homemanager](https://github.com/Evertras/simple-homemanager) - A practical guide to getting started with home manager with flakes and all that 2024 goodness.
 - [novoid/nixos-config](https://github.com/novoid/nixos-config) - NixOS + flakes + home-manager with xfce, zsh, tmux, ...
 - [zachcoyle/neovitality](https://github.com/zachcoyle/neovitality) - 
@@ -1810,6 +1814,8 @@
 
 ## Rust 
 
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [LGUG2Z/notado-cli](https://github.com/LGUG2Z/notado-cli) - A CLI for interacting with https://notado.app
 - [hanebox/ekphos](https://github.com/hanebox/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
 - [eudoxia0/hashcards](https://github.com/eudoxia0/hashcards) - A plain text-based spaced repetition system.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
