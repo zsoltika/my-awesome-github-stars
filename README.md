@@ -1323,6 +1323,7 @@
 
 ## Python 
 
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more.
 - [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
 - [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter
