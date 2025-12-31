@@ -4089,6 +4089,7 @@
 
 ## self-hosted 
 
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agent
