@@ -2806,7 +2806,7 @@
 - [giomatfois62/rofi-desktop](https://github.com/giomatfois62/rofi-desktop) - A rofi powered, menu driven desktop environment
 - [addy-dclxvi/xfwm4-theme-collections](https://github.com/addy-dclxvi/xfwm4-theme-collections) - My Xfwm/Xfce Theme Collections
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
-- [ice-wm/icewm](https://github.com/ice-wm/icewm) - Please, Read The WiKi!
+- [ice-wm/icewm](https://github.com/ice-wm/icewm) - Please, read the WiKi above...
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [dlvhdr/roulette](https://github.com/dlvhdr/roulette) - :slot_machine: Making life decisions easier
 - [ElPiloto/telescope-vimwiki.nvim](https://github.com/ElPiloto/telescope-vimwiki.nvim) - look through your vimwiki with your telescope
