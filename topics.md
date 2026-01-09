@@ -186,6 +186,7 @@
 - [programming](#programming)
 - [programming-language](#programming-language)
 - [project-management](#project-management)
+- [prompt-engineering](#prompt-engineering)
 - [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
@@ -326,7 +327,7 @@
 - [philips/inkpalm-5-adb-english](https://github.com/philips/inkpalm-5-adb-english) - Instructions to setup an Xioami Inkpalm 5 with English and other apps
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [thunder-app/thunder](https://github.com/thunder-app/thunder) - Thunder - A fully open-source, cross-platform Lemmy client for iOS and Android
+- [thunder-app/thunder](https://github.com/thunder-app/thunder) - An open-source cross-platform Lemmy & PieFed client for iOS and Android
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) - A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - [fabiospampinato/termux-env](https://github.com/fabiospampinato/termux-env) - My super-quick-to-setup Termux environment.
 - [artnc/chronofile](https://github.com/artnc/chronofile) - Personal time tracking app
@@ -951,7 +952,7 @@
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [xajik/thedeck](https://github.com/xajik/thedeck) - The Deck: An Open-Source, Cross-Platform, Mobile, Turn by Turn Card Game Engine in Flutter
-- [thunder-app/thunder](https://github.com/thunder-app/thunder) - Thunder - A fully open-source, cross-platform Lemmy client for iOS and Android
+- [thunder-app/thunder](https://github.com/thunder-app/thunder) - An open-source cross-platform Lemmy & PieFed client for iOS and Android
 
 ## data 
 
@@ -1300,7 +1301,7 @@
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [xajik/thedeck](https://github.com/xajik/thedeck) - The Deck: An Open-Source, Cross-Platform, Mobile, Turn by Turn Card Game Engine in Flutter
-- [thunder-app/thunder](https://github.com/thunder-app/thunder) - Thunder - A fully open-source, cross-platform Lemmy client for iOS and Android
+- [thunder-app/thunder](https://github.com/thunder-app/thunder) - An open-source cross-platform Lemmy & PieFed client for iOS and Android
 
 ## flutter-apps 
 
@@ -1782,7 +1783,7 @@
 - [igravitystudios/matchimals.fun](https://github.com/igravitystudios/matchimals.fun) - 🦁 🃏 📱 An animal matching puzzle card game– built with turn-based game engine boardgame.io and React-Native + React-Native-Web
 - [mmazzarolo/breathly-app](https://github.com/mmazzarolo/breathly-app) - A tiny breath training app built with React-Native
 - [xajik/thedeck](https://github.com/xajik/thedeck) - The Deck: An Open-Source, Cross-Platform, Mobile, Turn by Turn Card Game Engine in Flutter
-- [thunder-app/thunder](https://github.com/thunder-app/thunder) - Thunder - A fully open-source, cross-platform Lemmy client for iOS and Android
+- [thunder-app/thunder](https://github.com/thunder-app/thunder) - An open-source cross-platform Lemmy & PieFed client for iOS and Android
 - [faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book) - iOS Crash Dump Analysis Book
 
 ## iot 
@@ -2490,6 +2491,7 @@
 
 ## others 
 
+- [DOSAYGO-STUDIO/HackerBook](https://github.com/DOSAYGO-STUDIO/HackerBook) - Hacker Book - COMMUNITY, ALL THE HN ARE BELONG TO YOU. An unkillable, static offline archive of all of Hacker News. Updated weekly.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [LalitMaganti/beancount-blog-examples](https://github.com/LalitMaganti/beancount-blog-examples) - 
 - [jimmyff/zola-zap](https://github.com/jimmyff/zola-zap) - A fast, ultra-minimal Zola theme by jimmyff
@@ -3625,6 +3627,10 @@
 ## project-management 
 
 - [EivindArvesen/prm](https://github.com/EivindArvesen/prm) - A minimal project manager for the terminal.
+
+## prompt-engineering 
+
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 
 ## publishing 
 
