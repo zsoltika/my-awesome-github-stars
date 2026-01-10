@@ -1326,6 +1326,7 @@
 
 ## Python 
 
+- [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Lightweight Durable Python Workflows
 - [LalitMaganti/beancount-blog-examples](https://github.com/LalitMaganti/beancount-blog-examples) - 
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
@@ -1381,6 +1382,7 @@
 - [kirkthaker/investopedia-trading-api](https://github.com/kirkthaker/investopedia-trading-api) - An api, written in Python, for Investopedia's paper trading stock simulator.
 - [IndieSmiths/nodezator](https://github.com/IndieSmiths/nodezator) - A generalist Python node editor
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [pyedifice/pyedifice](https://github.com/pyedifice/pyedifice) - Declarative GUI framework for Python and Qt
@@ -1952,7 +1954,7 @@
 - [mroboff/omarchy-on-cachyos](https://github.com/mroboff/omarchy-on-cachyos) - Installation script for DHH's Omarchy on top of CachyOS. (Read the README.md before proceeding!)
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [day50-dev/sidechat](https://github.com/day50-dev/sidechat) - TMUX based AI assistance
-- [day50-dev/Streamdown](https://github.com/day50-dev/Streamdown) - Streaming Markdown parser for tui clis
+- [day50-dev/Streamdown](https://github.com/day50-dev/Streamdown) - Streaming Markdown renderer for tui clis
 - [2KAbhishek/tdo](https://github.com/2KAbhishek/tdo) - Fast & Simple Note Taking! 📃🚀
 - [Edu4rdSHL/fly-to-podman](https://github.com/Edu4rdSHL/fly-to-podman) - Migrate from Docker to Podman.
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
@@ -2049,7 +2051,6 @@
 
 - [kagisearch/kite-public](https://github.com/kagisearch/kite-public) - Open source repository for Kite, news app by Kagi.
 - [chroxify/haptic](https://github.com/chroxify/haptic) - A new local-first, privacy-focused and open-source home for your markdown notes
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## Swift 
 
