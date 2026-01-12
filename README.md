@@ -329,7 +329,7 @@
 - [clojure/test.check](https://github.com/clojure/test.check) - QuickCheck for Clojure
 - [day8/re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building user interfaces, leveraging React
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
-- [dvcrn/markright](https://github.com/dvcrn/markright) - ➡ Electron powered markdown editor with live preview
+- [dvcrn/markright](https://github.com/dvcrn/markright) - ➡ Tauri powered markdown editor with live preview
 - [clj-commons/marginalia](https://github.com/clj-commons/marginalia) - Ultra-lightweight literate programming for clojure inspired by docco
 - [yogthos/markdown-clj](https://github.com/yogthos/markdown-clj) - Markdown parser in Clojure
 - [noprompt/frak](https://github.com/noprompt/frak) - Transform collections of strings into regular expressions.
@@ -1820,6 +1820,7 @@
 
 ## Rust 
 
+- [OlaProeis/Ferrite](https://github.com/OlaProeis/Ferrite) - A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [LGUG2Z/notado-cli](https://github.com/LGUG2Z/notado-cli) - A CLI for interacting with https://notado.app
 - [hanebox/ekphos](https://github.com/hanebox/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
