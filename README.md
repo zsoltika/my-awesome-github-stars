@@ -563,7 +563,7 @@
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [willmeyers/gptq](https://github.com/willmeyers/gptq) - 
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
 - [technosophos/dashing](https://github.com/technosophos/dashing) - A Dash Generator Script for Any HTML
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [noborus/ov](https://github.com/noborus/ov) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
@@ -677,7 +677,7 @@
 - [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) - Minimal and responsive Hugo theme inspired by the system console, crafted for optimal performance with an average page load time of under one second.
 - [mojombo/mojombo.github.io](https://github.com/mojombo/mojombo.github.io) - Jekyll source for my personal blog.
 - [schnerring/hugo-theme-gruvbox](https://github.com/schnerring/hugo-theme-gruvbox) - A retro-looking Hugo theme inspired by gruvbox. The pastel colors are high contrast, easily distinguishable, pleasing to the eye, and feature light and dark color palettes.
-- [binokochumolvarghese/lightbi-hugo](https://github.com/binokochumolvarghese/lightbi-hugo) - Lightbi is a modern and elegant blog theme designed for Hugo
+- [binokochumolvarghese/lightbi-hugo](https://github.com/binokochumolvarghese/lightbi-hugo) - Lightbi is a clean, content-first Hugo theme designed for readability and performance, with profile and blog homepage modes, responsive layouts, and light and dark mode support.
 - [spookey/slick](https://github.com/spookey/slick) - A fast, minimalist, responsive theme for Hugo that respects your privacy
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [CyrusYip/hugo-theme-yue](https://github.com/CyrusYip/hugo-theme-yue) - A minimal, multilingual and customizable Hugo theme, suitable for blogging
