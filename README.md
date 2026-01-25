@@ -515,6 +515,7 @@
 
 ## Go 
 
+- [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [ashishb/amazing-sandbox](https://github.com/ashishb/amazing-sandbox) - Amazing Sandbox  - run third-party tools and AI agents securely on your machine
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [plainas/qjp](https://github.com/plainas/qjp) - Quick interactive TUI json picker/menu
@@ -537,7 +538,7 @@
 - [jlelse/GoBlog](https://github.com/jlelse/GoBlog) - Simple blogging system written in Go
 - [eeeXun/gtt](https://github.com/eeeXun/gtt) - Google Translate TUI (Originally). Currently supports Apertium, Bing, ChatGPT, DeepL, DeepLX, Google, LibreTranslate, Reverso.
 - [greenpau/caddy-git](https://github.com/greenpau/caddy-git) - Git Plugin for Caddy v2
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [augur-ai/mantis](https://github.com/augur-ai/mantis) - Mantis is a unified infrastructure as code framework that replaces Terraform and Helm
 - [C-Loftus/QuickPiperAudiobook](https://github.com/C-Loftus/QuickPiperAudiobook) - With one command, create a natural-sounding audiobook from a variety of input formats (epub, mobi, txt, PDF, HTML and more!)
 - [kudrykv/latex-yearly-planner](https://github.com/kudrykv/latex-yearly-planner) - Digital planner for Supernote and ReMarkable // Support Ukraine 🇺🇦 https://war.ukraine.ua/support-ukraine/
