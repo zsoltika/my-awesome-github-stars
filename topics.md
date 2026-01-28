@@ -269,6 +269,7 @@
 
 ## ai 
 
+- [moltbot/moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [NanoNets/docstrange](https://github.com/NanoNets/docstrange) - Extract and convert data from any document, images, pdfs, word doc, ppt or URL into multiple formats (Markdown, JSON, CSV, HTML) with intelligent structured data extraction and advanced OCR.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [day50-dev/sidechat](https://github.com/day50-dev/sidechat) - TMUX based AI assistance
@@ -2529,6 +2530,7 @@
 
 ## others 
 
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [containers/podman-tui](https://github.com/containers/podman-tui) - Podman Terminal UI
 - [Pankajtanwarbanna/stfu](https://github.com/Pankajtanwarbanna/stfu) - stfu
 - [hackerschoice/segfault](https://github.com/hackerschoice/segfault) - 
