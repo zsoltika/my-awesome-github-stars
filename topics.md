@@ -3152,7 +3152,7 @@
 - [clojure/test.check](https://github.com/clojure/test.check) - QuickCheck for Clojure
 - [some-mthfka/Viy](https://github.com/some-mthfka/Viy) - Note taker featuring Neovim, pictures and screenshots
 - [liviu-/average-pixels](https://github.com/liviu-/average-pixels) - CLI tool to generete new images from old images
-- [Yelp/undebt](https://github.com/Yelp/undebt) - A fast, straightforward, reliable tool for performing massive, automated code refactoring
+- [YelpArchive/undebt](https://github.com/YelpArchive/undebt) - A fast, straightforward, reliable tool for performing massive, automated code refactoring
 - [sourcegraph/thyme](https://github.com/sourcegraph/thyme) - Automatically track which applications you use and for how long.
 - [asciidoctor/asciidoctor-diagram](https://github.com/asciidoctor/asciidoctor-diagram) - :left_right_arrow: Asciidoctor diagram extension, with support for AsciiToSVG, BlockDiag (BlockDiag, SeqDiag, ActDiag, NwDiag), Ditaa, Erd, GraphViz, Mermaid, Msc, PlantUML, Shaape, SvgBob, Syntrax, U
 - [christiangoltz/shaape](https://github.com/christiangoltz/shaape) - Shaape is an ascii art to image converter designed to be used with asciidoc.
