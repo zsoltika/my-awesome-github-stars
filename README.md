@@ -1640,7 +1640,7 @@
 - [aziz/PlainNotes](https://github.com/aziz/PlainNotes) - Simple and pleasant note taking for SublimeText
 - [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Pretty good call graphs for dynamic languages
 - [liviu-/average-pixels](https://github.com/liviu-/average-pixels) - CLI tool to generete new images from old images
-- [Yelp/undebt](https://github.com/Yelp/undebt) - A fast, straightforward, reliable tool for performing massive, automated code refactoring
+- [YelpArchive/undebt](https://github.com/YelpArchive/undebt) - A fast, straightforward, reliable tool for performing massive, automated code refactoring
 - [christiangoltz/shaape](https://github.com/christiangoltz/shaape) - Shaape is an ascii art to image converter designed to be used with asciidoc.
 - [kushaldas/pym](https://github.com/kushaldas/pym) - Python for you and me book
 - [frostming/legit](https://github.com/frostming/legit) - Git for Humans, Inspired by GitHub for Mac™.
