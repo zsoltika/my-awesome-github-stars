@@ -954,6 +954,7 @@
 
 ## Lua 
 
+- [nvim-mini/mini.clue](https://github.com/nvim-mini/mini.clue) - Show next key clues. Part of 'mini.nvim' library.
 - [chipsenkbeil/org-roam.nvim](https://github.com/chipsenkbeil/org-roam.nvim) - Port of org-roam to neovim using orgmode
 - [eprislac/org-gcal-sync](https://github.com/eprislac/org-gcal-sync) - A plugin that enables synchronization of org todos and events with GCal
 - [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) - 🤖 5500+ neovim plugins database with automatic installation! 🚀
@@ -2105,7 +2106,7 @@
 ## TypeScript 
 
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
-- [moltbot/moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [oatear/cider](https://github.com/oatear/cider) - Card IDE (CIDEr) - Design game cards using HTML/Handlebars, CSS, and tabular data
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
