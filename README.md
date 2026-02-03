@@ -216,7 +216,7 @@
 - [wesdoyle/design-patterns-explained-with-food](https://github.com/wesdoyle/design-patterns-explained-with-food) - GoF Design Patterns with "Real-World" examples involving Food-Related Businesses and mock dependencies
 - [zsims/hunt-and-peck](https://github.com/zsims/hunt-and-peck) - Simple vimium/vimperator style navigation for Windows applications based on the UI Automation framework.
 - [dnGrep/dnGrep](https://github.com/dnGrep/dnGrep) - Graphical GREP tool for Windows
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
 - [citizenmatt/resharper-clippy](https://github.com/citizenmatt/resharper-clippy) - Clippy. For ReSharper
@@ -561,7 +561,7 @@
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [Jacalz/rymdport](https://github.com/Jacalz/rymdport) - Cross-platform application for easy encrypted file, folder, and text sharing between devices.
 - [psanford/wormhole-william](https://github.com/psanford/wormhole-william) - End-to-end encrypted file transfer. A magic wormhole CLI and API in Go (golang).
-- [rwx-research/captain](https://github.com/rwx-research/captain) - The Captain CLI can detect and quarantine flaky tests, automatically retry failed tests, partition files for parallel execution, produce markdown failure summaries, and more. It's compatible with 17 t
+- [rwx-research/captain](https://github.com/rwx-research/captain) - The Captain CLI can detect and quarantine flaky tests, automatically retry failed tests, partition files for parallel execution, produce markdown failure summaries, and more. It's compatible with most
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [willmeyers/gptq](https://github.com/willmeyers/gptq) - 
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
