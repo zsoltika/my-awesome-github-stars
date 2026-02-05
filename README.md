@@ -374,6 +374,7 @@
 
 ## Elixir 
 
+- [puemos/craftplan](https://github.com/puemos/craftplan) - Self-hosted software for managing artisanal D2C micro-businesses
 - [elixir-explorer/explorer](https://github.com/elixir-explorer/explorer) - Series (one-dimensional) and dataframes (two-dimensional) for fast and elegant data exploration in Elixir
 
 ## Emacs Lisp 
@@ -1771,7 +1772,6 @@
 
 ## Roff 
 
-- [laszlonemeth/magyarispell](https://github.com/laszlonemeth/magyarispell) - Hungarian Hunspell dictionary
 - [LuRsT/hr](https://github.com/LuRsT/hr) - A horizontal :straight_ruler: for your terminal
 
 ## Ruby 
@@ -1843,6 +1843,7 @@
 
 ## Rust 
 
+- [nrdxp/sukr](https://github.com/nrdxp/sukr) - Minimal static site compiler — suckless, Rust, zero JS.
 - [OlaProeis/Ferrite](https://github.com/OlaProeis/Ferrite) - A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [LGUG2Z/notado-cli](https://github.com/LGUG2Z/notado-cli) - A CLI for interacting with https://notado.app
@@ -1850,7 +1851,7 @@
 - [eudoxia0/hashcards](https://github.com/eudoxia0/hashcards) - A plain text-based spaced repetition system.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
+- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
 - [houqp/kiorg](https://github.com/houqp/kiorg) - A hacker's file manager with VIM inspired keybind
 - [bahdotsh/feedr](https://github.com/bahdotsh/feedr) - A feature-rich terminal-based RSS/Atom feed reader written in Rust.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -2017,6 +2018,7 @@
 - [muhmud/qsh](https://github.com/muhmud/qsh) - shell-based query tool
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
+- [laszlonemeth/magyarispell](https://github.com/laszlonemeth/magyarispell) - Hungarian Hunspell dictionary
 - [pascalw/kindle-dash](https://github.com/pascalw/kindle-dash) - Power efficient dashboard for Kindle 4 NT devices
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [salman-abedin/faint](https://github.com/salman-abedin/faint) - Extensible TUI fuzzy file file explorer
