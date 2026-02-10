@@ -872,7 +872,7 @@
 - [paladin8/kfchess](https://github.com/paladin8/kfchess) - Kung Fu Chess, a real-time chess game.
 - [ricklamers/gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
 - [TBFY/knowledge-graph](https://github.com/TBFY/knowledge-graph) - TheyBuyForYou Knowledge Graph (KG)
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Gateway (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [allegro/tipboard](https://github.com/allegro/tipboard) - Tipboard - in-house, tasty, local dashboarding system
 - [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
