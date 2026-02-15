@@ -127,6 +127,7 @@
 
 ## C 
 
+- [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Firmware for the Xteink X4 e-paper display reader
 - [RamonUnch/AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
@@ -1118,6 +1119,7 @@
 
 ## Others 
 
+- [datascale-ai/data_engineering_book](https://github.com/datascale-ai/data_engineering_book) - data engineering book
 - [tonsky/sublime-scheme-alabaster](https://github.com/tonsky/sublime-scheme-alabaster) - Minimalist color scheme for Sublime Text 3
 - [addyosmani/gemini-cli-tips](https://github.com/addyosmani/gemini-cli-tips) - Gemini CLI Tips and Tricks
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
@@ -2112,7 +2114,7 @@
 
 ## TypeScript 
 
-- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
+- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
