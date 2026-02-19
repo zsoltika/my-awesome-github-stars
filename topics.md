@@ -264,11 +264,13 @@
 
 ## agent 
 
+- [localgpt-app/localgpt](https://github.com/localgpt-app/localgpt) - AI assistant on local device & world generations.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## ai 
 
+- [localgpt-app/localgpt](https://github.com/localgpt-app/localgpt) - AI assistant on local device & world generations.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [NanoNets/docstrange](https://github.com/NanoNets/docstrange) - Extract and convert data from any document, images, pdfs, word doc, ppt or URL into multiple formats (Markdown, JSON, CSV, HTML) with intelligent structured data extraction and advanced OCR.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -2545,7 +2547,6 @@
 - [penk/X4Term](https://github.com/penk/X4Term) - Pocket VT100 terminal for Xteink X4
 - [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Firmware for the Xteink X4 e-paper display reader
 - [datascale-ai/data_engineering_book](https://github.com/datascale-ai/data_engineering_book) - data engineering book
-- [localgpt-app/localgpt](https://github.com/localgpt-app/localgpt) - 
 - [rhsev/dy.lan](https://github.com/rhsev/dy.lan) - Server-side HTTP redirector for local networks with plugin-based automation
 - [dheid/micropolis](https://github.com/dheid/micropolis) - Micropolis is the Open Source Release of the original SimCity source code. This is a Java version originally written by Jason Long and enhanced with modern features.
 - [nrdxp/sukr](https://github.com/nrdxp/sukr) - Minimal static site compiler — suckless, Rust, zero JS.
@@ -4069,6 +4070,7 @@
 
 ## rust 
 
+- [localgpt-app/localgpt](https://github.com/localgpt-app/localgpt) - AI assistant on local device & world generations.
 - [OlaProeis/Ferrite](https://github.com/OlaProeis/Ferrite) - A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -4180,7 +4182,7 @@
 - [puemos/craftplan](https://github.com/puemos/craftplan) - Self-hosted software for managing artisanal D2C micro-businesses
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
 - [Tiendil/feeds.fun](https://github.com/Tiendil/feeds.fun) - News reader with tags, scoring, and AI
