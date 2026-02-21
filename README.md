@@ -1353,6 +1353,7 @@
 
 ## Python 
 
+- [missing-semester/videos](https://github.com/missing-semester/videos) - Lecture video processing scripts 🎥
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 - [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Lightweight Durable Python Workflows
 - [LalitMaganti/beancount-blog-examples](https://github.com/LalitMaganti/beancount-blog-examples) - 
@@ -1852,6 +1853,7 @@
 
 ## Rust 
 
+- [Veirt/weathr](https://github.com/Veirt/weathr) - a terminal weather app with ascii animation
 - [localgpt-app/localgpt](https://github.com/localgpt-app/localgpt) - AI assistant on local device & world generations.
 - [nrdxp/sukr](https://github.com/nrdxp/sukr) - Minimal static site compiler — suckless, Rust, zero JS.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
