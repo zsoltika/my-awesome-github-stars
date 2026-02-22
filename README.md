@@ -1786,7 +1786,7 @@
 
 ## Ruby 
 
-- [rhsev/dy.lan](https://github.com/rhsev/dy.lan) - Server-side HTTP redirector for local networks with plugin-based automation
+- [rhsev/dy.lan](https://github.com/rhsev/dy.lan) - Server-side HTTP redirector for local networks with plugin-based automation. Containerized.
 - [andymeneely/squib](https://github.com/andymeneely/squib) - A Ruby DSL for prototyping card games.
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
 - [joeyates/imap-backup](https://github.com/joeyates/imap-backup) - Backup and Migrate IMAP Email Accounts
