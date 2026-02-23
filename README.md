@@ -196,6 +196,7 @@
 
 ## C# # 
 
+- [builtbybel/Winslop](https://github.com/builtbybel/Winslop) - De-slop Windows.
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [shanselman/WindowsEdgeLight](https://github.com/shanselman/WindowsEdgeLight) - A lightweight WPF application that adds a customizable glowing edge light effect around your primary monitor
 - [paulbatum/Dominion](https://github.com/paulbatum/Dominion) - 
@@ -677,7 +678,7 @@
 - [FriendsOfEpub/eBookTricks](https://github.com/FriendsOfEpub/eBookTricks) - A collection of CSS snippets to help you do progressive enhancement in eBooks
 - [yibie/hugo-theme-deck](https://github.com/yibie/hugo-theme-deck) - 
 - [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 75+ formats. Available for Rust, Python, Ruby, 
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 76+ formats. Available for Rust, Python, Ruby, 
 - [merlinmann/wisdom](https://github.com/merlinmann/wisdom) - Merlin Mann attempts to capture the best advice he's heard and learned from.
 - [Michaelangel007/vim_cheat_sheet](https://github.com/Michaelangel007/vim_cheat_sheet) - Updated my Vim cheat sheet
 - [quantk/obsidian-hugo-demo](https://github.com/quantk/obsidian-hugo-demo) - 
@@ -1786,7 +1787,7 @@
 
 ## Ruby 
 
-- [rhsev/dy.lan](https://github.com/rhsev/dy.lan) - Server-side HTTP redirector for local networks with plugin-based automation. Containerized.
+- [rhsev/dy.lan](https://github.com/rhsev/dy.lan) - HTTP redirector for local networks with plugin-based automation. Runs as a container.
 - [andymeneely/squib](https://github.com/andymeneely/squib) - A Ruby DSL for prototyping card games.
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
 - [joeyates/imap-backup](https://github.com/joeyates/imap-backup) - Backup and Migrate IMAP Email Accounts
