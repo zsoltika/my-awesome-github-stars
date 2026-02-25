@@ -446,7 +446,7 @@
 - [bbatsov/zenburn-emacs](https://github.com/bbatsov/zenburn-emacs) - The Zenburn colour theme ported to Emacs
 - [Malabarba/emacs-google-this](https://github.com/Malabarba/emacs-google-this) - A set of emacs functions and bindings to google under point.
 - [leoliu/sokoban](https://github.com/leoliu/sokoban) - Sokoban for GNU Emacs ported from XEmacs
-- [jacktasia/dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 50+ languages
+- [jacktasia/dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 60+ languages
 - [aaron-em/ten-hundred-mode.el](https://github.com/aaron-em/ten-hundred-mode.el) - A thing to help people use only the ten hundred most usual English words.
 - [xcodebuild/blog-admin](https://github.com/xcodebuild/blog-admin) - Write blog in emacs with hexo/org-page/nikola
 - [noctuid/chronicler.el](https://github.com/noctuid/chronicler.el) - Track and Analyze Writing Statistics for Org Files in Emacs
@@ -1858,6 +1858,7 @@
 
 ## Rust 
 
+- [weedonandscott/trolley](https://github.com/weedonandscott/trolley) - Run terminal apps anywhere
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [Veirt/weathr](https://github.com/Veirt/weathr) - a terminal weather app with ascii animation
 - [localgpt-app/localgpt](https://github.com/localgpt-app/localgpt) - Local AI assistant, dreaming explorable worlds.
