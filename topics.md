@@ -676,6 +676,7 @@
 
 ## cli 
 
+- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Architectural intelligence layer for AI coding agents — structural graph, architecture governance, multi-agent orchestration, vulnerability mapping. 94 commands, 26 languages, 100% local.
 - [boyter/cs](https://github.com/boyter/cs) - codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required
 - [Veirt/weathr](https://github.com/Veirt/weathr) - a terminal weather app with ascii animation
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers
@@ -823,6 +824,7 @@
 
 ## code-quality 
 
+- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Architectural intelligence layer for AI coding agents — structural graph, architecture governance, multi-agent orchestration, vulnerability mapping. 94 commands, 26 languages, 100% local.
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 
@@ -1101,7 +1103,7 @@
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
-- [jacktasia/dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 50+ languages
+- [jacktasia/dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 60+ languages
 - [donnemartin/haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 
 ## development 
@@ -1274,7 +1276,7 @@
 - [Trevoke/sqlup-mode.el](https://github.com/Trevoke/sqlup-mode.el) - An emacs minor mode to upcase SQL keyword and functions
 - [bbatsov/crux](https://github.com/bbatsov/crux) - A Collection of Ridiculously Useful eXtensions for Emacs
 - [bbatsov/zenburn-emacs](https://github.com/bbatsov/zenburn-emacs) - The Zenburn colour theme ported to Emacs
-- [jacktasia/dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 50+ languages
+- [jacktasia/dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 60+ languages
 - [xcodebuild/blog-admin](https://github.com/xcodebuild/blog-admin) - Write blog in emacs with hexo/org-page/nikola
 - [Alexander-Miller/company-shell](https://github.com/Alexander-Miller/company-shell) - 
 - [dash-docs-el/helm-dash](https://github.com/dash-docs-el/helm-dash) - Browse Dash docsets inside emacs
@@ -2558,8 +2560,8 @@
 
 ## others 
 
+- [weedonandscott/trolley](https://github.com/weedonandscott/trolley) - Run terminal apps anywhere
 - [usetrmnl/trmnl-firmware](https://github.com/usetrmnl/trmnl-firmware) - TRMNL e-ink device firmware
-- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Architectural intelligence layer for AI coding agents — structural graph, architecture governance, multi-agent orchestration, vulnerability mapping. 94 commands, 26 languages, 100% local.
 - [builtbybel/Winslop](https://github.com/builtbybel/Winslop) - De-slop Windows.
 - [missing-semester/videos](https://github.com/missing-semester/videos) - Lecture video processing scripts 🎥
 - [i5heu/ublock-hide-yt-shorts](https://github.com/i5heu/ublock-hide-yt-shorts) - Maintained - uBlock Origin filter list to hide YouTube Shorts
@@ -4220,6 +4222,7 @@
 - [pritkr/predirect](https://github.com/pritkr/predirect) - A manifest v3 web extension with minimal permissions to automatically redirect to privacy friendly frontends. ⭐️ Star to support our work!
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
