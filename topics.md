@@ -2560,6 +2560,7 @@
 
 ## others 
 
+- [samkhawase/kindle-dash-client](https://github.com/samkhawase/kindle-dash-client) - Scripts that run on Kindle for the school dashboard project
 - [weedonandscott/trolley](https://github.com/weedonandscott/trolley) - Run terminal apps anywhere
 - [usetrmnl/trmnl-firmware](https://github.com/usetrmnl/trmnl-firmware) - TRMNL e-ink device firmware
 - [builtbybel/Winslop](https://github.com/builtbybel/Winslop) - De-slop Windows.
