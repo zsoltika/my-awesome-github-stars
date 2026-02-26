@@ -1126,7 +1126,6 @@
 ## Others 
 
 - [factbook/factbook.json](https://github.com/factbook/factbook.json) - World Factbook Country Profiles in JSON  - Free Open Public Domain Data - No API Key Required ;-)
-- [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [i5heu/ublock-hide-yt-shorts](https://github.com/i5heu/ublock-hide-yt-shorts) - Maintained - uBlock Origin filter list to hide YouTube Shorts
 - [datascale-ai/data_engineering_book](https://github.com/datascale-ai/data_engineering_book) - data engineering book
 - [tonsky/sublime-scheme-alabaster](https://github.com/tonsky/sublime-scheme-alabaster) - Minimalist color scheme for Sublime Text 3
@@ -1359,6 +1358,7 @@
 
 - [Cranot/roam-code](https://github.com/Cranot/roam-code) - Architectural intelligence layer for AI coding agents — structural graph, architecture governance, multi-agent orchestration, vulnerability mapping. 94 commands, 26 languages, 100% local.
 - [missing-semester/videos](https://github.com/missing-semester/videos) - Lecture video processing scripts 🎥
+- [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 - [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Lightweight Durable Python Workflows
 - [LalitMaganti/beancount-blog-examples](https://github.com/LalitMaganti/beancount-blog-examples) - 
@@ -1991,6 +1991,7 @@
 
 ## Shell 
 
+- [samkhawase/kindle-dash-client](https://github.com/samkhawase/kindle-dash-client) - Scripts that run on Kindle for the school dashboard project
 - [hackerschoice/segfault](https://github.com/hackerschoice/segfault) - 
 - [ReturnInfinity/BareMetal-Cloud](https://github.com/ReturnInfinity/BareMetal-Cloud) - BareMetal for the private/public cloud
 - [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
