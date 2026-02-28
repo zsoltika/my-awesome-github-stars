@@ -876,7 +876,7 @@
 - [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting 
 - [VGraupera/1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
 - [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
-- [paladin8/kfchess](https://github.com/paladin8/kfchess) - Kung Fu Chess, a real-time chess game.
+- [paladin8/kfchess-cc](https://github.com/paladin8/kfchess-cc) - Kung Fu Chess, a real-time chess game.
 - [ricklamers/gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
 - [TBFY/knowledge-graph](https://github.com/TBFY/knowledge-graph) - TheyBuyForYou Knowledge Graph (KG)
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
@@ -926,6 +926,7 @@
 
 ## Jupyter Notebook 
 
+- [datascale-ai/data_engineering_book](https://github.com/datascale-ai/data_engineering_book) - data engineering book
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [zellyn/genart](https://github.com/zellyn/genart) - Genart experiments
@@ -1127,7 +1128,6 @@
 
 - [factbook/factbook.json](https://github.com/factbook/factbook.json) - World Factbook Country Profiles in JSON  - Free Open Public Domain Data - No API Key Required ;-)
 - [i5heu/ublock-hide-yt-shorts](https://github.com/i5heu/ublock-hide-yt-shorts) - Maintained - uBlock Origin filter list to hide YouTube Shorts
-- [datascale-ai/data_engineering_book](https://github.com/datascale-ai/data_engineering_book) - data engineering book
 - [tonsky/sublime-scheme-alabaster](https://github.com/tonsky/sublime-scheme-alabaster) - Minimalist color scheme for Sublime Text 3
 - [addyosmani/gemini-cli-tips](https://github.com/addyosmani/gemini-cli-tips) - Gemini CLI Tips and Tricks
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
@@ -1356,7 +1356,7 @@
 
 ## Python 
 
-- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Architectural intelligence layer for AI coding agents — structural graph, architecture governance, multi-agent orchestration, vulnerability mapping. 94 commands, 26 languages, 100% local.
+- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Architectural intelligence layer for AI coding agents. Structural graph, architecture governance, multi-agent orchestration, vulnerability mapping. 139 commands, 101 MCP tools, 26 languages, 100% loca
 - [missing-semester/videos](https://github.com/missing-semester/videos) - Lecture video processing scripts 🎥
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
@@ -1436,7 +1436,7 @@
 - [zotroneneis/magical_universe](https://github.com/zotroneneis/magical_universe) - Awesome Python features explained using the world of magic
 - [tedivm/robs_awesome_python_template](https://github.com/tedivm/robs_awesome_python_template) - Production-ready Python template: Choose from FastAPI, SQLAlchemy, Celery, Docker, CI/CD and more. Flexibility that scales from libraries to full applications.
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
-- [ayushgun/easygmail](https://github.com/ayushgun/easygmail) - A lightweight, minimalistic, and synchronous Python package for quickly sending emails via Gmail.
+- [agwr/easygmail](https://github.com/agwr/easygmail) - A lightweight, minimalistic, and synchronous Python package for quickly sending emails via Gmail.
 - [imgurbot12/pypub](https://github.com/imgurbot12/pypub) - Python library to programatically create epub files
 - [SteveJob/ebooklib](https://github.com/SteveJob/ebooklib) - Python E-book library for handling books in EPUB2/EPUB3  format -
 - [ChenyangGao/python-epub3](https://github.com/ChenyangGao/python-epub3) - An awsome epub3 library.
@@ -1791,6 +1791,7 @@
 
 ## Ruby 
 
+- [rhsev/grubber](https://github.com/rhsev/grubber) - Data retrieval for Markdown files. Think Dataview without Obsidian. Works on macOS and Linux.
 - [rhsev/dy.lan](https://github.com/rhsev/dy.lan) - HTTP redirector for local networks with plugin-based automation. Runs as a container.
 - [andymeneely/squib](https://github.com/andymeneely/squib) - A Ruby DSL for prototyping card games.
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
@@ -1806,7 +1807,6 @@
 - [matestack/matestack-ui-core](https://github.com/matestack/matestack-ui-core) - Component based web UIs in pure Ruby for Rails. Boost your productivity & easily create component based web UIs in pure Ruby.
 - [zombocom/rundoc](https://github.com/zombocom/rundoc) - RunDOC generates documentation by running scripts and embedding their results in the doc
 - [shoes/shoes4](https://github.com/shoes/shoes4) - Shoes 4 : the next version of Shoes
-- [FreedomBen/awk-hack-the-planet](https://github.com/FreedomBen/awk-hack-the-planet) - Source code repo for Ben Porter (FreedomBen)'s free course on Awk (originally a talk at Linux Fest Northwest 2019 and 2020)
 - [braintree/runbook](https://github.com/braintree/runbook) - A framework for gradual system automation
 - [cbbrowne/tpp](https://github.com/cbbrowne/tpp) - Text Powerpoint
 - [softcover/softcover](https://github.com/softcover/softcover) - CLI for book generation, building, and publishing to softcover.io
@@ -2049,6 +2049,7 @@
 - [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [Xyene/wsl-dotfiles](https://github.com/Xyene/wsl-dotfiles) - My dotfiles for running an i3-based environment within the Windows Subsystem for Linux (WSL).
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
+- [FreedomBen/awk-hack-the-planet](https://github.com/FreedomBen/awk-hack-the-planet) - Source code repo for Ben Porter (FreedomBen)'s free course on Awk (originally a talk at Linux Fest Northwest 2019 and 2020)
 - [ColonelBuendia/rgpipe](https://github.com/ColonelBuendia/rgpipe) - lesspipe for ripgrep for common new filetypes using few dependencies
 - [Checksum/critic.sh](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage reporting
 - [icyphox/shlide](https://github.com/icyphox/shlide) - :framed_picture: a slide deck presentation tool written in pure bash
