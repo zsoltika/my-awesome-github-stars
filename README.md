@@ -274,6 +274,10 @@
 
 ## CSS 
 
+- [Livour/hugo-mana-theme](https://github.com/Livour/hugo-mana-theme) - Futuristic hugo theme featuring clean aesthetics, modern functionality and responsive design.
+- [suheb/resume](https://github.com/suheb/resume) - A minimal pelican theme to host your resume
+- [alexandrevicenzi/Flex](https://github.com/alexandrevicenzi/Flex) - The minimalist Pelican theme.
+- [getpelican/pelican-themes](https://github.com/getpelican/pelican-themes) - Themes for Pelican
 - [Deathbyteacup/fluentbird](https://github.com/Deathbyteacup/fluentbird) - FluentBird is a userChrome.css theme for Mozilla Thunderbird, that implemenets Windows 11 Fluent Design and Mica transparency materials.
 - [retypeapp/retype](https://github.com/retypeapp/retype) - Retype is an ultra-high-performance static site generator that builds a website based on simple text files. Made in Canada 🇨🇦.
 - [nielssp/classic-stylesheets](https://github.com/nielssp/classic-stylesheets) - Classic stylesheets for web applications.
@@ -671,6 +675,9 @@
 
 ## HTML 
 
+- [iKevinY/pneumatic](https://github.com/iKevinY/pneumatic) - Minimalistic, responsive Pelican theme.
+- [nairobilug/pelican-alchemy](https://github.com/nairobilug/pelican-alchemy) - A ✨ functional, clean, responsive Pelican theme
+- [arulrajnet/attila](https://github.com/arulrajnet/attila) - Pelican version of ghost theme https://github.com/zutrinken/attila
 - [Pankajtanwarbanna/stfu](https://github.com/Pankajtanwarbanna/stfu) - stfu
 - [jimmyff/zola-zap](https://github.com/jimmyff/zola-zap) - A fast, ultra-minimal Zola theme by jimmyff
 - [Born2Root/Fast-Font](https://github.com/Born2Root/Fast-Font) - This font provides faster reading through facilitating the reading process by guiding the eyes through text with artificial fixation points.
@@ -794,6 +801,7 @@
 
 ## JavaScript 
 
+- [jvarn/dilbert-archive](https://github.com/jvarn/dilbert-archive) - ARIA accessible text transcripts of Dilbert comics from 1989 to 2023
 - [Xatpy/send-to-x4](https://github.com/Xatpy/send-to-x4) - A browser extension to send long-form articles from the web directly to your **Xteink X4** e-ink reader as clean EPUB files.
 - [DOSAYGO-STUDIO/HackerBook](https://github.com/DOSAYGO-STUDIO/HackerBook) - Hacker Book - COMMUNITY, ALL THE HN ARE BELONG TO YOU. An unkillable, static offline archive of all of Hacker News. Updated weekly.
 - [PoochyEXE/PoochyEXE.github.io](https://github.com/PoochyEXE/PoochyEXE.github.io) - 
@@ -965,6 +973,7 @@
 
 ## Lua 
 
+- [echaya/neowiki.nvim](https://github.com/echaya/neowiki.nvim) - neowiki.nvim: modern vimwiki successor for instant notes & GTD 🚀📝
 - [nvim-mini/mini.clue](https://github.com/nvim-mini/mini.clue) - Show next key clues. Part of 'mini.nvim' library.
 - [chipsenkbeil/org-roam.nvim](https://github.com/chipsenkbeil/org-roam.nvim) - Port of org-roam to neovim using orgmode
 - [eprislac/org-gcal-sync](https://github.com/eprislac/org-gcal-sync) - A plugin that enables synchronization of org todos and events with GCal
@@ -1356,6 +1365,7 @@
 
 ## Python 
 
+- [mosra/m.css](https://github.com/mosra/m.css) - A no-nonsense, no-JavaScript CSS framework, site and documentation theme for content-oriented websites
 - [Cranot/roam-code](https://github.com/Cranot/roam-code) - Architectural intelligence layer for AI coding agents. Structural graph, architecture governance, multi-agent orchestration, vulnerability mapping. 139 commands, 101 MCP tools, 26 languages, 100% loca
 - [missing-semester/videos](https://github.com/missing-semester/videos) - Lecture video processing scripts 🎥
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
@@ -1857,6 +1867,7 @@
 
 ## Rust 
 
+- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
 - [weedonandscott/trolley](https://github.com/weedonandscott/trolley) - Run terminal apps anywhere
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [Veirt/weathr](https://github.com/Veirt/weathr) - a terminal weather app with ascii animation
