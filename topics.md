@@ -300,7 +300,7 @@
 
 ## ai-agents 
 
-- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
+- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic'
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 
 ## algorithm 
@@ -2563,6 +2563,7 @@
 
 ## others 
 
+- [plp13/qman](https://github.com/plp13/qman) - A more modern man page viewer for our terminals
 - [Livour/hugo-mana-theme](https://github.com/Livour/hugo-mana-theme) - Futuristic hugo theme featuring clean aesthetics, modern functionality and responsive design.
 - [echaya/neowiki.nvim](https://github.com/echaya/neowiki.nvim) - neowiki.nvim: modern vimwiki successor for instant notes & GTD 🚀📝
 - [jvarn/dilbert-archive](https://github.com/jvarn/dilbert-archive) - ARIA accessible text transcripts of Dilbert comics from 1989 to 2023
