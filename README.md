@@ -364,6 +364,7 @@
 
 ## Crystal 
 
+- [rhsev/grubber](https://github.com/rhsev/grubber) - Data retrieval for Markdown files. Think Dataview without Obsidian. Works on macOS and Linux.
 - [toddsundsted/ktistec](https://github.com/toddsundsted/ktistec) - Single user ActivityPub (https://www.w3.org/TR/activitypub/) server.
 - [phil294/AHK_X11](https://github.com/phil294/AHK_X11) - AutoHotkey for Linux (X11-based systems)
 
@@ -1006,7 +1007,7 @@
 - [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) - 🌠 Neovim plugin to animate the cursor with a smear effect in all terminals
 - [MiragianCycle/OVIWrite](https://github.com/MiragianCycle/OVIWrite) - Integrated Writing Environment (IWE) based on NeoVim
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
-- [Kurama622/profile.nvim](https://github.com/Kurama622/profile.nvim) - Your Personal Homepage
+- [Kurama622/profile.nvim](https://github.com/Kurama622/profile.nvim) - A dashboard, similar to GitHub homepage.
 - [neo451/feed.nvim](https://github.com/neo451/feed.nvim) - Neovim feed reader, rss, atom and jsonfeed, all in lua
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & Asciidoc previewer for Neovim
 - [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - Experimental Sourcegraph + Cody plugin for Neovim
@@ -1801,7 +1802,6 @@
 
 ## Ruby 
 
-- [rhsev/grubber](https://github.com/rhsev/grubber) - Data retrieval for Markdown files. Think Dataview without Obsidian. Works on macOS and Linux.
 - [rhsev/dy.lan](https://github.com/rhsev/dy.lan) - HTTP redirector for local networks with plugin-based automation. Runs as a container.
 - [andymeneely/squib](https://github.com/andymeneely/squib) - A Ruby DSL for prototyping card games.
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
@@ -2142,7 +2142,7 @@
 
 ## TypeScript 
 
-- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic'
+- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [oatear/cider](https://github.com/oatear/cider) - Card IDE (CIDEr) - Design game cards using HTML/Handlebars, CSS, and tabular data
