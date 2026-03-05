@@ -2574,6 +2574,7 @@
 
 ## others 
 
+- [wesm/msgvault](https://github.com/wesm/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB
 - [plp13/qman](https://github.com/plp13/qman) - A more modern man page viewer for our terminals
 - [Livour/hugo-mana-theme](https://github.com/Livour/hugo-mana-theme) - Futuristic hugo theme featuring clean aesthetics, modern functionality and responsive design.
 - [echaya/neowiki.nvim](https://github.com/echaya/neowiki.nvim) - neowiki.nvim: modern vimwiki successor for instant notes & GTD 🚀📝
