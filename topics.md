@@ -2341,7 +2341,7 @@
 
 - [nvim-mini/mini.clue](https://github.com/nvim-mini/mini.clue) - Show next key clues. Part of 'mini.nvim' library.
 - [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) - 🤖 5500+ neovim plugins database with automatic installation! 🚀
-- [p00f/alabaster.nvim](https://github.com/p00f/alabaster.nvim) - Neovim port of tonsky's alabaster for Sublime Text.
+- [dchinmay2/alabaster.nvim](https://github.com/dchinmay2/alabaster.nvim) - Neovim port of tonsky's alabaster for Sublime Text.
 - [ramojus/mellifluous.nvim](https://github.com/ramojus/mellifluous.nvim) - Pleasant and productive colorscheme for Neovim
 - [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin for displaying inline diagnostic messages with customizable styles and icons.
 - [gruvw/strudel.nvim](https://github.com/gruvw/strudel.nvim) - A Neovim based strudel.cc controller, live coding using Strudel from Neovim.
@@ -2634,7 +2634,7 @@
 - [shanselman/WindowsEdgeLight](https://github.com/shanselman/WindowsEdgeLight) - A lightweight WPF application that adds a customizable glowing edge light effect around your primary monitor
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [paulbatum/Dominion](https://github.com/paulbatum/Dominion) - 
-- [andyrids/windows-subsystem-for-linux-void](https://github.com/andyrids/windows-subsystem-for-linux-void) - A manual setup for Void Linux on WSL2.
+- [andyrids/windows-subsystem-for-linux-void](https://github.com/andyrids/windows-subsystem-for-linux-void) - Void Linux bootstrap script for WSL2.
 - [telavivmakers/geek_code](https://github.com/telavivmakers/geek_code) - geek code 5.x repo
 - [aktau/dotfiles](https://github.com/aktau/dotfiles) - my dotfiles, scavenged from around the web and other users
 - [nitzanwilnai/Cardwheel](https://github.com/nitzanwilnai/Cardwheel) - 
