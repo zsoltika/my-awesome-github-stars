@@ -278,7 +278,7 @@
 - [NanoNets/docstrange](https://github.com/NanoNets/docstrange) - Extract and convert data from any document, images, pdfs, word doc, ppt or URL into multiple formats (Markdown, JSON, CSV, HTML) with intelligent structured data extraction and advanced OCR.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [day50-dev/sidechat](https://github.com/day50-dev/sidechat) - TMUX based AI assistance
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource local-first sandboxes for ai agents
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource secure local-first sandboxes for ai agents
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
 - [enoch3712/ExtractThinker](https://github.com/enoch3712/ExtractThinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows.
 - [leodiegues/pinkmess](https://github.com/leodiegues/pinkmess) - A completely opinionated PKMS terminal manager with AI features for lazy people just like me.
@@ -947,7 +947,7 @@
 
 ## csharp 
 
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 76+ formats. Available for Rust, Python, Ruby, 
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 88+ formats. Available for Rust, Python, Ruby, 
 - [workspacer/workspacer](https://github.com/workspacer/workspacer) - a tiling window manager for Windows
 - [mxgmn/MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic language based on pattern matching and constraint propagation, 153 examples
 - [repeats/Repeat](https://github.com/repeats/Repeat) - Cross-platform mouse/keyboard record/replay and automation hotkeys/macros creation, and more advanced automation features.
@@ -1162,7 +1162,7 @@
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) - A GUI to quickly manage your WSL2 instances
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [mikeckennedy/talk-python-in-production-devops-book](https://github.com/mikeckennedy/talk-python-in-production-devops-book) - 
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource local-first sandboxes for ai agents
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource secure local-first sandboxes for ai agents
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
@@ -1250,7 +1250,7 @@
 
 ## elixir 
 
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 76+ formats. Available for Rust, Python, Ruby, 
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 88+ formats. Available for Rust, Python, Ruby, 
 - [elixir-explorer/explorer](https://github.com/elixir-explorer/explorer) - Series (one-dimensional) and dataframes (two-dimensional) for fast and elegant data exploration in Elixir
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School, the premier destination for people seeking to learn and master the Elixir programming language.
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
@@ -1570,7 +1570,7 @@
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [terminaltrove/lumon](https://github.com/terminaltrove/lumon) - The work is mysterious and important...
 - [eduardoagarcia/shef](https://github.com/eduardoagarcia/shef) - Shef is a powerful CLI framework for cooking up dynamic shell recipes.
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 76+ formats. Available for Rust, Python, Ruby, 
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 88+ formats. Available for Rust, Python, Ruby, 
 - [jlelse/GoBlog](https://github.com/jlelse/GoBlog) - Simple blogging system written in Go
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
@@ -1857,7 +1857,7 @@
 ## java 
 
 - [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 76+ formats. Available for Rust, Python, Ruby, 
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 88+ formats. Available for Rust, Python, Ruby, 
 - [mordechaim/Mosaic](https://github.com/mordechaim/Mosaic) - Play and solve Fill-A-Pix puzzles (called "Mosaic" here).
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [tlaplus/tlaplus](https://github.com/tlaplus/tlaplus) - TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.
@@ -2029,7 +2029,7 @@
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [thelinuxlighthouse/RHCSA](https://github.com/thelinuxlighthouse/RHCSA) - RHCSA Exam Preparation – Summaries & Study Notes
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource local-first sandboxes for ai agents
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource secure local-first sandboxes for ai agents
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool!
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [AlfredoSequeida/hints](https://github.com/AlfredoSequeida/hints) - Hints lets you navigate GUI applications in Linux without your mouse by displaying "hints" you can type on your keyboard to interact with GUI elements.
@@ -2182,7 +2182,7 @@
 
 - [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource local-first sandboxes for ai agents
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource secure local-first sandboxes for ai agents
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool!
 - [antoniorodr/memo](https://github.com/antoniorodr/memo) - Memo is a simple command-line interface (CLI) tool for managing your Apple Notes and Apple Reminders. It’s written in Python and aims to offer a fast, keyboard-driven way to create, search, and organi
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
@@ -2281,7 +2281,7 @@
 ## mcp 
 
 - [Cranot/roam-code](https://github.com/Cranot/roam-code) - Architectural intelligence layer for AI coding agents. Structural graph, architecture governance, multi-agent orchestration, vulnerability mapping. 139 commands, 101 MCP tools, 26 languages, 100% loca
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource local-first sandboxes for ai agents
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource secure local-first sandboxes for ai agents
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
 
@@ -2461,7 +2461,7 @@
 
 ## node 
 
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 76+ formats. Available for Rust, Python, Ruby, 
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 88+ formats. Available for Rust, Python, Ruby, 
 
 ## nodejs 
 
@@ -3617,7 +3617,7 @@
 
 ## php 
 
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 76+ formats. Available for Rust, Python, Ruby, 
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 88+ formats. Available for Rust, Python, Ruby, 
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [ernestwisniewski/kbin](https://github.com/ernestwisniewski/kbin) - A reddit-like content aggregator and micro-blogging platform for the fediverse.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -3784,7 +3784,7 @@
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [PaulleDemon/PyUIBuilder](https://github.com/PaulleDemon/PyUIBuilder) - Python GUI builder. GUI builder for Tkinter, CustomTkinter, Kivy(upcoming) and PySide
 - [wyattferguson/pattern](https://github.com/wyattferguson/pattern) - Pattern - A modern, opinionated, cookiecutter template for your next Python project.
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource local-first sandboxes for ai agents
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource secure local-first sandboxes for ai agents
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
 - [djetelina/pyCardDeck](https://github.com/djetelina/pyCardDeck) - Deck of cards with all the logic, so you don't have to!
 - [Pymetheus/The-Briscola-card-game](https://github.com/Pymetheus/The-Briscola-card-game) - Play a python implementation of the popular Italian trick-taking card game
@@ -3793,7 +3793,7 @@
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv) - A modern cookiecutter template for Python projects that use uv for dependency management
 - [enoch3712/ExtractThinker](https://github.com/enoch3712/ExtractThinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows.
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 76+ formats. Available for Rust, Python, Ruby, 
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 88+ formats. Available for Rust, Python, Ruby, 
 - [EnhancedJax/Bagels](https://github.com/EnhancedJax/Bagels) - Powerful expense tracker that lives in your terminal.
 - [ihabunek/toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
@@ -4046,7 +4046,7 @@
 
 ## rag 
 
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 76+ formats. Available for Rust, Python, Ruby, 
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 88+ formats. Available for Rust, Python, Ruby, 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
@@ -4106,7 +4106,7 @@
 - [andymeneely/squib](https://github.com/andymeneely/squib) - A Ruby DSL for prototyping card games.
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
 - [joeyates/imap-backup](https://github.com/joeyates/imap-backup) - Backup and Migrate IMAP Email Accounts
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 76+ formats. Available for Rust, Python, Ruby, 
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 88+ formats. Available for Rust, Python, Ruby, 
 - [standardrb/standard](https://github.com/standardrb/standard) - Ruby's bikeshed-proof linter and formatter 🚲
 - [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot) - A command line tool that draw plots on the terminal.
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
@@ -4139,7 +4139,7 @@
 - [bahdotsh/feedr](https://github.com/bahdotsh/feedr) - A feature-rich terminal-based RSS/Atom feed reader written in Rust.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource local-first sandboxes for ai agents
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource secure local-first sandboxes for ai agents
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool!
 - [linkdd/regname](https://github.com/linkdd/regname) - Mass renamer TUI written in Rust
 - [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
@@ -4147,7 +4147,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 76+ formats. Available for Rust, Python, Ruby, 
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 88+ formats. Available for Rust, Python, Ruby, 
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [sminez/ad](https://github.com/sminez/ad) - an adaptable text editor
@@ -4217,7 +4217,7 @@
 ## security 
 
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for optimal privacy and security. Your favorite browser, but better.
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource local-first sandboxes for ai agents
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource secure local-first sandboxes for ai agents
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters.
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
@@ -4246,7 +4246,7 @@
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource local-first sandboxes for ai agents
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource secure local-first sandboxes for ai agents
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
 - [Tiendil/feeds.fun](https://github.com/Tiendil/feeds.fun) - News reader with tags, scoring, and AI
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -4806,7 +4806,7 @@
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [FuPeiJiang/VD.ahk](https://github.com/FuPeiJiang/VD.ahk) - Windows Virtual Desktop, AutoHotkey, Windows 11 support, Windows Server 2022, switch desktop, move window(wintitle) to current desktop; createDesktop, PinWindow, getCount, getDesktopNumOfWindow -&gt; 
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource local-first sandboxes for ai agents
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource secure local-first sandboxes for ai agents
 - [timokroeger/kbremap](https://github.com/timokroeger/kbremap) - Custom keyboard layouts for windows.
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
