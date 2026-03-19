@@ -792,7 +792,7 @@
 
 - [jplag/JPlag](https://github.com/jplag/JPlag) - State-of-the-Art Source Code Plagiarism & Collusion Detection. Check for plagiarism in a set of programs.
 - [dheid/micropolis](https://github.com/dheid/micropolis) - Micropolis is the Open Source Release of the original SimCity source code. This is a Java version originally written by Jason Long and enhanced with modern features.
-- [petoncle/mousemaster](https://github.com/petoncle/mousemaster) - Efficiently control your mouse with keyboard inputs for a completely mouseless experience.
+- [petoncle/mousemaster](https://github.com/petoncle/mousemaster) - Mouseless mouse control and advanced keyboard customization.
 - [mordechaim/Mosaic](https://github.com/mordechaim/Mosaic) - Play and solve Fill-A-Pix puzzles (called "Mosaic" here).
 - [gunnarmorling/1brc](https://github.com/gunnarmorling/1brc) - 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
@@ -808,6 +808,7 @@
 
 ## JavaScript 
 
+- [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - A CLI tool that bridges Hugo static sites and the Nostr network. Publish your blog posts as kind:30023 long-form articles, sync posts back from relays, and manage deletions — all from one command.
 - [jvarn/dilbert-archive](https://github.com/jvarn/dilbert-archive) - ARIA accessible text transcripts of Dilbert comics from 1989 to 2023
 - [Xatpy/send-to-x4](https://github.com/Xatpy/send-to-x4) - A browser extension to send long-form articles from the web directly to your **Xteink X4** e-ink reader as clean EPUB files.
 - [DOSAYGO-STUDIO/HackerBook](https://github.com/DOSAYGO-STUDIO/HackerBook) - Hacker Book - COMMUNITY, ALL THE HN ARE BELONG TO YOU. An unkillable, static offline archive of all of Hacker News. Updated weekly.
@@ -1410,7 +1411,7 @@
 - [iamaziz/TermFeed](https://github.com/iamaziz/TermFeed) - A simple terminal feed reader.
 - [lemon24/reader](https://github.com/lemon24/reader) - A Python feed reader library.
 - [hotrod462/Mikey](https://github.com/hotrod462/Mikey) - Fully local ,no bot, native audio meeting note taker for Windows
-- [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv) - A modern cookiecutter template for Python projects that use uv for dependency management
+- [osprey-oss/cookiecutter-uv](https://github.com/osprey-oss/cookiecutter-uv) - A modern cookiecutter template for Python projects that use uv for dependency management
 - [enoch3712/ExtractThinker](https://github.com/enoch3712/ExtractThinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows.
 - [leodiegues/pinkmess](https://github.com/leodiegues/pinkmess) - A completely opinionated PKMS terminal manager with AI features for lazy people just like me.
 - [executablebooks/markdown-it-py](https://github.com/executablebooks/markdown-it-py) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. Now in Python!
@@ -1487,6 +1488,7 @@
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [simonw/simonwillisonblog](https://github.com/simonw/simonwillisonblog) - The source code behind my blog
 - [Serra-Technologies/serra](https://github.com/Serra-Technologies/serra) - Build elegant data pipelines
+- [Darkkal44/Cozytile](https://github.com/Darkkal44/Cozytile) - A Cozy rice ❃
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [rhettinger/modernpython](https://github.com/rhettinger/modernpython) - Sample code for the video course: Modern Python: Big Ideas, Little Code
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
