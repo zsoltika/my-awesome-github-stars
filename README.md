@@ -1488,6 +1488,7 @@
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [simonw/simonwillisonblog](https://github.com/simonw/simonwillisonblog) - The source code behind my blog
 - [Serra-Technologies/serra](https://github.com/Serra-Technologies/serra) - Build elegant data pipelines
+- [Darkkal44/Cozytile](https://github.com/Darkkal44/Cozytile) - A Cozy rice ❃
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [rhettinger/modernpython](https://github.com/rhettinger/modernpython) - Sample code for the video course: Modern Python: Big Ideas, Little Code
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
@@ -2150,6 +2151,7 @@
 
 ## TypeScript 
 
+- [superegodev/superego](https://github.com/superegodev/superego) - Software That Fits You
 - [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
