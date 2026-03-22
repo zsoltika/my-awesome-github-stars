@@ -2585,7 +2585,7 @@
 - [wesm/msgvault](https://github.com/wesm/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB
 - [plp13/qman](https://github.com/plp13/qman) - A more modern man page viewer for our terminals
 - [Livour/hugo-mana-theme](https://github.com/Livour/hugo-mana-theme) - Futuristic hugo theme featuring clean aesthetics, modern functionality and responsive design.
-- [echaya/neowiki.nvim](https://github.com/echaya/neowiki.nvim) - neowiki.nvim: modern vimwiki successor for instant notes & GTD 🚀📝
+- [echaya/neowiki.nvim](https://github.com/echaya/neowiki.nvim) - neowiki.nvim: full-featured minimalist Vimwiki successor for instant notes & GTD 🚀📝
 - [jvarn/dilbert-archive](https://github.com/jvarn/dilbert-archive) - ARIA accessible text transcripts of Dilbert comics from 1989 to 2023
 - [iKevinY/pneumatic](https://github.com/iKevinY/pneumatic) - Minimalistic, responsive Pelican theme.
 - [suheb/resume](https://github.com/suheb/resume) - A minimal pelican theme to host your resume
@@ -2820,6 +2820,7 @@
 - [munificent/hauberk](https://github.com/munificent/hauberk) - A web-based roguelike written in Dart.
 - [say4n/jf](https://github.com/say4n/jf) - flatten them json
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+- [amirkarimi/browser-hub](https://github.com/amirkarimi/browser-hub) - A Browser wrapper that allows you run multiple browser instances hassle-free
 - [larryboyko/dimityjones](https://github.com/larryboyko/dimityjones) - electronic escape novel requiring readers to solve puzzles before reading the next chapter
 - [rumca-js/Internet-Places-Database](https://github.com/rumca-js/Internet-Places-Database) - Database of Internet places. Mostly domains
 - [raylene/eng-handbook](https://github.com/raylene/eng-handbook) - A developer's guide to management: an open-sourced handbook for leading software engineering teams.
@@ -3804,7 +3805,6 @@
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
 - [benjie-git/CardStock](https://github.com/benjie-git/CardStock) - CardStock is a cross-platform tool for quickly and easily building programs. It provides a drawing-program-like editor for visually laying out your programs' parts, and a code editor for adding event-
 - [da-rth/yasb](https://github.com/da-rth/yasb) - A highly configurable cross-platform (Windows) status bar written in Python.
-- [amirkarimi/browser-hub](https://github.com/amirkarimi/browser-hub) - A Browser wrapper that allows you run multiple browser instances hassle-free
 - [target/make-python-devex](https://github.com/target/make-python-devex) - An example Python project using Make, Homebrew, pyenv, poetry, and other great tools
 - [booktype/Booktype](https://github.com/booktype/Booktype) - Booktype is a free, open source platform that produces beautiful, engaging books formatted for print, Amazon, iBooks and almost any ereader within minutes.
 - [iktakahiro/dddpy](https://github.com/iktakahiro/dddpy) - Python DDD & Onion Architecture Example and Techniques
@@ -4101,6 +4101,7 @@
 
 ## ruby 
 
+- [faker-ruby/faker](https://github.com/faker-ruby/faker) - A library for generating fake data such as names, addresses, and phone numbers.
 - [andymeneely/squib](https://github.com/andymeneely/squib) - A Ruby DSL for prototyping card games.
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
 - [joeyates/imap-backup](https://github.com/joeyates/imap-backup) - Backup and Migrate IMAP Email Accounts
