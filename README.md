@@ -501,7 +501,7 @@
 - [kuanyui/moe-theme.el](https://github.com/kuanyui/moe-theme.el) - A customizable colorful eye-candy theme for Emacser. Moe, moe, kyun!
 - [rdallasgray/graphene](https://github.com/rdallasgray/graphene) - A set of defaults for Emacs, for refugees from GUI text editors.
 - [pdee/pdee](https://github.com/pdee/pdee) - Python Development Emacs Environment
-- [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
+- [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 29.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
 - [kiwanami/emacs-calfw](https://github.com/kiwanami/emacs-calfw) - A calendar framework for Emacs
 
 ## Erlang 
@@ -1368,6 +1368,7 @@
 
 ## Python 
 
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [bramcohen/manyana](https://github.com/bramcohen/manyana) - 
 - [rhsev/matterbase](https://github.com/rhsev/matterbase) - A database-like TUI for querying frontmatter and YAML in Markdown notes with field filters, full-text search, and table view. For macOS and Linux.
 - [kragen/xcompose](https://github.com/kragen/xcompose) - for sharing .XCompose keybindings
