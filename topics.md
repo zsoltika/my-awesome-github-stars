@@ -2600,6 +2600,8 @@
 
 ## others 
 
+- [whoami-wiki/whoami](https://github.com/whoami-wiki/whoami) - your personal encyclopedia, written by agents
+- [unkyulee/micro-journal](https://github.com/unkyulee/micro-journal) - 
 - [bramcohen/manyana](https://github.com/bramcohen/manyana) - 
 - [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - A CLI tool that bridges Hugo static sites and the Nostr network. Publish your blog posts as kind:30023 long-form articles, sync posts back from relays, and manage deletions — all from one command.
 - [rhsev/matterbase](https://github.com/rhsev/matterbase) - A database-like TUI for querying frontmatter and YAML in Markdown notes with field filters, full-text search, and table view. For macOS and Linux.
@@ -3314,7 +3316,7 @@
 - [johanvts/emacs-fireplace](https://github.com/johanvts/emacs-fireplace) - A cozy fireplace for emacs.
 - [levlaz/braindump](https://github.com/levlaz/braindump) - BrainDump is a simple, powerful, and open note taking platform that makes it easy to organize your life.
 - [arbelh/HalfStyle](https://github.com/arbelh/HalfStyle) - Style Half of a Character by CSS
-- [DarthFennec/highlight-indent-guides](https://github.com/DarthFennec/highlight-indent-guides) - Emacs minor mode to highlight indentation
+- [bumblepup/highlight-indent-guides](https://github.com/bumblepup/highlight-indent-guides) - Emacs minor mode to highlight indentation
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [rsim/ruby-plsql](https://github.com/rsim/ruby-plsql) - ruby-plsql gem provides simple Ruby API for calling Oracle PL/SQL procedures. It could be used both for accessing Oracle PL/SQL API procedures in legacy applications as well as it could be used to cre
