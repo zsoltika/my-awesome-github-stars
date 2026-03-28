@@ -127,6 +127,7 @@
 
 ## C 
 
+- [unkyulee/micro-journal](https://github.com/unkyulee/micro-journal) - 
 - [plp13/qman](https://github.com/plp13/qman) - A more modern man page viewer for our terminals
 - [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Firmware for the Xteink X4 e-paper display reader
 - [RamonUnch/AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
@@ -471,7 +472,7 @@
 - [bmag/spacemacs-config](https://github.com/bmag/spacemacs-config) - Private configuration for spacemacs
 - [gcr/tumblesocks](https://github.com/gcr/tumblesocks) - An Emacs tumblr client for tumblr's v2 API.
 - [johanvts/emacs-fireplace](https://github.com/johanvts/emacs-fireplace) - A cozy fireplace for emacs.
-- [DarthFennec/highlight-indent-guides](https://github.com/DarthFennec/highlight-indent-guides) - Emacs minor mode to highlight indentation
+- [bumblepup/highlight-indent-guides](https://github.com/bumblepup/highlight-indent-guides) - Emacs minor mode to highlight indentation
 - [dash-docs-el/helm-dash](https://github.com/dash-docs-el/helm-dash) - Browse Dash docsets inside emacs
 - [redguardtoo/find-file-in-project](https://github.com/redguardtoo/find-file-in-project) - Quick access to project files in Emacs
 - [bmag/imenu-list](https://github.com/bmag/imenu-list) - Emacs plugin to show the current buffer's imenu entries in a separate buffer
@@ -2155,6 +2156,7 @@
 
 ## TypeScript 
 
+- [whoami-wiki/whoami](https://github.com/whoami-wiki/whoami) - your personal encyclopedia, written by agents
 - [superegodev/superego](https://github.com/superegodev/superego) - Software That Fits You
 - [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
