@@ -816,7 +816,6 @@
 - [abetusk/neatocal](https://github.com/abetusk/neatocal) - A single page printable calendar
 - [iwotastic/internetcards](https://github.com/iwotastic/internetcards) - Web-based Cards Against Humanity clone with cards made by my friends.
 - [gruvw/strudel.nvim](https://github.com/gruvw/strudel.nvim) - A Neovim based strudel.cc controller, live coding using Strudel from Neovim.
-- [telavivmakers/geek_code](https://github.com/telavivmakers/geek_code) - geek code 5.x repo
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for optimal privacy and security. Your favorite browser, but better.
 - [edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) - A curated list of awesome and exceptional board games. Please contribute!
 - [igravitystudios/matchimals.fun](https://github.com/igravitystudios/matchimals.fun) - 🦁 🃏 📱 An animal matching puzzle card game– built with turn-based game engine boardgame.io and React-Native + React-Native-Web
@@ -979,6 +978,7 @@
 
 ## Lua 
 
+- [kungfusheep/mfd.nvim](https://github.com/kungfusheep/mfd.nvim) - monochrome neovim themes
 - [echaya/neowiki.nvim](https://github.com/echaya/neowiki.nvim) - neowiki.nvim: full-featured minimalist Vimwiki successor for instant notes & GTD 🚀📝
 - [nvim-mini/mini.clue](https://github.com/nvim-mini/mini.clue) - Show next key clues. Part of 'mini.nvim' library.
 - [chipsenkbeil/org-roam.nvim](https://github.com/chipsenkbeil/org-roam.nvim) - Port of org-roam to neovim using orgmode
@@ -1386,6 +1386,7 @@
 - [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
 - [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter
 - [amigavision/AmigaVision](https://github.com/amigavision/AmigaVision) - The ultimate Amiga games & demo scene setup for MiSTer & Pocket FPGAs, emulators, and real hardware. Open source, community driven. This is an Amiga HDF image builder that uses WHDLoad and custom inst
+- [telavivmakers/geek_code](https://github.com/telavivmakers/geek_code) - geek code 5.x repo
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [kimusan/mastui](https://github.com/kimusan/mastui) - A TUI client for mastodon written in python
@@ -1878,6 +1879,7 @@
 
 ## Rust 
 
+- [nk9/okapi](https://github.com/nk9/okapi) - Find lines across files by regex and edit them all at once with your $EDITOR
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown memory system for you and your AI agent
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
 - [weedonandscott/trolley](https://github.com/weedonandscott/trolley) - Run terminal apps anywhere
