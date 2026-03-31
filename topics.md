@@ -2351,6 +2351,7 @@
 
 ## neovim 
 
+- [kungfusheep/mfd.nvim](https://github.com/kungfusheep/mfd.nvim) - monochrome neovim themes
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown memory system for you and your AI agent
 - [nvim-mini/mini.clue](https://github.com/nvim-mini/mini.clue) - Show next key clues. Part of 'mini.nvim' library.
 - [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) - 🤖 5500+ neovim plugins database with automatic installation! 🚀
@@ -2600,6 +2601,7 @@
 
 ## others 
 
+- [nk9/okapi](https://github.com/nk9/okapi) - Find lines across files by regex and edit them all at once with your $EDITOR
 - [whoami-wiki/whoami](https://github.com/whoami-wiki/whoami) - your personal encyclopedia, written by agents
 - [unkyulee/micro-journal](https://github.com/unkyulee/micro-journal) - 
 - [bramcohen/manyana](https://github.com/bramcohen/manyana) - 
