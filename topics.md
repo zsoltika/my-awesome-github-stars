@@ -2449,6 +2449,7 @@
 
 ## neovim-colorscheme 
 
+- [kungfusheep/mfd.nvim](https://github.com/kungfusheep/mfd.nvim) - monochrome neovim themes
 - [ramojus/mellifluous.nvim](https://github.com/ramojus/mellifluous.nvim) - Pleasant and productive colorscheme for Neovim
 
 ## nextjs 
@@ -2603,6 +2604,8 @@
 
 ## others 
 
+- [Alistair1231/Kittens-Game-automation-and-tools](https://github.com/Alistair1231/Kittens-Game-automation-and-tools) - kittens game bot
+- [jdcodes1/claude-sh](https://github.com/jdcodes1/claude-sh) - Claude Code rewritten as a bash script. ~1500 lines, zero npm packages. Just curl + jq.
 - [nk9/okapi](https://github.com/nk9/okapi) - Find lines across files by regex and edit them all at once with your $EDITOR
 - [whoami-wiki/whoami](https://github.com/whoami-wiki/whoami) - your personal encyclopedia, written by agents
 - [unkyulee/micro-journal](https://github.com/unkyulee/micro-journal) - 
