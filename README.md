@@ -1884,6 +1884,7 @@
 
 ## Rust 
 
+- [ciscoriordan/kindling](https://github.com/ciscoriordan/kindling) - Reverse-engineered Rust replacement for Amazon's kindlegen. 7,000x faster.
 - [mrkatebzadeh/darya](https://github.com/mrkatebzadeh/darya) - Disk usage explorer with a TUI and live treemap
 - [nk9/okapi](https://github.com/nk9/okapi) - Find lines across files by regex and edit them all at once with your $EDITOR
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown memory system for you and your AI agent
