@@ -2623,6 +2623,7 @@
 
 ## others 
 
+- [ciscoriordan/kindling](https://github.com/ciscoriordan/kindling) - Reverse-engineered Rust replacement for Amazon's kindlegen. 7,000x faster.
 - [mrkatebzadeh/darya](https://github.com/mrkatebzadeh/darya) - Disk usage explorer with a TUI and live treemap
 - [deejayy/indexical](https://github.com/deejayy/indexical) - Indexical - Private, local-first memory for everything you read on the web. Browser history is time-based. Bookmarks require effort. Notes require discipline. Indexical aligns with how people actually
 - [Alistair1231/Kittens-Game-automation-and-tools](https://github.com/Alistair1231/Kittens-Game-automation-and-tools) - kittens game bot
