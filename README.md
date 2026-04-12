@@ -227,7 +227,7 @@
 
 ## C++ 
 
-- [usetrmnl/trmnl-firmware](https://github.com/usetrmnl/trmnl-firmware) - TRMNL e-ink device firmware
+- [usetrmnl/trmnl-firmware](https://github.com/usetrmnl/trmnl-firmware) - TRMNL ePaper device firmware
 - [penk/X4Term](https://github.com/penk/X4Term) - Pocket VT100 terminal for Xteink X4
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
@@ -1476,7 +1476,7 @@
 - [yazdipour/OmnivoreQL](https://github.com/yazdipour/OmnivoreQL) - @Omnivore-app API client for Python
 - [atiumcache/pure-recipe](https://github.com/atiumcache/pure-recipe) - Input a recipe URL and receive well-formatted, ad-free recipes to your terminal, or save the output to a markdown file.
 - [tkellogg/fossil](https://github.com/tkellogg/fossil) - A mastodon client optimized for reading, with an AI-enabled algorithm for displaying posts
-- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018 and actively developed, maintained, and supported in 2024. Transforms tkinter, Qt, WxP
+- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018. NEW for 2026 - the LGPL3 Version 6.  Transforms tkinter, Qt, WxPython, and Remi into 
 - [joelibaceta/webcam-fixed-terminal](https://github.com/joelibaceta/webcam-fixed-terminal) - Multi terminal experience
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
 - [jackdoe/programming-for-kids](https://github.com/jackdoe/programming-for-kids) - book for parents and kids.
@@ -1911,7 +1911,7 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [erikjuhani/basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
 - [trane-project/trane](https://github.com/trane-project/trane) - An automated practice system for mastering complex skills
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool!
 - [linkdd/regname](https://github.com/linkdd/regname) - Mass renamer TUI written in Rust
