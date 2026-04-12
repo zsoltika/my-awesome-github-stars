@@ -239,6 +239,7 @@
 - [telegram](#telegram)
 - [terminal](#terminal)
 - [termux](#termux)
+- [termux-tool](#termux-tool)
 - [terraform](#terraform)
 - [testing](#testing)
 - [text-to-speech](#text-to-speech)
@@ -281,7 +282,7 @@
 - [NanoNets/docstrange](https://github.com/NanoNets/docstrange) - Extract and convert data from any document, images, pdfs, word doc, ppt or URL into multiple formats (Markdown, JSON, CSV, HTML) with intelligent structured data extraction and advanced OCR.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [day50-dev/sidechat](https://github.com/day50-dev/sidechat) - Share your TMUX screen with ai
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
 - [enoch3712/ExtractThinker](https://github.com/enoch3712/ExtractThinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows.
 - [leodiegues/pinkmess](https://github.com/leodiegues/pinkmess) - A completely opinionated PKMS terminal manager with AI features for lazy people just like me.
@@ -1176,7 +1177,7 @@
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) - A GUI to quickly manage your WSL2 instances
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [mikeckennedy/talk-python-in-production-devops-book](https://github.com/mikeckennedy/talk-python-in-production-devops-book) - 
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
@@ -1464,7 +1465,7 @@
 - [ricott1/rebels-in-the-sky](https://github.com/ricott1/rebels-in-the-sky) - P2P terminal game about spacepirates playing basketball across the galaxy
 - [rktjmp/playtime.nvim](https://github.com/rktjmp/playtime.nvim) - 🃏 At last! A way to play card games on your computer!
 - [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) - A plugin that can query multiple APIs for movies, series, anime, games, music and wiki articles, and import them into your vault.
-- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018 and actively developed, maintained, and supported in 2024. Transforms tkinter, Qt, WxP
+- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018. NEW for 2026 - the LGPL3 Version 6.  Transforms tkinter, Qt, WxPython, and Remi into 
 
 ## gaming 
 
@@ -1676,7 +1677,7 @@
 - [pyedifice/pyedifice](https://github.com/pyedifice/pyedifice) - Declarative GUI framework for Python and Qt
 - [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
-- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018 and actively developed, maintained, and supported in 2024. Transforms tkinter, Qt, WxP
+- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018. NEW for 2026 - the LGPL3 Version 6.  Transforms tkinter, Qt, WxPython, and Remi into 
 - [Jacalz/rymdport](https://github.com/Jacalz/rymdport) - Cross-platform application for easy encrypted file, folder, and text sharing between devices.
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [fresh2dev/AnyBox](https://github.com/fresh2dev/AnyBox) - The easiest way to develop apps for Windows.
@@ -2053,7 +2054,7 @@
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [thelinuxlighthouse/RHCSA](https://github.com/thelinuxlighthouse/RHCSA) - RHCSA Exam Preparation – Summaries & Study Notes
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool!
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [AlfredoSequeida/hints](https://github.com/AlfredoSequeida/hints) - Hints lets you navigate GUI applications in Linux without your mouse by displaying "hints" you can type on your keyboard to interact with GUI elements.
@@ -2207,7 +2208,7 @@
 
 - [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool!
 - [antoniorodr/memo](https://github.com/antoniorodr/memo) - Memo is a simple command-line interface (CLI) tool for managing your Apple Notes and Apple Reminders. It’s written in Python and aims to offer a fast, keyboard-driven way to create, search, and organi
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
@@ -2310,7 +2311,7 @@
 
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown memory system for you and your AI agent
 - [Cranot/roam-code](https://github.com/Cranot/roam-code) - Architectural intelligence layer for AI coding agents. Structural graph, architecture governance, multi-agent orchestration, vulnerability mapping. 139 commands, 101 MCP tools, 26 languages, 100% loca
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 
@@ -2500,7 +2501,7 @@
 ## nodejs 
 
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
@@ -2649,7 +2650,7 @@
 - [rhsev/grubber](https://github.com/rhsev/grubber) - Data retrieval for Markdown files. Think Dataview without Obsidian. Works on macOS and Linux.
 - [samkhawase/kindle-dash-client](https://github.com/samkhawase/kindle-dash-client) - Scripts that run on Kindle for the school dashboard project
 - [weedonandscott/trolley](https://github.com/weedonandscott/trolley) - Run terminal apps anywhere
-- [usetrmnl/trmnl-firmware](https://github.com/usetrmnl/trmnl-firmware) - TRMNL e-ink device firmware
+- [usetrmnl/trmnl-firmware](https://github.com/usetrmnl/trmnl-firmware) - TRMNL ePaper device firmware
 - [builtbybel/Winslopr](https://github.com/builtbybel/Winslopr) - Windows Slop Remover
 - [missing-semester/videos](https://github.com/missing-semester/videos) - Lecture video processing scripts 🎥
 - [i5heu/ublock-hide-yt-shorts](https://github.com/i5heu/ublock-hide-yt-shorts) - Maintained - uBlock Origin filter list to hide YouTube Shorts
@@ -3875,7 +3876,7 @@
 - [aerkalov/ebooklib](https://github.com/aerkalov/ebooklib) - A versatile Python library for EPUB2/EPUB3 manipulation and processing.
 - [yazdipour/OmnivoreQL](https://github.com/yazdipour/OmnivoreQL) - @Omnivore-app API client for Python
 - [aceinnolab/Inkycal](https://github.com/aceinnolab/Inkycal) - Create awesome e-paper dashboards within minutes! Modularity? Check! Python3? Check? Works on Raspberry Pi Zero W? Check! Support for own modules? Check!
-- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018 and actively developed, maintained, and supported in 2024. Transforms tkinter, Qt, WxP
+- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018. NEW for 2026 - the LGPL3 Version 6.  Transforms tkinter, Qt, WxPython, and Remi into 
 - [joelibaceta/webcam-fixed-terminal](https://github.com/joelibaceta/webcam-fixed-terminal) - Multi terminal experience
 - [gvwilson/sdxpy](https://github.com/gvwilson/sdxpy) - Software Design by Example: a tool-based introduction with Python
 - [techiescamp/python-for-devops](https://github.com/techiescamp/python-for-devops) - Python for DevOps repo with useful python scripts to learn and implement in your day-to-day devops automation tasks.
@@ -4079,7 +4080,7 @@
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [martinrotter/rssguard](https://github.com/martinrotter/rssguard) - Feed reader (podcast player, basic XMPP client and also Gemini protocol client) which supports RSS/ATOM/JSON and many web-based feed services.
 - [pyedifice/pyedifice](https://github.com/pyedifice/pyedifice) - Declarative GUI framework for Python and Qt
-- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018 and actively developed, maintained, and supported in 2024. Transforms tkinter, Qt, WxP
+- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018. NEW for 2026 - the LGPL3 Version 6.  Transforms tkinter, Qt, WxPython, and Remi into 
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [spyder-ide/spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
@@ -4197,7 +4198,7 @@
 - [bahdotsh/feedr](https://github.com/bahdotsh/feedr) - A feature-rich terminal-based RSS/Atom feed reader written in Rust.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool!
 - [linkdd/regname](https://github.com/linkdd/regname) - Mass renamer TUI written in Rust
 - [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
@@ -4275,7 +4276,7 @@
 ## security 
 
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for optimal privacy and security. Your favorite browser, but better.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters.
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
@@ -4303,7 +4304,7 @@
 - [puemos/craftplan](https://github.com/puemos/craftplan) - Self-hosted software for managing artisanal D2C micro-businesses
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
 - [Tiendil/feeds.fun](https://github.com/Tiendil/feeds.fun) - News reader with tags, scoring, and AI
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -4564,6 +4565,10 @@
 - [fabiospampinato/termux-env](https://github.com/fabiospampinato/termux-env) - My super-quick-to-setup Termux environment.
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 
+## termux-tool 
+
+- [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
+
 ## terraform 
 
 - [augur-ai/mantis](https://github.com/augur-ai/mantis) - Mantis is a unified infrastructure as code framework that replaces Terraform and Helm
@@ -4657,7 +4662,7 @@
 
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [mmazzarolo/breathly-app](https://github.com/mmazzarolo/breathly-app) - A tiny breath training app built with React-Native
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [klimeryk/dealwithit](https://github.com/klimeryk/dealwithit) - Fully client-side Deal With It GIF emoji generator.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
@@ -4860,7 +4865,7 @@
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [FuPeiJiang/VD.ahk](https://github.com/FuPeiJiang/VD.ahk) - Windows Virtual Desktop, AutoHotkey, Windows 11 support, Windows Server 2022, switch desktop, move window(wintitle) to current desktop; createDesktop, PinWindow, getCount, getDesktopNumOfWindow -&gt; 
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
 - [timokroeger/kbremap](https://github.com/timokroeger/kbremap) - Custom keyboard layouts for windows.
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
