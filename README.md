@@ -78,6 +78,7 @@
 - [TSQL](#tsql)
 - [Tcl](#tcl)
 - [TeX](#tex)
+- [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [Typst](#typst)
 - [V](#v)
@@ -1911,7 +1912,7 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [erikjuhani/basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local, cross-platform and programmable sandboxes for AI agents
 - [trane-project/trane](https://github.com/trane-project/trane) - An automated practice system for mastering complex skills
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool!
 - [linkdd/regname](https://github.com/linkdd/regname) - Mass renamer TUI written in Rust
@@ -2164,6 +2165,10 @@
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [fresh-standard/fresh-themes](https://github.com/fresh-standard/fresh-themes) - Multiformat themes and skins for your technical résumé/CV.
 - [dfeich/org-babel-examples](https://github.com/dfeich/org-babel-examples) - Examples using emacs org mode babel inline source code with different backend languages
+
+## Tree-sitter Query 
+
+- [romus204/tree-sitter-manager.nvim](https://github.com/romus204/tree-sitter-manager.nvim) - A lightweight Tree-sitter parser manager for Neovim.
 
 ## TypeScript 
 
