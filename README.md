@@ -579,7 +579,7 @@
 - [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters.
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [benhoyt/zztgo](https://github.com/benhoyt/zztgo) - Port of ZZT to Go (using a Pascal-to-Go converter)
-- [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
+- [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
 - [Jacalz/rymdport](https://github.com/Jacalz/rymdport) - Cross-platform application for easy encrypted file, folder, and text sharing between devices.
 - [psanford/wormhole-william](https://github.com/psanford/wormhole-william) - End-to-end encrypted file transfer. A magic wormhole CLI and API in Go (golang).
 - [rwx-research/captain](https://github.com/rwx-research/captain) - The Captain CLI can detect and quarantine flaky tests, automatically retry failed tests, partition files for parallel execution, produce markdown failure summaries, and more. It's compatible with most
@@ -2039,8 +2039,8 @@
 - [mikeckennedy/talk-python-in-production-devops-book](https://github.com/mikeckennedy/talk-python-in-production-devops-book) - 
 - [mroboff/omarchy-on-cachyos](https://github.com/mroboff/omarchy-on-cachyos) - Installation script for DHH's Omarchy on top of CachyOS. (Read the README.md before proceeding!)
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-- [day50-dev/sidechat](https://github.com/day50-dev/sidechat) - Share your TMUX screen with ai
-- [day50-dev/Streamdown](https://github.com/day50-dev/Streamdown) - Streaming Markdown renderer for tui clis
+- [day50-dev/tmux-ai-agent-helper](https://github.com/day50-dev/tmux-ai-agent-helper) - Share your TMUX screen with ai chat
+- [day50-dev/render-markdown-terminal](https://github.com/day50-dev/render-markdown-terminal) - Streaming Markdown renderer for tui clis
 - [2KAbhishek/tdo](https://github.com/2KAbhishek/tdo) - Fast & Simple Note Taking! 📃🚀
 - [Edu4rdSHL/fly-to-podman](https://github.com/Edu4rdSHL/fly-to-podman) - Migrate from Docker to Podman.
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
