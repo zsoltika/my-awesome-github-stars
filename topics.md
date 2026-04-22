@@ -4646,7 +4646,7 @@
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.6 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.7 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [acaloiaro/di-tui](https://github.com/acaloiaro/di-tui) - A simple terminal UI player for di.fm
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
