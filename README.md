@@ -1262,7 +1262,7 @@
 - [dhamaniasad/awesome-webcomics](https://github.com/dhamaniasad/awesome-webcomics) - A curated list of awesome webcomics
 - [PacktPublishing/Microsoft-Power-BI-Cookbook](https://github.com/PacktPublishing/Microsoft-Power-BI-Cookbook) - Microsoft Power BI Cookbook, published by Packt
 - [Apress/beg-dax-with-powerbi](https://github.com/Apress/beg-dax-with-powerbi) - Source code for 'Beginning DAX with PowerBI' by Philip Seamark
-- [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
+- [wagtail/awesome-wagtail](https://github.com/wagtail/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [zero-equals-false/awesome-programming-books](https://github.com/zero-equals-false/awesome-programming-books) - 📚 A curated list of awesome programming books (Algorithms and data structures, Artificial intelligence, Software Architecture, Human–computer interaction, Operating Systems, Database Systems, IT Secur
 - [mdibaiee/awesome-lite-websites](https://github.com/mdibaiee/awesome-lite-websites) - A list of awesome lightweight websites without all the bloat
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -1887,6 +1887,7 @@
 
 ## Rust 
 
+- [hansmrtn/pulp-os](https://github.com/hansmrtn/pulp-os) - a minimal e-ink os targeting the esp32c3 and xteink x4 e-reader
 - [ciscoriordan/kindling](https://github.com/ciscoriordan/kindling) - The missing Kindle toolkit. Dictionaries, books, comics. Single Rust binary, ~7,000x faster than kindlegen.
 - [mrkatebzadeh/darya](https://github.com/mrkatebzadeh/darya) - Disk usage explorer with a TUI and live treemap
 - [nk9/okapi](https://github.com/nk9/okapi) - Find lines across files by regex and edit them all at once with your $EDITOR
