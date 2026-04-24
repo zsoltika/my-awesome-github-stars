@@ -1475,7 +1475,7 @@
 
 ## git 
 
-- [j178/prek](https://github.com/j178/prek) - ⚡ A Git hook manager written in Rust, designed as a drop-in alternative to pre-commit.
+- [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim) - A tool for splitting diffs in Neovim
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [kahole/edamagit](https://github.com/kahole/edamagit) - Magit for VSCode
@@ -2724,7 +2724,7 @@
 - [BioRadOpenSource/ish](https://github.com/BioRadOpenSource/ish) - Alignment-based filtering CLI tool
 - [zlaval/hun-it-content](https://github.com/zlaval/hun-it-content) - Magyar IT tartalmak gyűjteménye
 - [happi/theBeamBook](https://github.com/happi/theBeamBook) - A description of the Erlang Runtime System ERTS and the virtual Machine BEAM.
-- [trane-project/trane](https://github.com/trane-project/trane) - An automated practice system for mastering complex skills
+- [trane-project/trane](https://github.com/trane-project/trane) - A deliberate practice engine for mastering complex skills
 - [open-spaced-repetition/py-fsrs](https://github.com/open-spaced-repetition/py-fsrs) - Python Package for FSRS Spaced Repetition
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [cofob/autogenlib](https://github.com/cofob/autogenlib) - Import wisdom, export code.
