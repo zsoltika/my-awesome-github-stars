@@ -2623,10 +2623,11 @@
 
 ## others 
 
+- [entangled/entangled](https://github.com/entangled/entangled) - bi-directional tangle daemon for literate programming
 - [hansmrtn/pulp-os](https://github.com/hansmrtn/pulp-os) - a minimal e-ink os targeting the esp32c3 and xteink x4 e-reader
 - [fadeltd/pdfunlock](https://github.com/fadeltd/pdfunlock) - Free open-source PDF password remover & unlocker. Instantly decrypt password-protected PDFs with this powerful CLI tool. Supports batch processing, cross-platform (Linux/macOS/Windows). Perfect altern
 - [romus204/tree-sitter-manager.nvim](https://github.com/romus204/tree-sitter-manager.nvim) - A lightweight Tree-sitter parser manager for Neovim.
-- [ciscoriordan/kindling](https://github.com/ciscoriordan/kindling) - The missing Kindle toolkit. Dictionaries, books, comics. Single Rust binary, ~7,000x faster than kindlegen.
+- [ciscoriordan/kindling](https://github.com/ciscoriordan/kindling) - The missing Kindle toolkit. Dictionaries, books, comics. Single Rust binary. ~7,000x faster than kindlegen for Modern Greek, ~40x faster for French.
 - [mrkatebzadeh/darya](https://github.com/mrkatebzadeh/darya) - Disk usage explorer with a TUI and live treemap
 - [deejayy/indexical](https://github.com/deejayy/indexical) - Indexical - Private, local-first memory for everything you read on the web. Browser history is time-based. Bookmarks require effort. Notes require discipline. Indexical aligns with how people actually
 - [Alistair1231/Kittens-Game-automation-and-tools](https://github.com/Alistair1231/Kittens-Game-automation-and-tools) - kittens game bot
