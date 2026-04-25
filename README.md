@@ -774,6 +774,7 @@
 
 ## Haskell 
 
+- [entangled/entangled](https://github.com/entangled/entangled) - bi-directional tangle daemon for literate programming
 - [apauley/hledger-flow](https://github.com/apauley/hledger-flow) - An hledger/ledger-cli workflow focusing on automated statement import and classification
 - [jgm/gitit](https://github.com/jgm/gitit) - A wiki using HAppS, pandoc, and git
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
@@ -1888,7 +1889,7 @@
 ## Rust 
 
 - [hansmrtn/pulp-os](https://github.com/hansmrtn/pulp-os) - a minimal e-ink os targeting the esp32c3 and xteink x4 e-reader
-- [ciscoriordan/kindling](https://github.com/ciscoriordan/kindling) - The missing Kindle toolkit. Dictionaries, books, comics. Single Rust binary, ~7,000x faster than kindlegen.
+- [ciscoriordan/kindling](https://github.com/ciscoriordan/kindling) - The missing Kindle toolkit. Dictionaries, books, comics. Single Rust binary. ~7,000x faster than kindlegen for Modern Greek, ~40x faster for French.
 - [mrkatebzadeh/darya](https://github.com/mrkatebzadeh/darya) - Disk usage explorer with a TUI and live treemap
 - [nk9/okapi](https://github.com/nk9/okapi) - Find lines across files by regex and edit them all at once with your $EDITOR
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown memory system for you and your AI agent
