@@ -381,6 +381,7 @@
 
 ## Dart 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) - A GUI to quickly manage your WSL2 instances
 - [xajik/thedeck](https://github.com/xajik/thedeck) - The Deck: An Open-Source, Cross-Platform, Mobile, Turn by Turn Card Game Engine in Flutter
 - [munificent/hauberk](https://github.com/munificent/hauberk) - A web-based roguelike written in Dart.
@@ -680,7 +681,6 @@
 
 ## HCL 
 
-- [thomast1906/DevOps-Journey-Using-Azure-DevOps](https://github.com/thomast1906/DevOps-Journey-Using-Azure-DevOps) - A DevOps journey using Azure DevOps (CI/CD, reporting, terraform, AKS)
 - [chadgeary/cloudblock](https://github.com/chadgeary/cloudblock) - Cloudblock deploys secure ad-blocking and VPN for all devices. Text and video guides included! 6 supported cloud providers, plus Ubuntu and Raspberry Pi. Cloudblock deploys Wireguard VPN, Pi-Hole DNS 
 - [codeaprendiz/learn-devops](https://github.com/codeaprendiz/learn-devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
 - [SadServers/sadservers](https://github.com/SadServers/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
@@ -1118,6 +1118,7 @@
 
 ## Nix 
 
+- [niri-wm/awesome-niri](https://github.com/niri-wm/awesome-niri) - An awesome list for niri related projects [Maintainer - @Vortriz]
 - [LGUG2Z/JeezyVim](https://github.com/LGUG2Z/JeezyVim) - A fast, reliable NeoVim configuration as a Nix Flake for people who want to use NeoVim as an editor and not as an IDE
 - [LGUG2Z/nixos-wsl-starter](https://github.com/LGUG2Z/nixos-wsl-starter) - A sane, batteries-included starter template for running NixOS on WSL
 - [Evertras/simple-homemanager](https://github.com/Evertras/simple-homemanager) - A practical guide to getting started with home manager with flakes and all that 2024 goodness.
@@ -1889,6 +1890,7 @@
 
 ## Rust 
 
+- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) 
 - [hansmrtn/pulp-os](https://github.com/hansmrtn/pulp-os) - a minimal e-ink os targeting the esp32c3 and xteink x4 e-reader
 - [ciscoriordan/kindling](https://github.com/ciscoriordan/kindling) - The missing Kindle toolkit. Dictionaries, books, comics. Single Rust binary. ~7,000x faster than kindlegen for Modern Greek, ~40x faster for French.
 - [mrkatebzadeh/darya](https://github.com/mrkatebzadeh/darya) - Disk usage explorer with a TUI and live treemap
@@ -2050,6 +2052,7 @@
 - [imapsync/imapsync](https://github.com/imapsync/imapsync) - Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two oth
 - [Cloud-Wala-Banda/Labs-Solutions](https://github.com/Cloud-Wala-Banda/Labs-Solutions) - This repository provides solutions for Google Cloud Labs, offering easy-to-understand approaches to solving problems. It is designed to help learners quickly grasp key concepts and apply practical sol
 - [rupertl/eliza-ctss](https://github.com/rupertl/eliza-ctss) - The original ELIZA on an emulated CTSS environment
+- [thomast1906/DevOps-Journey-Using-Azure-DevOps](https://github.com/thomast1906/DevOps-Journey-Using-Azure-DevOps) - A DevOps journey using Azure DevOps (CI/CD, reporting, terraform, AKS)
 - [rafo/aerc-vim](https://github.com/rafo/aerc-vim) - Vim-Like Keybindings for Aerc. Aerc is an exceptional terminal-based email client known for its efficiency and simplicity.
 - [meithecatte/bashfuck](https://github.com/meithecatte/bashfuck) - Write any bash with only the punctuation characters
 - [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
