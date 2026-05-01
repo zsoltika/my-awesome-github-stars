@@ -382,6 +382,7 @@
 
 ## Dart 
 
+- [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) - A GUI to quickly manage your WSL2 instances
 - [xajik/thedeck](https://github.com/xajik/thedeck) - The Deck: An Open-Source, Cross-Platform, Mobile, Turn by Turn Card Game Engine in Flutter
@@ -1891,6 +1892,7 @@
 
 ## Rust 
 
+- [raffomania/ties](https://github.com/raffomania/ties) - 🪢Federated website aggregator
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) 
 - [hansmrtn/pulp-os](https://github.com/hansmrtn/pulp-os) - a minimal e-ink os targeting the esp32c3 and xteink x4 e-reader
 - [ciscoriordan/kindling](https://github.com/ciscoriordan/kindling) - The missing Kindle toolkit. Dictionaries, books, comics. Single Rust binary. ~7,000x faster than kindlegen for Modern Greek, ~40x faster for French.
@@ -2180,6 +2182,7 @@
 
 ## TypeScript 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [shakogegia/xtlibre](https://github.com/shakogegia/xtlibre) - A self-hosted companion app for Xteink and CrossPoint e-readers.
 - [whoami-wiki/whoami](https://github.com/whoami-wiki/whoami) - your personal encyclopedia, written by agents
 - [superegodev/superego](https://github.com/superegodev/superego) - Software That Fits You
