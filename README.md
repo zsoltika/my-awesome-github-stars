@@ -130,6 +130,7 @@
 
 - [unkyulee/micro-journal](https://github.com/unkyulee/micro-journal) - 
 - [plp13/qman](https://github.com/plp13/qman) - A more modern man page viewer for our terminals
+- [usetrmnl/trmnl-firmware](https://github.com/usetrmnl/trmnl-firmware) - TRMNL ePaper device firmware
 - [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Firmware for the Xteink X4 e-paper display reader
 - [RamonUnch/AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
@@ -230,7 +231,6 @@
 ## C++ 
 
 - [skeeto/elfeed2](https://github.com/skeeto/elfeed2) - The Elfeed feed reader experience without Emacs
-- [usetrmnl/trmnl-firmware](https://github.com/usetrmnl/trmnl-firmware) - TRMNL ePaper device firmware
 - [penk/X4Term](https://github.com/penk/X4Term) - Pocket VT100 terminal for Xteink X4
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
