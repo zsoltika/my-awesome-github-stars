@@ -2660,6 +2660,7 @@
 
 ## others 
 
+- [yattsu/biscuit](https://github.com/yattsu/biscuit) - Firmware for the ESP32-C3 SoC Xteink X4 e-paper display reader
 - [robinrendle/robinrendle.com](https://github.com/robinrendle/robinrendle.com) - My personal website.
 - [raffomania/ties](https://github.com/raffomania/ties) - 🪢Federated website aggregator
 - [shakogegia/xtlibre](https://github.com/shakogegia/xtlibre) - A self-hosted companion app for Xteink and CrossPoint e-readers.
