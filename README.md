@@ -127,6 +127,7 @@
 
 ## C 
 
+- [yattsu/biscuit](https://github.com/yattsu/biscuit) - Firmware for the ESP32-C3 SoC Xteink X4 e-paper display reader
 - [unkyulee/micro-journal](https://github.com/unkyulee/micro-journal) - 
 - [plp13/qman](https://github.com/plp13/qman) - A more modern man page viewer for our terminals
 - [usetrmnl/trmnl-firmware](https://github.com/usetrmnl/trmnl-firmware) - TRMNL ePaper device firmware
