@@ -301,7 +301,6 @@
 - [caraya/epub-zen](https://github.com/caraya/epub-zen) - Epub Zen Garden Content
 - [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
 - [StefanSalewski/NimProgrammingBook](https://github.com/StefanSalewski/NimProgrammingBook) - Computer Programming with the Nim Programming Language -- A gentle Introduction
-- [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Personal theme for Obsidian
 - [addy-dclxvi/xfwm4-theme-collections](https://github.com/addy-dclxvi/xfwm4-theme-collections) - My Xfwm/Xfce Theme Collections
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
@@ -548,7 +547,7 @@
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers
 - [idursun/jjui](https://github.com/idursun/jjui) - jjui is a TUI designed for interacting with the Jujutsu version control system.
 - [thecsw/darkness](https://github.com/thecsw/darkness) - The noblest static site generator 🥬
-- [FyshOS/fynedesk](https://github.com/FyshOS/fynedesk) - A full desktop environment for Linux/Unix using Fyne
+- [FyshOS/tyde](https://github.com/FyshOS/tyde) - A full desktop environment for Linux/Unix using Fyne
 - [erans/hyprmon](https://github.com/erans/hyprmon) - TUI monitor configuration tool for Hyprland with visual layout, drag-and-drop, and profile management
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
@@ -733,6 +732,7 @@
 - [paulmartins/hugo-digital-garden-theme](https://github.com/paulmartins/hugo-digital-garden-theme) - Hugo Theme for digital gardening projects.
 - [rhettinger/rhettinger.github.io](https://github.com/rhettinger/rhettinger.github.io) - Public web pages from talks
 - [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
+- [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [lethain/systems](https://github.com/lethain/systems) - systems is a set of tools for describing, running and visualizing systems diagrams.
 - [cbeust/guess-card](https://github.com/cbeust/guess-card) - 
 - [preslavrachev/generative-art-in-go](https://github.com/preslavrachev/generative-art-in-go) - A companion source code repository to the book "Generative Art in Go"
@@ -985,6 +985,8 @@
 
 ## Lua 
 
+- [emmanueltouzery/apidocs.nvim](https://github.com/emmanueltouzery/apidocs.nvim) - neovim apidocs browser
+- [paradoxical-dev/zeal.nvim](https://github.com/paradoxical-dev/zeal.nvim) - Search and open zeal docsets without leaving neovim
 - [jaredkrinke/luasmith](https://github.com/jaredkrinke/luasmith) - Tiny (~450 KB) static site generator that's like Metalsmith in Lua
 - [kungfusheep/mfd.nvim](https://github.com/kungfusheep/mfd.nvim) - monochrome neovim themes
 - [echaya/neowiki.nvim](https://github.com/echaya/neowiki.nvim) - neowiki.nvim: full-featured minimalist Vimwiki successor for instant notes & GTD 🚀📝
