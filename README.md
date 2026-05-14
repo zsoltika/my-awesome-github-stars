@@ -604,7 +604,7 @@
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [smmr-software/mabel](https://github.com/smmr-software/mabel) - A fancy BitTorrent client for the terminal
 - [adamgordonbell/csvquote](https://github.com/adamgordonbell/csvquote) - 
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
@@ -1152,6 +1152,8 @@
 
 ## Others 
 
+- [jdrowne/awesome-devops-books](https://github.com/jdrowne/awesome-devops-books) - A list of DevOps books.
+- [DevOps-Projects-Ideas/DevOps-Books](https://github.com/DevOps-Projects-Ideas/DevOps-Books) - Curated DevOps Books
 - [jsifalda/obsidian-gemini-cli](https://github.com/jsifalda/obsidian-gemini-cli) - 
 - [simongray/clojure-dsl-resources](https://github.com/simongray/clojure-dsl-resources) - A curated list of Clojure resources for dealing with domain-specific languages.
 - [factbook/factbook.json](https://github.com/factbook/factbook.json) - World Factbook Country Profiles in JSON  - Free Open Public Domain Data - No API Key Required ;-)
@@ -1380,7 +1382,7 @@
 
 ## Python 
 
-- [roderiano/lua-spa](https://github.com/roderiano/lua-spa) - Backend-first SPA framework in Python.
+- [roderiano/moon-spa](https://github.com/roderiano/moon-spa) - Backend-first SPA framework in Python.
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast a
 - [ProtonVPN/proton-vpn-cli](https://github.com/ProtonVPN/proton-vpn-cli) - Official ProtonVPN CLI Linux app
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
