@@ -674,7 +674,6 @@
 - [yhat/scrape](https://github.com/yhat/scrape) - A simple, higher level interface for Go web scraping.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [rainycape/gondola](https://github.com/rainycape/gondola) - The web framework for writing faster sites, faster
-- [replicon/fast-archiver](https://github.com/replicon/fast-archiver) - Alternative archiving tool with fast performance for huge numbers of small files
 - [shurcooL/markdownfmt](https://github.com/shurcooL/markdownfmt) - Like gofmt, but for Markdown.
 - [laurent22/massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
 - [mindreframer/golang-stuff](https://github.com/mindreframer/golang-stuff) - interesting go libs
