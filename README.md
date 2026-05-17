@@ -1391,7 +1391,7 @@
 - [kragen/xcompose](https://github.com/kragen/xcompose) - for sharing .XCompose keybindings
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [mosra/m.css](https://github.com/mosra/m.css) - A no-nonsense, no-JavaScript CSS framework, site and documentation theme for content-oriented websites
-- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Architectural sight for AI coding agents. Free Apache-2.0 CLI plus paid PR bot (Roam Review), dashboard (Roam Cloud), and Self-Hosted. Local code graph, 28 languages, MCP server (137 tools).
+- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 238 commands, 224 MCP tools, change-safety gates, audit evidence, zero API keys.
 - [missing-semester/videos](https://github.com/missing-semester/videos) - Lecture video processing scripts 🎥
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
