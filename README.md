@@ -1427,7 +1427,7 @@
 - [rumca-js/Django-link-archive](https://github.com/rumca-js/Django-link-archive) - Self-hostable link database and RSS reader
 - [antoniorodr/memo](https://github.com/antoniorodr/memo) - Memo is a simple command-line interface (CLI) tool for managing your Apple Notes and Apple Reminders. It’s written in Python and aims to offer a fast, keyboard-driven way to create, search, and organi
 - [yihong0618/Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper) - Download all your kindle books script.
-- [Tiendil/feeds.fun](https://github.com/Tiendil/feeds.fun) - News reader with tags, scoring, and AI
+- [Tiendil/feeds.fun](https://github.com/Tiendil/feeds.fun) - News reader with tags, scoring, and LLM
 - [iamaziz/TermFeed](https://github.com/iamaziz/TermFeed) - A simple terminal feed reader.
 - [lemon24/reader](https://github.com/lemon24/reader) - A Python feed reader library.
 - [hotrod462/Mikey](https://github.com/hotrod462/Mikey) - Fully local ,no bot, native audio meeting note taker for Windows
