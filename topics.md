@@ -2695,7 +2695,8 @@
 
 ## others 
 
-- [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Your life in plain .md files
+- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
+- [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. A simple app for your .md files.
 - [JohnEarnest/Decker](https://github.com/JohnEarnest/Decker) - A multimedia sketchpad
 - [jdrowne/awesome-devops-books](https://github.com/jdrowne/awesome-devops-books) - A list of DevOps books.
 - [roderiano/moon-spa](https://github.com/roderiano/moon-spa) - Backend-first SPA framework in Python.
