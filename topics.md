@@ -2699,6 +2699,7 @@
 
 ## others 
 
+- [brandon-rhodes/python-patterns](https://github.com/brandon-rhodes/python-patterns) - Source code behind the python-patterns.guide site by Brandon Rhodes
 - [jspricke/radicale-remind](https://github.com/jspricke/radicale-remind) - Radicale storage backends for Remind and Abook
 - [hertelukas/synctui](https://github.com/hertelukas/synctui) - Configure Syncthing from the terminal
 - [kghose/lekha.nvim](https://github.com/kghose/lekha.nvim) - NeoVim plugin for writers using Markdown
@@ -3916,6 +3917,7 @@
 
 ## python 
 
+- [amaargiru/pyroad](https://github.com/amaargiru/pyroad) - Highly detailed Python developer roadmap
 - [standardebooks/tools](https://github.com/standardebooks/tools) - The Standard Ebooks toolset for producing our ebook files.
 - [palewire/first-python-notebook](https://github.com/palewire/first-python-notebook) - A step-by-step guide to analyzing data with Python and the Jupyter notebook.
 - [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) - Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
