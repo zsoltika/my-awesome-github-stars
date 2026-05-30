@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Ada](#ada)
 - [AppleScript](#applescript)
 - [Assembly](#assembly)
 - [AutoHotkey](#autohotkey)
@@ -89,6 +90,10 @@
 - [XSLT](#xslt)
 - [ZAP](#zap)
 - [Zig](#zig)
+
+## Ada 
+
+- [pyjarrett/septum](https://github.com/pyjarrett/septum) - Context-based code search tool
 
 ## AppleScript 
 
@@ -231,6 +236,7 @@
 
 ## C++ 
 
+- [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see strlen.com/treesheets)
 - [skeeto/elfeed2](https://github.com/skeeto/elfeed2) - The Elfeed feed reader experience without Emacs
 - [penk/X4Term](https://github.com/penk/X4Term) - Pocket VT100 terminal for Xteink X4
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
