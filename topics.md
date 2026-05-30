@@ -2699,6 +2699,8 @@
 
 ## others 
 
+- [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see strlen.com/treesheets)
+- [pyjarrett/septum](https://github.com/pyjarrett/septum) - Context-based code search tool
 - [bep/myhugofixer](https://github.com/bep/myhugofixer) - Mainly a "prompt generator" to instruct AI on how to upgrade a Hugo site to a modern version.
 - [brandon-rhodes/python-patterns](https://github.com/brandon-rhodes/python-patterns) - Source code behind the python-patterns.guide site by Brandon Rhodes
 - [jspricke/radicale-remind](https://github.com/jspricke/radicale-remind) - Radicale storage backends for Remind and Abook
