@@ -697,6 +697,8 @@
 
 ## HTML 
 
+- [maehr/academic-pandoc-template](https://github.com/maehr/academic-pandoc-template) - Write beautifully typeset academic texts with distraction-free Markdown and Quarto (Pandoc).
+- [StefanoCecere/markdown_pandoc_book_template](https://github.com/StefanoCecere/markdown_pandoc_book_template) - a template to create pdf/ePub/html/docx books by Markdown via Pandoc
 - [standardebooks/tools](https://github.com/standardebooks/tools) - The Standard Ebooks toolset for producing our ebook files.
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [iKevinY/pneumatic](https://github.com/iKevinY/pneumatic) - Minimalistic, responsive Pelican theme.
@@ -1097,6 +1099,7 @@
 
 ## Makefile 
 
+- [jp-fosterson/pandoc-novel](https://github.com/jp-fosterson/pandoc-novel) - Markdown text to a novel in ePub and PDF.
 - [palewire/first-python-notebook](https://github.com/palewire/first-python-notebook) - A step-by-step guide to analyzing data with Python and the Jupyter notebook.
 - [susam/mvs](https://github.com/susam/mvs) - A minimum viable Markov gibberish generator in 32 lines of Python, inspired by the legendary Mark V. Shaney program of 1980s
 - [target/make-python-devex](https://github.com/target/make-python-devex) - An example Python project using Make, Homebrew, pyenv, poetry, and other great tools
@@ -1911,6 +1914,7 @@
 
 ## Rust 
 
+- [BurntSushi/bttf](https://github.com/BurntSushi/bttf) - A command line tool for datetime arithmetic, parsing, formatting and more.
 - [hertelukas/synctui](https://github.com/hertelukas/synctui) - Configure Syncthing from the terminal
 - [sspaeti/second-brain-public](https://github.com/sspaeti/second-brain-public) - My Public Second Brain Framework and Style (Quartz V3-Hugo)
 - [raffomania/ties](https://github.com/raffomania/ties) - 🪢Federated website aggregator
