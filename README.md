@@ -38,6 +38,7 @@
 - [Janet](#janet)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jinja](#jinja)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
@@ -951,6 +952,10 @@
 - [mattb/flotsam](https://github.com/mattb/flotsam) - Slushpile for handy fragments of script that don't fit anywhere else
 - [maccman/bowline-twitter](https://github.com/maccman/bowline-twitter) - Bowline Twitter client
 
+## Jinja 
+
+- [den-is/ansible-collection-tools](https://github.com/den-is/ansible-collection-tools) - Minimalistic ansible collection to deploy 70+ common devops tools
+
 ## Julia 
 
 - [svaksha/pythonidae](https://github.com/svaksha/pythonidae) - Curated decibans of scientific programming resources in Python.
@@ -1396,6 +1401,8 @@
 
 ## Python 
 
+- [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
+- [0xfaust/NSA_COMP3321](https://github.com/0xfaust/NSA_COMP3321) - NSA's COMP3321 Python3 Training Course
 - [brandon-rhodes/python-patterns](https://github.com/brandon-rhodes/python-patterns) - Source code behind the python-patterns.guide site by Brandon Rhodes
 - [jspricke/radicale-remind](https://github.com/jspricke/radicale-remind) - Radicale storage backends for Remind and Abook
 - [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) - Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
@@ -2061,6 +2068,7 @@
 
 ## Shell 
 
+- [geerlingguy/ansible-for-devops-manuscript](https://github.com/geerlingguy/ansible-for-devops-manuscript) - Ansible for DevOps Manuscript
 - [jdcodes1/claude-sh](https://github.com/jdcodes1/claude-sh) - Claude Code rewritten as a bash script. ~1500 lines, zero npm packages. Just curl + jq.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [samkhawase/kindle-dash-client](https://github.com/samkhawase/kindle-dash-client) - Scripts that run on Kindle for the school dashboard project
