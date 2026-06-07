@@ -2229,7 +2229,7 @@
 - [2KAbhishek/nvim2k](https://github.com/2KAbhishek/nvim2k) - Your Personalized Dev Env ❤️👨‍💻
 - [samyeyo/LuaRT](https://github.com/samyeyo/LuaRT) - Open source Windows programming framework for Lua
 - [jakobkhansen/journal.nvim](https://github.com/jakobkhansen/journal.nvim) - 🖋️ Highly extensible journaling system for Neovim
-- [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40+ independent Lua modules improving Neovim experience with minimal effort
+- [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 45+ independent Lua modules improving Neovim experience with minimal effort
 - [PataphysicalSociety/soupault](https://github.com/PataphysicalSociety/soupault) - Static website generator based on HTML element tree rewriting
 - [chomosuke/term-edit.nvim](https://github.com/chomosuke/term-edit.nvim) - Vim Keybindings in Neovim's Built-in Terminal
 - [akkartik/teliva](https://github.com/akkartik/teliva) - Fork of Lua 5.1 to encourage end-user programming
@@ -2496,7 +2496,7 @@
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
 - [rktjmp/playtime.nvim](https://github.com/rktjmp/playtime.nvim) - 🃏 At last! A way to play card games on your computer!
 - [jakobkhansen/journal.nvim](https://github.com/jakobkhansen/journal.nvim) - 🖋️ Highly extensible journaling system for Neovim
-- [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40+ independent Lua modules improving Neovim experience with minimal effort
+- [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 45+ independent Lua modules improving Neovim experience with minimal effort
 - [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim
 - [plentiform/go-ide](https://github.com/plentiform/go-ide) - Neovim config for golang development
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -2625,7 +2625,6 @@
 - [Seniblue/Underwater](https://github.com/Seniblue/Underwater) - An obsidian.md theme
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [chrisgurney/obsidian-note-toolbar](https://github.com/chrisgurney/obsidian-note-toolbar) - Flexible, context-aware toolbars for your notes in Obsidian.
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
 - [mdfriday/obsidian-friday-plugin](https://github.com/mdfriday/obsidian-friday-plugin) - Write anywhere. Publish everywhere. Sync your notes, publish instantly, turn Markdown into websites.
 - [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) - A plugin that can query multiple APIs for movies, series, anime, games, music and wiki articles, and import them into your vault.
@@ -2773,7 +2772,7 @@
 - [samkhawase/kindle-dash-client](https://github.com/samkhawase/kindle-dash-client) - Scripts that run on Kindle for the school dashboard project
 - [weedonandscott/trolley](https://github.com/weedonandscott/trolley) - Run terminal apps anywhere
 - [usetrmnl/trmnl-firmware](https://github.com/usetrmnl/trmnl-firmware) - TRMNL ePaper device firmware
-- [builtbybel/Winslopr](https://github.com/builtbybel/Winslopr) - Windows Slop Remover
+- [builtbybel/FluentTweaker](https://github.com/builtbybel/FluentTweaker) - 
 - [missing-semester/videos](https://github.com/missing-semester/videos) - Lecture video processing scripts 🎥
 - [i5heu/ublock-hide-yt-shorts](https://github.com/i5heu/ublock-hide-yt-shorts) - Maintained - uBlock Origin filter list to hide YouTube Shorts
 - [Xatpy/send-to-x4](https://github.com/Xatpy/send-to-x4) - A browser extension to send long-form articles from the web directly to your **Xteink X4** e-ink reader as clean EPUB files.
