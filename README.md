@@ -539,6 +539,7 @@
 
 ## GDScript 
 
+- [marcopar/Onirica](https://github.com/marcopar/Onirica) - Onirica is an unofficial (and partial) implementation of the card game Onirim by Shadi Torbey.
 - [JHDev2006/Super-Mario-Bros.-Remastered-Public](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public) - A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!
 
 ## Go 
@@ -827,6 +828,7 @@
 
 ## JavaScript 
 
+- [gvwilson/notwrong](https://github.com/gvwilson/notwrong) - A short introduction to research methods for software engineers
 - [SoRobby/ObsidianStarterVault](https://github.com/SoRobby/ObsidianStarterVault) - Organize your Universe: An Obsidian starter vault for everyone, bridging the gap between ideas and actions
 - [deejayy/indexical](https://github.com/deejayy/indexical) - Indexical - Private, local-first memory for everything you read on the web. Browser history is time-based. Bookmarks require effort. Notes require discipline. Indexical aligns with how people actually
 - [Alistair1231/Kittens-Game-automation-and-tools](https://github.com/Alistair1231/Kittens-Game-automation-and-tools) - kittens game bot
@@ -1404,6 +1406,8 @@
 
 ## Python 
 
+- [dmulholl/ark](https://github.com/dmulholl/ark) - A static website generator for people who enjoy the simpler things in life.
+- [gvwilson/mccole](https://github.com/gvwilson/mccole) - McCole static site generator
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [0xfaust/NSA_COMP3321](https://github.com/0xfaust/NSA_COMP3321) - NSA's COMP3321 Python3 Training Course
@@ -1836,7 +1840,7 @@
 
 - [Axenide/Ambxst](https://github.com/Axenide/Ambxst) - An Axtremely customizable shell.
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
-- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
+- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop
 
 ## R 
 
