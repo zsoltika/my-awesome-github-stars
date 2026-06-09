@@ -278,7 +278,6 @@
 
 - [localgpt-app/localgpt](https://github.com/localgpt-app/localgpt) - Local AI assistant, dreaming explorable worlds.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## agents 
@@ -1270,7 +1269,7 @@
 
 ## dotfiles 
 
-- [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
+- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [raexera/yoru](https://github.com/raexera/yoru) - A custom Linux environment built on AwesomeWM
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
@@ -1433,6 +1432,7 @@
 
 ## font 
 
+- [arrowtype/shantell-sans](https://github.com/arrowtype/shantell-sans) - Shantell Sans, from Shantell Martin, is a marker-style font built for creative expression, typographic play, and animation.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [Born2Root/Fast-Font](https://github.com/Born2Root/Fast-Font) - This font provides faster reading through facilitating the reading process by guiding the eyes through text with artificial fixation points.
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
@@ -2120,7 +2120,7 @@
 - [DevOps-Projects-Ideas/DevOps-Books](https://github.com/DevOps-Projects-Ideas/DevOps-Books) - Curated DevOps Books
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) 
 - [ProtonVPN/proton-vpn-cli](https://github.com/ProtonVPN/proton-vpn-cli) - Official ProtonVPN CLI Linux app
-- [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
+- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
 - [raexera/yoru](https://github.com/raexera/yoru) - A custom Linux environment built on AwesomeWM
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop
@@ -2732,7 +2732,7 @@
 - [hertelukas/synctui](https://github.com/hertelukas/synctui) - Configure Syncthing from the terminal
 - [kghose/lekha.nvim](https://github.com/kghose/lekha.nvim) - NeoVim plugin for writers using Markdown
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
-- [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. Simple app for .md files.
+- [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. Simple app for .md files. LLM-friendly.
 - [JohnEarnest/Decker](https://github.com/JohnEarnest/Decker) - A multimedia sketchpad
 - [jdrowne/awesome-devops-books](https://github.com/jdrowne/awesome-devops-books) - A list of DevOps books.
 - [roderiano/moon-spa](https://github.com/roderiano/moon-spa) - Backend-first SPA framework in Python.
