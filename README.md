@@ -241,6 +241,7 @@
 - [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see strlen.com/treesheets)
 - [skeeto/elfeed2](https://github.com/skeeto/elfeed2) - The Elfeed feed reader experience without Emacs
 - [penk/X4Term](https://github.com/penk/X4Term) - Pocket VT100 terminal for Xteink X4
+- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [ericjenott/Evertop](https://github.com/ericjenott/Evertop) - E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life.
@@ -545,7 +546,7 @@
 ## Go 
 
 - [bep/myhugofixer](https://github.com/bep/myhugofixer) - Mainly a "prompt generator" to instruct AI on how to upgrade a Hugo site to a modern version.
-- [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. Simple app for .md files.
+- [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. Simple app for .md files. LLM-friendly.
 - [fadeltd/pdfunlock](https://github.com/fadeltd/pdfunlock) - Free open-source PDF password remover & unlocker. Instantly decrypt password-protected PDFs with this powerful CLI tool. Supports batch processing, cross-platform (Linux/macOS/Windows). Perfect altern
 - [quasilyte/roboden-game](https://github.com/quasilyte/roboden-game) - An indirect control real-time strategy game about robot colonies
 - [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB
@@ -700,6 +701,7 @@
 
 ## HTML 
 
+- [arrowtype/shantell-sans](https://github.com/arrowtype/shantell-sans) - Shantell Sans, from Shantell Martin, is a marker-style font built for creative expression, typographic play, and animation.
 - [maehr/academic-pandoc-template](https://github.com/maehr/academic-pandoc-template) - Write beautifully typeset academic texts with distraction-free Markdown and Quarto (Pandoc).
 - [StefanoCecere/markdown_pandoc_book_template](https://github.com/StefanoCecere/markdown_pandoc_book_template) - a template to create pdf/ePub/html/docx books by Markdown via Pandoc
 - [standardebooks/tools](https://github.com/standardebooks/tools) - The Standard Ebooks toolset for producing our ebook files.
@@ -1839,7 +1841,6 @@
 ## QML 
 
 - [Axenide/Ambxst](https://github.com/Axenide/Ambxst) - An Axtremely customizable shell.
-- [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop
 
 ## R 
