@@ -346,6 +346,7 @@
 
 ## Clojure 
 
+- [thi-ng/geom](https://github.com/thi-ng/geom) - 2D/3D geometry toolkit for Clojure/Clojurescript
 - [tonsky/datascript](https://github.com/tonsky/datascript) - Immutable database and Datalog query engine for Clojure, ClojureScript and JS
 - [babashka/babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting
 - [nextjournal/clerk](https://github.com/nextjournal/clerk) - ⚡️ Moldable Live Programming for Clojure
@@ -462,7 +463,7 @@
 - [jimeh/birds-of-paradise-plus-theme.el](https://github.com/jimeh/birds-of-paradise-plus-theme.el) - A Emacs port of Joseph Bergantine's light-on-dark theme by the same name.
 - [dakrone/eos](https://github.com/dakrone/eos) - Welcome to the Emacs of Things, aka the Emacs Operating System
 - [kiwanami/emacs-edbi](https://github.com/kiwanami/emacs-edbi) - Database Interface for Emacs Lisp
-- [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
+- [doomemacs/core](https://github.com/doomemacs/core) - An Emacs framework for the stubborn martian hacker
 - [ox-tufte/ox-tufte](https://github.com/ox-tufte/ox-tufte) - Emacs' Org-mode export backend for Tufte HTML
 - [Trevoke/sqlup-mode.el](https://github.com/Trevoke/sqlup-mode.el) - An emacs minor mode to upcase SQL keyword and functions
 - [sabof/project-explorer](https://github.com/sabof/project-explorer) - A project explorer sidebar
@@ -613,7 +614,7 @@
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [dlvhdr/roulette](https://github.com/dlvhdr/roulette) - :slot_machine: Making life decisions easier
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
-- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant for Zettelkasten or otherwise
+- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [smmr-software/mabel](https://github.com/smmr-software/mabel) - A fancy BitTorrent client for the terminal
@@ -969,7 +970,6 @@
 ## Jupyter Notebook 
 
 - [amaargiru/pyroad](https://github.com/amaargiru/pyroad) - Highly detailed Python developer roadmap
-- [datascale-ai/data_engineering_book](https://github.com/datascale-ai/data_engineering_book) - 大模型数据工程：架构、算法及项目实战
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [zellyn/genart](https://github.com/zellyn/genart) - Genart experiments
@@ -1428,6 +1428,7 @@
 - [Cranot/roam-code](https://github.com/Cranot/roam-code) - Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 238 commands, 224 MCP tools, change-safety gates, audit evidence, zero API keys.
 - [missing-semester/videos](https://github.com/missing-semester/videos) - Lecture video processing scripts 🎥
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
+- [datascale-ai/data_engineering_book](https://github.com/datascale-ai/data_engineering_book) - 大模型数据工程：架构、算法及项目实战
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 - [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Database-Backed Durable Python Workflows
 - [LalitMaganti/beancount-blog-examples](https://github.com/LalitMaganti/beancount-blog-examples) - 
@@ -1965,7 +1966,7 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [erikjuhani/basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local-first and microVM-backed programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
 - [trane-project/trane](https://github.com/trane-project/trane) - A deliberate practice engine for mastering complex skills
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool!
 - [linkdd/regname](https://github.com/linkdd/regname) - Mass renamer TUI written in Rust
