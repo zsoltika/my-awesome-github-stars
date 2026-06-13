@@ -346,6 +346,7 @@
 
 ## Clojure 
 
+- [tonsky/clj-simple-stats](https://github.com/tonsky/clj-simple-stats) - Simple statistics for Clojure/Ring webapps
 - [thi-ng/geom](https://github.com/thi-ng/geom) - 2D/3D geometry toolkit for Clojure/Clojurescript
 - [tonsky/datascript](https://github.com/tonsky/datascript) - Immutable database and Datalog query engine for Clojure, ClojureScript and JS
 - [babashka/babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting
@@ -860,7 +861,7 @@
 - [sylumer/automators](https://github.com/sylumer/automators) - Obsidian Vault for Automators Podcast
 - [welpo/tabi](https://github.com/welpo/tabi) - An accessible Zola theme with search, multi-language support, optional JavaScript, a perfect Lighthouse score, and comprehensive documentation. Crafted for personal websites and blogs.
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
-- [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
+- [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - MOVED to jsonresume/jsonresume.org (packages/cli) — npm 'resume-cli' unchanged, revived for Node 18+
 - [doublespeakgames/adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
 - [Continuities/adarkroom](https://github.com/Continuities/adarkroom) - A Dark Room - A Minimalist Text Adventure
 - [soufianesakhi/firefox-search-engines-helper](https://github.com/soufianesakhi/firefox-search-engines-helper) - Export, import and add custom firefox search engines
@@ -1009,6 +1010,7 @@
 
 ## Lua 
 
+- [mcncl/alabaster.nvim](https://github.com/mcncl/alabaster.nvim) - A port of the much loved Alabaster theme, for Neovim.
 - [kghose/lekha.nvim](https://github.com/kghose/lekha.nvim) - NeoVim plugin for writers using Markdown
 - [emmanueltouzery/apidocs.nvim](https://github.com/emmanueltouzery/apidocs.nvim) - neovim apidocs browser
 - [paradoxical-dev/zeal.nvim](https://github.com/paradoxical-dev/zeal.nvim) - Search and open zeal docsets without leaving neovim
@@ -1421,7 +1423,7 @@
 - [ProtonVPN/proton-vpn-cli](https://github.com/ProtonVPN/proton-vpn-cli) - Official ProtonVPN CLI Linux app
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [bramcohen/manyana](https://github.com/bramcohen/manyana) - 
-- [rhsev/matterbase](https://github.com/rhsev/matterbase) - A database-like TUI for querying frontmatter and YAML in Markdown notes with field filters, full-text search, and table view. For macOS and Linux.
+- [rhsev/matterbase](https://github.com/rhsev/matterbase) - A database-like table view on frontmatter and YAML records in Markdown notes. Build a query command for the shell (field filters and SQL). For macOS and Linux.
 - [kragen/xcompose](https://github.com/kragen/xcompose) - for sharing .XCompose keybindings
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [mosra/m.css](https://github.com/mosra/m.css) - A no-nonsense, no-JavaScript CSS framework, site and documentation theme for content-oriented websites
@@ -1589,7 +1591,7 @@
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [synchronizing/bluelink](https://github.com/synchronizing/bluelink) - 🚙 Control your Hyundai car via Python.
-- [mljar/mercury](https://github.com/mljar/mercury) - Create data rich web apps directly from Python notebooks
+- [mljar/mercury](https://github.com/mljar/mercury) - The fastest way to turn a Jupyter notebook into a beautiful, shareable web app — no callbacks, no frontend, no rewrite.
 - [JakobGlock/Generative-Art](https://github.com/JakobGlock/Generative-Art) - A selection of generative art scripts written in Python
 - [VagishVela/wtpython](https://github.com/VagishVela/wtpython) - Automatically find solutions when your Python code encounters an issue.
 - [tarioch/beancounttools](https://github.com/tarioch/beancounttools) - Beancount Tools
@@ -1966,7 +1968,7 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [erikjuhani/basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs runtime for running untrusted workloads
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs for running untrusted workloads
 - [trane-project/trane](https://github.com/trane-project/trane) - A deliberate practice engine for mastering complex skills
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool!
 - [linkdd/regname](https://github.com/linkdd/regname) - Mass renamer TUI written in Rust
