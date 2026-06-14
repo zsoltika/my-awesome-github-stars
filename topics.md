@@ -2719,6 +2719,7 @@
 
 ## others 
 
+- [cauenapier/TownSquare](https://github.com/cauenapier/TownSquare) - 
 - [mcncl/alabaster.nvim](https://github.com/mcncl/alabaster.nvim) - A port of the much loved Alabaster theme, for Neovim.
 - [marcopar/Onirica](https://github.com/marcopar/Onirica) - Onirica is an unofficial (and partial) implementation of the card game Onirim by Shadi Torbey.
 - [dmulholl/ark](https://github.com/dmulholl/ark) - A static website generator for people who enjoy the simpler things in life.
