@@ -832,6 +832,7 @@
 
 ## JavaScript 
 
+- [cauenapier/TownSquare](https://github.com/cauenapier/TownSquare) - 
 - [gvwilson/notwrong](https://github.com/gvwilson/notwrong) - A short introduction to research methods for software engineers
 - [SoRobby/ObsidianStarterVault](https://github.com/SoRobby/ObsidianStarterVault) - Organize your Universe: An Obsidian starter vault for everyone, bridging the gap between ideas and actions
 - [deejayy/indexical](https://github.com/deejayy/indexical) - Indexical - Private, local-first memory for everything you read on the web. Browser history is time-based. Bookmarks require effort. Notes require discipline. Indexical aligns with how people actually
