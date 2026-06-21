@@ -1971,7 +1971,7 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [erikjuhani/basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs for running untrusted workloads
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
 - [trane-project/trane](https://github.com/trane-project/trane) - A deliberate practice engine for mastering complex skills
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool!
 - [linkdd/regname](https://github.com/linkdd/regname) - Mass renamer TUI written in Rust
@@ -2284,7 +2284,7 @@
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [agrmohit/omnivore-epub](https://github.com/agrmohit/omnivore-epub) - A program to generate epub file from articles saved in your Omnivore library and optionally send it to your eReader using email
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save. Share. Privately.
+- [linsa-io/linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - [andymatuschak/note-link-janitor](https://github.com/andymatuschak/note-link-janitor) - Maintains backlink structure among interlinked Markdown notes
 - [kkuchta/tabdb](https://github.com/kkuchta/tabdb) - Using browser tabs as a database like only a maniac would
