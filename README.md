@@ -547,6 +547,7 @@
 
 ## Go 
 
+- [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out
 - [eugenioenko/ttt](https://github.com/eugenioenko/ttt) - TTT Editor - Terminal Text Tool: a terminal text editor IDE. A real alternative to VS Code, Zed, and Sublime that runs in your terminal. Single binary, zero config.
 - [bep/myhugofixer](https://github.com/bep/myhugofixer) - Mainly a "prompt generator" to instruct AI on how to upgrade a Hugo site to a modern version.
 - [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. Simple app for .md files. LLM-friendly.
