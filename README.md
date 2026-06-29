@@ -139,7 +139,7 @@
 - [unkyulee/micro-journal](https://github.com/unkyulee/micro-journal) - 
 - [plp13/qman](https://github.com/plp13/qman) - A more modern man page viewer for our terminals
 - [usetrmnl/trmnl-firmware](https://github.com/usetrmnl/trmnl-firmware) - TRMNL ePaper device firmware
-- [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Firmware for the Xteink X3 and X4 e-paper display readers
+- [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Firmware for the Xteink X3 and X4 e-readers
 - [RamonUnch/AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
