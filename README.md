@@ -1559,7 +1559,7 @@
 - [1j01/textual-paint](https://github.com/1j01/textual-paint) - :art: MS Paint in your terminal.
 - [All-About-Berlin/ursus](https://github.com/All-About-Berlin/ursus) - Static site generator for All About Berlin
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 - [dora-team/fourkeys](https://github.com/dora-team/fourkeys) - Platform for monitoring the four key software delivery metrics of software delivery
 - [papajohn/composing-programs-published](https://github.com/papajohn/composing-programs-published) - Published version of composing programs textbook
 - [spyder-ide/spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
