@@ -780,7 +780,6 @@
 - [HugoBlox/kit](https://github.com/HugoBlox/kit) - 🧱 Describe your site, AI builds it, you own it as Markdown. Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs & more. No AI slop. Free to deploy anywhere 👇
 - [kristopolous/BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) - A vintage 1980s DOS inspired Twitter Bootstrap theme
 - [edwardtufte/et-book](https://github.com/edwardtufte/et-book) - A webfont of the typeface used in Edward Tufte’s books.
-- [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [jcdarwin/epubzengarden](https://github.com/jcdarwin/epubzengarden) - My version of http://epubzengarden.com
 - [metaperl/asciidoc-el](https://github.com/metaperl/asciidoc-el) - Emacs support for writing Asciidoc
@@ -831,6 +830,7 @@
 - [na-ka-na/ExcelCompare](https://github.com/na-ka-na/ExcelCompare) - Command line tool (and API) for diffing Excel Workbooks
 - [icesphere/star-realms-simulator](https://github.com/icesphere/star-realms-simulator) - Star Realms Simulator
 - [dbfit/dbfit](https://github.com/dbfit/dbfit) - DbFit is a database testing framework that supports easy test-driven development of your database code.
+- [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool
 - [P1kachu/ProgrammingLearning](https://github.com/P1kachu/ProgrammingLearning) - Learning new programming languages, the easy way.
 
 ## JavaScript 
