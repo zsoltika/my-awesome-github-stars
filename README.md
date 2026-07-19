@@ -442,7 +442,7 @@
 - [masasam/emacs-easy-hugo](https://github.com/masasam/emacs-easy-hugo) - Emacs major mode for managing hugo
 - [tsdye/tufte-org-mode](https://github.com/tsdye/tufte-org-mode) - An Org mode environment for producing Tufte-LaTeX books and handouts
 - [rememberYou/.emacs.d](https://github.com/rememberYou/.emacs.d) - 🎉 Personal GNU Emacs configuration
-- [mooseyboots/mastodon.el](https://github.com/mooseyboots/mastodon.el) - Emacs client for Mastodon. moved to:
+- [martianhi/mastodon.el](https://github.com/martianhi/mastodon.el) - Emacs client for Mastodon. moved to:
 - [ksonney/spacemacs-mastodon](https://github.com/ksonney/spacemacs-mastodon) - Mastodon.social layer for Spacemacs
 - [Fuco1/dired-hacks](https://github.com/Fuco1/dired-hacks) - Collection of useful dired additions
 - [Chobbes/org-chef](https://github.com/Chobbes/org-chef) - A package for making a cookbook and managing recipes with org-mode.
@@ -1426,7 +1426,6 @@
 - [ProtonVPN/proton-vpn-cli](https://github.com/ProtonVPN/proton-vpn-cli) - Official ProtonVPN CLI Linux app
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [bramcohen/manyana](https://github.com/bramcohen/manyana) - 
-- [rhsev/matterbase](https://github.com/rhsev/matterbase) - A database-like table view on frontmatter and YAML records in Markdown notes. Build a query command for the shell (field filters and SQL). For macOS and Linux.
 - [kragen/xcompose](https://github.com/kragen/xcompose) - for sharing .XCompose keybindings
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [mosra/m.css](https://github.com/mosra/m.css) - A no-nonsense, no-JavaScript CSS framework, site and documentation theme for content-oriented websites
@@ -2241,7 +2240,7 @@
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
-- [igravitystudios/matchimals.fun](https://github.com/igravitystudios/matchimals.fun) - 🦁 🃏 📱 An animal matching puzzle card game– built with turn-based game engine boardgame.io and React-Native + React-Native-Web
+- [chrisheninger/matchimals.fun](https://github.com/chrisheninger/matchimals.fun) - 🦁 🃏 📱 An animal matching puzzle card game– built with turn-based game engine boardgame.io and React-Native + React-Native-Web
 - [oatear/cider](https://github.com/oatear/cider) - Card IDE (CIDEr) - Design game cards using HTML/Handlebars, CSS, and tabular data
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
