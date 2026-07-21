@@ -550,7 +550,7 @@
 - [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out
 - [eugenioenko/ttt](https://github.com/eugenioenko/ttt) - TTT Editor - Terminal Text Tool: a terminal text editor IDE. A real alternative to VS Code, Zed, and Sublime that runs in your terminal. Single binary, zero config.
 - [bep/myhugofixer](https://github.com/bep/myhugofixer) - Mainly a "prompt generator" to instruct AI on how to upgrade a Hugo site to a modern version.
-- [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. Simple app for .md files. AI-friendly.
+- [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. Simple app for .md files.
 - [fadeltd/pdfunlock](https://github.com/fadeltd/pdfunlock) - Free open-source PDF password remover & unlocker. Instantly decrypt password-protected PDFs with this powerful CLI tool. Supports batch processing, cross-platform (Linux/macOS/Windows). Perfect altern
 - [quasilyte/roboden-game](https://github.com/quasilyte/roboden-game) - An indirect control real-time strategy game about robot colonies
 - [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB
@@ -1413,6 +1413,7 @@
 
 ## Python 
 
+- [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
 - [dmulholl/ark](https://github.com/dmulholl/ark) - A static website generator for people who enjoy the simpler things in life.
 - [gvwilson/mccole](https://github.com/gvwilson/mccole) - McCole static site generator
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
@@ -1557,7 +1558,6 @@
 - [1j01/textual-paint](https://github.com/1j01/textual-paint) - :art: MS Paint in your terminal.
 - [All-About-Berlin/ursus](https://github.com/All-About-Berlin/ursus) - Static site generator for All About Berlin
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
-- [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 - [dora-team/fourkeys](https://github.com/dora-team/fourkeys) - Platform for monitoring the four key software delivery metrics of software delivery
 - [papajohn/composing-programs-published](https://github.com/papajohn/composing-programs-published) - Published version of composing programs textbook
@@ -2289,6 +2289,7 @@
 - [linsa-io/linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - [andymatuschak/note-link-janitor](https://github.com/andymatuschak/note-link-janitor) - Maintains backlink structure among interlinked Markdown notes
+- [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [kkuchta/tabdb](https://github.com/kkuchta/tabdb) - Using browser tabs as a database like only a maniac would
 - [zsviczian/excalibrain](https://github.com/zsviczian/excalibrain) - A graph view to navigate your Obsidian vault
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
