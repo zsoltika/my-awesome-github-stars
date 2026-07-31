@@ -2755,6 +2755,7 @@
 
 ## others 
 
+- [emacsmirror/hyperbole](https://github.com/emacsmirror/hyperbole) - GNU Hyperbole: The Everyday Hypertextual Information Manager
 - [hwayne/autohotkey-scripts](https://github.com/hwayne/autohotkey-scripts) - Some of my AutoHotKey scripts
 - [jpirnay/witchhunt-reader](https://github.com/jpirnay/witchhunt-reader) - Witch(hunt) Reader
 - [jaswsunny/youtube-to-text](https://github.com/jaswsunny/youtube-to-text) - Convert any YouTube URL to a clean Markdown transcript with chapters and takeaways.
