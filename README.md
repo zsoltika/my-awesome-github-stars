@@ -1226,7 +1226,7 @@
 - [groepl/Obsidian-Zettelkasten-Starter-Kit](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit) - A Starter Kit for Obsidian with all essential elements to build up your own Zettelkasten system.
 - [joelparkerhenderson/causal-analysis-based-on-system-theory](https://github.com/joelparkerhenderson/causal-analysis-based-on-system-theory) - Causal Analysis based on System Theory (CAST)
 - [kepano/40-questions](https://github.com/kepano/40-questions) - Questions that I ask myself at the end of each year and each decade.
-- [obsidian-community/web-clipper-templates](https://github.com/obsidian-community/web-clipper-templates) - Community collection of templates for the official Obsidian web clipper.
+- [community-archive/web-clipper-templates](https://github.com/community-archive/web-clipper-templates) - Community collection of templates for the official Obsidian web clipper.
 - [SilverAzide/Gadgets](https://github.com/SilverAzide/Gadgets) - Gadgets for Rainmeter
 - [Legend0804/Theme-Kanagawa](https://github.com/Legend0804/Theme-Kanagawa) - 
 - [hundredrabbits/awesome-uxn](https://github.com/hundredrabbits/awesome-uxn) - Awesome things from the community
@@ -1945,6 +1945,7 @@
 
 ## Rust 
 
+- [fazalmajid/rTemboz](https://github.com/fazalmajid/rTemboz) - RSS feed reader, successor to Temboz
 - [reekta92/clin-rs](https://github.com/reekta92/clin-rs) - Feature-packed TUI note management app inspired by Obsidian
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
 - [BurntSushi/bttf](https://github.com/BurntSushi/bttf) - A command line tool for datetime arithmetic, parsing, formatting and more.
@@ -1993,7 +1994,7 @@
 - [timokroeger/kbremap](https://github.com/timokroeger/kbremap) - Custom keyboard layouts for windows.
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 98+ formats. Available for Rust, Python
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 101 formats (115 file extensions) plus code intelligence for 306 code languages. 1
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
