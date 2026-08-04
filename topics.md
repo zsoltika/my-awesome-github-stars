@@ -1233,6 +1233,7 @@
 
 ## docker 
 
+- [goodwithtech/dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) - A GUI to quickly manage your WSL2 instances
@@ -1597,6 +1598,7 @@
 
 ## go 
 
+- [goodwithtech/dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [eugenioenko/ttt](https://github.com/eugenioenko/ttt) - TTT Editor - Terminal Text Tool: a terminal text editor IDE. A real alternative to VS Code, Zed, and Sublime that runs in your terminal. Single binary, zero config.
 - [quasilyte/roboden-game](https://github.com/quasilyte/roboden-game) - An indirect control real-time strategy game about robot colonies
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
@@ -1656,6 +1658,7 @@
 
 ## golang 
 
+- [goodwithtech/dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [eugenioenko/ttt](https://github.com/eugenioenko/ttt) - TTT Editor - Terminal Text Tool: a terminal text editor IDE. A real alternative to VS Code, Zed, and Sublime that runs in your terminal. Single binary, zero config.
 - [quasilyte/roboden-game](https://github.com/quasilyte/roboden-game) - An indirect control real-time strategy game about robot colonies
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
@@ -1749,7 +1752,7 @@
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) - A GUI to quickly manage your WSL2 instances
 - [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.
 - [FyshOS/tyde](https://github.com/FyshOS/tyde) - A full desktop environment for Linux/Unix using Fyne
-- [PaulleDemon/PyUIBuilder](https://github.com/PaulleDemon/PyUIBuilder) - Python GUI builder. GUI builder for Tkinter, CustomTkinter, Kivy(upcoming) and PySide
+- [PaulleDemon/PyUIBuilder](https://github.com/PaulleDemon/PyUIBuilder) - Python GUI builder. GUI builder for Tkinter, CustomTkinter, Kivy(upcoming) and PySide [Project is being updated in private repo]
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [IndieSmiths/nodezator](https://github.com/IndieSmiths/nodezator) - A generalist Python node editor
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
@@ -2069,6 +2072,7 @@
 
 ## kubernetes 
 
+- [goodwithtech/dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [DevOps-Projects-Ideas/DevOps-Books](https://github.com/DevOps-Projects-Ideas/DevOps-Books) - Curated DevOps Books
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
@@ -4013,7 +4017,7 @@
 - [mikeckennedy/talk-python-in-production-devops-book](https://github.com/mikeckennedy/talk-python-in-production-devops-book) - 
 - [kimusan/mastui](https://github.com/kimusan/mastui) - A TUI client for mastodon written in python
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-- [PaulleDemon/PyUIBuilder](https://github.com/PaulleDemon/PyUIBuilder) - Python GUI builder. GUI builder for Tkinter, CustomTkinter, Kivy(upcoming) and PySide
+- [PaulleDemon/PyUIBuilder](https://github.com/PaulleDemon/PyUIBuilder) - Python GUI builder. GUI builder for Tkinter, CustomTkinter, Kivy(upcoming) and PySide [Project is being updated in private repo]
 - [wyattferguson/pattern](https://github.com/wyattferguson/pattern) - Pattern - A modern, opinionated, cookiecutter template for your next Python project.
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
@@ -4452,6 +4456,7 @@
 
 ## security 
 
+- [goodwithtech/dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for optimal privacy and security. Your favorite browser, but better.
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -4471,6 +4476,7 @@
 
 ## security-tools 
 
+- [goodwithtech/dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [ashishb/amazing-sandbox](https://github.com/ashishb/amazing-sandbox) - Amazing Sandbox  - run third-party tools and AI agents securely on your machine
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [trimstray/htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
