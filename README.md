@@ -683,7 +683,7 @@
 - [kashav/fsql](https://github.com/kashav/fsql) - Search for files using a fun query language
 - [goby-lang/goby](https://github.com/goby-lang/goby) - Goby - Yet another programming language written in Go
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
-- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection -  9CognyciQwKpcXqoiPx8nu7hU1JL8Tu2oZdKKS8Ppump
 - [curiouslychase/_goorgeous](https://github.com/curiouslychase/_goorgeous) - [DEPRECATED] A go org syntax parser to html
 - [eliukblau/pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
@@ -2249,7 +2249,7 @@
 - [superegodev/superego](https://github.com/superegodev/superego) - Software That Fits You
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
+- [winboat-org/winboat](https://github.com/winboat-org/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [chrisheninger/matchimals.fun](https://github.com/chrisheninger/matchimals.fun) - 🦁 🃏 📱 An animal matching puzzle card game– built with turn-based game engine boardgame.io and React-Native + React-Native-Web
 - [oatear/cider](https://github.com/oatear/cider) - Card IDE (CIDEr) - Design game cards using HTML/Handlebars, CSS, and tabular data
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
