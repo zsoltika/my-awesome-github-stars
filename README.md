@@ -1025,7 +1025,7 @@
 - [kghose/lekha.nvim](https://github.com/kghose/lekha.nvim) - NeoVim plugin for writers using Markdown
 - [emmanueltouzery/apidocs.nvim](https://github.com/emmanueltouzery/apidocs.nvim) - neovim apidocs browser
 - [paradoxical-dev/zeal.nvim](https://github.com/paradoxical-dev/zeal.nvim) - Search and open zeal docsets without leaving neovim
-- [jaredkrinke/luasmith](https://github.com/jaredkrinke/luasmith) - Tiny (~450 KB) static site generator that's like Metalsmith in Lua
+- [jaredkrinke/luasmith](https://github.com/jaredkrinke/luasmith) - Tiny (~500 KB) static site generator that's like Metalsmith in Lua
 - [kungfusheep/mfd.nvim](https://github.com/kungfusheep/mfd.nvim) - monochrome neovim themes
 - [echaya/neowiki.nvim](https://github.com/echaya/neowiki.nvim) - neowiki.nvim: full-featured minimalist Vimwiki successor for instant notes & GTD 🚀📝
 - [nvim-mini/mini.clue](https://github.com/nvim-mini/mini.clue) - Show next key clues. Part of 'mini.nvim' library.
@@ -1415,7 +1415,7 @@
 - [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel) - PowerShell module to import/export Excel spreadsheets, without Excel
 - [kelleyma49/PSFzf](https://github.com/kelleyma49/PSFzf) - A PowerShell wrapper around the fuzzy finder fzf
 - [ForNeVeR/ExtDiff](https://github.com/ForNeVeR/ExtDiff) - Compare documents using MS Word from the command line.
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows 10 & Windows 11 on GitHub
 - [dfinke/PSharp](https://github.com/dfinke/PSharp) - Productivity tool that makes PowerShell ISE better
 
 ## Python 
