@@ -297,7 +297,6 @@
 ## CSS 
 
 - [jackyzha0/sunlit](https://github.com/jackyzha0/sunlit) - a pure css implementation of some sunlight streaming in through the window
-- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [Livour/hugo-mana-theme](https://github.com/Livour/hugo-mana-theme) - Futuristic hugo theme featuring clean aesthetics, modern functionality and responsive design.
 - [suheb/resume](https://github.com/suheb/resume) - A minimal pelican theme to host your resume
 - [alexandrevicenzi/Flex](https://github.com/alexandrevicenzi/Flex) - The minimalist Pelican theme.
@@ -1428,6 +1427,7 @@
 - [0xfaust/NSA_COMP3321](https://github.com/0xfaust/NSA_COMP3321) - NSA's COMP3321 Python3 Training Course
 - [brandon-rhodes/python-patterns](https://github.com/brandon-rhodes/python-patterns) - Source code behind the python-patterns.guide site by Brandon Rhodes
 - [jspricke/radicale-remind](https://github.com/jspricke/radicale-remind) - Radicale storage backends for Remind and Abook
+- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) - Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
 - [roderiano/moon-spa](https://github.com/roderiano/moon-spa) - Backend-first SPA framework in Python.
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast a
