@@ -1123,6 +1123,7 @@
 - [jp-fosterson/pandoc-novel](https://github.com/jp-fosterson/pandoc-novel) - Markdown text to a novel in ePub and PDF.
 - [palewire/first-python-notebook](https://github.com/palewire/first-python-notebook) - A step-by-step guide to analyzing data with Python and the Jupyter notebook.
 - [susam/mvs](https://github.com/susam/mvs) - A minimum viable Markov gibberish generator in 32 lines of Python, inspired by the legendary Mark V. Shaney program of 1980s
+- [rumca-js/RSS-Link-Database](https://github.com/rumca-js/RSS-Link-Database) - Bookmarked archived links
 - [target/make-python-devex](https://github.com/target/make-python-devex) - An example Python project using Make, Homebrew, pyenv, poetry, and other great tools
 - [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
 - [colindean/plaintextaccounting_workshop](https://github.com/colindean/plaintextaccounting_workshop) - An Introduction and Then Some to Plain Text Accounting with Ledger
@@ -1213,7 +1214,6 @@
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 - [zlaval/hun-it-content](https://github.com/zlaval/hun-it-content) - Magyar IT tartalmak gyűjteménye
 - [open-spaced-repetition/free-spaced-repetition-scheduler](https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler) - A spaced repetition algorithm based on DSR model
-- [rumca-js/RSS-Link-Database](https://github.com/rumca-js/RSS-Link-Database) - Bookmarked archived links
 - [nvim-neorg/awesome-neorg](https://github.com/nvim-neorg/awesome-neorg) - A collection of awesome Neorg notes, software and resources
 - [fpatrick/podman-quadlet](https://github.com/fpatrick/podman-quadlet) - Personal Podman Quadlet configurations for self-hosted services in a homelab environment
 - [terminaltrove/lumon](https://github.com/terminaltrove/lumon) - The work is mysterious and important...
