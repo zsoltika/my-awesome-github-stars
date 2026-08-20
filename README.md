@@ -845,7 +845,6 @@
 - [SoRobby/ObsidianStarterVault](https://github.com/SoRobby/ObsidianStarterVault) - Organize your Universe: An Obsidian starter vault for everyone, bridging the gap between ideas and actions
 - [deejayy/indexical](https://github.com/deejayy/indexical) - Indexical - Private, local-first memory for everything you read on the web. Browser history is time-based. Bookmarks require effort. Notes require discipline. Indexical aligns with how people actually
 - [Alistair1231/Kittens-Game-automation-and-tools](https://github.com/Alistair1231/Kittens-Game-automation-and-tools) - kittens game bot
-- [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - A CLI tool that bridges Hugo static sites and the Nostr network. Publish your blog posts as kind:30023 long-form articles, sync posts back from relays, and manage deletions — all from one command.
 - [jvarn/dilbert-archive](https://github.com/jvarn/dilbert-archive) - ARIA accessible text transcripts of Dilbert comics from 1989 to 2023
 - [Xatpy/send-to-x4](https://github.com/Xatpy/send-to-x4) - A browser extension to send long-form articles from the web directly to your **Xteink X4** e-ink reader as clean EPUB files.
 - [DOSAYGO-STUDIO/HackerBook](https://github.com/DOSAYGO-STUDIO/HackerBook) - Hacker Book - COMMUNITY, ALL THE HN ARE BELONG TO YOU. An unkillable, static offline archive of all of Hacker News. Updated weekly.
@@ -1405,7 +1404,7 @@
 - [2KAbhishek/win2k](https://github.com/2KAbhishek/win2k) - Ultimate Dev Setup for Windows 🪟🪄
 - [SjoerdV/ConvertOneNote2MarkDown](https://github.com/SjoerdV/ConvertOneNote2MarkDown) - Ready to make the step to Markdown and saying farewell to your OneNote, EverNote or whatever proprietary note taking tool you are using? Nothing beats clear text, right? Read on!
 - [fresh2dev/AnyBox](https://github.com/fresh2dev/AnyBox) - The easiest way to develop apps for Windows.
-- [vexx32/PSKoans](https://github.com/vexx32/PSKoans) - A simple, fun, and interactive way to learn the PowerShell language through Pester unit testing.
+- [PowerShellOrg/PSKoans](https://github.com/PowerShellOrg/PSKoans) - A simple, fun, and interactive way to learn the PowerShell language through Pester unit testing.
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - This repository has been moved to https://codeberg.org/janikvonrotz/awesome-powershell. Please visit the new location for the latest updates.
 - [mkellerman/PSTelegramAPI](https://github.com/mkellerman/PSTelegramAPI) - 
 - [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
@@ -2249,6 +2248,7 @@
 - [shakogegia/xtlibre](https://github.com/shakogegia/xtlibre) - A self-hosted companion app for Xteink and CrossPoint e-readers.
 - [whoami-wiki/whoami](https://github.com/whoami-wiki/whoami) - your personal encyclopedia, written by agents
 - [superegodev/superego](https://github.com/superegodev/superego) - Software That Fits You
+- [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - A CLI tool that bridges Hugo static sites and the Nostr network. Publish your blog posts as kind:30023 long-form articles, sync posts back from relays, and manage deletions — all from one command.
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [winboat-org/winboat](https://github.com/winboat-org/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
