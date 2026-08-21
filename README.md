@@ -883,6 +883,7 @@
 - [fenglisch/bulk-upload-board-games-into-bgg-collection](https://github.com/fenglisch/bulk-upload-board-games-into-bgg-collection) - 
 - [nubank/morse](https://github.com/nubank/morse) - A graphical, interactive tool for browsing Clojure data
 - [Jieiku/abridge](https://github.com/Jieiku/abridge) - Fast & Lightweight Zola Theme
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [badlogic/heissepreise](https://github.com/badlogic/heissepreise) - Jo eh.
 - [kaushikgopal/henry-hugo](https://github.com/kaushikgopal/henry-hugo) - Henry: Hugo theme meant for a gorgeous reading experience and packed with features
 - [ckolderup/postmarks](https://github.com/ckolderup/postmarks) - a single-user bookmarking website designed to live on the Fediverse
@@ -1459,7 +1460,7 @@
 - [kingddd3/DigitCode_Solver](https://github.com/kingddd3/DigitCode_Solver) - 
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
-- [day50-dev/render-markdown-terminal](https://github.com/day50-dev/render-markdown-terminal) - Streaming Markdown renderer for tui clis
+- [day50-dev/render-markdown-terminal](https://github.com/day50-dev/render-markdown-terminal) - Render markdown in the terminal streaming
 - [wyattferguson/pattern](https://github.com/wyattferguson/pattern) - Pattern - A modern, opinionated, cookiecutter template for your next Python project.
 - [simonw/sqlite-chronicle](https://github.com/simonw/sqlite-chronicle) - Use triggers to track when rows in a SQLite table were updated or deleted
 - [dogsheep/github-to-sqlite](https://github.com/dogsheep/github-to-sqlite) - Save data from GitHub to a SQLite database
@@ -2297,7 +2298,6 @@
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [agrmohit/omnivore-epub](https://github.com/agrmohit/omnivore-epub) - A program to generate epub file from articles saved in your Omnivore library and optionally send it to your eReader using email
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [linsa-io/linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - [andymatuschak/note-link-janitor](https://github.com/andymatuschak/note-link-janitor) - Maintains backlink structure among interlinked Markdown notes
