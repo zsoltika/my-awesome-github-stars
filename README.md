@@ -216,6 +216,7 @@
 
 ## C# # 
 
+- [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
 - [builtbybel/FluentTweaker](https://github.com/builtbybel/FluentTweaker) - 
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [shanselman/WindowsEdgeLight](https://github.com/shanselman/WindowsEdgeLight) - A lightweight WPF application that adds a customizable glowing edge light effect around your primary monitor
@@ -554,6 +555,8 @@
 
 ## Go 
 
+- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Ad-blocker and privacy guard for Windows, macOS and Linux.
+- [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out
@@ -909,7 +912,7 @@
 - [alenros/fake-artist](https://github.com/alenros/fake-artist) - A player aid for A Fake Artist Goes to New York that eliminates the need for a Question master and lets everyone participate.
 - [movsim/traffic-simulation-de](https://github.com/movsim/traffic-simulation-de) - Source code for javascript simulation of website
 - [ywalia01/dune-api](https://github.com/ywalia01/dune-api) - A simple API which provides you with book, character, movie and quotes JSON data
-- [kgrgreer/foam3](https://github.com/kgrgreer/foam3) - FOAM: Feature-Oriented Active Modeller, Version 3 (unstable)
+- [foam-foundation/foam3](https://github.com/foam-foundation/foam3) - FOAM: Feature-Oriented Active Modeller, Version 3 (unstable)
 - [kulcsarrudolf/podcast](https://github.com/kulcsarrudolf/podcast) - List with podcasts related to software development.
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
 - [tatatap-com/sowhat](https://github.com/tatatap-com/sowhat) - 
@@ -1419,6 +1422,8 @@
 
 ## Python 
 
+- [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
+- [BruceEckel/ThinkingInPython](https://github.com/BruceEckel/ThinkingInPython) - Insights, Idioms and Patterns
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [jonashonecker/feedpaper](https://github.com/jonashonecker/feedpaper) - 
 - [jaswsunny/youtube-to-text](https://github.com/jaswsunny/youtube-to-text) - Convert any YouTube URL to a clean Markdown transcript with chapters and takeaways.
