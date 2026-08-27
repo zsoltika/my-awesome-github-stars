@@ -555,6 +555,7 @@
 
 ## Go 
 
+- [brvier/Gjallar](https://github.com/brvier/Gjallar) - Gjallar is a modern monitoring and observability platform inspired by Gjallarhorn, the legendary horn of Heimdall in Norse mythology.  Built for reliability and speed, Gjallar continuously watches you
 - [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Ad-blocker and privacy guard for Windows, macOS and Linux.
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
@@ -800,6 +801,7 @@
 - [propublica/upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS! (Or do more.)
 - [coolwanglu/pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [diveintomark/diveintopython3](https://github.com/diveintomark/diveintopython3) - [Mirror] Dive Into Python 3 online book
+- [buriy/python-readability](https://github.com/buriy/python-readability) - fast python port of arc90's readability tool, updated to match latest readability.js!
 
 ## Handlebars 
 
@@ -1193,6 +1195,7 @@
 
 ## Others 
 
+- [discover-devops/Git_Commands](https://github.com/discover-devops/Git_Commands) - 
 - [naveensilver/Ansible](https://github.com/naveensilver/Ansible) - My Ansible Notes (Beginner to Advanced) : Repository to learn Ansible from Zero. This repository covers the complete Ansible fundamentals along with examples required for a DevOps Engineer.
 - [kevindumitru/devops](https://github.com/kevindumitru/devops) - devops
 - [futo-org/futo-keyboard-layouts](https://github.com/futo-org/futo-keyboard-layouts) - Layouts for FUTO Keyboard
@@ -1422,6 +1425,7 @@
 
 ## Python 
 
+- [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish) - Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [BruceEckel/ThinkingInPython](https://github.com/BruceEckel/ThinkingInPython) - Insights, Idioms and Patterns
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
@@ -1848,7 +1852,6 @@
 - [novoid/Memacs](https://github.com/novoid/Memacs) - What did I do on February 14th 2007? Visualize your (digital) life in Org-mode
 - [Graendal/Wikipedia-Philosophy](https://github.com/Graendal/Wikipedia-Philosophy) - Graphing Wikipedia chains according to xkcd/903
 - [SublimeCodeIntel/SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) - 💡 Full-featured code intelligence and smart autocomplete for Sublime Text
-- [buriy/python-readability](https://github.com/buriy/python-readability) - fast python port of arc90's readability tool, updated to match latest readability.js!
 - [jinglemansweep/Kindled](https://github.com/jinglemansweep/Kindled) - Kindle Calibre Delivery Framework
 - [eudicots/Cactus](https://github.com/eudicots/Cactus) - Static site generator for designers. Uses Python and Django templates.
 - [pafcu/vimsplain](https://github.com/pafcu/vimsplain) - Explain Vim command sequences
@@ -2124,7 +2127,7 @@
 - [day50-dev/tmux-ai-agent-helper](https://github.com/day50-dev/tmux-ai-agent-helper) - Share your TMUX screen with ai chat
 - [2KAbhishek/tdo](https://github.com/2KAbhishek/tdo) - Fast & Simple Note Taking! 📃🚀
 - [Edu4rdSHL/fly-to-podman](https://github.com/Edu4rdSHL/fly-to-podman) - Migrate from Docker to Podman.
-- [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
+- [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 9.XX Support and macOS High Sierra ~ macOS Tahoe Support.
 - [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android
 - [imapsync/imapsync](https://github.com/imapsync/imapsync) - Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two oth
 - [Cloud-Wala-Banda/Labs-Solutions](https://github.com/Cloud-Wala-Banda/Labs-Solutions) - This repository provides solutions for Google Cloud Labs, offering easy-to-understand approaches to solving problems. It is designed to help learners quickly grasp key concepts and apply practical sol
