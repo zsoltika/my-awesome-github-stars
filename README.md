@@ -1984,7 +1984,7 @@
 - [OlaProeis/Ferrite](https://github.com/OlaProeis/Ferrite) - A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees
 - [LGUG2Z/notado-cli](https://github.com/LGUG2Z/notado-cli) - A CLI for interacting with https://notado.app
-- [hanebox/ekphos](https://github.com/hanebox/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
+- [nostacks/ekphos](https://github.com/nostacks/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
 - [eudoxia0/hashcards](https://github.com/eudoxia0/hashcards) - A plain text-based spaced repetition system.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -2119,7 +2119,7 @@
 - [ReturnInfinity/BareMetal-Cloud](https://github.com/ReturnInfinity/BareMetal-Cloud) - BareMetal for the private/public cloud
 - [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
 - [pablogsal/slowlify](https://github.com/pablogsal/slowlify) - Simulate slow, resource-constrained machines to reproduce CI failures and hunt flaky tests
-- [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
+- [omacom/omakub](https://github.com/omacom/omakub) - Opinionated Ubuntu Setup
 - [attogram/bash-screensavers](https://github.com/attogram/bash-screensavers) - Turn your idle shell into a visual playground with this collection of Bash screensav­ers
 - [mikeckennedy/talk-python-in-production-devops-book](https://github.com/mikeckennedy/talk-python-in-production-devops-book) - 
 - [mroboff/omarchy-on-cachyos](https://github.com/mroboff/omarchy-on-cachyos) - Installation script for DHH's Omarchy on top of CachyOS. (Read the README.md before proceeding!)
