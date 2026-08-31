@@ -661,7 +661,7 @@
 - [davidhampgonsalves/Life-Dashboard](https://github.com/davidhampgonsalves/Life-Dashboard) - Low power, E-Ink dashboard for every day life running on a hacked Kindle.
 - [trashhalo/readcli](https://github.com/trashhalo/readcli) - Tool that lets you read website content on the command line
 - [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
-- [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
+- [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC. A WebRTC-based clone of magic-wormhole.
 - [vim-volt/volt](https://github.com/vim-volt/volt) - A meta-level vim package manager
 - [go-jira/jira](https://github.com/go-jira/jira) - simple jira command line client in Go
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -846,6 +846,7 @@
 
 ## JavaScript 
 
+- [Super-Botman/neovim-theme](https://github.com/Super-Botman/neovim-theme) - neovim like zola theme
 - [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [cauenapier/TownSquare](https://github.com/cauenapier/TownSquare) - 
@@ -2119,7 +2120,7 @@
 - [ReturnInfinity/BareMetal-Cloud](https://github.com/ReturnInfinity/BareMetal-Cloud) - BareMetal for the private/public cloud
 - [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
 - [pablogsal/slowlify](https://github.com/pablogsal/slowlify) - Simulate slow, resource-constrained machines to reproduce CI failures and hunt flaky tests
-- [omacom/omakub](https://github.com/omacom/omakub) - Opinionated Ubuntu Setup
+- [omacom/omakub](https://github.com/omacom/omakub) - Retired — the story lives at https://omarchy.org/omakub, the thread continues at https://omabuntu.omakasui.org
 - [attogram/bash-screensavers](https://github.com/attogram/bash-screensavers) - Turn your idle shell into a visual playground with this collection of Bash screensav­ers
 - [mikeckennedy/talk-python-in-production-devops-book](https://github.com/mikeckennedy/talk-python-in-production-devops-book) - 
 - [mroboff/omarchy-on-cachyos](https://github.com/mroboff/omarchy-on-cachyos) - Installation script for DHH's Omarchy on top of CachyOS. (Read the README.md before proceeding!)
