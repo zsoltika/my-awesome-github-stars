@@ -2774,6 +2774,7 @@
 
 ## others 
 
+- [Super-Botman/neovim-theme](https://github.com/Super-Botman/neovim-theme) - neovim like zola theme
 - [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish) - Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical
 - [brvier/Gjallar](https://github.com/brvier/Gjallar) - Gjallar is a modern monitoring and observability platform inspired by Gjallarhorn, the legendary horn of Heimdall in Norse mythology.  Built for reliability and speed, Gjallar continuously watches you
 - [discover-devops/Git_Commands](https://github.com/discover-devops/Git_Commands) - 
@@ -2886,7 +2887,7 @@
 - [addyosmani/gemini-cli-tips](https://github.com/addyosmani/gemini-cli-tips) - Gemini CLI Tips and Tricks
 - [amigavision/AmigaVision](https://github.com/amigavision/AmigaVision) - The ultimate Amiga games & demo scene setup for MiSTer & Pocket FPGAs, emulators, and real hardware. Open source, community driven. This is an Amiga HDF image builder that uses WHDLoad and custom inst
 - [shanselman/WindowsEdgeLight](https://github.com/shanselman/WindowsEdgeLight) - A lightweight WPF application that adds a customizable glowing edge light effect around your primary monitor
-- [omacom/omakub](https://github.com/omacom/omakub) - Opinionated Ubuntu Setup
+- [omacom/omakub](https://github.com/omacom/omakub) - Retired — the story lives at https://omarchy.org/omakub, the thread continues at https://omabuntu.omakasui.org
 - [paulbatum/Dominion](https://github.com/paulbatum/Dominion) - 
 - [andyrids/windows-subsystem-for-linux-void](https://github.com/andyrids/windows-subsystem-for-linux-void) - Void Linux bootstrap script for WSL2.
 - [telavivmakers/geek_code](https://github.com/telavivmakers/geek_code) - geek code 5.x repo
@@ -3319,7 +3320,7 @@
 - [clobrano/pynicom](https://github.com/clobrano/pynicom) - A Minicom like Serial Communication program in Python that adds standard shell features like autocompletion, command history, inline help
 - [ottomatica/docable-notebooks](https://github.com/ottomatica/docable-notebooks) - :ledger: Next-Generation Interactive Notebooks
 - [zombocom/rundoc](https://github.com/zombocom/rundoc) - RunDOC generates documentation by running scripts and embedding their results in the doc
-- [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
+- [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC. A WebRTC-based clone of magic-wormhole.
 - [vim-volt/volt](https://github.com/vim-volt/volt) - A meta-level vim package manager
 - [liljencrantz/crush](https://github.com/liljencrantz/crush) - Crush is a command line shell that is also a powerful modern programming language.
 - [go-jira/jira](https://github.com/go-jira/jira) - simple jira command line client in Go
