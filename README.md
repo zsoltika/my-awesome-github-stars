@@ -1550,7 +1550,7 @@
 - [liiight/notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [aerkalov/ebooklib](https://github.com/aerkalov/ebooklib) - A versatile Python library for EPUB2/EPUB3 manipulation and processing.
 - [eschluntz/compress](https://github.com/eschluntz/compress) - Text compression for generating keyboard expansions
-- [yazdipour/OmnivoreQL](https://github.com/yazdipour/OmnivoreQL) - @Omnivore-app API client for Python
+- [yazdipour/OmnivoreQL](https://github.com/yazdipour/OmnivoreQL) - @Omnivore-app GraphQL client in Python
 - [atiumcache/pure-recipe](https://github.com/atiumcache/pure-recipe) - Input a recipe URL and receive well-formatted, ad-free recipes to your terminal, or save the output to a markdown file.
 - [tkellogg/fossil](https://github.com/tkellogg/fossil) - A mastodon client optimized for reading, with an AI-enabled algorithm for displaying posts
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! Create any GUI simple or complicated in a way that's intuitive.  Launched in 2018. NEW for 2026 - the LGPL3 Version 6.  Transforms tkinter, Qt, WxPython, and Remi into a simple
@@ -1937,7 +1937,6 @@
 - [glucero/fusuma](https://github.com/glucero/fusuma) - window management for OSX
 - [avdi/orgpress](https://github.com/avdi/orgpress) - A collection of Makefiles and scripts for generating formatted eBooks.
 - [runemadsen/Magic-Book-Project](https://github.com/runemadsen/Magic-Book-Project) - DEPRECATED: We are reviving the Magic Book project as a node package: https://github.com/magicbookproject/magicbook
-- [brightcove-archive/ooyala_barkeep](https://github.com/brightcove-archive/ooyala_barkeep) - The friendly code review system.
 - [edavis10/kindle](https://github.com/edavis10/kindle) - A collection of classes and scripts that can be used to manage a kindle notes files.
 - [maid/maid](https://github.com/maid/maid) - Be lazy.  Let Maid clean up after you, based on rules you define.  Think of it as "Hazel for hackers".
 - [practicingruby/bookie](https://github.com/practicingruby/bookie) - experimental book formatting toolchain
@@ -2313,7 +2312,7 @@
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [agrmohit/omnivore-epub](https://github.com/agrmohit/omnivore-epub) - A program to generate epub file from articles saved in your Omnivore library and optionally send it to your eReader using email
-- [linsa-io/linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - [andymatuschak/note-link-janitor](https://github.com/andymatuschak/note-link-janitor) - Maintains backlink structure among interlinked Markdown notes
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
