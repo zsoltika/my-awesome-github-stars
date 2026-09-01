@@ -3124,7 +3124,7 @@
 - [rwx-research/captain](https://github.com/rwx-research/captain) - The Captain CLI can detect and quarantine flaky tests, automatically retry failed tests, partition files for parallel execution, produce markdown failure summaries, and more. It's compatible with most
 - [badlogic/heissepreise](https://github.com/badlogic/heissepreise) - Jo eh.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [linsa-io/linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
 - [c-blake/bu](https://github.com/c-blake/bu) - B)asic|But-For U)tility Code/Programs (in Nim & Often Unix/POSIX/Linux Context)
 - [rayfrankenstein/AITOW](https://github.com/rayfrankenstein/AITOW) - 
 - [e36freak/awk-libs](https://github.com/e36freak/awk-libs) - GNU awk libraries
@@ -3776,7 +3776,6 @@
 - [emilis/emilis-config](https://github.com/emilis/emilis-config) - Emilis' personal configuration files
 - [HGrzywacz/rsp2k](https://github.com/HGrzywacz/rsp2k) - Reddit self posts to kindle - early alpha.
 - [kien/ctrlp.vim](https://github.com/kien/ctrlp.vim) - Fuzzy file, buffer, mru, tag, etc finder.
-- [brightcove-archive/ooyala_barkeep](https://github.com/brightcove-archive/ooyala_barkeep) - The friendly code review system.
 - [alevchuk/vim-clutch](https://github.com/alevchuk/vim-clutch) - A hardware pedal for improved text editing in Vim
 - [dcrosta/dabble](https://github.com/dcrosta/dabble) - Simple A/B testing framework for Python
 - [mattharrison/rst2epub2](https://github.com/mattharrison/rst2epub2) - convert rst to epub
@@ -4084,7 +4083,7 @@
 - [imgurbot12/pypub](https://github.com/imgurbot12/pypub) - Python library to programatically create epub files
 - [liiight/notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [aerkalov/ebooklib](https://github.com/aerkalov/ebooklib) - A versatile Python library for EPUB2/EPUB3 manipulation and processing.
-- [yazdipour/OmnivoreQL](https://github.com/yazdipour/OmnivoreQL) - @Omnivore-app API client for Python
+- [yazdipour/OmnivoreQL](https://github.com/yazdipour/OmnivoreQL) - @Omnivore-app GraphQL client in Python
 - [aceinnolab/Inkycal](https://github.com/aceinnolab/Inkycal) - Create awesome e-paper dashboards within minutes! Modularity? Check! Python3? Check? Works on Raspberry Pi Zero W? Check! Support for own modules? Check!
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! Create any GUI simple or complicated in a way that's intuitive.  Launched in 2018. NEW for 2026 - the LGPL3 Version 6.  Transforms tkinter, Qt, WxPython, and Remi into a simple
 - [joelibaceta/webcam-fixed-terminal](https://github.com/joelibaceta/webcam-fixed-terminal) - Multi terminal experience
