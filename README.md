@@ -561,7 +561,7 @@
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out
-- [eugenioenko/ttt](https://github.com/eugenioenko/ttt) - TTT Editor (Terminal Text Tool): terminal text editor IDE. A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.
+- [eugenioenko/ttt](https://github.com/eugenioenko/ttt) - TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.
 - [bep/myhugofixer](https://github.com/bep/myhugofixer) - Mainly a "prompt generator" to instruct AI on how to upgrade a Hugo site to a modern version.
 - [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. Simple app for .md files.
 - [fadeltd/pdfunlock](https://github.com/fadeltd/pdfunlock) - Free open-source PDF password remover & unlocker. Instantly decrypt password-protected PDFs with this powerful CLI tool. Supports batch processing, cross-platform (Linux/macOS/Windows). Perfect altern
@@ -2265,7 +2265,7 @@
 - [superegodev/superego](https://github.com/superegodev/superego) - Software That Fits You
 - [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - A CLI tool that bridges Hugo static sites and the Nostr network. Publish your blog posts as kind:30023 long-form articles, sync posts back from relays, and manage deletions — all from one command.
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [winboat-org/winboat](https://github.com/winboat-org/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [chrisheninger/matchimals.fun](https://github.com/chrisheninger/matchimals.fun) - 🦁 🃏 📱 An animal matching puzzle card game– built with turn-based game engine boardgame.io and React-Native + React-Native-Web
 - [oatear/cider](https://github.com/oatear/cider) - Card IDE (CIDEr) - Design game cards using HTML/Handlebars, CSS, and tabular data
