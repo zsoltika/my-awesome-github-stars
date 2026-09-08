@@ -1349,6 +1349,8 @@
 
 ## emacs 
 
+- [Pintikoff/spacemacs-windows-setup](https://github.com/Pintikoff/spacemacs-windows-setup) - A step-by-step guide to installing and configuring Spacemacs on Windows 11, including common errors and fixes.
+- [pprevos/denote-explore](https://github.com/pprevos/denote-explore) - Helper functions to analyse and visualise a collection of notes created with the Denote package.
 - [tanrax/org-social](https://github.com/tanrax/org-social) - Org Social is a decentralized social network that runs on an Org Mode file over HTTP.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [Emacs101/howm-manual](https://github.com/Emacs101/howm-manual) - Note-taking in Emacs with howm package
@@ -5095,6 +5097,7 @@
 
 ## windows 
 
+- [Pintikoff/spacemacs-windows-setup](https://github.com/Pintikoff/spacemacs-windows-setup) - A step-by-step guide to installing and configuring Spacemacs on Windows 11, including common errors and fixes.
 - [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Ad-blocker and privacy guard for Windows, macOS and Linux.
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) 
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) - GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. Install, back up, move and configure distros without CLI flags; AI assistant with tools, MCP server for agents, remote WSL 
