@@ -1197,6 +1197,7 @@
 
 ## Others 
 
+- [Anastasios3/winston-coach](https://github.com/Anastasios3/winston-coach) - A Claude skill that applies Patrick Winston's framework (MIT How to Speak + Make It Clear) to any writing or speaking task. Every output runs a humanizer pass to strip AI tells.
 - [discover-devops/Git_Commands](https://github.com/discover-devops/Git_Commands) - 
 - [naveensilver/Ansible](https://github.com/naveensilver/Ansible) - My Ansible Notes (Beginner to Advanced) : Repository to learn Ansible from Zero. This repository covers the complete Ansible fundamentals along with examples required for a DevOps Engineer.
 - [kevindumitru/devops](https://github.com/kevindumitru/devops) - devops
