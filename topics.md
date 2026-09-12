@@ -723,10 +723,12 @@
 
 ## claude 
 
+- [Anastasios3/winston-coach](https://github.com/Anastasios3/winston-coach) - A Claude skill that applies Patrick Winston's framework (MIT How to Speak + Make It Clear) to any writing or speaking task. Every output runs a humanizer pass to strip AI tells.
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 
 ## claude-code 
 
+- [Anastasios3/winston-coach](https://github.com/Anastasios3/winston-coach) - A Claude skill that applies Patrick Winston's framework (MIT How to Speak + Make It Clear) to any writing or speaking task. Every output runs a humanizer pass to strip AI tells.
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 
@@ -4011,6 +4013,7 @@
 
 ## prompt-engineering 
 
+- [Anastasios3/winston-coach](https://github.com/Anastasios3/winston-coach) - A Claude skill that applies Patrick Winston's framework (MIT How to Speak + Make It Clear) to any writing or speaking task. Every output runs a humanizer pass to strip AI tells.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 
 ## publishing 
