@@ -297,6 +297,8 @@
 
 ## CSS 
 
+- [wikiti/pandoc-book-template](https://github.com/wikiti/pandoc-book-template) - A simple Pandoc template to build documents and ebooks.
+- [johnpaulada/pandoc-markdown-book-template](https://github.com/johnpaulada/pandoc-markdown-book-template) - A template for creating epub books from markdown using pandoc.
 - [jackyzha0/sunlit](https://github.com/jackyzha0/sunlit) - a pure css implementation of some sunlight streaming in through the window
 - [Livour/hugo-mana-theme](https://github.com/Livour/hugo-mana-theme) - Futuristic hugo theme featuring clean aesthetics, modern functionality and responsive design.
 - [suheb/resume](https://github.com/suheb/resume) - A minimal pelican theme to host your resume
@@ -596,7 +598,7 @@
 - [jlelse/GoBlog](https://github.com/jlelse/GoBlog) - Simple blogging system written in Go
 - [eeeXun/gtt](https://github.com/eeeXun/gtt) - Google Translate TUI (Originally). Currently supports Apertium, Bing, ChatGPT, DeepL, DeepLX, Google, LibreTranslate, Reverso.
 - [greenpau/caddy-git](https://github.com/greenpau/caddy-git) - Git Plugin for Caddy v2
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [augur-ai/mantis](https://github.com/augur-ai/mantis) - Mantis is a unified infrastructure as code framework that replaces Terraform and Helm
 - [C-Loftus/QuickPiperAudiobook](https://github.com/C-Loftus/QuickPiperAudiobook) - With one command, create a natural-sounding audiobook from a variety of input formats (epub, mobi, txt, PDF, HTML and more!)
 - [kudrykv/latex-yearly-planner](https://github.com/kudrykv/latex-yearly-planner) - Digital planner for Supernote and ReMarkable // Support Ukraine 🇺🇦 https://savelife.in.ua/en/
@@ -1467,7 +1469,6 @@
 - [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter
 - [amigavision/AmigaVision](https://github.com/amigavision/AmigaVision) - The ultimate Amiga games & demo scene setup for MiSTer & Pocket FPGAs, emulators, and real hardware. Open source, community driven. This is an Amiga HDF image builder that uses WHDLoad and custom inst
 - [telavivmakers/geek_code](https://github.com/telavivmakers/geek_code) - geek code 5.x repo
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [kimusan/mastui](https://github.com/kimusan/mastui) - A TUI client for mastodon written in python
@@ -2269,6 +2270,7 @@
 - [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - A CLI tool that bridges Hugo static sites and the Nostr network. Publish your blog posts as kind:30023 long-form articles, sync posts back from relays, and manage deletions — all from one command.
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [winboat-org/winboat](https://github.com/winboat-org/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [chrisheninger/matchimals.fun](https://github.com/chrisheninger/matchimals.fun) - 🦁 🃏 📱 An animal matching puzzle card game– built with turn-based game engine boardgame.io and React-Native + React-Native-Web
 - [oatear/cider](https://github.com/oatear/cider) - Card IDE (CIDEr) - Design game cards using HTML/Handlebars, CSS, and tabular data
