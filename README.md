@@ -1429,6 +1429,7 @@
 
 ## Python 
 
+- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.
 - [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font
 - [viticci/remctl](https://github.com/viticci/remctl) - An Apple Reminders CLI for power users and AI agents. RemCTL supports all the latest Reminders features such as sections, subtasks, tags, rich links, groceries lists, templates, smart lists, and image
 - [OpenMinis/MinisSkills](https://github.com/OpenMinis/MinisSkills) - Skills collection for Minis.
