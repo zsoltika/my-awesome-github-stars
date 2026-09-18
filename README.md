@@ -139,6 +139,7 @@
 
 ## C 
 
+- [danielpapa1166/bkk_display](https://github.com/danielpapa1166/bkk_display) - Yocto project to display the nearby stations' arrivals using BKK API interface
 - [jpirnay/witchhunt-reader](https://github.com/jpirnay/witchhunt-reader) - Witch(hunt) Reader
 - [kovetskiy/waynav](https://github.com/kovetskiy/waynav) - Wayland-native keynav replacement for wlroots compositors (niri, hyprland)
 - [JohnEarnest/Decker](https://github.com/JohnEarnest/Decker) - A multimedia sketchpad
@@ -559,6 +560,7 @@
 
 ## Go 
 
+- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [brvier/Gjallar](https://github.com/brvier/Gjallar) - Gjallar is a modern monitoring and observability platform inspired by Gjallarhorn, the legendary horn of Heimdall in Norse mythology.  Built for reliability and speed, Gjallar continuously watches you
 - [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Ad-blocker and privacy guard for Windows, macOS and Linux.
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
@@ -1199,6 +1201,7 @@
 
 ## Others 
 
+- [kesslernity/awesome-copilot-studio-agents](https://github.com/kesslernity/awesome-copilot-studio-agents) - 103 paste-ready declarative agents for Microsoft 365 Copilot. No coding. No Azure. Deploy in minutes.
 - [Anastasios3/winston-coach](https://github.com/Anastasios3/winston-coach) - A Claude skill that applies Patrick Winston's framework (MIT How to Speak + Make It Clear) to any writing or speaking task. Every output runs a humanizer pass to strip AI tells.
 - [discover-devops/Git_Commands](https://github.com/discover-devops/Git_Commands) - 
 - [naveensilver/Ansible](https://github.com/naveensilver/Ansible) - My Ansible Notes (Beginner to Advanced) : Repository to learn Ansible from Zero. This repository covers the complete Ansible fundamentals along with examples required for a DevOps Engineer.
