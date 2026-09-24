@@ -1030,6 +1030,7 @@
 
 ## Lua 
 
+- [ymic9963/mdnotes.nvim](https://github.com/ymic9963/mdnotes.nvim) - Simple, improved, and extensible Markdown note taking.
 - [iwe-org/iwe.nvim](https://github.com/iwe-org/iwe.nvim) - Neovim plugin for IWE — markdown notes with LSP: search, backlinks, extract/inline refactoring, knowledge-graph navigation
 - [mcncl/alabaster.nvim](https://github.com/mcncl/alabaster.nvim) - A port of the much loved Alabaster theme, for Neovim.
 - [kghose/lekha.nvim](https://github.com/kghose/lekha.nvim) - NeoVim plugin for writers using Markdown
@@ -1434,7 +1435,7 @@
 
 ## Python 
 
-- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.
+- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - Bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen.
 - [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font
 - [viticci/remctl](https://github.com/viticci/remctl) - An Apple Reminders CLI for power users and AI agents. RemCTL supports all the latest Reminders features such as sections, subtasks, tags, rich links, groceries lists, templates, smart lists, and image
 - [OpenMinis/MinisSkills](https://github.com/OpenMinis/MinisSkills) - Skills collection for Minis.
@@ -1970,6 +1971,7 @@
 
 ## Rust 
 
+- [rezigned/upmd](https://github.com/rezigned/upmd) - upmd - Run tasks and workflows from Markdown.
 - [jvanderberg/markless](https://github.com/jvanderberg/markless) - A terminal markdown viewer with image support
 - [fazalmajid/rTemboz](https://github.com/fazalmajid/rTemboz) - RSS feed reader, successor to Temboz
 - [reekta92/clin-rs](https://github.com/reekta92/clin-rs) - Feature-packed TUI note management app inspired by Obsidian
@@ -2120,6 +2122,7 @@
 
 ## Shell 
 
+- [psliwka/vim-dirtytalk](https://github.com/psliwka/vim-dirtytalk) - spellcheck dictionary for programmers 📖
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
 - [geerlingguy/ansible-for-devops-manuscript](https://github.com/geerlingguy/ansible-for-devops-manuscript) - Ansible for DevOps Manuscript
 - [jdcodes1/claude-sh](https://github.com/jdcodes1/claude-sh) - Claude Code rewritten as a bash script. ~1500 lines, zero npm packages. Just curl + jq.
