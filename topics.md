@@ -3254,7 +3254,7 @@
 - [jamesseanwright/ron-swanson-quotes](https://github.com/jamesseanwright/ron-swanson-quotes) - Node.js server for providing Ron Swanson quotes
 - [KrauseFx/FxLifeSheet](https://github.com/KrauseFx/FxLifeSheet) - Tracking the key metrics of my life
 - [sisl/tufte_algorithms_book](https://github.com/sisl/tufte_algorithms_book) - A template for textbooks in the same style as Algorithms for Optimization
-- [tarioch/beancounttools](https://github.com/tarioch/beancounttools) - Beancount Tools
+- [tarioch/beancounttools](https://github.com/tarioch/beancounttools) - Importers, plugins and price fetchers for Beancount
 - [python-frederick/talks](https://github.com/python-frederick/talks) - A collection of talks presented at Python Frederick
 - [HoraceAndTheSpider/Amiberry-XML-Builder](https://github.com/HoraceAndTheSpider/Amiberry-XML-Builder) - Python script to scan LHA files for WHDLoad integration in Amiberry
 - [github/scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.
