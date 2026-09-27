@@ -184,6 +184,7 @@
 - [ThakeeNathees/pocketlang](https://github.com/ThakeeNathees/pocketlang) - A lightweight, fast embeddable scripting language.
 - [SolderedElectronics/Inkplate-Arduino-library](https://github.com/SolderedElectronics/Inkplate-Arduino-library) - Inkplate family Arduino library. The easiest way to add e-paper to your project.
 - [prabirshrestha/dwm-win32](https://github.com/prabirshrestha/dwm-win32) - dwm port of tiling manager to Window
+- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [martanne/abduco](https://github.com/martanne/abduco) - abduco provides session management i.e. it allows programs to be run independently from its controlling terminal. That is programs can be detached - run in the background - and then later reattached. 
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
@@ -235,7 +236,6 @@
 - [workspacer/workspacer](https://github.com/workspacer/workspacer) - a tiling window manager for Windows
 - [mxgmn/MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic language based on pattern matching and constraint propagation, 153 examples
 - [coofcookie/Windows11Upgrade](https://github.com/coofcookie/Windows11Upgrade) - Windows 11 Upgrade tool that bypasses Microsoft´s requirements
-- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [inkle/ink](https://github.com/inkle/ink) - inkle's open source scripting language for writing interactive narrative.
 - [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic
 - [wesdoyle/design-patterns-explained-with-food](https://github.com/wesdoyle/design-patterns-explained-with-food) - GoF Design Patterns with "Real-World" examples involving Food-Related Businesses and mock dependencies
@@ -1492,7 +1492,6 @@
 - [EngineersNeedArt/SystemSix](https://github.com/EngineersNeedArt/SystemSix) - e-Ink Calendar
 - [open-spaced-repetition/py-fsrs](https://github.com/open-spaced-repetition/py-fsrs) - Python Package for FSRS Spaced Repetition
 - [cofob/autogenlib](https://github.com/cofob/autogenlib) - Import wisdom, export code.
-- [mkaz/libro](https://github.com/mkaz/libro) - A terminal based book tracking tool
 - [djetelina/pyCardDeck](https://github.com/djetelina/pyCardDeck) - Deck of cards with all the logic, so you don't have to!
 - [Pymetheus/The-Briscola-card-game](https://github.com/Pymetheus/The-Briscola-card-game) - Play a python implementation of the popular Italian trick-taking card game
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
@@ -2009,7 +2008,7 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [erikjuhani/basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable microVM for any workload
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast branchable microVM runtime and library for any workload
 - [trane-project/trane](https://github.com/trane-project/trane) - A deliberate practice engine for mastering complex skills
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool!
 - [linkdd/regname](https://github.com/linkdd/regname) - Mass renamer TUI written in Rust
@@ -2288,6 +2287,7 @@
 - [mmazzarolo/breathly-app](https://github.com/mmazzarolo/breathly-app) - A tiny breath training app built with React-Native
 - [kahole/edamagit](https://github.com/kahole/edamagit) - Magit for VSCode
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
+- [mkaz/libro](https://github.com/mkaz/libro) - My book tracking tool
 - [colibri-hq/colibri](https://github.com/colibri-hq/colibri) - Colibri is a simple web application to manage, read and download your ebooks.
 - [fedify-dev/microblog](https://github.com/fedify-dev/microblog) - A simple federated microblog example using Fedify for educational purpose
 - [gabboman/wafrn](https://github.com/gabboman/wafrn) - Wafrn is a federated social media inspired by tumblr. Join us and have fun
