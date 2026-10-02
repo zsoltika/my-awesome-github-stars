@@ -2819,7 +2819,7 @@
 
 ## others 
 
-- [firelex/jeff](https://github.com/firelex/jeff) - Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification
+- [firelex/jeff](https://github.com/firelex/jeff) - Millisecond decisions, any domain: a 0.8B open "System 1" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.
 - [neeeeow/Klassik](https://github.com/neeeeow/Klassik) - A modern recreation of the classic KDE 3 desktop experience for KDE Plasma 6.
 - [brennanbrown/indiepaper](https://github.com/brennanbrown/indiepaper) - 📰 A monochrome, brutalist Medium-inspired Hugo blog theme that prioritizes Indieweb principles.
 - [danielpapa1166/bkk_display](https://github.com/danielpapa1166/bkk_display) - Yocto project to display the nearby stations' arrivals using BKK API interface
