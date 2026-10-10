@@ -197,7 +197,6 @@
 - [phaser](#phaser)
 - [php](#php)
 - [physics](#physics)
-- [pico-8](#pico-8)
 - [pixel-art](#pixel-art)
 - [portfolio](#portfolio)
 - [postgresql](#postgresql)
@@ -1527,7 +1526,6 @@
 - [alenros/fake-artist](https://github.com/alenros/fake-artist) - A player aid for A Fake Artist Goes to New York that eliminates the need for a Question master and lets everyone participate.
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 - [rr-/pq-cli](https://github.com/rr-/pq-cli) - Progress Quest: the CLI edition
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 - [wimpysworld/antsy-alien-attack](https://github.com/wimpysworld/antsy-alien-attack) - A game, written in Bash, that is a somewhat retro-a-like shoot 'em up. Hopefully.
 - [bfontaine/term2048](https://github.com/bfontaine/term2048) - :tada: 2048 in your terminal
@@ -1540,12 +1538,10 @@
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Web version: https://play.hypersomnia.io Made in 🇵🇱
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 
 ## game-engine 
 
 - [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [salt-die/terminal_dungeon](https://github.com/salt-die/terminal_dungeon) - A raycasting library for your terminal!
 
 ## gamedev 
@@ -1558,7 +1554,6 @@
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [mxgmn/MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic language based on pattern matching and constraint propagation, 153 examples
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 
 ## games 
 
@@ -1935,7 +1930,6 @@
 - [underpig1/octos](https://github.com/underpig1/octos) - Create and share web-based interactive, animated wallpapers on Windows :rocket: Available on the Microsoft Store
 - [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) - Thin wrapper for "pandoc" (MIT)
 - [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
 - [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
@@ -2810,7 +2804,6 @@
 
 - [thi-ng/geom](https://github.com/thi-ng/geom) - 2D/3D geometry toolkit for Clojure/Clojurescript
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 
 ## osint 
 
@@ -3918,15 +3911,10 @@
 
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 
-## pico-8 
-
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
-
 ## pixel-art 
 
 - [1j01/textual-paint](https://github.com/1j01/textual-paint) - :art: MS Paint in your terminal.
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Web version: https://play.hypersomnia.io Made in 🇵🇱
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 
 ## portfolio 
 
@@ -4209,7 +4197,6 @@
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [yangman946/WallPaperChanger](https://github.com/yangman946/WallPaperChanger) - Changes your desktop wallpaper based on the weather.
 - [fzumstein/python-for-excel](https://github.com/fzumstein/python-for-excel) - This is the companion repo of the O'Reilly book "Python for Excel".
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [nsacyber/WALKOFF](https://github.com/nsacyber/WALKOFF) - A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down. #nsacyber
 - [ml-tooling/opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
 - [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
@@ -4509,7 +4496,6 @@
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [epilys/bibliothecula](https://github.com/epilys/bibliothecula) - document organizer with tags and full-text-search, in a simple and clean sqlite3 schema
 - [dertuxmalwieder/yaydl](https://github.com/dertuxmalwieder/yaydl) - yet another youtube down loader (Git mirror)
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
