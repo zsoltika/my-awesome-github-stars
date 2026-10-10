@@ -777,6 +777,7 @@
 - [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [lethain/systems](https://github.com/lethain/systems) - systems is a set of tools for describing, running and visualizing systems diagrams.
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [cbeust/guess-card](https://github.com/cbeust/guess-card) - 
 - [preslavrachev/generative-art-in-go](https://github.com/preslavrachev/generative-art-in-go) - A companion source code repository to the book "Generative Art in Go"
 - [rjpcomputing/luaforwindows](https://github.com/rjpcomputing/luaforwindows) - Lua for Windows is a 'batteries included environment' for the Lua scripting language on Windows. NOTICE: Looking for maintainer.
@@ -912,7 +913,6 @@
 - [Frostforus/Solaris](https://github.com/Frostforus/Solaris) - Solaris Hungarian Generator
 - [mastotron/mastotron](https://github.com/mastotron/mastotron) - A different interface to mastodon, and other experiments in social media
 - [open-duelyst/duelyst](https://github.com/open-duelyst/duelyst) - Duelyst is a digital collectible card game and turn-based strategy hybrid, developed by Counterplay Games.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [tanepiper/obsidian-garden](https://github.com/tanepiper/obsidian-garden) - A knowledge management garden for https://obsidian.md, in which to grow your ideas
 - [bramses/bramses-highly-opinionated-vault-2023](https://github.com/bramses/bramses-highly-opinionated-vault-2023) - A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!
 - [t-mart/kill-sticky](https://github.com/t-mart/kill-sticky) - Bookmarklet to remove sticky elements and restore scrolling to web pages!
@@ -2079,7 +2079,6 @@
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [dertuxmalwieder/yaydl](https://github.com/dertuxmalwieder/yaydl) - yet another youtube down loader (Git mirror)
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [cody2007/arcane_fortune](https://github.com/cody2007/arcane_fortune) - Arcane Fortune is a game of empire building, diplomacy, conquest, construction, and deconstruction.
