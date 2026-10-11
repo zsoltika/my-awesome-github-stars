@@ -2891,7 +2891,7 @@
 - [arulrajnet/attila](https://github.com/arulrajnet/attila) - Pelican version of ghost theme https://github.com/zutrinken/attila
 - [alexandrevicenzi/Flex](https://github.com/alexandrevicenzi/Flex) - The minimalist Pelican theme.
 - [getpelican/pelican-themes](https://github.com/getpelican/pelican-themes) - Themes for Pelican
-- [rhsev/grubber](https://github.com/rhsev/grubber) - Data retrieval for Markdown files. Think Dataview without Obsidian. Works on macOS and Linux.
+- [rhsev/grubber](https://github.com/rhsev/grubber) - grubber is the query layer for your notes. It reads YAML blocks and frontmatter from Markdown and other text files as records and answers field queries in JSON or TSV. Works on macOS and Linux.
 - [samkhawase/kindle-dash-client](https://github.com/samkhawase/kindle-dash-client) - Scripts that run on Kindle for the school dashboard project
 - [weedonandscott/trolley](https://github.com/weedonandscott/trolley) - Run terminal apps anywhere
 - [usetrmnl/trmnl-firmware](https://github.com/usetrmnl/trmnl-firmware) - TRMNL ePaper device firmware
