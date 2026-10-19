@@ -1312,6 +1312,7 @@
 
 ## dotfiles 
 
+- [nickjj/dotfriedrice](https://github.com/nickjj/dotfriedrice) - Set up a developer friendly niri / Arch Linux system in minutes. Also supports WSL 2, Debian, Ubuntu and macOS for CLI tools!
 - [raexera/yoru](https://github.com/raexera/yoru) - A custom Linux environment built on AwesomeWM
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
@@ -2178,6 +2179,7 @@
 
 ## linux 
 
+- [nickjj/dotfriedrice](https://github.com/nickjj/dotfriedrice) - Set up a developer friendly niri / Arch Linux system in minutes. Also supports WSL 2, Debian, Ubuntu and macOS for CLI tools!
 - [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - System-wide ad-blocker and privacy guard for Windows, macOS and Linux.
 - [DevOps-Projects-Ideas/DevOps-Books](https://github.com/DevOps-Projects-Ideas/DevOps-Books) - Curated DevOps Books
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) 
@@ -2540,6 +2542,7 @@
 
 ## neovim 
 
+- [nickjj/dotfriedrice](https://github.com/nickjj/dotfriedrice) - Set up a developer friendly niri / Arch Linux system in minutes. Also supports WSL 2, Debian, Ubuntu and macOS for CLI tools!
 - [psliwka/vim-dirtytalk](https://github.com/psliwka/vim-dirtytalk) - spellcheck dictionary for programmers 📖
 - [ymic9963/mdnotes.nvim](https://github.com/ymic9963/mdnotes.nvim) - Simple, improved, and extensible Markdown note taking.
 - [iwe-org/iwe.nvim](https://github.com/iwe-org/iwe.nvim) - Neovim plugin for IWE — markdown notes with LSP: search, backlinks, extract/inline refactoring, knowledge-graph navigation
@@ -2810,6 +2813,8 @@
 
 ## others 
 
+- [fyzugx/DEsk](https://github.com/fyzugx/DEsk) - 
+- [kjvdven/niri-example](https://github.com/kjvdven/niri-example) - Set up a developer friendly Arch Linux system in minutes. Also supports WSL 2, Debian, Ubuntu and macOS for CLI tools!
 - [CodeOne45/vex-tui](https://github.com/CodeOne45/vex-tui) - A beautiful, fast, and feature-rich terminal-based Excel and CSV viewer & editor built with Go.
 - [firelex/jeff](https://github.com/firelex/jeff) - Millisecond decisions, any domain: a 0.8B open "System 1" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.
 - [neeeeow/Klassik](https://github.com/neeeeow/Klassik) - A modern recreation of the classic KDE 3 desktop experience for KDE Plasma 6.
@@ -4748,6 +4753,7 @@
 
 ## terminal 
 
+- [nickjj/dotfriedrice](https://github.com/nickjj/dotfriedrice) - Set up a developer friendly niri / Arch Linux system in minutes. Also supports WSL 2, Debian, Ubuntu and macOS for CLI tools!
 - [eugenioenko/ttt](https://github.com/eugenioenko/ttt) - TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.
 - [Veirt/weathr](https://github.com/Veirt/weathr) - a terminal weather app with ascii animation
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
@@ -5249,6 +5255,7 @@
 
 ## zsh 
 
+- [nickjj/dotfriedrice](https://github.com/nickjj/dotfriedrice) - Set up a developer friendly niri / Arch Linux system in minutes. Also supports WSL 2, Debian, Ubuntu and macOS for CLI tools!
 - [raexera/yoru](https://github.com/raexera/yoru) - A custom Linux environment built on AwesomeWM
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
