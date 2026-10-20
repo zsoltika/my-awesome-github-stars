@@ -681,7 +681,7 @@
 - [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Management Clients (for humans and agents)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Management Platform (for humans and agents)
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
 - [andrewchambers/sftpplease](https://github.com/andrewchambers/sftpplease) - SFTP &lt;-&gt; Cloud service bridge.
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
