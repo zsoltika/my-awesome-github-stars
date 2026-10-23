@@ -1036,7 +1036,7 @@
 
 - [ymic9963/mdnotes.nvim](https://github.com/ymic9963/mdnotes.nvim) - Simple, improved, and extensible Markdown note taking.
 - [iwe-org/iwe.nvim](https://github.com/iwe-org/iwe.nvim) - Neovim plugin for IWE — markdown notes with LSP: search, backlinks, extract/inline refactoring, knowledge-graph navigation
-- [mcncl/alabaster.nvim](https://github.com/mcncl/alabaster.nvim) - A port of the much loved Alabaster theme, for Neovim.
+- [mcncl/alabaster.nvim](https://github.com/mcncl/alabaster.nvim) - A port of the much loved Alabaster theme, for Neovim and Ghostty.
 - [kghose/lekha.nvim](https://github.com/kghose/lekha.nvim) - NeoVim plugin for writers using Markdown
 - [emmanueltouzery/apidocs.nvim](https://github.com/emmanueltouzery/apidocs.nvim) - neovim apidocs browser
 - [paradoxical-dev/zeal.nvim](https://github.com/paradoxical-dev/zeal.nvim) - Search and open zeal docsets without leaving neovim
@@ -1519,7 +1519,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [princeton-vl/infinigen](https://github.com/princeton-vl/infinigen) - Infinite Photorealistic Worlds using Procedural Generation
 - [simonw/llm-cmd](https://github.com/simonw/llm-cmd) - Use LLM to generate and execute commands in your shell
-- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, 50+ TTS engines with voice cloning and 1696 languages!
 - [pythological/kanren](https://github.com/pythological/kanren) - An extensible, lightweight relational/logic programming DSL written in pure Python
 - [ihabunek/toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
 - [AlfredoSequeida/hints](https://github.com/AlfredoSequeida/hints) - Hints lets you navigate GUI applications in Linux without your mouse by displaying "hints" you can type on your keyboard to interact with GUI elements.
@@ -2082,6 +2082,7 @@
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [dertuxmalwieder/yaydl](https://github.com/dertuxmalwieder/yaydl) - yet another youtube down loader (Git mirror)
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [cody2007/arcane_fortune](https://github.com/cody2007/arcane_fortune) - Arcane Fortune is a game of empire building, diplomacy, conquest, construction, and deconstruction.
