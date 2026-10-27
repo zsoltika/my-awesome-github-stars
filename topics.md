@@ -2822,6 +2822,7 @@
 
 ## others 
 
+- [jordanhubbard/daemonarchy](https://github.com/jordanhubbard/daemonarchy) - The Omarchy desktop on FreeBSD: installer ISO and build tooling
 - [seanboyce/ubiblio](https://github.com/seanboyce/ubiblio) - A small web app to manage your personal library, designed for self-hosting
 - [fyzugx/DEsk](https://github.com/fyzugx/DEsk) - 
 - [kjvdven/niri-example](https://github.com/kjvdven/niri-example) - Set up a developer friendly Arch Linux system in minutes. Also supports WSL 2, Debian, Ubuntu and macOS for CLI tools!
