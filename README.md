@@ -1440,7 +1440,7 @@
 
 ## Python 
 
-- [jordanhubbard/daemonarchy](https://github.com/jordanhubbard/daemonarchy) - The Omarchy desktop on FreeBSD: installer ISO and build tooling
+- [jordanhubbard/daemonarchy](https://github.com/jordanhubbard/daemonarchy) - A new desktop installer and curated and signed package ecosystem for FreeBSD; inspired by Omarchy, FreeBSD and the classic world of video games
 - [ioma8/jeff-sort](https://github.com/ioma8/jeff-sort) - Sort a directory into category subdirectories with Jeff, a local zero-shot classifier (https://github.com/firelex/jeff)
 - [denis-pplx/autojev](https://github.com/denis-pplx/autojev) - Full-weight Qwen decision model with calibrated probabilities, training code, REST API, and playground.
 - [firelex/jeff](https://github.com/firelex/jeff) - Millisecond decisions, any domain: a 0.8B open "System 1" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.
@@ -1847,7 +1847,6 @@
 - [akaptur/MyFlaskTutorial](https://github.com/akaptur/MyFlaskTutorial) - A Flask Tutorial for people who don't know any web programming.  Actually, it would be helpful to know static HTML, also Python.
 - [zacbir/pythonista](https://github.com/zacbir/pythonista) - Image scripts for Pythonista
 - [jabbalaci/Copy-Queue](https://github.com/jabbalaci/Copy-Queue) - A command line "cp" and "mv" that use a queue.
-- [U2Ft/RSS-filter](https://github.com/U2Ft/RSS-filter) - Marks-as-read feed entries that match a specified filter.
 - [ericpruitt/mimesort](https://github.com/ericpruitt/mimesort) - Sorts files based on MIME types
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [sjl/peat](https://github.com/sjl/peat) - Repeat commands!
@@ -1978,6 +1977,7 @@
 
 ## Rust 
 
+- [Michael-F-Bryan/mdbook-epub](https://github.com/Michael-F-Bryan/mdbook-epub) - An experimental mdbook backend for creating EPUB documents.
 - [rezigned/upmd](https://github.com/rezigned/upmd) - upmd - Run tasks and workflows from Markdown.
 - [jvanderberg/markless](https://github.com/jvanderberg/markless) - A terminal markdown viewer with image support
 - [fazalmajid/rTemboz](https://github.com/fazalmajid/rTemboz) - RSS feed reader, successor to Temboz
@@ -2029,7 +2029,7 @@
 - [timokroeger/kbremap](https://github.com/timokroeger/kbremap) - Custom keyboard layouts for windows.
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - The fast, precise document-intelligence engine for every language: text, tables and metadata from 100+ formats, with OCR, transcription and code intelligence.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
