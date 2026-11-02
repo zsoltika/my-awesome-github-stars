@@ -1435,7 +1435,7 @@
 - [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel) - PowerShell module to import/export Excel spreadsheets, without Excel
 - [kelleyma49/PSFzf](https://github.com/kelleyma49/PSFzf) - A PowerShell wrapper around the fuzzy finder fzf
 - [ForNeVeR/ExtDiff](https://github.com/ForNeVeR/ExtDiff) - Compare documents using MS Word from the command line.
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows 10 & Windows 11 on GitHub
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most advanced PowerShell module on GitHub for fine-tuning Windows 11 & Windows 10
 - [dfinke/PSharp](https://github.com/dfinke/PSharp) - Productivity tool that makes PowerShell ISE better
 
 ## Python 
