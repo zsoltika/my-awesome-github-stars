@@ -1981,6 +1981,7 @@
 
 ## image-processing 
 
+- [gereoffy/jpeg-nitro](https://github.com/gereoffy/jpeg-nitro) - Ultrafast multithreaded jpeg/png/heic/psd/cdr viewer inspired by libjpeg-turbo & pugz
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [LeviBorodenko/primify](https://github.com/LeviBorodenko/primify) - Embed any image into a prime number.
@@ -2366,6 +2367,7 @@
 
 ## macos 
 
+- [gereoffy/jpeg-nitro](https://github.com/gereoffy/jpeg-nitro) - Ultrafast multithreaded jpeg/png/heic/psd/cdr viewer inspired by libjpeg-turbo & pugz
 - [ioma8/jeff-sort](https://github.com/ioma8/jeff-sort) - Sort a directory into category subdirectories with Jeff, a local zero-shot classifier (https://github.com/firelex/jeff)
 - [saragordic/window-sweaters](https://github.com/saragordic/window-sweaters) - A macOS menu-bar app that dresses your windows in knitted borders.
 - [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - System-wide ad-blocker and privacy guard for Windows, macOS and Linux.
