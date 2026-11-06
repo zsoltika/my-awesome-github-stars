@@ -143,7 +143,6 @@
 - [fyzugx/DEsk](https://github.com/fyzugx/DEsk) - 
 - [saragordic/window-sweaters](https://github.com/saragordic/window-sweaters) - A macOS menu-bar app that dresses your windows in knitted borders.
 - [danielpapa1166/bkk_display](https://github.com/danielpapa1166/bkk_display) - Yocto project to display the nearby stations' arrivals using BKK API interface
-- [jpirnay/witchhunt-reader](https://github.com/jpirnay/witchhunt-reader) - Witch(hunt) Reader
 - [kovetskiy/waynav](https://github.com/kovetskiy/waynav) - Wayland-native keynav replacement for wlroots compositors (niri, hyprland)
 - [JohnEarnest/Decker](https://github.com/JohnEarnest/Decker) - A multimedia sketchpad
 - [yattsu/biscuit](https://github.com/yattsu/biscuit) - Firmware for the ESP32-C3 SoC Xteink X4 e-paper display reader
@@ -250,6 +249,7 @@
 ## C++ 
 
 - [neeeeow/Klassik](https://github.com/neeeeow/Klassik) - A modern recreation of the classic KDE 3 desktop experience for KDE Plasma 6.
+- [jpirnay/witchhunt-reader](https://github.com/jpirnay/witchhunt-reader) - Witch(hunt) Reader
 - [aardappel/treesheets](https://github.com/aardappel/treesheets) - Hierarchical spreadsheet: a free-form data organizer that replaces outliners, mind maps and spreadsheets.
 - [skeeto/elfeed2](https://github.com/skeeto/elfeed2) - The Elfeed feed reader experience without Emacs
 - [penk/X4Term](https://github.com/penk/X4Term) - Pocket VT100 terminal for Xteink X4
