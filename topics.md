@@ -165,6 +165,7 @@
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [mcp](#mcp)
+- [mcp-server](#mcp-server)
 - [microservices](#microservices)
 - [microsoft](#microsoft)
 - [mobile](#mobile)
@@ -486,9 +487,9 @@
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
-- [linsa-io/command-line-tools](https://github.com/linsa-io/command-line-tools) - Awesome Command Line Utilities
-- [linsa-io/blogs](https://github.com/linsa-io/blogs) - Awesome Blogs
-- [linsa-io/books](https://github.com/linsa-io/books) - Awesome Books
+- [gendotnew/command-line-tools](https://github.com/gendotnew/command-line-tools) - Awesome Command Line Utilities
+- [gendotnew/blogs](https://github.com/gendotnew/blogs) - Awesome Blogs
+- [gendotnew/books](https://github.com/gendotnew/books) - Awesome Books
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - This repository has been moved to https://codeberg.org/janikvonrotz/awesome-powershell. Please visit the new location for the latest updates.
 - [oroszgy/awesome-hungarian-nlp](https://github.com/oroszgy/awesome-hungarian-nlp) - A curated list of NLP resources for Hungarian
@@ -549,9 +550,9 @@
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [linsa-io/command-line-tools](https://github.com/linsa-io/command-line-tools) - Awesome Command Line Utilities
-- [linsa-io/blogs](https://github.com/linsa-io/blogs) - Awesome Blogs
-- [linsa-io/books](https://github.com/linsa-io/books) - Awesome Books
+- [gendotnew/command-line-tools](https://github.com/gendotnew/command-line-tools) - Awesome Command Line Utilities
+- [gendotnew/blogs](https://github.com/gendotnew/blogs) - Awesome Blogs
+- [gendotnew/books](https://github.com/gendotnew/books) - Awesome Books
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - This repository has been moved to https://codeberg.org/janikvonrotz/awesome-powershell. Please visit the new location for the latest updates.
 - [oroszgy/awesome-hungarian-nlp](https://github.com/oroszgy/awesome-hungarian-nlp) - A curated list of NLP resources for Hungarian
@@ -1359,7 +1360,7 @@
 - [jplag/JPlag](https://github.com/jplag/JPlag) - State-of-the-Art Source Code Plagiarism & Collusion Detection. Check for plagiarism in a set of programs.
 - [open-spaced-repetition/free-spaced-repetition-scheduler](https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler) - A spaced repetition algorithm based on DSR model
 - [benjie-git/CardStock](https://github.com/benjie-git/CardStock) - CardStock is a cross-platform tool for quickly and easily building programs. It provides a drawing-program-like editor for visually laying out your programs' parts, and a code editor for adding event-
-- [linsa-io/books](https://github.com/linsa-io/books) - Awesome Books
+- [gendotnew/books](https://github.com/gendotnew/books) - Awesome Books
 - [alexmojaki/futurecoder](https://github.com/alexmojaki/futurecoder) - 100% free and interactive Python course for beginners
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
@@ -2171,8 +2172,8 @@
 ## learning 
 
 - [jackdoe/programming-for-kids](https://github.com/jackdoe/programming-for-kids) - book for parents and kids.
-- [linsa-io/command-line-tools](https://github.com/linsa-io/command-line-tools) - Awesome Command Line Utilities
-- [linsa-io/books](https://github.com/linsa-io/books) - Awesome Books
+- [gendotnew/command-line-tools](https://github.com/gendotnew/command-line-tools) - Awesome Command Line Utilities
+- [gendotnew/books](https://github.com/gendotnew/books) - Awesome Books
 - [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School, the premier destination for people seeking to learn and master the Elixir programming language.
 - [alexmojaki/futurecoder](https://github.com/alexmojaki/futurecoder) - 100% free and interactive Python course for beginners
@@ -2503,6 +2504,12 @@
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
+
+## mcp-server 
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 287 commands, 246 MCP tools, change-safety gates, audit evidence, zero API keys.
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 
 ## microservices 
 
@@ -2848,7 +2855,7 @@
 - [brvier/Gjallar](https://github.com/brvier/Gjallar) - Gjallar is a modern monitoring and observability platform inspired by Gjallarhorn, the legendary horn of Heimdall in Norse mythology.  Built for reliability and speed, Gjallar continuously watches you
 - [discover-devops/Git_Commands](https://github.com/discover-devops/Git_Commands) - 
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
-- [BruceEckel/ThinkingInPython](https://github.com/BruceEckel/ThinkingInPython) - Fluency, Types, and Design
+- [BruceEckel/ThinkingInPython](https://github.com/BruceEckel/ThinkingInPython) - Fluency, Types, and Design: An intermediate/advanced book using Python 3.15
 - [jvanderberg/markless](https://github.com/jvanderberg/markless) - A terminal markdown viewer with image support
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [jonashonecker/feedpaper](https://github.com/jonashonecker/feedpaper) - 
@@ -3189,7 +3196,7 @@
 - [rwx-research/captain](https://github.com/rwx-research/captain) - The Captain CLI can detect and quarantine flaky tests, automatically retry failed tests, partition files for parallel execution, produce markdown failure summaries, and more. It's compatible with most
 - [badlogic/heissepreise](https://github.com/badlogic/heissepreise) - Jo eh.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
+- [gendotnew/ai](https://github.com/gendotnew/ai) - 
 - [c-blake/bu](https://github.com/c-blake/bu) - B)asic|But-For U)tility Code/Programs (in Nim & Often Unix/POSIX/Linux Context)
 - [rayfrankenstein/AITOW](https://github.com/rayfrankenstein/AITOW) - 
 - [e36freak/awk-libs](https://github.com/e36freak/awk-libs) - GNU awk libraries
