@@ -291,7 +291,7 @@
 
 ## agent 
 
-- [localgpt-app/localgpt](https://github.com/localgpt-app/localgpt) - Local AI assistant, dreaming explorable worlds.
+- [localgpt-app/localgpt](https://github.com/localgpt-app/localgpt) - Documents, songs and screenplays become walkable 3D worlds that you and your own coding agents edit together. A Rust desktop app on the Open World Format.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
@@ -310,7 +310,7 @@
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [bostrot/wslmanager](https://github.com/bostrot/wslmanager) - GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. Install, back up, move and configure distros without CLI flags; AI assistant with tools, MCP server for agents, remote WSL 
-- [localgpt-app/localgpt](https://github.com/localgpt-app/localgpt) - Local AI assistant, dreaming explorable worlds.
+- [localgpt-app/localgpt](https://github.com/localgpt-app/localgpt) - Documents, songs and screenplays become walkable 3D worlds that you and your own coding agents edit together. A Rust desktop app on the Open World Format.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [NanoNets/docstrange](https://github.com/NanoNets/docstrange) - Extract and convert data from any document, images, pdfs, word doc, ppt or URL into multiple formats (Markdown, JSON, CSV, HTML) with intelligent structured data extraction and advanced OCR.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -381,7 +381,6 @@
 - [chrisheninger/matchimals.fun](https://github.com/chrisheninger/matchimals.fun) - 🦁 🃏 📱 An animal matching puzzle card game– built with turn-based game engine boardgame.io and React-Native + React-Native-Web
 - [mmazzarolo/breathly-app](https://github.com/mmazzarolo/breathly-app) - A tiny breath training app built with React-Native
 - [xajik/thedeck](https://github.com/xajik/thedeck) - The Deck: An Open-Source, Cross-Platform, Mobile, Turn by Turn Card Game Engine in Flutter
-- [Runixe786/MD3-Windows](https://github.com/Runixe786/MD3-Windows) - Material you widgets for your windows desktop, adaptable with wallpaper colors with both light & dark modes
 - [philips/inkpalm-5-adb-english](https://github.com/philips/inkpalm-5-adb-english) - Instructions to setup an Xioami Inkpalm 5 with English and other apps
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -764,6 +763,7 @@
 
 ## cli 
 
+- [nlkli/recol](https://github.com/nlkli/recol) - ⚡️CLI utility for changing the color scheme. 888+ prebuilt themes. Interactive TUI theme picker with live preview. image-to-theme. Alacritty, Ghostty, Kitty, WezTerm, Neovim, Vim, Pi. Dracula, Gruvbox
 - [ioma8/jeff-sort](https://github.com/ioma8/jeff-sort) - Sort a directory into category subdirectories with Jeff, a local zero-shot classifier (https://github.com/firelex/jeff)
 - [rezigned/upmd](https://github.com/rezigned/upmd) - upmd - Run tasks and workflows from Markdown.
 - [viticci/remctl](https://github.com/viticci/remctl) - An Apple Reminders CLI for power users and AI agents. RemCTL supports all the latest Reminders features such as sections, subtasks, tags, rich links, groceries lists, templates, smart lists, and image
@@ -1195,7 +1195,6 @@
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 - [oatear/cider](https://github.com/oatear/cider) - Card IDE (CIDEr) - Design game cards using HTML/Handlebars, CSS, and tabular data
 - [5t3ph/stylestage](https://github.com/5t3ph/stylestage) - A modern CSS showcase styled by community contributions. Add your stylesheet!
-- [Runixe786/MD3-Windows](https://github.com/Runixe786/MD3-Windows) - Material you widgets for your windows desktop, adaptable with wallpaper colors with both light & dark modes
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## developer-tools 
@@ -1783,7 +1782,6 @@
 ## google 
 
 - [eeeXun/gtt](https://github.com/eeeXun/gtt) - Google Translate TUI (Originally). Currently supports Apertium, Bing, DeepL, DeepLX, Google, LibreTranslate, Reverso.
-- [Runixe786/MD3-Windows](https://github.com/Runixe786/MD3-Windows) - Material you widgets for your windows desktop, adaptable with wallpaper colors with both light & dark modes
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [google/yapf](https://github.com/google/yapf) - A formatter for Python files
 
@@ -2528,7 +2526,6 @@
 
 ## microsoft 
 
-- [Runixe786/MD3-Windows](https://github.com/Runixe786/MD3-Windows) - Material you widgets for your windows desktop, adaptable with wallpaper colors with both light & dark modes
 - [O365/python-o365](https://github.com/O365/python-o365) - A simple python library to interact with Microsoft Graph and Office 365 API
 - [microsoft/botbuilder-python](https://github.com/microsoft/botbuilder-python) - The Microsoft Bot Framework provides what you need to build and connect intelligent bots that interact naturally wherever your users are talking, from text/sms to Skype, Slack, Office 365 mail and oth
 
@@ -2576,6 +2573,7 @@
 
 ## neovim 
 
+- [nlkli/recol](https://github.com/nlkli/recol) - ⚡️CLI utility for changing the color scheme. 888+ prebuilt themes. Interactive TUI theme picker with live preview. image-to-theme. Alacritty, Ghostty, Kitty, WezTerm, Neovim, Vim, Pi. Dracula, Gruvbox
 - [nickjj/dotfriedrice](https://github.com/nickjj/dotfriedrice) - Set up a developer friendly niri / Arch Linux system in minutes. Also supports WSL 2, Debian, Ubuntu and macOS for CLI tools!
 - [psliwka/vim-dirtytalk](https://github.com/psliwka/vim-dirtytalk) - spellcheck dictionary for programmers 📖
 - [ymic9963/mdnotes.nvim](https://github.com/ymic9963/mdnotes.nvim) - Simple, improved, and extensible Markdown note taking.
@@ -2808,6 +2806,7 @@
 
 ## open-source 
 
+- [BenchUp3D/editor](https://github.com/BenchUp3D/editor) - Free, open-source 3D woodworking and modeling software and SketchUp alternative. Built with Rust, WebAssembly and WebGPU. Runs in your browser or on desktop. 100% vibe-coded, only the finest slop, wit
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [dheid/micropolis](https://github.com/dheid/micropolis) - Micropolis is the Open Source Release of the original SimCity source code. This is a Java version originally written by Jason Long and enhanced with modern features.
@@ -2848,6 +2847,7 @@
 
 ## others 
 
+- [mangowm/mango](https://github.com/mangowm/mango) - Practical and Powerful wayland compositor (dwm but wayland)
 - [Michael-F-Bryan/mdbook-epub](https://github.com/Michael-F-Bryan/mdbook-epub) - An experimental mdbook backend for creating EPUB documents.
 - [jordanhubbard/daemonarchy](https://github.com/jordanhubbard/daemonarchy) - A new desktop installer and curated and signed package ecosystem for FreeBSD; inspired by Omarchy, FreeBSD and the classic world of video games
 - [seanboyce/ubiblio](https://github.com/seanboyce/ubiblio) - A small web app to manage your personal library, designed for self-hosting
@@ -4487,12 +4487,13 @@
 
 ## rust 
 
+- [BenchUp3D/editor](https://github.com/BenchUp3D/editor) - Free, open-source 3D woodworking and modeling software and SketchUp alternative. Built with Rust, WebAssembly and WebGPU. Runs in your browser or on desktop. 100% vibe-coded, only the finest slop, wit
 - [reekta92/clin-rs](https://github.com/reekta92/clin-rs) - Feature-packed TUI note management app inspired by Obsidian
 - [BurntSushi/bttf](https://github.com/BurntSushi/bttf) - A command line tool for datetime arithmetic, parsing, formatting and more.
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) 
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
-- [localgpt-app/localgpt](https://github.com/localgpt-app/localgpt) - Local AI assistant, dreaming explorable worlds.
+- [localgpt-app/localgpt](https://github.com/localgpt-app/localgpt) - Documents, songs and screenplays become walkable 3D worlds that you and your own coding agents edit together. A Rust desktop app on the Open World Format.
 - [OlaProeis/Ferrite](https://github.com/OlaProeis/Ferrite) - A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -4709,7 +4710,6 @@
 
 ## software 
 
-- [Runixe786/MD3-Windows](https://github.com/Runixe786/MD3-Windows) - Material you widgets for your windows desktop, adaptable with wallpaper colors with both light & dark modes
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [kulcsarrudolf/podcast](https://github.com/kulcsarrudolf/podcast) - List with podcasts related to software development.
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
@@ -4800,6 +4800,7 @@
 
 ## terminal 
 
+- [nlkli/recol](https://github.com/nlkli/recol) - ⚡️CLI utility for changing the color scheme. 888+ prebuilt themes. Interactive TUI theme picker with live preview. image-to-theme. Alacritty, Ghostty, Kitty, WezTerm, Neovim, Vim, Pi. Dracula, Gruvbox
 - [nickjj/dotfriedrice](https://github.com/nickjj/dotfriedrice) - Set up a developer friendly niri / Arch Linux system in minutes. Also supports WSL 2, Debian, Ubuntu and macOS for CLI tools!
 - [eugenioenko/ttt](https://github.com/eugenioenko/ttt) - TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.
 - [Veirt/weathr](https://github.com/Veirt/weathr) - a terminal weather app with ascii animation
@@ -5031,6 +5032,7 @@
 
 ## vim 
 
+- [nlkli/recol](https://github.com/nlkli/recol) - ⚡️CLI utility for changing the color scheme. 888+ prebuilt themes. Interactive TUI theme picker with live preview. image-to-theme. Alacritty, Ghostty, Kitty, WezTerm, Neovim, Vim, Pi. Dracula, Gruvbox
 - [psliwka/vim-dirtytalk](https://github.com/psliwka/vim-dirtytalk) - spellcheck dictionary for programmers 📖
 - [sainnhe/everforest](https://github.com/sainnhe/everforest) - 🌲 Comfortable & Pleasant Color Scheme for Vim
 - [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim) - :tulip: Distraction-free writing in Vim
@@ -5223,7 +5225,6 @@
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, 50+ TTS engines with voice cloning and 1696 languages!
 - [petoncle/mousemaster](https://github.com/petoncle/mousemaster) - Mouseless mouse control and advanced keyboard customization for Windows and macOS.
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
-- [Runixe786/MD3-Windows](https://github.com/Runixe786/MD3-Windows) - Material you widgets for your windows desktop, adaptable with wallpaper colors with both light & dark modes
 - [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python.
 - [awesome-windows11/windows11](https://github.com/awesome-windows11/windows11) - 🌎 Windows 11 Settings, Tweaks, Scripts
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
