@@ -1176,6 +1176,7 @@
 
 ## Nix 
 
+- [nix-community/nix-wrapper-modules](https://github.com/nix-community/nix-wrapper-modules) - Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules! [maintainers=@BirdeeHub,@zenoli]
 - [niri-wm/awesome-niri](https://github.com/niri-wm/awesome-niri) - An awesome list for niri related projects [Maintainer - @Vortriz]
 - [LGUG2Z/JeezyVim](https://github.com/LGUG2Z/JeezyVim) - A fast, reliable NeoVim configuration as a Nix Flake for people who want to use NeoVim as an editor and not as an IDE
 - [LGUG2Z/nixos-wsl-starter](https://github.com/LGUG2Z/nixos-wsl-starter) - A sane, batteries-included starter template for running NixOS on WSL
@@ -1970,8 +1971,9 @@
 
 ## Rust 
 
-- [nlkli/recol](https://github.com/nlkli/recol) - ⚡️CLI utility for changing the color scheme. 888+ prebuilt themes. Interactive TUI theme picker with live preview. image-to-theme. Alacritty, Ghostty, Kitty, WezTerm, Neovim, Vim, Pi. Dracula, Gruvbox
-- [BenchUp3D/editor](https://github.com/BenchUp3D/editor) - Free, open-source 3D woodworking and modeling software and SketchUp alternative. Built with Rust, WebAssembly and WebGPU. Runs in your browser or on desktop. 100% vibe-coded, only the finest slop, wit
+- [dividebysandwich/rat-commander](https://github.com/dividebysandwich/rat-commander) - A spiritual successor to Midnight-Commander with modern features like truecolor support and built-in process- and disk-explorer, disk imager and network monitor
+- [nlkli/recol](https://github.com/nlkli/recol) - ⚡️CLI utility for changing the color scheme. 888+ prebuilt themes. Interactive TUI theme picker with live preview. Image to theme. Alacritty, Ghostty, Kitty, WezTerm, Neovim, Vim, Pi. Terminal theme s
+- [BenchUp3D/editor](https://github.com/BenchUp3D/editor) - Free, open-source 3D woodworking and modeling software and SketchUp alternative. Built with Rust, WebAssembly and WebGPU. Runs in your browser or on desktop. 100% vibe-coded with great emphase on stab
 - [Michael-F-Bryan/mdbook-epub](https://github.com/Michael-F-Bryan/mdbook-epub) - An experimental mdbook backend for creating EPUB documents.
 - [rezigned/upmd](https://github.com/rezigned/upmd) - upmd - Run tasks and workflows from Markdown.
 - [jvanderberg/markless](https://github.com/jvanderberg/markless) - A terminal markdown viewer with image support
