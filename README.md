@@ -1209,6 +1209,7 @@
 
 ## Others 
 
+- [janestreet/agent_skills](https://github.com/janestreet/agent_skills) - Agent skills
 - [kesslernity/awesome-copilot-studio-agents](https://github.com/kesslernity/awesome-copilot-studio-agents) - 103 paste-ready declarative agents for Microsoft 365 Copilot. No coding. No Azure. Deploy in minutes.
 - [Anastasios3/winston-coach](https://github.com/Anastasios3/winston-coach) - A Claude skill that applies Patrick Winston's framework (MIT How to Speak + Make It Clear) to any writing or speaking task. Every output runs a humanizer pass to strip AI tells.
 - [discover-devops/Git_Commands](https://github.com/discover-devops/Git_Commands) - 
@@ -1973,7 +1974,7 @@
 
 - [dividebysandwich/rat-commander](https://github.com/dividebysandwich/rat-commander) - A spiritual successor to Midnight-Commander with modern features like truecolor support and built-in process- and disk-explorer, disk imager and network monitor
 - [nlkli/recol](https://github.com/nlkli/recol) - ⚡️CLI utility for changing the color scheme. 888+ prebuilt themes. Interactive TUI theme picker with live preview. Image to theme. Alacritty, Ghostty, Kitty, WezTerm, Neovim, Vim, Pi. Terminal theme s
-- [BenchUp3D/editor](https://github.com/BenchUp3D/editor) - Free, open-source 3D woodworking and modeling software and SketchUp alternative. Built with Rust, WebAssembly and WebGPU. Runs in your browser or on desktop. 100% vibe-coded with great emphase on stab
+- [BenchUp3D/benchup](https://github.com/BenchUp3D/benchup) - Free, open-source 3D woodworking and modeling software and SketchUp alternative. Built with Rust, WebAssembly and WebGPU. Runs in your browser or on desktop. 100% vibe-coded with great emphase on stab
 - [Michael-F-Bryan/mdbook-epub](https://github.com/Michael-F-Bryan/mdbook-epub) - An experimental mdbook backend for creating EPUB documents.
 - [rezigned/upmd](https://github.com/rezigned/upmd) - upmd - Run tasks and workflows from Markdown.
 - [jvanderberg/markless](https://github.com/jvanderberg/markless) - A terminal markdown viewer with image support
@@ -2128,6 +2129,7 @@
 
 ## Shell 
 
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [nickjj/dotfriedrice](https://github.com/nickjj/dotfriedrice) - Set up a developer friendly niri / Arch Linux system in minutes. Also supports WSL 2, Debian, Ubuntu and macOS for CLI tools!
 - [kjvdven/niri-example](https://github.com/kjvdven/niri-example) - Set up a developer friendly Arch Linux system in minutes. Also supports WSL 2, Debian, Ubuntu and macOS for CLI tools!
 - [psliwka/vim-dirtytalk](https://github.com/psliwka/vim-dirtytalk) - spellcheck dictionary for programmers 📖
