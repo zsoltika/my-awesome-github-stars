@@ -1410,6 +1410,7 @@
 - [Kungsgeten/org-brain](https://github.com/Kungsgeten/org-brain) - Org-mode wiki + concept-mapping
 - [adamrt/sane-term](https://github.com/adamrt/sane-term) - Cycle through terms in emacs
 - [masasam/emacs-easy-hugo](https://github.com/masasam/emacs-easy-hugo) - Emacs major mode for managing hugo
+- [gromnitsky/hunspell-windows](https://github.com/gromnitsky/hunspell-windows) - Create an x64 hunspell windows binary bundle for Emacs with the dicts from Fedora repos.
 - [rememberYou/.emacs.d](https://github.com/rememberYou/.emacs.d) - 🎉 Personal GNU Emacs configuration
 - [martianhi/mastodon.el](https://github.com/martianhi/mastodon.el) - Emacs client for Mastodon. moved to:
 - [harrybournis/org-fancy-priorities](https://github.com/harrybournis/org-fancy-priorities) - Display Org Mode priorities as custom strings
@@ -3486,7 +3487,6 @@
 - [kendricktan/ledger-analytics](https://github.com/kendricktan/ledger-analytics) - Easy to use analytics/visualization tool for ledger-cli
 - [softcover/softcover](https://github.com/softcover/softcover) - CLI for book generation, building, and publishing to softcover.io
 - [rubykube/module-bash](https://github.com/rubykube/module-bash) - Bash Module
-- [gromnitsky/hunspell-windows](https://github.com/gromnitsky/hunspell-windows) - Create an x64 hunspell windows binary bundle with all the dicts from the libreoffice repo.
 - [SystemsApproach/book](https://github.com/SystemsApproach/book) - Computer Networks: A Systems Approach -- Textbook
 - [ksonney/spacemacs-mastodon](https://github.com/ksonney/spacemacs-mastodon) - Mastodon.social layer for Spacemacs
 - [cproctor/tcp-ip-simulation](https://github.com/cproctor/tcp-ip-simulation) - Generates documents for a real-life TCP/IP simulation
