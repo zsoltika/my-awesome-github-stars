@@ -3607,7 +3607,7 @@
 - [first20hours/google-10000-english](https://github.com/first20hours/google-10000-english) - This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
 - [mortenjust/cleartext-mac](https://github.com/mortenjust/cleartext-mac) - A text editor that will help you write clearer and simpler
 - [fniessen/org-html-themes](https://github.com/fniessen/org-html-themes) - Transform your Org mode files into stunning HTML documents in minutes with our Org mode HTML theme. Elevate your productivity and impress your readers! #orgmode #html #theme #productivity #design
-- [part-cw/lambdanative](https://github.com/part-cw/lambdanative) - LambdaNative is a cross-platform development environment written in Scheme, supporting Android, iOS, BlackBerry 10, OS X, Linux, Windows, OpenBSD, NetBSD, FreeBSD and OpenWrt.
+- [part-cw/lambdanative](https://github.com/part-cw/lambdanative) - LambdaNative is a cross-platform development environment written in Scheme, supporting Android, iOS, macOS, Linux, and Windows.
 - [noctuid/chronicler.el](https://github.com/noctuid/chronicler.el) - Track and Analyze Writing Statistics for Org Files in Emacs
 - [larstvei/Try](https://github.com/larstvei/Try) - Try out Emacs packages
 - [citizenmatt/resharper-clippy](https://github.com/citizenmatt/resharper-clippy) - Clippy. For ReSharper
