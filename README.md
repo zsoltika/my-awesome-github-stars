@@ -8,7 +8,6 @@
 - [Ada](#ada)
 - [AppleScript](#applescript)
 - [Assembly](#assembly)
-- [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [Awk](#awk)
 - [Batchfile](#batchfile)
@@ -105,10 +104,6 @@
 - [akkartik/mu](https://github.com/akkartik/mu) - Soul of a tiny new machine. More thorough tests → More comprehensible and rewrite-friendly software → More resilient society.
 - [smartykit/apple1](https://github.com/smartykit/apple1) - SmartyKit 1 computer construction kit drivers and software. (Apple 1-compatible)
 - [hgesser/ulix](https://github.com/hgesser/ulix) - Ulix, the Literate Unix
-
-## Astro 
-
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
 
 ## AutoHotkey 
 
@@ -565,7 +560,7 @@
 ## Go 
 
 - [CodeOne45/vex-tui](https://github.com/CodeOne45/vex-tui) - A beautiful, fast, and feature-rich terminal-based Excel and CSV viewer & editor built with Go.
-- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
+- [asciimoo/nogon](https://github.com/asciimoo/nogon) - Your own search engine
 - [brvier/Gjallar](https://github.com/brvier/Gjallar) - Gjallar is a modern monitoring and observability platform inspired by Gjallarhorn, the legendary horn of Heimdall in Norse mythology.  Built for reliability and speed, Gjallar continuously watches you
 - [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - System-wide ad-blocker and privacy guard for Windows, macOS and Linux.
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
@@ -746,7 +741,6 @@
 - [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
 - [FriendsOfEpub/eBookTricks](https://github.com/FriendsOfEpub/eBookTricks) - A collection of CSS snippets to help you do progressive enhancement in eBooks
 - [yibie/hugo-theme-deck](https://github.com/yibie/hugo-theme-deck) - 
-- [merlinmann/wisdom](https://github.com/merlinmann/wisdom) - Merlin Mann attempts to capture the best advice he's heard and learned from.
 - [Michaelangel007/vim_cheat_sheet](https://github.com/Michaelangel007/vim_cheat_sheet) - Updated my Vim cheat sheet
 - [quantk/obsidian-hugo-demo](https://github.com/quantk/obsidian-hugo-demo) - 
 - [s3rvant/boardgames](https://github.com/s3rvant/boardgames) - David Gregg board game design notes and playtesting files
@@ -860,6 +854,7 @@
 
 ## JavaScript 
 
+- [ferenci-tamas/fb-politika-archivum](https://github.com/ferenci-tamas/fb-politika-archivum) - Magyar politikai és közéleti Facebook posztok kereshető archívuma, 2008 - 2026.
 - [Super-Botman/neovim-theme](https://github.com/Super-Botman/neovim-theme) - neovim like zola theme
 - [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
@@ -923,7 +918,6 @@
 - [dylanjcastillo/python-dataviz-cookbook](https://github.com/dylanjcastillo/python-dataviz-cookbook) - An interactive cookbook to create graphs with Python
 - [gereleth/hexapipes](https://github.com/gereleth/hexapipes) - Hexagonal pipes puzzles
 - [jimniels/readlists](https://github.com/jimniels/readlists) - A readlist is a mixtape, but for online content.
-- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - Programming style, best practices, and coding conventions.
 - [dwmkerr/effective-shell](https://github.com/dwmkerr/effective-shell) - Text, samples and website for my 'Effective Shell' series.
 - [alenros/fake-artist](https://github.com/alenros/fake-artist) - A player aid for A Fake Artist Goes to New York that eliminates the need for a Question master and lets everyone participate.
 - [movsim/traffic-simulation-de](https://github.com/movsim/traffic-simulation-de) - Source code for javascript simulation of website
@@ -1149,7 +1143,7 @@
 - [colindean/plaintextaccounting_workshop](https://github.com/colindean/plaintextaccounting_workshop) - An Introduction and Then Some to Plain Text Accounting with Ledger
 - [Helsinki-NLP/Tatoeba-Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge) - 
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
-- [gromnitsky/hunspell-windows](https://github.com/gromnitsky/hunspell-windows) - Create an x64 hunspell windows binary bundle with all the dicts from the libreoffice repo.
+- [gromnitsky/hunspell-windows](https://github.com/gromnitsky/hunspell-windows) - Create an x64 hunspell windows binary bundle for Emacs with the dicts from Fedora repos.
 
 ## Markdown 
 
@@ -1293,6 +1287,7 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [fastily/cheatsheet](https://github.com/fastily/cheatsheet) - 📜 A compendium of CLI commands I can't stop looking up
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
+- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - Programming style, best practices, and coding conventions.
 - [timvisee/send-instances](https://github.com/timvisee/send-instances) - 🌍 A list of public Send instances. Mirror.
 - [brave/goggles-quickstart](https://github.com/brave/goggles-quickstart) - Educational material to learn about Goggles and how to create your own.
 - [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
@@ -1436,6 +1431,7 @@
 
 ## Python 
 
+- [Immortal-Protocols/lastbook](https://github.com/Immortal-Protocols/lastbook) - Offline knowledge AI, maps and videos for survival and rebuilding
 - [jordanhubbard/daemonarchy](https://github.com/jordanhubbard/daemonarchy) - A new desktop installer and curated and signed package ecosystem for FreeBSD; inspired by Omarchy, FreeBSD and the classic world of video games
 - [ioma8/jeff-sort](https://github.com/ioma8/jeff-sort) - Sort a directory into category subdirectories with Jeff, a local zero-shot classifier (https://github.com/firelex/jeff)
 - [denis-pplx/autojev](https://github.com/denis-pplx/autojev) - Full-weight Qwen decision model with calibrated probabilities, training code, REST API, and playground.
@@ -1467,7 +1463,7 @@
 - [kragen/xcompose](https://github.com/kragen/xcompose) - for sharing .XCompose keybindings
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [mosra/m.css](https://github.com/mosra/m.css) - A no-nonsense, no-JavaScript CSS framework, site and documentation theme for content-oriented websites
-- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 287 commands, 246 MCP tools, change-safety gates, audit evidence, zero API keys.
+- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 288 commands, 259 MCP tools, change-safety gates, audit evidence, zero API keys.
 - [missing-semester/videos](https://github.com/missing-semester/videos) - Lecture video processing scripts 🎥
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [datascale-ai/data_engineering_book](https://github.com/datascale-ai/data_engineering_book) - 大模型数据工程：架构、算法及项目实战
@@ -1517,6 +1513,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [princeton-vl/infinigen](https://github.com/princeton-vl/infinigen) - Infinite Photorealistic Worlds using Procedural Generation
 - [simonw/llm-cmd](https://github.com/simonw/llm-cmd) - Use LLM to generate and execute commands in your shell
+- [merlinmann/wisdom](https://github.com/merlinmann/wisdom) - Merlin Mann attempts to capture the best advice he's heard and learned from.
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, 50+ TTS engines with voice cloning and 1696 languages!
 - [pythological/kanren](https://github.com/pythological/kanren) - An extensible, lightweight relational/logic programming DSL written in pure Python
 - [ihabunek/toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
@@ -1974,7 +1971,6 @@
 
 - [dividebysandwich/rat-commander](https://github.com/dividebysandwich/rat-commander) - A spiritual successor to Midnight-Commander with modern features like truecolor support and built-in process- and disk-explorer, disk imager and network monitor
 - [nlkli/recol](https://github.com/nlkli/recol) - ⚡️CLI utility for changing the color scheme. 888+ prebuilt themes. Interactive TUI theme picker with live preview. Image to theme. Alacritty, Ghostty, Kitty, WezTerm, Neovim, Vim, Pi. Terminal theme s
-- [BenchUp3D/benchup](https://github.com/BenchUp3D/benchup) - Free, open-source 3D woodworking and modeling software and SketchUp alternative. Built with Rust, WebAssembly and WebGPU. Runs in your browser or on desktop. 100% vibe-coded with great emphase on stab
 - [Michael-F-Bryan/mdbook-epub](https://github.com/Michael-F-Bryan/mdbook-epub) - An experimental mdbook backend for creating EPUB documents.
 - [rezigned/upmd](https://github.com/rezigned/upmd) - upmd - Run tasks and workflows from Markdown.
 - [jvanderberg/markless](https://github.com/jvanderberg/markless) - A terminal markdown viewer with image support
@@ -2086,7 +2082,7 @@
 - [dertuxmalwieder/yaydl](https://github.com/dertuxmalwieder/yaydl) - yet another youtube down loader (Git mirror)
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [cody2007/arcane_fortune](https://github.com/cody2007/arcane_fortune) - Arcane Fortune is a game of empire building, diplomacy, conquest, construction, and deconstruction.
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -2125,7 +2121,7 @@
 
 ## Scheme 
 
-- [part-cw/lambdanative](https://github.com/part-cw/lambdanative) - LambdaNative is a cross-platform development environment written in Scheme, supporting Android, iOS, BlackBerry 10, OS X, Linux, Windows, OpenBSD, NetBSD, FreeBSD and OpenWrt.
+- [part-cw/lambdanative](https://github.com/part-cw/lambdanative) - LambdaNative is a cross-platform development environment written in Scheme, supporting Android, iOS, macOS, Linux, and Windows.
 
 ## Shell 
 
@@ -2288,7 +2284,7 @@
 - [whoami-wiki/whoami](https://github.com/whoami-wiki/whoami) - your personal encyclopedia, written by agents
 - [superegodev/superego](https://github.com/superegodev/superego) - Software That Fits You
 - [delirehberi/hugo2nostr](https://github.com/delirehberi/hugo2nostr) - A CLI tool that bridges Hugo static sites and the Nostr network. Publish your blog posts as kind:30023 long-form articles, sync posts back from relays, and manage deletions — all from one command.
-- [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
+- [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [winboat-org/winboat](https://github.com/winboat-org/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
@@ -2359,6 +2355,7 @@
 - [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting 
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [WuTheFWasThat/vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
