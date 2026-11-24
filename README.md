@@ -243,6 +243,7 @@
 
 ## C++ 
 
+- [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [neeeeow/Klassik](https://github.com/neeeeow/Klassik) - A modern recreation of the classic KDE 3 desktop experience for KDE Plasma 6.
 - [jpirnay/witchhunt-reader](https://github.com/jpirnay/witchhunt-reader) - Witch(hunt) Reader
 - [aardappel/treesheets](https://github.com/aardappel/treesheets) - Hierarchical spreadsheet: a free-form data organizer that replaces outliners, mind maps and spreadsheets.
@@ -1115,7 +1116,7 @@
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) - Interactive real time neovim scratchpad for embedded lua engine - type and watch!
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.12.0+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Org mode clone written in Lua for Neovim 0.12.0+.
 - [letoram/pipeworld](https://github.com/letoram/pipeworld) - Dataflow 'spreadsheet' desktop environment
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [famiu/feline.nvim](https://github.com/famiu/feline.nvim) - A minimal, stylish and customizable statusline for Neovim written in Lua
@@ -1678,6 +1679,7 @@
 - [ms7m/notify-py](https://github.com/ms7m/notify-py) - :speech_balloon: | A simple Python Module for sending cross-platform desktop notifications on Windows, macOS and Linux
 - [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python
 - [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) - Open Data Platform for analysts, quants and AI agents.
+- [captn3m0/boardgame-research](https://github.com/captn3m0/boardgame-research) - List of research around modern boardgames.
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [osnr/horrifying-pdf-experiments](https://github.com/osnr/horrifying-pdf-experiments) - :syringe: Stuff which works in Chrome and maybe Acrobat and Foxit.
 - [gotcha/ipdb](https://github.com/gotcha/ipdb) - Integration of IPython pdb
@@ -2125,6 +2127,7 @@
 
 ## Shell 
 
+- [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [nickjj/dotfriedrice](https://github.com/nickjj/dotfriedrice) - Set up a developer friendly niri / Arch Linux system in minutes. Also supports WSL 2, Debian, Ubuntu and macOS for CLI tools!
 - [kjvdven/niri-example](https://github.com/kjvdven/niri-example) - Set up a developer friendly Arch Linux system in minutes. Also supports WSL 2, Debian, Ubuntu and macOS for CLI tools!
@@ -2247,6 +2250,7 @@
 
 ## Swift 
 
+- [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis) - OpenMinis — The AI Agent app across platforms. Fully free and open source.
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [Krisztiaan/MagyarTV](https://github.com/Krisztiaan/MagyarTV) - 
 - [mortenjust/cleartext-mac](https://github.com/mortenjust/cleartext-mac) - A text editor that will help you write clearer and simpler
@@ -2516,7 +2520,6 @@
 
 ## XSLT 
 
-- [captn3m0/boardgame-research](https://github.com/captn3m0/boardgame-research) - List of research around modern boardgames.
 - [jd/asciidoc-book-toolchain](https://github.com/jd/asciidoc-book-toolchain) - Book publishing toolchain based on AsciiDoc
 - [oreillymedia/HTMLBook](https://github.com/oreillymedia/HTMLBook) - Let's write books in HTML!
 - [schacon/git-scribe](https://github.com/schacon/git-scribe) - basically the best way to write an ebook
