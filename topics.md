@@ -633,6 +633,7 @@
 
 ## bash 
 
+- [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
 - [DevOps-Projects-Ideas/DevOps-Books](https://github.com/DevOps-Projects-Ideas/DevOps-Books) - Curated DevOps Books
 - [attogram/bash-screensavers](https://github.com/attogram/bash-screensavers) - Turn your idle shell into a visual playground with this collection of Bash screensav­ers
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -2659,7 +2660,7 @@
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) - Interactive real time neovim scratchpad for embedded lua engine - type and watch!
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.12.0+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Org mode clone written in Lua for Neovim 0.12.0+.
 - [kassio/neoterm](https://github.com/kassio/neoterm) - Wrapper of some vim/neovim's :terminal functions.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
@@ -2858,6 +2859,8 @@
 
 ## others 
 
+- [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis) - OpenMinis — The AI Agent app across platforms. Fully free and open source.
+- [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [Immortal-Protocols/lastbook](https://github.com/Immortal-Protocols/lastbook) - Offline knowledge AI, maps and videos for survival and rebuilding
 - [ferenci-tamas/fb-politika-archivum](https://github.com/ferenci-tamas/fb-politika-archivum) - Magyar politikai és közéleti Facebook posztok kereshető archívuma, 2008 - 2026.
 - [janestreet/agent_skills](https://github.com/janestreet/agent_skills) - Agent skills
@@ -4668,6 +4671,7 @@
 
 ## shell 
 
+- [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
 - [Axenide/Ambxst](https://github.com/Axenide/Ambxst) - An Axtremely customizable shell.
 - [laktak/tome](https://github.com/laktak/tome) - 🔁 Interactive Script playbooks for your terminal with Vim/Neovim (and Tmux)
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -5112,7 +5116,7 @@
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [rexagod/samwise.nvim](https://github.com/rexagod/samwise.nvim) - samwise is a line-wise note-taking plugin for neovim.
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.12.0+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Org mode clone written in Lua for Neovim 0.12.0+.
 - [kassio/neoterm](https://github.com/kassio/neoterm) - Wrapper of some vim/neovim's :terminal functions.
 - [awesome-streamers/awesome-streamerrc](https://github.com/awesome-streamers/awesome-streamerrc) - Dotfiles for various streamers on Twitch.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -5356,6 +5360,7 @@
 
 ## zsh 
 
+- [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [nickjj/dotfriedrice](https://github.com/nickjj/dotfriedrice) - Set up a developer friendly niri / Arch Linux system in minutes. Also supports WSL 2, Debian, Ubuntu and macOS for CLI tools!
 - [raexera/yoru](https://github.com/raexera/yoru) - A custom Linux environment built on AwesomeWM
